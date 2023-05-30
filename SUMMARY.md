@@ -12,21 +12,12 @@
     - [議論・追加情報](/overview/phase/discussion.md)
   - [フェーズの流れ](/overview/phase/flow.md)
 - [キャラクター](/overview/character.md)
+  - [ミッション](/overview/character/mission.md)
 - [テキストタブ](/overview/textTab.md)
 - [ルーム](/overview/our-features.md)
+- [ゲームの流れ](/overview/timeline.md)
 
-## Product Guides
+## 上級者向け機能
 
 - [📪 Making a post](product-guides/making-a-post.md)
 - [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-- [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  - [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  - [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-- [🎨 For Designers](use-cases/for-designers.md)
-- [🖥 For Developers](use-cases/for-developers.md)
