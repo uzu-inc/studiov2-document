@@ -1,11 +1,13 @@
 # Table of contents
 
-- [StudioV2 公式ドキュメント！](README.md)
+- [ウズスタジオ v2 公式ドキュメント](README.md)
 
-## Overview
+## 基本機能
 
-- [💡 What we do](overview/what-we-do.md)
-- [✨ Our Features](overview/our-features.md)
+- [フェーズ](overview/phase.md)
+- [キャラクター編集](overview/character.md)
+- [テキストタブ](overview/textTab.md)
+- [ルーム](overview/our-features.md)
 
 ## Product Guides
 

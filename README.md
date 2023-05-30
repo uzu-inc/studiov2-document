@@ -1,8 +1,6 @@
-# StudioV2 公式ドキュメント！
+# ウズスタジオ v2 公式ドキュメント
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+ウズスタジオ v2 の使い方について解説しています。
 
 ## Overview
 
