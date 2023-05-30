@@ -12,6 +12,7 @@
     - [議論・追加情報](/overview/phase/discussion.md)
   - [フェーズの流れ](/overview/phase/flow.md)
 - [キャラクター](/overview/character.md)
+  - [キャラクターの基本項目](/overview/character/basic.md)
   - [ミッション](/overview/character/mission.md)
 - [テキストタブ](/overview/textTab.md)
 - [ルーム](/overview/our-features.md)
