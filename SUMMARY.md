@@ -2,12 +2,12 @@
 
 - [ウズスタジオ v2 公式ドキュメント](README.md)
 
-## overview
+## 基本機能
 
-- [フェーズ](overview/phase.md)
-- [キャラクター編集](overview/character.md)
-- [テキストタブ](overview/textTab.md)
-- [ルーム](overview/our-features.md)
+- [フェーズ](/overview/phase.md)
+- [キャラクター](/overview/character.md)
+- [テキストタブ](/overview/textTab.md)
+- [ルーム](/overview/our-features.md)
 
 ## Product Guides
 
