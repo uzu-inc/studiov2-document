@@ -4,8 +4,8 @@
 
 ## ウズスタジオの概要 <a href="#overview" id="basic-features"></a>
 
-- [アカウント作成](/overview/account-settings.md)
-- [シナリオの作成](/overview/create-scenario.md)
+
+- [制作の始め方](/overview/start-uzu-studio.md)
 - [制作画面の見方](/overview/main-screen.md)
 - [作品提出](/overview/submit.md)
 
