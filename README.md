@@ -2,6 +2,8 @@
 
 ウズスタジオ v2 の使い方について解説しています。
 
+https://uzu-inc.gitbook.io/studio-v2/
+
 ## Overview
 
 Here are a couple of example overviews from products with really great docs:
