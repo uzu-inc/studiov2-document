@@ -2,7 +2,7 @@
 
 - [ウズスタジオ v2 公式ドキュメント](README.md)
 
-## [基本機能](/overview)
+## 基本機能 <a href="#basic-features" id="basic-features"></a>
 
 - [フェーズ](/overview/phase.md)
   - [フェーズの基本項目](/overview/phase/basic.md)
@@ -18,7 +18,7 @@
 - [ルーム](/overview/our-features.md)
 - [ゲームの流れ](/overview/timeline.md)
 
-## 上級者向け機能
+## 上級者向け機能 <a href="#advanced-features" id="advanced-features"></a>
 
 - [📪 Making a post](product-guides/making-a-post.md)
 - [📎 Understanding Projects](product-guides/understanding-projects.md)
