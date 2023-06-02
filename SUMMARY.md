@@ -2,7 +2,7 @@
 
 - [ウズスタジオ v2 公式ドキュメント](README.md)
 
-## 基本機能
+## 基本機能 #overview
 
 - [フェーズ](/overview/phase.md)
   - [フェーズの基本項目](/overview/phase/basic.md)
