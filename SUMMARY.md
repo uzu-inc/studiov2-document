@@ -2,23 +2,26 @@
 
 - [ウズスタジオ v2 公式ドキュメント](README.md)
 
-## 基本機能 <a href="#basic-features" id="basic-features"></a>
+## ウズスタジオの概要 <a href="#overview" id="basic-features"></a>
 
-- [フェーズ](/overview/phase.md)
-  - [フェーズの基本項目](/overview/phase/basic.md)
-    - [読み合わせ](/overview/phase/script.md)
-    - [シナリオの流れ](/overview/phase/timeline.md)
-    - [投票](/overview/phase/select.md)
-    - [議論・追加情報](/overview/phase/discussion.md)
-  - [フェーズの流れ](/overview/phase/flow.md)
-- [キャラクター](/overview/character.md)
-  - [キャラクターの基本項目](/overview/character/basic.md)
-  - [ミッション](/overview/character/mission.md)
-- [テキストタブ](/overview/textTab.md)
-- [ルーム](/overview/our-features.md)
-- [ゲームの流れ](/overview/timeline.md)
+- [アカウント作成](/overview/account-settings.md)
+- [シナリオの作成](/overview/create-scenario.md)
+- [制作画面の見方](/overview/main-screen.md)
+- [作品提出](/overview/submit.md)
 
-## 上級者向け機能 <a href="#advanced-features" id="advanced-features"></a>
+## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
 
-- [📪 Making a post](product-guides/making-a-post.md)
-- [📎 Understanding Projects](product-guides/understanding-projects.md)
+- [フェーズ](/basic-features/phase.md) 
+  - [フェーズの基本項目](/basic-features/phase/basic.md)
+    - [読み合わせ](/basic-features/phase/script.md)
+    - [シナリオの流れ](/basic-features/phase/timeline.md)
+    - [投票](/basic-features/phase/select.md)
+    - [議論・追加情報](/basic-features/phase/discussion.md)
+  - [フェーズの流れ](/basic-features/phase/flow.md)
+- [キャラクター](/basic-features/character.md)
+  - [キャラクターの基本項目](/basic-features/character/basic.md)
+  - [ミッション](/basic-features/character/mission.md)
+- [テキストタブ](/basic-features/textTab.md)
+- [ルーム](/basic-features/our-features.md)
+- [ゲームの流れ](/basic-features/timeline.md)
+
