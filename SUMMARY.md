@@ -2,7 +2,7 @@
 
 - [ウズスタジオ v2 公式ドキュメント](README.md)
 
-## ウズスタジオの概要 <a href="#overview" id="basic-features"></a>
+## ウズスタジオの概要 <a href="#overview" id="overview"></a>
 
 
 - [制作の始め方](/overview/start-uzu-studio.md)
