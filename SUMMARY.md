@@ -24,4 +24,5 @@
 - [テキストタブ](/basic-features/textTab.md)
 - [ルーム](/basic-features/our-features.md)
 - [ゲームの流れ](/basic-features/timeline.md)
+- [条件](/basic-features/condition.md)
 
