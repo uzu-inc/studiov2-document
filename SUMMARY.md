@@ -23,7 +23,7 @@
     - [ゲームの流れ表示フェーズ](/basic-features/phase/timeline.md)
   - [フェーズの流れ](/basic-features/phase/flow.md)
 - [テキストタブ](/basic-features/textTab.md)
-- [ルーム](/basic-features/our-features.md)
+- [ルーム](/basic-features/room.md)
 - [ゲームの流れ](/basic-features/timeline.md)
 - [全体共通：条件設定](/basic-features/condition.md)
 
