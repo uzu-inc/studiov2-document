@@ -25,6 +25,7 @@
 - [テキストタブ](/basic-features/textTab.md)
 - [手がかり](/basic-features/clue.md)
 - [ルーム](/basic-features/room.md)
+- [感想戦画面](/basic-features/result.md)
 - [ゲームの流れ](/basic-features/timeline.md)
 - [全体共通：条件設定](/basic-features/condition.md)
 
