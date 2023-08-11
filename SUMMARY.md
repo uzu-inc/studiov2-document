@@ -27,3 +27,8 @@
 - [ゲームの流れ](/basic-features/timeline.md)
 - [全体共通：条件設定](/basic-features/condition.md)
 
+
+## 応用 <a href="#advanced" id="advanced"></a>
+
+- [調査フェーズを組み込みたい](/advanced/investigation.md)
+- [全てのエンディングを配布したい](/advanced/ending.md)
