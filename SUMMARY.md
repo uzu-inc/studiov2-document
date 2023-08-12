@@ -7,6 +7,7 @@
 
 - [制作のはじめ方](/overview/start-uzu-studio.md)
 - [制作画面の見方](/overview/main-screen.md)
+- [動作確認](/overview/demo.md)
 - [作品提出](/overview/submit.md)
 
 
