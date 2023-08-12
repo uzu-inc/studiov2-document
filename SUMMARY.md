@@ -23,7 +23,7 @@
     - [投票フェーズ](/basic-features/phase/select.md)
     - [ゲームの流れ表示フェーズ](/basic-features/phase/timeline.md)
   - [フェーズの流れ](/basic-features/phase/flow.md)
-- [テキストタブ](/basic-features/textTab.md)
+- [テキスト](/basic-features/textTab.md)
 - [手がかり](/basic-features/clue.md)
 - [ルーム](/basic-features/room.md)
 - [感想戦画面](/basic-features/result.md)
