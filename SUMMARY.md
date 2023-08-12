@@ -35,3 +35,7 @@
 
 - [調査フェーズを組み込みたい](/advanced/investigation.md)
 - [全てのエンディングを配布したい](/advanced/ending.md)
+
+## よくある質問　<a href="#QandA" id="QandA"></a>
+
+- [よくある質問](/QandA.md)
