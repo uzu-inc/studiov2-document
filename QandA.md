@@ -19,6 +19,8 @@
 ## その他
 
 <details>
-  <summary>Details</summary>
-  Something small enough to escape casual notice.
+  <summary>システム要件</summary>
+  <p>
+    オペレーティングシステムを実行するコンピューターが必要です。コンピューターにはメモリーがあり、できれば何らかの長期保存用の記憶装置があること。入力機器と何らかの出力機器を推奨。
+  </p>
 </details>
