@@ -2,4 +2,5 @@
 
 ウズスタジオ v2 の使い方について解説しています。
 
-![](../../images/howto.png)
+![](./images/howto.png)
+

@@ -2,7 +2,7 @@
 
 投票フェーズと手がかり配布を組み合わせることで、調査フェーズを実現することができます。
 
-![](../../images/investigation1.png)
+![](../images/investigation1.png)
 
 <br>
 

@@ -4,11 +4,11 @@
 
 ウズでアカウントを作成してから、同じアカウントで[ウズスタジオ](https://console.studio.uzu-app.com/)にログインします。
 
-![](../../images/overview1.png)
+![](../images/overview1.png)
 
 
 ## シナリオの作成
 「新規シナリオ作成」を押します。
 タイトルとふりがなを入力すると、新しいシナリオが作成されます。
 
-![](../../images/overview2.png)
+![](../images/overview2.png)
