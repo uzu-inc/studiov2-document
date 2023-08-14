@@ -2,8 +2,8 @@
 
 ## キャラクターについて
 
-<details>
-  <summary id="pc-npc">PCやNPCは何人まで作成できるか</summary>
+<details id="pc-npc">
+  <summary>PCやNPCは何人まで作成できるか</summary>
   PC（プレイヤーキャラクター）は7人まで作成できます。<br>NPCは理論上、無限です。
 </details>
 
