@@ -1,6 +1,6 @@
 # よくある質問
 
-## キャラクターについて {#about-characters}
+## キャラクターについて
 
 <details>
   <summary>PCやNPCは何人まで作成できるか</summary>
