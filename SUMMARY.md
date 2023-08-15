@@ -39,4 +39,5 @@
 
 ## よくある質問　<a href="#QandA" id="QandA"></a>
 
-- [よくある質問](/QandA.md)
+- [よくある質問：v2](/QandA.md)
+- [よくある質問：v1→v2移行](/QandA-v1-v2.md)
