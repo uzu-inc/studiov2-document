@@ -183,9 +183,8 @@ autoPlay ポリシーの設定変更の方法は以下の通りです。<br>
 
 1. 動作確認画面の URL バーの鍵マークをクリック →「サイトの設定」をクリック <br>
    ![](./images/autoplay_1.png) <br>
-2. 「音声」の項目で「自動(デフォルト)」をクリック →「許可する」に変更
-   ![](./images/autoPlay_2.png)
-
+2. 「音声」の項目で「自動(デフォルト)」をクリック →「許可する」に変更 <br>
+![](./images/autoplay_2.png) <br>
 </details>
 
 <details>
