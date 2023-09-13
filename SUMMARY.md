@@ -4,19 +4,18 @@
 
 ## ウズスタジオの概要 <a href="#overview" id="overview"></a>
 
-
 - [制作のはじめ方](/overview/start-uzu-studio.md)
 - [制作画面の見方](/overview/main-screen.md)
 - [動作確認](/overview/demo.md)
 - [作品提出](/overview/submit.md)
-
+- [ウズスタジオ v2 で出来ること・出来ないこと](/overview/available.md)
 
 ## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
 
 - [キャラクター](/basic-features/character.md)
   - [キャラクターの基本項目](/basic-features/character/basic.md)
   - [ミッション](/basic-features/character/mission.md)
-- [フェーズ](/basic-features/phase.md) 
+- [フェーズ](/basic-features/phase.md)
   - [フェーズの作成・概要](/basic-features/phase/basic.md)
     - [基本フェーズ](/basic-features/phase/discussion.md)
     - [読み合わせフェーズ](/basic-features/phase/script.md)
@@ -31,7 +30,6 @@
 - [ゲームの流れ](/basic-features/timeline.md)
 - [全体共通：条件設定](/basic-features/condition.md)
 
-
 ## 応用 <a href="#advanced" id="advanced"></a>
 
 - [調査フェーズを組み込みたい](/advanced/investigation.md)
@@ -40,4 +38,4 @@
 ## よくある質問　<a href="#QandA" id="QandA"></a>
 
 - [よくある質問：v2](/QandA.md)
-- [よくある質問：v1→v2移行](/QandA-v1-v2.md)
+- [よくある質問：v1→v2 移行](/QandA-v1-v2.md)
