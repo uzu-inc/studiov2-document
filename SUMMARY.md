@@ -6,9 +6,9 @@
 
 - [制作のはじめ方](/overview/start-uzu-studio.md)
 - [制作画面の見方](/overview/main-screen.md)
+- [ウズスタジオ v2 で出来ること・出来ないこと](/overview/available.md)
 - [動作確認](/overview/demo.md)
 - [作品提出](/overview/submit.md)
-- [ウズスタジオ v2 で出来ること・出来ないこと](/overview/available.md)
 
 ## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
 
