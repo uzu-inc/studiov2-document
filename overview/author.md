@@ -26,5 +26,5 @@
 
 表示される作者の順番を変えることもできます。
 
-![](../images/author2.png)
+![](../images/author3.png)
 
