@@ -9,6 +9,7 @@
 - [ウズスタジオ v2 で出来ること・出来ないこと](/overview/available.md)
 - [動作確認](/overview/demo.md)
 - [作品提出](/overview/submit.md)
+- [メンバー管理](/overview/author.md)
 
 ## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
 
