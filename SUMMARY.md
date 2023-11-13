@@ -24,6 +24,7 @@
   - [フェーズの流れ](/basic-features/phase/flow.md)
 - [テキスト](/basic-features/textTab.md)
 - [手がかり](/basic-features/clue.md)
+- [山札](/basic-features/decks.md)
 - [ルーム](/basic-features/room.md)
 - [感想戦画面](/basic-features/result.md)
 - [演出](/basic-features/bgm.md)
