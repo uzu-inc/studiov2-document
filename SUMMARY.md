@@ -1,15 +1,31 @@
 # Table of contents
 
-* [ウズスタジオ v2 公式ドキュメント](README.md)
+* [ウズスタジオ 公式ガイド](README.md)
 
-## ウズスタジオの概要 <a href="#overview" id="overview"></a>
+## はじめに <a href="#overview" id="overview"></a>
 
-* [制作のはじめ方](overview/start-uzu-studio.md)
-* [制作画面の見方](overview/main-screen.md)
+* [ウズスタジオとは](overview/uzusutajiotoha.md)
+* [ログイン方法](overview/start-uzu-studio.md)
+* [作成からリリースまでの流れ](overview/makingflow/README.md)
+  * [新規シナリオの作成](overview/makingflow/newscenario.md)
+  * [テストプレイ](overview/makingflow/testplay.md)
+  * [作品提出](overview/makingflow/submit/README.md)
+    * [詳細審査について](overview/makingflow/submit/check.md)
+    * [テストプレイアンケートの使い方](overview/makingflow/submit/questionnaire.md)
+* [埋めるだけでマダミス完成テンプレート](overview/template/README.md)
+  * [基本的な使い方](overview/template/basic.md)
+  * [発展的な使い方](overview/template/advanced.md)
+* [キービジュアル作成レギュレーション](overview/visual-regulation.md)
 * [ウズスタジオ v2 で出来ること・出来ないこと](overview/available.md)
-* [動作確認](overview/demo.md)
-* [作品提出](overview/submit.md)
-* [メンバー管理](overview/author.md)
+
+## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
+
+* [ホーム全体について](scenariohome/main-screen.md)
+* [作品概要](scenariohome/overview.md)
+* [マーケティング](scenariohome/marketing.md)
+* [リリース管理](scenariohome/release.md)
+* [レポート](scenariohome/report.md)
+* [メンバー](scenariohome/author.md)
 
 ## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
 
@@ -24,13 +40,16 @@
     * [ゲームの流れ表示フェーズ](basic-features/phase/timeline.md)
   * [フェーズの流れ](basic-features/phase/flow.md)
 * [テキスト](basic-features/textTab.md)
-* [手がかり](basic-features/clue.md)
-* [山札](basic-features/decks.md)
+* [手がかり](basic-features/clue/README.md)
+  * [山札](basic-features/clue/decks.md)
+* [トークン](basic-features/tkun.md)
 * [ルーム](basic-features/room.md)
 * [感想戦画面](basic-features/result.md)
 * [演出](basic-features/bgm.md)
 * [ゲームの流れ](basic-features/timeline.md)
 * [全体共通：条件設定](basic-features/condition.md)
+* [右上ボタン：動作確認](basic-features/demo.md)
+* [右上ボタン：最新バージョンを作成](basic-features/botanbjonwo.md)
 
 ## 応用 <a href="#advanced" id="advanced"></a>
 
@@ -41,4 +60,3 @@
 
 * [よくある質問：v2](QandA.md)
 * [よくある質問：v1→v2 移行](QandA-v1-v2.md)
-
