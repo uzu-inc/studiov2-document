@@ -69,7 +69,7 @@ v2で一度以上「アプリに反映」を押した後、ウズアプリのシ
 
 作者は観戦者として入る設定がよいでしょう。
 
-より詳しい説明は、編集部が作成している[こちらの記事](https://uzu-app.notion.site/d004b22fe584451bb026aee76dbd08f2?pvs=4)をご参照ください。
+より詳しい説明は、[こちらのページ](overview/makingflow/testplay.md)をご参照ください。
 
 </details>
 
