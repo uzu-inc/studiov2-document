@@ -14,7 +14,7 @@ v2では「最新版」と「リリース版」という概念があります。
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 最新バージョンについてさらに詳しく
 

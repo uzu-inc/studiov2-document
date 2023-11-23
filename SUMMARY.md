@@ -56,6 +56,10 @@
 * [調査フェーズを組み込みたい](advanced/investigation.md)
 * [全てのエンディングを配布したい](advanced/ending.md)
 
+## その他 <a href="#others" id="others"></a>
+
+* [v1のシナリオをv2に移行する](others/v1noshinariowov2nisuru.md)
+
 ## よくある質問 <a href="#qanda" id="qanda"></a>
 
 * [よくある質問：v2](QandA.md)

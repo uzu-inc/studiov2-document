@@ -105,13 +105,13 @@
 
 テストプレイ期間中にGoogle Formで収集したアンケート結果をGoogle スプレッドシート形式にして、ご提出いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2．作品のポイント
 
 シナリオを制作するにあたってこだわった部分、キャラクターそれぞれの見せ場や面白さについて、ご回答いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3．希望価格・希望タグ
 
@@ -125,7 +125,7 @@
 
 再提出が必要な場合は、初回の審査返却時にフィードバックとして、修正が必要と考えられる部分をお送りしますので、それをベースに修正・調整をしていただき、フォームの再提出欄にご記入いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
