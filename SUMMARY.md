@@ -16,6 +16,7 @@
   * [基本的な使い方](overview/template/basic.md)
   * [発展的な使い方](overview/template/advanced.md)
 * [キービジュアル作成レギュレーション](overview/visual-regulation.md)
+* [機能更新一覧](overview/update.md)
 * [ウズスタジオ v2 で出来ること・出来ないこと](overview/available.md)
 
 ## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
