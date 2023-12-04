@@ -44,6 +44,7 @@
 * [手がかり](basic-features/clue/README.md)
   * [山札](basic-features/clue/decks.md)
 * [トークン](basic-features/tkun.md)
+* [アクション](basic-features/akushon.md)
 * [ルーム](basic-features/room.md)
 * [感想戦画面](basic-features/result.md)
 * [演出](basic-features/bgm.md)
@@ -51,6 +52,7 @@
 * [全体共通：条件設定](basic-features/condition.md)
 * [右上ボタン：動作確認](basic-features/demo.md)
 * [右上ボタン：最新バージョンを作成](basic-features/botanbjonwo.md)
+* [Page 1](basic-features/page-1.md)
 
 ## 応用 <a href="#advanced" id="advanced"></a>
 
