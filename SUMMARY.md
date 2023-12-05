@@ -52,7 +52,6 @@
 * [全体共通：条件設定](basic-features/condition.md)
 * [右上ボタン：動作確認](basic-features/demo.md)
 * [右上ボタン：最新バージョンを作成](basic-features/botanbjonwo.md)
-* [Page 1](basic-features/page-1.md)
 
 ## 応用 <a href="#advanced" id="advanced"></a>
 
