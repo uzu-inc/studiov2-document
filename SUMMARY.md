@@ -44,7 +44,7 @@
 * [手がかり](basic-features/clue/README.md)
   * [山札](basic-features/clue/decks.md)
 * [トークン](basic-features/tkun.md)
-* [アクション](basic-features/akushon.md)
+* [アクション](basic-features/action.md)
 * [ルーム](basic-features/room.md)
 * [感想戦画面](basic-features/result.md)
 * [演出](basic-features/bgm.md)
