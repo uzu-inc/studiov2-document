@@ -58,9 +58,13 @@
 * [調査フェーズを組み込みたい](advanced/investigation.md)
 * [全てのエンディングを配布したい](advanced/ending.md)
 
+## 公式リソース <a href="#resource" id="resource"></a>
+
+* [キャラクターアイコン](resource/kyarakutaikon.md)
+
 ## その他 <a href="#others" id="others"></a>
 
-* [v1のシナリオをv2に移行する](others/v1-to-v2.md)
+* [v1のシナリオをv2に移行する](others/v1noshinariowov2nisuru.md)
 
 ## よくある質問 <a href="#qanda" id="qanda"></a>
 
