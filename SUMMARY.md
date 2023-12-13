@@ -60,7 +60,7 @@
 
 ## 公式リソース <a href="#resource" id="resource"></a>
 
-* [キャラクターアイコン](resource/kyarakutaikon.md)
+* [キャラクターアイコン](resource/character-icon.md)
 
 ## その他 <a href="#others" id="others"></a>
 
