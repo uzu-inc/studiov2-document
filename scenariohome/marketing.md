@@ -20,6 +20,8 @@
 
 追加コンテンツのアプリ側での見え方は以下のようになります。
 
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+
 
 
 <figure><img src="../.gitbook/assets/001.jpeg" alt=""><figcaption></figcaption></figure>
