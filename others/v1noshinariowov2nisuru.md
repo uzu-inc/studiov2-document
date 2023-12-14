@@ -26,7 +26,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * 成功するとデータ移行が完了しているので、右上の「エディタに移動」というボタンを押します。データが正常に表示されていれば完了です。\
   ※正常に表示されていない場合は、運営にお問い合わせください。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ③移行申請フォームを送信するまでの流れ
 
@@ -60,7 +60,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
     * v2では、ボタンひとつで太字や斜体、見出し文字や色付き文字に変えられるようになりました。
     * それに伴い、マークダウン記法を覚える必要がなくなりました。
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ##
 
@@ -71,7 +71,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**読み合わせフェーズをどこにでも何回でも差し込める**ようになりました。
 * v1で2回以上の読み合わせを設ける際、キャラ名「セリフ」のようにテキストで代用していた部分を大幅に改善できます。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -80,11 +80,11 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**投票フェーズを何回でも設定できる**ようになりました。
 * v1シナリオで頻発していた「投票前に投票先を一つに絞るための長い説明」を設ける必要がなくなり、より自然な形で投票できます。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 「キャラクター１が○○に投票しているとき」のような詳細な条件による分岐も設定できるようになっています。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -93,7 +93,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**シナリオの途中でも条件に合わせた分岐ができる**ようになりました。
 * v1でよく行われていた「改行で中身が見えないように工夫したタブを複数配布して該当するものだけ見てもらう」ような状態を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -103,7 +103,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * 手がかりは「**全体公開**」も「**譲渡**」も「**誰かだけに公開**」もできます。
 * v1でよく行われていた「リンクをタップ→画像を表示」で、プレイヤーの良心に任せた擬似調査を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

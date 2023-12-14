@@ -2,7 +2,7 @@
 
 新規シナリオの作成は、ウズスタジオの**シナリオ一覧画面**から行います。
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 「新規シナリオ作成」をクリックすると、テンプレート選択画面になります。
 
@@ -10,7 +10,7 @@
 
 タイトルとふりがなを入力したら「この内容で作成」をクリックします。
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
