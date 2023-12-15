@@ -26,8 +26,6 @@
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../.gitbook/assets/001.jpeg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/002.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
