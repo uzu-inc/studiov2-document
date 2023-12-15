@@ -8,6 +8,10 @@
 
 追加コンテンツの値段の下限は0コイン、上限はありません。
 
+有料で公開する際は「ウズ追加コンテンツ有償公開規約」をご一読ください。公開時点で同意したものとみなされます。
+
+
+
 アップロードできるコンテンツの種類は以下の通りです。
 
 * 画像(png/jpg形式)
@@ -20,7 +24,7 @@
 
 追加コンテンツのアプリ側での見え方は以下のようになります。
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 
 
