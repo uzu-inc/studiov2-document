@@ -22,7 +22,7 @@
 
 
 
-追加コンテンツのアプリ側での見え方は以下のようになります。
+追加コンテンツのアプリ側での見え方は以下のようになります。v3.50.0以上にアップデートしている端末で確認できます。
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
