@@ -57,7 +57,7 @@
 
 * [調査フェーズを組み込みたい](advanced/investigation.md)
 * [全てのエンディングを配布したい](advanced/ending.md)
-* [キャラクターによってテキストを変えたい](advanced/kyarakutniyottetekisutowoetai.md)
+* [キャラクターによって表示するテキストを変えたい](advanced/text-customize.md)
 
 ## 公式リソース <a href="#resource" id="resource"></a>
 
