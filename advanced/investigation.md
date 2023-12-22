@@ -2,7 +2,7 @@
 
 投票フェーズと手がかり配布を組み合わせることで、調査フェーズを実現することができます。
 
-山札を使った調査については、[こちらのページ](../basic-features/clue/decks.md)をご参照ください。
+山札を使った調査については、[こちらのページ](../basic-features/decks.md)をご参照ください。
 
 ![](../images/investigation4.png)
 

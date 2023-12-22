@@ -73,13 +73,13 @@
 
 ## 手がかりを配布したい
 
-[こちらのページ](../../basic-features/clue/)をご参照ください。
+[こちらのページ](../../basic-features/clue.md)をご参照ください。
 
 
 
 ## 山札機能を使いたい
 
-[こちらのページ](../../basic-features/clue/decks.md)をご参照ください。
+[こちらのページ](../../basic-features/decks.md)をご参照ください。
 
 
 
