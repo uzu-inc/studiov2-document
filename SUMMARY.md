@@ -59,6 +59,7 @@
 * [全てのエンディングを配布したい](advanced/ending.md)
 * [キャラクターによって表示するテキストを変えたい](advanced/text-customize.md)
 * [読み合わせ中に画像を挿入したい](advanced/image-script.md)
+* [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/chosakyusai.md)
 
 ## 公式リソース <a href="#resource" id="resource"></a>
 
