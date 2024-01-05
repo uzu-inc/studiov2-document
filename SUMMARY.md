@@ -39,7 +39,7 @@
     * [読み合わせフェーズ](basic-features/phase/script.md)
     * [投票フェーズ](basic-features/phase/select.md)
     * [ゲームの流れ表示フェーズ](basic-features/phase/timeline.md)
-  * [フェーズの流れ](basic-features/phase/flow.md)
+  * [フェーズ進行](basic-features/phase/flow.md)
 * [テキスト](basic-features/textTab.md)
 * [ルーム](basic-features/room.md)
 * [ゲームの流れ](basic-features/timeline.md)
