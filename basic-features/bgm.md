@@ -2,7 +2,7 @@
 
 ### 演出
 
-演出では、主にBGM・SEとモードを設定します。
+演出では、主にBGM・SEとカラーテーマを設定します。
 
 ![](../images/bgm1.png)
 
@@ -71,15 +71,39 @@ v2 では、読み合わせフェーズの途中で BGM を変えることがで
 \
 
 
-### モードについて
+### カラーテーマについて
 
-演出画面の最下部でライトモード／ダークモードの設定ができます。
+カラーテーマページからカラーテーマの設定ができます。
 
-ライトモードは白地に黒字が基調、ダークモードは黒地に白字が基調です。シナリオの雰囲気に合わせて設定してください。
+<div>
 
-シナリオの途中でライトモード／ダークモードを切り替える仕様については、将来的に機能追加される予定です。
+<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-12 17.46.32.png" alt=""><figcaption></figcaption></figure>
 
-![](../images/mode1.png)
+ 
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-12 17.46.43.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+テーマは2024/01/12 現在で以下の種類が使用できます。
+
+| テーマの名前  | テーマのイメージ                                                                  |
+| ------- | ------------------------------------------------------------------------- |
+| ライト     | <img src="../.gitbook/assets/light (1).png" alt="" data-size="original">  |
+| ダーク     | <img src="../.gitbook/assets/dark.png" alt="" data-size="original">       |
+| マリン     | <img src="../.gitbook/assets/marine (1).png" alt="" data-size="original"> |
+| アンティーク  | <img src="../.gitbook/assets/antique.png" alt="" data-size="original">    |
+| ドリーム    | <img src="../.gitbook/assets/dream.png" alt="" data-size="original">      |
+| モダン     | <img src="../.gitbook/assets/modern.png" alt="" data-size="original">     |
+| メカニカル   | <img src="../.gitbook/assets/mechanical.png" alt="" data-size="original"> |
+| ノスタルジア  | <img src="../.gitbook/assets/nostalgia.png" alt="" data-size="original">  |
+| サイバーパンク | <img src="../.gitbook/assets/cyberpunk.png" alt="" data-size="original">  |
+
+シナリオの途中でカラーテーマーを切り替えるようになる機能は将来的に実装予定です。
+
+
+
+
 
 \
 
