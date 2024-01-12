@@ -40,7 +40,7 @@
 
 変更すると、次月\*から新しい比率が適用されます。「ウズスタジオ有償公開規約」に未同意のメンバーには分配することができません。規約への同意は制作シナリオ一覧画面の右上のアイコンから行います。
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ##
 
