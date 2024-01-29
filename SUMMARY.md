@@ -42,7 +42,6 @@
   * [フェーズ進行](basic-features/phase/flow.md)
 * [テキスト](basic-features/textTab.md)
 * [ルーム](basic-features/room.md)
-* [ゲームの流れ](basic-features/timeline.md)
 * [感想戦画面](basic-features/result.md)
 * [手がかり](basic-features/clue.md)
 * [山札](basic-features/decks.md)
