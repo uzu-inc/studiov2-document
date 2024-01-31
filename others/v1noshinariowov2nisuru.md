@@ -26,7 +26,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * 成功するとデータ移行が完了しているので、右上の「シナリオを編集」というボタンを押します。データが正常に表示されていれば完了です。\
   ※シナリオが見つかりませんでしたと表示される場合は[こちら](https://docs.studio.uzu-app.com/qanda/qanda#v2shinariono)をお試しください。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ③移行申請フォームを送信するまでの流れ
 
@@ -60,7 +60,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
     * v2では、ボタンひとつで太字や斜体、見出し文字や色付き文字に変えられるようになりました。
     * それに伴い、マークダウン記法を覚える必要がなくなりました。
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ##
 

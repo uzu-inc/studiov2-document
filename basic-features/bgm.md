@@ -77,7 +77,7 @@ v2 では、読み合わせフェーズの途中で BGM を変えることがで
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 テーマは2024/01/12 現在で以下の種類が使用できます。
 

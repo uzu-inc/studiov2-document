@@ -48,6 +48,7 @@
 * [トークン](basic-features/tkun.md)
 * [アクション](basic-features/action.md)
 * [演出](basic-features/bgm.md)
+* [背景画像](basic-features/bei-jing-hua-xiang.md)
 * [全体共通：条件設定](basic-features/condition.md)
 * [右上ボタン：動作確認](basic-features/demo.md)
 * [右上ボタン：最新バージョンを作成](basic-features/botanbjonwo.md)
