@@ -71,5 +71,5 @@
 
 ## よくある質問 <a href="#qanda" id="qanda"></a>
 
-* [よくある質問：v2](QandA.md)
+* [よくある質問](QandA.md)
 * [よくある質問：v1→v2 移行](QandA-v1-v2.md)
