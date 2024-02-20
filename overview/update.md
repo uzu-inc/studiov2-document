@@ -12,8 +12,8 @@
 
 ### 2024年1月
 
-* カラーテーマを2→9種類に拡充。(1/12) 詳細は [こちら](../basic-features/bgm/)
-* 背景画像が設定できるようになった(1/31) 詳細は [こちら](../basic-features/bgm/background.md)
+* カラーテーマを2→9種類に拡充。(1/12) 詳細は [こちら](../basic-features/bgm.md)
+* 背景画像が設定できるようになった(1/31) 詳細は [こちら](../basic-features/background.md)
 
 ### 2023年12月
 

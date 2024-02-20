@@ -32,9 +32,9 @@ v1では「地の文の読み手」を設定すると自動でプレイ中画面
 
 ### セリフに画像を追加する
 
-セリフの部分には、テキスト以外に画像も追加することができます。詳しくは [#ji-ben-xiang-mu](script.md#ji-ben-xiang-mu "mention")[https://app.gitbook.com/o/g4uBD0iJkCwCG7OS3Op7/s/gOyErfAjeKrNXFgLBxtx/\~/changes/87/advanced/image-script](../../advanced/image-script.md)w\
+セリフの部分には、テキスト以外に画像も追加することができます。詳しくは [image-script.md](../../advanced/image-script.md "mention")をご覧ください。\
 
 
 ## 「演出を追加」とは？
 
-「演出を追加」というボタンについては、[演出](../bgm/)ページで説明します。
+「演出を追加」というボタンについては、[演出](../bgm.md)ページで説明します。
