@@ -4,7 +4,7 @@
 
 v1では「真相テキスト」として１つのタブにまとめるしかありませんでしたが、v2では**内容ごとにタブを分けられる**ようになりました。
 
-![](../images/result1.png)
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -13,9 +13,17 @@ v1では「真相テキスト」として１つのタブにまとめるしかあ
 
 タブに入力できる内容は「タイトル」「説明」「本文」の３つです。
 
+タブの内容はそれぞれのタブの右上をクリックすると編集できます。
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (94).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 アプリ上の画面との対応は以下の通りです。
 
-![](../images/result2.png)
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -24,6 +32,6 @@ v1では「真相テキスト」として１つのタブにまとめるしかあ
 
 感想戦画面の一番最初に表示されるタイトルを条件に沿って出し分けることができます。
 
-![](../images/result3.png)
+基本的に「基本タイトル」の部分のみ記載しておけば問題はないですが、「条件付きエンディングタイトルを追加」を押すと複雑な出し分けを行うことができます。
 
-![](../images/result4.png)
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
