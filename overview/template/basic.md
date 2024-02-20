@@ -20,7 +20,7 @@
 
 入力したら画面下部に表示される「**保存して反映**」ボタンを忘れずにクリックしてください。
 
-<table><thead><tr><th width="145">項目</th><th width="308">説明</th><th>例</th></tr></thead><tbody><tr><td>カバー画像</td><td>16:9の横長画像を設定します。詳細なレギュレーションについては、<a href="../visual-regulation.md">こちらのページ</a>をご確認ください。</td><td>－</td></tr><tr><td>タイトル</td><td>アプリ内で表示されるタイトルです。</td><td>渦巻館の殺人</td></tr><tr><td>ふりがな</td><td><p>アプリのシナリオ詳細画面でタイトルの下に表示されます。</p><p><strong>ひらがな</strong>のみ入力できます。</p></td><td>うずまきかんのさつじん</td></tr><tr><td>ジャンル</td><td>その作品のジャンル(マーダーミステリー、謎解きなど)です。</td><td></td></tr><tr><td>プレイ時間</td><td><strong>集合から解散まで</strong>の時間です。キャラクターを選ぶ時間や感想戦の時間も少し含め、余裕をもって設定してください。</td><td>60分<br>（中身45分＋余裕15分）</td></tr><tr><td>短縮タイトル</td><td><p>アプリ内のおさそい文や感想投稿時のハッシュタグに使われます。</p><p>タイトルそのままでもかまいません。</p><p><br>句点や読点（。、）や一部の記号（！？）はハッシュタグになりません。</p></td><td>・うずさつ<br>・渦巻館の殺人</td></tr><tr><td>シナリオ傾向</td><td>マダミスの多様化に伴い、ミスマッチを防ぐ主旨で設置しています。<br>より詳細な記入事項については、<a href="../../scenariohome/overview.md#shinario">こちらのページ</a>をご参照ください。</td><td><p>・クローズ型マーダーミステリー</p><p>・オープン型マーダーミステリー</p><p>・ストーリープレイング要素が強い</p><p>・上級者（初心者、中級者）向け</p><p>・推理（駆け引き、ロールプレイ）重視</p><p>・明確な推理導線はない</p></td></tr><tr><td>注意事項</td><td>人によっては不快に感じる可能性のある描写が存在する場合や苦手な人もいるテーマを扱っている場合などにご利用ください。<br>その他の記入事項については、<a href="../../scenariohome/overview.md#zhu-yi-shi-xiang">こちらのページ</a>をご参照ください。</td><td>・ホラー描写あり<br>・グロ描写あり<br>・メリーバッドエンドあり<br>・キャラクターの死亡の可能性あり<br>・特殊な進行あり</td></tr><tr><td>あらすじ</td><td>アプリのシナリオ詳細画面に表示されるあらすじです。<br>どこで何が起きたかを書くとよいでしょう。</td><td>ある冬の日、渦巻館に集まった４人。使用人の悲鳴で目を覚ますと、館の主人が殺されていた。</td></tr><tr><td>制作者のコメント</td><td>制作者としてのコメントやクレジットがあれば記載します。</td><td>初めて制作するマダミスです。<br>クレジット<br>・イラスト：○○さん<br>・BGM：□□</td></tr><tr><td>配信を許可するか</td><td>チェックボックスを利用して配信を許可するかどうかについて指定してください。</td><td>－</td></tr></tbody></table>
+<table><thead><tr><th width="145">項目</th><th width="308">説明</th><th>例</th></tr></thead><tbody><tr><td>カバー画像</td><td>16:9の横長画像を設定します。詳細なレギュレーションについては、<a href="../visual-regulation.md">こちらのページ</a>をご確認ください。</td><td>－</td></tr><tr><td>タイトル</td><td>アプリ内で表示されるタイトルです。</td><td>渦巻館の殺人</td></tr><tr><td>ふりがな</td><td><p>アプリのシナリオ詳細画面でタイトルの下に表示されます。</p><p><strong>ひらがな</strong>のみ入力できます。</p></td><td>うずまきかんのさつじん</td></tr><tr><td>ジャンル</td><td>どのジャンルを求めている人に最も遊んでほしいかを設定してください。</td><td>・マーダーミステリー<br>・ストーリープレイング<br>・謎解き<br>・その他</td></tr><tr><td>プレイ時間</td><td><strong>集合から解散まで</strong>の時間です。キャラクターを選ぶ時間や感想戦の時間も少し含め、余裕をもって設定してください。</td><td>60分<br>（中身45分＋余裕15分）</td></tr><tr><td>短縮タイトル</td><td><p>アプリ内のおさそい文や感想投稿時のハッシュタグに使われます。</p><p>タイトルそのままでもかまいません。</p><p><br>句点や読点（。、）や一部の記号（！？）はハッシュタグになりません。</p></td><td>・うずさつ<br>・渦巻館の殺人</td></tr><tr><td>シナリオ傾向</td><td>マダミスの多様化に伴い、ミスマッチを防ぐ主旨で設置しています。<br>より詳細な記入事項については、<a href="../../scenariohome/overview.md#shinario">こちらのページ</a>をご参照ください。</td><td><p>・クローズ型マーダーミステリー</p><p>・オープン型マーダーミステリー</p><p>・ストーリープレイング要素が強い</p><p>・上級者（初心者、中級者）向け</p><p>・推理（駆け引き、ロールプレイ）重視</p><p>・明確な推理導線はない</p></td></tr><tr><td>注意事項</td><td>人によっては不快に感じる可能性のある描写が存在する場合や苦手な人もいるテーマを扱っている場合などにご利用ください。<br>その他の記入事項については、<a href="../../scenariohome/overview.md#zhu-yi-shi-xiang">こちらのページ</a>をご参照ください。</td><td>・ホラー描写あり<br>・グロ描写あり<br>・メリーバッドエンドあり<br>・キャラクターの死亡の可能性あり<br>・特殊な進行あり</td></tr><tr><td>あらすじ</td><td>アプリのシナリオ詳細画面に表示されるあらすじです。<br>どこで何が起きたかを書くとよいでしょう。</td><td>ある冬の日、渦巻館に集まった４人。使用人の悲鳴で目を覚ますと、館の主人が殺されていた。</td></tr><tr><td>制作者のコメント</td><td>制作者としてのコメントやクレジットがあれば記載します。</td><td>初めて制作するマダミスです。<br>クレジット<br>・イラスト：○○さん<br>・BGM：□□</td></tr><tr><td>配信を許可するか</td><td>チェックボックスを利用して配信を許可するかどうかについて指定してください。</td><td>－</td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,14 +28,14 @@
 
 ## シナリオの中身を入力する
 
-右上にある「エディタに移動」をクリックして編集画面へ移動します。
+右上にある「シナリオを編集」をクリックして編集画面へ移動します。
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 
 
 {% hint style="info" %}
-**エディタを操作する際のポイント**
+**編集画面を操作する際のポイント**
 
 別の画面に行って戻ってくると入力した内容が消えているように見えることがありますが、遭遇した際は「**リロード（Ctrl+R）（Command＋R）**」をしてください。
 {% endhint %}
@@ -46,7 +46,7 @@
 
 選択した人数別テンプレートの通りに、プレイアブルキャラクターが設定されていますので、それぞれの名前や説明を記入していきます。
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@
 
 テンプレートでは「キャラ1」「キャラ2」のように入力されているので、正しい名前に変更してください。「事故」「自殺」等の選択肢を増やすこともできます。
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -134,9 +134,9 @@
 
 左メニューから「感想戦画面」に移動してください。
 
-タブを開いて「真相解説」や「あとがき」を入力します。「あとがき」については不要であれば、削除してもかまいません。
+編集マークアイコンをクリックして、「真相解説」や「あとがき」を入力します。「あとがき」については不要であれば、削除してもかまいません。
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -156,7 +156,5 @@
 
 詳細は[こちらのページ](../../basic-features/botanbjonwo.md)をご覧ください。
 
-
-
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
