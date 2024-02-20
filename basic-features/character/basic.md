@@ -21,10 +21,12 @@
 | アイコン(必須)   | キャラクター画像                | 登場人物紹介や読み合わせのアイコン      |
 | 説明文(必須)    | キャラクターの紹介文              | シナリオ詳細画面・プレイ中画面の登場人物紹介 |
 
-![](../../images/character1.png) ![](../../images/character2.png)
-
 \
 
+
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-02-20 18.42.03.png" alt=""><figcaption></figcaption></figure>
+
+![](../../images/character2.png)
 
 ## PC・NPCの追加
 

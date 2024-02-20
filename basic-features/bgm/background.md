@@ -6,7 +6,7 @@
 
 ### デフォルト背景
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-31 14.53.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 14.53.39.png" alt=""><figcaption></figcaption></figure>
 
 デフォルト背景は、条件付き背景が設定されてない、または条件付き背景の条件を満たしてないときに表示され続ける画像です。
 
@@ -20,11 +20,11 @@
 
 背景画像にはカラーテーマに合わせたカラーぼかし（ライトモードなら白、ダークモードなら黒など）が自動的にかかります。ぼかしは、どのような背景画像をアップロードしてもテキストが読める濃さで設定されています。マダミスアプリとしてテキストが読めることが前提にあるため、ぼかしをOFFにすることはできません。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-31 15.04.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.04.30.png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-31 15.05.58.png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.05.58.png" alt="" width="179"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,23 +36,23 @@
 
 「条件付き背景」の所に画像を設定すると条件が設定できるようになります。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 条件を満たしているとずっとその画像になるので注意が必要です。例えば、「〇〇フェーズが開始した時」という条件にしていると、そのフェーズが終わった後も条件付き画像が表示され続けます。特定のフェーズだけ背景画像を設定したい、と言う場合は、「〇〇フェーズが進行中」という設定にすると良いでしょう。
 
 今回は、オープニングのみ条件付き画像を表示するという設定にしました。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-31 15.17.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.17.19.png" alt=""><figcaption></figcaption></figure>
 
 動作確認をすると、オープニングフェーズのみ画像が変わっていることがわかります。
 
 <div>
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-31 15.18.44.png" alt="" width="182"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.18.44.png" alt="" width="182"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-01-31 15.18.51.png" alt="" width="176"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.18.51.png" alt="" width="176"><figcaption></figcaption></figure>
 
 </div>
 
