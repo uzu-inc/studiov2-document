@@ -9,8 +9,8 @@
 \
 
 
-## エディタ画面へ
+## 編集画面へ
 
-右上の「エディタに移動」をクリックすると、シナリオの制作・編集画面へ移動できます。
+右上の「シナリオを編集」をクリックすると、シナリオの制作・編集画面へ移動できます。
 
-![](../images/overview3.png)
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
