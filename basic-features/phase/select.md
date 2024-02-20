@@ -13,7 +13,13 @@
 
 選択肢の名前や画像を設定します。画像がある場合とない場合の表示の違いは以下の通りです。
 
-![](../../images/select1.png)
+フェーズ完了条件について
+
+次へボタン：投票先を選択しないと「次へ」を押せない状態になります。投票フェーズではこちらがおすすめです。
+
+制限時間：投票先を選択していなくても設定したタイマーが0秒になったら次へ進んでしまいます。投票フェーズで制限時間を設定する場合は注意してください。
+
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -22,7 +28,7 @@
 
 該当の投票フェーズで投票できるキャラクターを設定します。ここで特定のキャラクターを設定すると、そのキャラクターしか投票を行うことができません。代表者一人に投票を行わせたい場合などに有効です。
 
-![](../../images/select2.png)
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -31,7 +37,7 @@
 
 該当の投票フェーズの投票内容を閲覧できるキャラクターを設定します。この設定をONにしたキャラクターの画面では、誰がどこに投票したのかがアイコンで示されます。重複投票を回避したい場合に有効です。
 
-![](../../images/select4.png)
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -40,7 +46,7 @@
 
 投票結果とは、ある投票フェーズで誰がどの選択肢に投票して、各選択肢に何票集まったのかを示す画面です。ONにすると感想戦画面に投票結果が表示され、OFFにすると表示されません。
 
-![](../../images/select3.png)
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -51,18 +57,18 @@
 
 「表示条件」は、ある特定の条件を満たしたときのみ、その選択肢が現れるようにする設定です。条件を満たしていないときは全キャラクターの画面で完全に非表示になるのが特徴です。 あるフェーズに辿り着いている時、ある手がかりを持っている時といった条件と相性が良いでしょう。
 
-![](../../images/select5.png)
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 \
 
 
-「選択条件」は、ある特定の条件を満たしたときやあるキャラクターのみ、その選択肢に投票できるようにする設定です。 投票できない選択肢は薄い色で表示されます。
+「投票条件」は、ある特定の条件を満たしたときやあるキャラクターのみ、その選択肢に投票できるようにする設定です。 投票できない選択肢は薄い色で表示されます。
 
-![](../../images/select6.png)
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 \
 
 
 同じ選択肢に2人以上が投票できないようにすることもできます。主に、投票と手がかりを組み合わせて調査フェーズを作りたい方向けの機能になります。調査フェーズの作成について、より詳しく知りたい方は、[こちらのページ](../../advanced/investigation.md)をご参照ください。
 
-![](../../images/investigation2.png)
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
