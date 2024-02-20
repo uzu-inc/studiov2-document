@@ -84,7 +84,9 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 
 * 「キャラクター１が○○に投票しているとき」のような詳細な条件による分岐も設定できるようになっています。
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.40.59 (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
