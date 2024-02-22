@@ -6,14 +6,14 @@
 
 山札ではトークンを消費して手がかりを取得することが前提となっているため、山札の初回作成時には先に**トークン**の設定をする必要があります。 「トークン設定へ」をクリックすると、トークン設定画面に移動します。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 \
 
 
 トークンが未設定の場合は以下のような画面になるので、「トークン作成」をクリックしてください。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
