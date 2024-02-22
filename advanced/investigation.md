@@ -4,7 +4,7 @@
 
 山札を使った調査については、[こちらのページ](../basic-features/decks.md)をご参照ください。
 
-![](../images/investigation4.png)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -17,8 +17,6 @@
 
 複数のプレイヤーが同じ場所を調査してしまうと、得られる手がかりが減ってしまうため、それぞれがどこに投票したのか閲覧できる設定にしておくのがよいでしょう。
 
-![](../images/investigation3.png)
-
 \
 
 
@@ -26,9 +24,9 @@
 
 プレイ中の画面では、誰かが選んだ選択肢は他の人の画面で薄く表示されます。
 
-※現在、「この選択肢の重複投票を禁止する」を他の条件とandやorで繋ぐことはできません。
+※現在、「この選択肢の重複投票を禁止する」を他の条件と「かつ」や「または」で繋ぐことはできません。
 
-![](../images/investigation2.png)
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 \
 
