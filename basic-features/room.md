@@ -4,11 +4,10 @@
 
 アプリ上では右上に表示されます。
 
-１つは必ず**全てのフェーズで全員が使用できるルーム**である必要があるので、編集できないようになっています（画像内の青背景のもの）。
+１つは必ず**全てのフェーズで全員が使用できるルーム**である必要があるので、削除できないようになっています（画像内 一番左のもの）。
 
-![](../images/room1.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-\
 
 
 ## 密談ルーム
@@ -17,4 +16,15 @@
 
 より詳細な条件設定をしたい場合は「利用条件」をクリックします。
 
-![](../images/room2.png)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 条件付きルーム名
+
+基本のルームとしてプレイ中に常に右上に表示されているメインルーム名は条件によって変化させることができます。
+
+例えば、フェーズ１では「１階」にいて、フェーズ２では「２階」、フェーズ３では「廊下」にいる、のようにフェーズが進むごとに場所が移動していると演出したいときに便利です。
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+

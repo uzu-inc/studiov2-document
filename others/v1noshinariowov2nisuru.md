@@ -80,7 +80,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**投票フェーズを何回でも設定できる**ようになりました。
 * v1シナリオで頻発していた「投票前に投票先を一つに絞るための長い説明」を設ける必要がなくなり、より自然な形で投票できます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 「キャラクター１が○○に投票しているとき」のような詳細な条件による分岐も設定できるようになっています。
 
@@ -95,7 +95,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**シナリオの途中でも条件に合わせた分岐ができる**ようになりました。
 * v1でよく行われていた「改行で中身が見えないように工夫したタブを複数配布して該当するものだけ見てもらう」ような状態を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

@@ -4,7 +4,7 @@
 
 山札を使った調査については、[こちらのページ](../basic-features/decks.md)をご参照ください。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 

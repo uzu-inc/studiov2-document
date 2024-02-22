@@ -37,4 +37,4 @@ v1では、全てのフェーズとフェーズの間で自動的にゲームの
 
 オープニング、キャラクターテキスト読み込み、通常議論など、非表示にしておく必要のないフェーズでは設定しなくてよいでしょう。
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

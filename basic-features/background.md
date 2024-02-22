@@ -36,7 +36,7 @@
 
 「条件付き背景」の所に画像を設定すると条件が設定できるようになります。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 条件を満たしているとずっとその画像になるので注意が必要です。例えば、「〇〇フェーズが開始した時」という条件にしていると、そのフェーズが終わった後も条件付き画像が表示され続けます。特定のフェーズだけ背景画像を設定したい、と言う場合は、「〇〇フェーズが進行中」という設定にすると良いでしょう。
 
