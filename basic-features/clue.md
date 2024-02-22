@@ -2,7 +2,7 @@
 
 手がかりでは、ゲーム中にやり取りする手がかりの設定や編集ができます。
 
-![](../images/clue0.png)
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ![](../images/clue1.png)
 
@@ -14,11 +14,13 @@
 
 対応は以下の通りです。
 
-![](../images/clue2.png)
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **タグ**はプレイ中に実行できる絞り込み検索にも関係しています。
+
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -26,6 +28,8 @@
 **未公開の手がかりの存在を所有者以外の手がかり一覧画面に表示するかどうか**も設定できます。この設定をONにすると、所有者以外からも、その人が何らかの手がかりを持っていることが分かるようになります。
 
 所有者以外の画面に表示されるのは「非公開時のタイトル」と「タグ」だけであり、手がかりの詳細は開示されません。
+
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -84,7 +88,11 @@
 
 ![](../images/clue8.png)
 
-\
+
+
+## アクション
+
+手がかり内へのアクションの設置は[こちらのページ](clue.md#akushon)で解説しています。\
 
 
 ## 応用
