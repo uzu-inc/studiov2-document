@@ -10,7 +10,7 @@
   * [新規シナリオの作成](overview/makingflow/newscenario.md)
   * [テストプレイ](overview/makingflow/testplay.md)
   * [作品提出](overview/makingflow/submit/README.md)
-    * [詳細審査について](overview/makingflow/submit/check.md)
+    * [詳細審査(有料公開作品)について](overview/makingflow/submit/check.md)
     * [テストプレイアンケートの使い方](overview/makingflow/submit/questionnaire.md)
 * [埋めるだけでマダミス完成テンプレート](overview/template/README.md)
   * [基本的な使い方](overview/template/basic.md)
