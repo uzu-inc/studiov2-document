@@ -19,6 +19,11 @@
 * [機能更新一覧](overview/update.md)
 * [ウズスタジオ v2 で出来ること・出来ないこと](overview/available.md)
 
+## トップ（制作シナリオ一覧画面） <a href="#top" id="top"></a>
+
+* [作家プロフィールの変更](top/profile.md)
+* [各種規約への同意](top/term-agreement.md)
+
 ## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
 
 * [ホーム全体について](scenariohome/main-screen.md)
