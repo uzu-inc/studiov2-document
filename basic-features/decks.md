@@ -20,7 +20,9 @@
 
 トークン名、トークンの見た目、配布条件を設定します。 調査にお金がかかるイメージならコイン、時間がかかるイメージなら砂時計といったように決めるとよいでしょう。
 
-![](../images/decks3.png)
+用途に合わせて複数のトークンを設定することもできます。
+
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 \
 
