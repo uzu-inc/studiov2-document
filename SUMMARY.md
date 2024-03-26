@@ -12,7 +12,7 @@
   * [作品提出](overview/makingflow/submit/README.md)
     * [詳細審査(有料公開作品)について](overview/makingflow/submit/check.md)
     * [テストプレイアンケートの使い方](overview/makingflow/submit/questionnaire.md)
-    * [文章のよくある指摘](overview/makingflow/submit/noyokuaru.md)
+    * [文章のよくある指摘](overview/makingflow/submit/yokuaru-shiteki.md)
 * [埋めるだけでマダミス完成テンプレート](overview/template/README.md)
   * [基本的な使い方](overview/template/basic.md)
   * [発展的な使い方](overview/template/advanced.md)
