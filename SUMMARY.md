@@ -56,6 +56,7 @@
 * [演出](basic-features/bgm.md)
   * [BGM](basic-features/bgm/bgm.md)
   * [SE・ナレーション](basic-features/bgm/senarshon.md)
+  * [ムービー](basic-features/bgm/movie.md)
   * [背景画像](basic-features/background.md)
   * [カラーテーマ](basic-features/bgm/kartma.md)
 * [全体共通：条件設定](basic-features/condition.md)

@@ -72,3 +72,12 @@
 同じ選択肢に2人以上が投票できないようにすることもできます。主に、投票と手がかりを組み合わせて調査フェーズを作りたい方向けの機能になります。調査フェーズの作成について、より詳しく知りたい方は、[こちらのページ](../../advanced/investigation.md)をご参照ください。
 
 <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 複数票設定
+
+一人に複数票持たせる、条件を満たしたものだけに複数票持たせるといった設定もできます。
+
+<figure><img src="../../.gitbook/assets/image (132).png" alt="" width="563"><figcaption></figcaption></figure>
+
