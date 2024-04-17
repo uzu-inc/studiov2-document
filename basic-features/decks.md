@@ -13,7 +13,7 @@
 
 トークンが未設定の場合は以下のような画面になるので、「トークン作成」をクリックしてください。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -40,7 +40,7 @@
 
 「山札を追加」ボタンから、新しい山札を作成できます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
