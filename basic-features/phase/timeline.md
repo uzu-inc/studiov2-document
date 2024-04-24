@@ -9,7 +9,7 @@ v1では、全てのフェーズとフェーズの間で自動的にゲームの
 
 ゲームの流れフェーズは、各ゲームの流れフェーズの詳細画面から設定することが出来ます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 基本項目
 

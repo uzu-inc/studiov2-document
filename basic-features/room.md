@@ -6,7 +6,7 @@
 
 １つは必ず**全てのフェーズで全員が使用できるルーム**である必要があるので、削除できないようになっています（画像内 一番左のもの）。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
