@@ -6,6 +6,6 @@
 
 
 
-※ウズスタジオを使うには利用登録が必要です。利用登録がまだの方は[こちら](https://note.com/uzuapp/n/n5c8e1f8571ae)から。
+※ウズスタジオを使うには利用登録が必要です。利用登録がまだの方は[こちら](https://forms.gle/itz9WWpewug14Uax7)から。
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
