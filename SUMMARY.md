@@ -71,6 +71,7 @@
 * [読み合わせ中に画像を挿入したい](advanced/image-script.md)
 * [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/chosakyusai.md)
 * [音声ファイル自体の音量を調整する](advanced/adjust-audio-file.md)
+* [開閉ブロックを設置する](advanced/expansionwidget.md)
 
 ## 公式リソース <a href="#resource" id="resource"></a>
 
