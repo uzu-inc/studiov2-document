@@ -24,6 +24,8 @@
 
 * [作家プロフィールの変更](top/profile.md)
 * [各種規約への同意](top/term-agreement.md)
+* [売上を受け取る](top/uriage.md)
+* [評価・バッジを確認する](top/hyoka.md)
 
 ## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
 
