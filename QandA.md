@@ -218,7 +218,7 @@ NPCは理論上、無限です。
 
 v1シナリオをv2のウズスタジオで使用する場合、移行処理が必要です。
 
-[v1noshinariowov2nisuru.md](others/v1noshinariowov2nisuru.md "mention") を行なってください。
+[v1-to-v2.md](others/v1-to-v2.md "mention") を行なってください。
 
 
 
