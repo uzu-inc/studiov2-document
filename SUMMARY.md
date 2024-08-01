@@ -18,6 +18,7 @@
   * [発展的な使い方](overview/template/advanced.md)
 * [キービジュアル作成レギュレーション](overview/visual-regulation.md)
 * [機能更新一覧](overview/update.md)
+* [営業日・営業時間](overview/working-day.md)
 * [ウズスタジオ v2 で出来ること・出来ないこと](overview/available.md)
 
 ## トップ（制作シナリオ一覧画面） <a href="#top" id="top"></a>
