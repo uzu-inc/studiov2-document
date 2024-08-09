@@ -27,6 +27,7 @@
 * [各種規約への同意](top/term-agreement.md)
 * [売上を受け取る](top/uriage.md)
 * [評価・バッジを確認する](top/hyoka.md)
+* [コレクション機能](top/collection.md)
 
 ## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
 
