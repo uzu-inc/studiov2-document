@@ -2,15 +2,15 @@
 
 作品概要では、アプリ内でプレイ前に公開される情報を設定します。
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## カバー画像
 
-画像部分をクリックすると設定・変更ができます。
+画像部分をクリックすると設定・変更ができます。キービジュアルは[キービジュアル作成レギュレーション](../../overview/visual-regulation.md)に沿って、16:9の画像を設定してください。
 
-[キービジュアル作成レギュレーション](../overview/visual-regulation.md)に沿って、16:9の画像を設定してください。
+キービジュアルのほかにキャラクター紹介・概要紹介などのためのサブ画像も設定できます。サブ画像の掲載ルールは[こちら](sabuno.md)をご確認ください。
 
 
 
@@ -272,7 +272,7 @@
 
 **関連シナリオ機能は「内容としては関連のない、単に同じ作者のシナリオ」「無関係な作品の宣伝」にはご利用いただけません。**&#x20;
 
-作品数の多いシリーズの場合は、関連シナリオに全てを載せるのではなく、[コレクション機能](../top/collection.md)をご利用ください。直前の1作を関連シナリオに載せるのは問題ありません。
+作品数の多いシリーズの場合は、関連シナリオに全てを載せるのではなく、[コレクション機能](../../top/collection.md)をご利用ください。直前の1作を関連シナリオに載せるのは問題ありません。
 
 
 
@@ -294,7 +294,7 @@
 
 アプリ内では以下のように表示されます。
 
-<figure><img src="../.gitbook/assets/image (99).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt="" width="320"><figcaption></figcaption></figure>
 
 
 

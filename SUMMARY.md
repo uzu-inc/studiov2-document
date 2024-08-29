@@ -32,7 +32,8 @@
 ## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
 
 * [ホーム全体について](scenariohome/main-screen.md)
-* [作品概要](scenariohome/overview.md)
+* [作品概要](scenariohome/overview/README.md)
+  * [サブ画像の設定](scenariohome/overview/sabuno.md)
 * [マーケティング](scenariohome/marketing.md)
 * [リリース管理](scenariohome/release.md)
 * [レポート](scenariohome/report.md)
