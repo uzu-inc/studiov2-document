@@ -2,8 +2,7 @@
 
 基本フェーズでは**テキスト・画像・山札・アクション**などの表示ができます。 キャラクターテキスト読み込み、議論、調査、説明の提示、追加情報の確認などに適しているフェーズです。
 
-\
-
+\\
 
 ## 入力する項目と内容
 
@@ -20,8 +19,7 @@
 
 <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ## フェーズの内容について
 
@@ -31,32 +29,24 @@
 
 <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
-
-
 テキストでは、以下のような文字装飾が使用できます。
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 画像では、画像を画面の**どこに揃えるか**（左寄せ・中央揃え・右寄せ）、どのくらいの**大きさ**で表示するかを設定できます。
 
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ## フェーズの内容をテキストにも配布する
 
 このフェーズ中に共通画面に表示した情報を**テキストタブにも配布したい**（後から見返せるようにしたい）場合は右側のメニューから設定します。
 
-
-
 フェーズの内容と**同期したテキスト**（テキスト側から編集不可・フェーズのほうで編集するとテキストにも自動反映される）を追加したい場合\
 →フェーズ内容の記録「テキストとして配布」をONにするだけです。
-
-
 
 現在入力済みのフェーズの内容を**コピーしたテキスト**（テキスト側から編集可）を追加したい場合
 
@@ -65,8 +55,6 @@
 3. 配布テキストの欄を開く
 4. 「このフェーズのコピー」を選択する
 
-
-
 同期したテキストはルール説明・共通情報を追加したいときなど、コピーしたテキストは個別に編集を加えたい内容のときに便利です。
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption></figcaption></figure>

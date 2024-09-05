@@ -4,12 +4,11 @@
 
 v1では、全てのフェーズとフェーズの間で自動的にゲームの流れが表示されていましたが、v2ではどこで表示するかを選べるようになりました。流れを止めたくないフェーズの間には入れずに進めることができます。
 
-![](../../images/timeline1.png)\
-
+![](../../images/timeline1.png)\\
 
 ゲームの流れフェーズは、各ゲームの流れフェーズの詳細画面から設定することが出来ます。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 基本項目
 
@@ -27,8 +26,6 @@ v1では、全てのフェーズとフェーズの間で自動的にゲームの
 
 ![](<../../.gitbook/assets/スクリーンショット 2024-01-29 16.34.49.png>)
 
-
-
 ### 表示条件（任意）
 
 特定の項目をいつまで**非表示**にしておき、いつから表示するかを設定することができます。
@@ -37,4 +34,4 @@ v1では、全てのフェーズとフェーズの間で自動的にゲームの
 
 オープニング、キャラクターテキスト読み込み、通常議論など、非表示にしておく必要のないフェーズでは設定しなくてよいでしょう。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

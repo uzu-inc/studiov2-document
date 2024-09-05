@@ -8,15 +8,13 @@
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 トークンが未設定の場合は以下のような画面になるので、「トークン作成」をクリックしてください。
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 トークン名、トークンの見た目、配布条件を設定します。 調査にお金がかかるイメージならコイン、時間がかかるイメージなら砂時計といったように決めるとよいでしょう。
 
@@ -24,8 +22,7 @@
 
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 **全員に等しく配布**されるような通常の調査トークンであれば、あるフェーズに到達したときにきまった数だけ配布するとよいでしょう。
 
@@ -33,17 +30,15 @@
 
 ![](../images/decks4.png)
 
-\
-
+\\
 
 トークン設定が終わったら、左メニューから「山札」に戻ります。
 
 「山札を追加」ボタンから、新しい山札を作成できます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ## 山札の編集
 
@@ -69,8 +64,7 @@
 
 ![](../images/decks7.png)
 
-\
-
+\\
 
 山札の削除には２種類の方法があります。
 
@@ -78,8 +72,7 @@
 
 ![](../images/decks9.png)
 
-\
-
+\\
 
 ## 山札を設置する
 
@@ -89,8 +82,7 @@
 
 ![](../images/decks10.png)
 
-\
-
+\\
 
 フェーズの内容の「追加」ボタンをクリックし、「**トークン**」と「**山札調査**」を選んでください。
 
@@ -98,16 +90,13 @@
 
 ![](../images/decks11.png)
 
-\
-
+\\
 
 プレイ中の実際の画面は以下のようになります。
 
 この例では、「役者の持ち物」を役者本人が調査できないようにしているため、一番左の役者の画面では「実行する」が押せないようになっています。
 
 ![](../images/decks8.png)
-
-
 
 ### 山札をランダムに配布する
 
@@ -117,7 +106,4 @@
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-05-24 18.55.07.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ※Webでの動作確認時には、「プレイ状況をリセット」を押しても順番はシャッフルされず、一度動作確認画面のタブを閉じてもう一度動作確認を立ち上げることによって再度シャッフルされます。
-

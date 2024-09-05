@@ -6,9 +6,7 @@
 
 １つは必ず**全てのフェーズで全員が使用できるルーム**である必要があるので、削除できないようになっています（画像内 一番左のもの）。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 密談ルーム
 
@@ -18,8 +16,6 @@
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## 条件付きルーム名
 
 基本のルームとしてプレイ中に常に右上に表示されているメインルーム名は条件によって変化させることができます。
@@ -27,4 +23,3 @@
 例えば、フェーズ１では「１階」にいて、フェーズ２では「２階」、フェーズ３では「廊下」にいる、のようにフェーズが進むごとに場所が移動していると演出したいときに便利です。
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-

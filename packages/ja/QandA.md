@@ -206,15 +206,15 @@ Audacityなどのアプリや音量調整のできるサイトを利用して音
 
 自作シナリオのはずであるのに、以下のような「シナリオが見つかりませんでした〜」となる場合の対処法です。
 
-<img src=".gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
-#### V1から移行したシナリオの場合
+**V1から移行したシナリオの場合**
 
 v1シナリオをv2のウズスタジオで使用する場合、移行処理が必要です。
 
 [v1-to-v2.md](others/v1-to-v2.md "mention") を行なってください。
 
-#### V2シナリオの場合
+**V2シナリオの場合**
 
 ログインが正常にできていない可能性が高いので、以下の操作を行なってください。
 
@@ -224,15 +224,15 @@ PCでウズスタジオにアクセスしている方は左下のログアウト
 
 * PCの方
 
-<img src=".gitbook/assets/image%20(3)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 * スマートフォンの方
 
-<img src=".gitbook/assets/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A.003.jpeg" alt="" data-size="original">
+<img src=".gitbook/assets/名称未設定.003.jpeg" alt="" data-size="original">
 
 **②ログイン画面に遷移するので、普段お使いのウズアカウントのログイン方法でログインする**
 
-<img src=".gitbook/assets/image%20(5)%20(1)%20(1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (5) (1) (1).png" alt="" data-size="original">
 
 この方法でログインし直しても同様の症状になる方は、運営にお問い合わせください。
 
