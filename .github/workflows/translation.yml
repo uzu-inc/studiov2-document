@@ -1,0 +1,42 @@
+name: Translation
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "packages/ja/**"
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Get changed files
+        id: diff
+        run: |
+          git diff --name-only ${{ github.sha }}^1 ${{ github.sha }} > changed_files.txt
+          - name: Translate diff content
+          id: translation
+          run: |
+            FILES=$(cat changed_files.txt)
+            for file in $FILES; do
+              DIFF_CONTENT=$(git diff $file)
+              TRANSLATED_CONTENT=$(curl -X POST https://api.openai.com/v1/completions \
+                -H "Content-Type: application/json" \
+                -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
+                -d '{
+                  "model": "gpt-4",
+                  "prompt": "Translate the following content: '$DIFF_CONTENT'",
+                  "max_tokens": 1000
+                }' | jq -r '.choices[0].text')
+              echo "$TRANSLATED_CONTENT" > $file
+            done
+
+      # 4. 翻訳後のファイルをコミット
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Translated updated content via GitHub Actions"
+          git push
