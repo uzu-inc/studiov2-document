@@ -1,7 +1,7 @@
-# ウズスタジオ 公式ガイド
+# Uzu Studio Official Guide
 
-マダミス制作ツール「ウズスタジオ」の公式ガイドです。
+This is the official guide for the Murder Mystery creation tool "Uzu Studio."
 
-**ウズスタジオの使い方**や**ウズで作品を公開するまでの流れ**について説明します。
+It explains **how to use Uzu Studio** and the **process of publishing your work on Uzu**.
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
