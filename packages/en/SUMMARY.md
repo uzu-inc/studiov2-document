@@ -1,93 +1,93 @@
 # Table of contents
 
-- [ウズスタジオ 公式ガイド](README.md)
+- [Uzu Studio Official Guide](README.md)
 
-## はじめに <a href="#overview" id="overview"></a>
+## Introduction <a href="#overview" id="overview"></a>
 
-- [ウズスタジオとは](overview/uzusutajiotoha.md)
-- [ログイン方法](overview/start-uzu-studio.md)
-- [作成からリリースまでの流れ](overview/makingflow/README.md)
-  - [新規シナリオの作成](overview/makingflow/newscenario.md)
-  - [テストプレイ](overview/makingflow/testplay.md)
-  - [作品提出](overview/makingflow/submit/README.md)
-    - [詳細審査(有料公開作品)について](overview/makingflow/submit/check.md)
-    - [テストプレイアンケートの使い方](overview/makingflow/submit/questionnaire.md)
-    - [文章のよくある指摘](overview/makingflow/submit/yokuaru-shiteki.md)
-- [埋めるだけでマダミス完成テンプレート](overview/template/README.md)
-  - [基本的な使い方](overview/template/basic.md)
-  - [発展的な使い方](overview/template/advanced.md)
-- [キービジュアル作成レギュレーション](overview/visual-regulation.md)
-- [機能更新一覧](overview/update.md)
-- [営業日・営業時間](overview/working-day.md)
-- [ウズスタジオ v2 で出来ること・出来ないこと](overview/available.md)
+- [What is Uzu Studio](overview/uzusutajiotoha.md)
+- [How to log in](overview/start-uzu-studio.md)
+- [Process from creation to release](overview/makingflow/README.md)
+  - [Creating a new scenario](overview/makingflow/newscenario.md)
+  - [Test play](overview/makingflow/testplay.md)
+  - [Submitting your work](overview/makingflow/submit/README.md)
+    - [Detailed review for paid works](overview/makingflow/submit/check.md)
+    - [How to use the test play questionnaire](overview/makingflow/submit/questionnaire.md)
+    - [Common feedback on text](overview/makingflow/submit/yokuaru-shiteki.md)
+- [Murder Mystery completion template that only requires filling in](overview/template/README.md)
+  - [Basic usage](overview/template/basic.md)
+  - [Advanced usage](overview/template/advanced.md)
+- [Key visual creation regulations](overview/visual-regulation.md)
+- [List of feature updates](overview/update.md)
+- [Business days and hours](overview/working-day.md)
+- [What can and cannot be done with Uzu Studio v2](overview/available.md)
 
-## トップ（制作シナリオ一覧画面） <a href="#top" id="top"></a>
+## Top (Scenario list screen) <a href="#top" id="top"></a>
 
-- [作家プロフィールの変更](top/profile.md)
-- [各種規約への同意](top/term-agreement.md)
-- [売上を受け取る](top/uriage.md)
-- [評価・バッジを確認する](top/hyoka.md)
-- [コレクション機能](top/collection.md)
+- [Changing the author profile](top/profile.md)
+- [Agreeing to various terms](top/term-agreement.md)
+- [Receiving sales revenue](top/uriage.md)
+- [Checking evaluations and badges](top/hyoka.md)
+- [Collection feature](top/collection.md)
 
-## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
+## Scenario Home <a href="#scenariohome" id="scenariohome"></a>
 
-- [ホーム全体について](scenariohome/main-screen.md)
-- [作品概要](scenariohome/overview/README.md)
-  - [サブ画像の設定](scenariohome/overview/sub.md)
-- [マーケティング](scenariohome/marketing.md)
-- [リリース管理](scenariohome/release.md)
-- [レポート](scenariohome/report.md)
-- [メンバー](scenariohome/author.md)
+- [About the home screen](scenariohome/main-screen.md)
+- [Work overview](scenariohome/overview/README.md)
+  - [Setting sub-images](scenariohome/overview/sub.md)
+- [Marketing](scenariohome/marketing.md)
+- [Release management](scenariohome/release.md)
+- [Reports](scenariohome/report.md)
+- [Members](scenariohome/author.md)
 
-## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
+## Feature details <a href="#basic-features" id="basic-features"></a>
 
-- [キャラクター](basic-features/character.md)
-  - [キャラクターの基本項目](basic-features/character/basic.md)
-  - [ミッション](basic-features/character/mission.md)
-  - [周回プレイキャラクター](basic-features/character/second-play-character.md)
-- [フェーズ](basic-features/phase.md)
-  - [フェーズの作成・概要](basic-features/phase/basic.md)
-    - [基本フェーズ](basic-features/phase/discussion.md)
-    - [読み合わせフェーズ](basic-features/phase/script.md)
-    - [投票フェーズ](basic-features/phase/select.md)
-    - [ゲームの流れ表示フェーズ](basic-features/phase/timeline.md)
-  - [フェーズ進行](basic-features/phase/flow.md)
-- [テキスト](basic-features/textTab.md)
-- [ルーム](basic-features/room.md)
-- [感想戦画面](basic-features/result.md)
-- [手がかり](basic-features/clue.md)
-- [山札](basic-features/decks.md)
-- [トークン](basic-features/tkun.md)
-- [アクション](basic-features/action.md)
-- [演出](basic-features/bgm.md)
+- [Characters](basic-features/character.md)
+  - [Basic character items](basic-features/character/basic.md)
+  - [Missions](basic-features/character/mission.md)
+  - [Second playthrough characters](basic-features/character/second-play-character.md)
+- [Phases](basic-features/phase.md)
+  - [Creating and overview of phases](basic-features/phase/basic.md)
+    - [Basic phases](basic-features/phase/discussion.md)
+    - [Script reading phase](basic-features/phase/script.md)
+    - [Voting phase](basic-features/phase/select.md)
+    - [Game flow display phase](basic-features/phase/timeline.md)
+  - [Phase progression](basic-features/phase/flow.md)
+- [Text](basic-features/textTab.md)
+- [Rooms](basic-features/room.md)
+- [Post-game discussion screen](basic-features/result.md)
+- [Clues](basic-features/clue.md)
+- [Decks](basic-features/decks.md)
+- [Tokens](basic-features/tkun.md)
+- [Actions](basic-features/action.md)
+- [Effects](basic-features/bgm.md)
   - [BGM](basic-features/bgm/bgm.md)
-  - [SE・ナレーション](basic-features/bgm/senarshon.md)
-  - [ムービー](basic-features/bgm/movie.md)
-  - [背景画像](basic-features/background.md)
-  - [カラーテーマ](basic-features/bgm/kartma.md)
-- [全体共通：条件設定](basic-features/condition.md)
-- [右上ボタン：動作確認](basic-features/demo.md)
-- [右上ボタン：最新バージョンを作成](basic-features/botanbjonwo.md)
+  - [SE and narration](basic-features/bgm/senarshon.md)
+  - [Movies](basic-features/bgm/movie.md)
+  - [Background images](basic-features/background.md)
+  - [Color themes](basic-features/bgm/kartma.md)
+- [Common settings: conditions](basic-features/condition.md)
+- [Top right button: Demo](basic-features/demo.md)
+- [Top right button: Create the latest version](basic-features/botanbjonwo.md)
 
-## 応用 <a href="#advanced" id="advanced"></a>
+## Advanced <a href="#advanced" id="advanced"></a>
 
-- [調査フェーズを組み込みたい](advanced/investigation.md)
-- [全てのエンディングを配布したい](advanced/ending.md)
-- [キャラクターによって表示する内容を変えたい](advanced/text-customize.md)
-- [読み合わせ中に画像を挿入したい](advanced/image-script.md)
-- [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/chosakyusai.md)
-- [音声ファイル自体の音量を調整する](advanced/adjust-audio-file.md)
-- [開閉ブロックを設置する](advanced/expansionwidget.md)
+- [Incorporating an investigation phase](advanced/investigation.md)
+- [Distribute all endings](advanced/ending.md)
+- [Change displayed content based on character](advanced/text-customize.md)
+- [Insert images during script reading](advanced/image-script.md)
+- [Create a rescue phase when moving forward before everyone finishes investigating](advanced/chosakyusai.md)
+- [Adjust the volume of audio files](advanced/adjust-audio-file.md)
+- [Set up expandable blocks](advanced/expansionwidget.md)
 
-## 公式リソース <a href="#resource" id="resource"></a>
+## Official resources <a href="#resource" id="resource"></a>
 
-- [キャラクターアイコン](resource/character-icon.md)
+- [Character icons](resource/character-icon.md)
 
-## その他 <a href="#others" id="others"></a>
+## Others <a href="#others" id="others"></a>
 
-- [v1 のシナリオを v2 に移行する](others/v1-to-v2.md)
+- [Migrate v1 scenarios to v2](others/v1-to-v2.md)
 
-## よくある質問 <a href="#qanda" id="qanda"></a>
+## Frequently Asked Questions <a href="#qanda" id="qanda"></a>
 
-- [よくある質問](QandA.md)
-- [よくある質問：v1→v2 移行](QandA-v1-v2.md)
+- [Frequently Asked Questions](QandA.md)
+- [FAQ: v1 to v2 migration](QandA-v1-v2.md)

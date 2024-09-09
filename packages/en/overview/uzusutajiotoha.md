@@ -1,15 +1,11 @@
-# ウズスタジオとは
+# What is Uzu Studio
 
-ウズスタジオとは、マダミス通話アプリ「**ウズ**」の運営元が開発しているシナリオ制作ツールです。
+Uzu Studio is a scenario creation tool developed by the team behind the Murder Mystery call app "**Uzu**."
 
-ウズスタジオで作成したシナリオは、審査を経て、ウズにて公開することができます。
+Scenarios created in Uzu Studio can be published on Uzu after undergoing a review process.
 
+You can create everything necessary for a **typical Murder Mystery** game, including script reading for openings and endings, character texts, clue investigations, discussions (including secret talks), voting, and branching based on votes or selections.
 
+The **content you input and create is directly reflected in Uzu**, allowing it to be played as a **Murder Mystery game without the need for a GM (game master)** on the app.
 
-オープニングやエンディングの読み合わせ、キャラクターテキスト、手がかり調査、密談を含む議論、投票、投票や選択による分岐など、**一般的なマダミスに必要なものは全て作成できる**ようになっています。
-
-**入力・作成した内容がそのままウズに反映**され、GM（進行役）不要なマダミスとして、**アプリ上で遊べる**ようになります。
-
-
-
-ツールがあるので作りやすい、GM経験がなくても大丈夫、公開後はアプリを通してたくさんの人に遊んでもらえるという点で、**初めての制作にもおすすめ**です！
+Thanks to the tool, it's easy to create, even if you have no GM experience. Once your scenario is published, many people can enjoy playing it through the app, making it **a great option for first-time creators**!
