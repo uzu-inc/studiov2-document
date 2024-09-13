@@ -1,25 +1,25 @@
-# ルーム
+# Rooms
 
-ルームは、全体議論・密談などの通話を行う場所のことです。
+Rooms are places where calls, such as general discussions and private conversations, are conducted.
 
-アプリ上では右上に表示されます。
+On the app, they are displayed in the upper right corner.
 
-１つは必ず**全てのフェーズで全員が使用できるルーム**である必要があるので、削除できないようになっています（画像内 一番左のもの）。
+There must always be at least one room **that can be used by everyone in all phases**, so it cannot be deleted (the one on the far left in the image).
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 密談ルーム
+## Private Conversation Rooms
 
-密談ができるフェーズを設定するだけでいい場合は、チェックボックスからフェーズを選択します。
+If you just need to set the phases in which private conversations can occur, select the phases from the checkbox.
 
-より詳細な条件設定をしたい場合は「利用条件」をクリックします。
+If you want to set more detailed conditions, click on "Usage Conditions".
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 条件付きルーム名
+## Conditional Room Names
 
-基本のルームとしてプレイ中に常に右上に表示されているメインルーム名は条件によって変化させることができます。
+The main room name, which is always displayed in the upper right corner during play as the basic room, can be changed based on conditions.
 
-例えば、フェーズ１では「１階」にいて、フェーズ２では「２階」、フェーズ３では「廊下」にいる、のようにフェーズが進むごとに場所が移動していると演出したいときに便利です。
+For example, it's useful when you want to create a scenario where you're on the "1st floor" in Phase 1, on the "2nd floor" in Phase 2, and in the "corridor" in Phase 3, with the location changing as the phases progress.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

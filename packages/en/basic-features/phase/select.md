@@ -1,83 +1,75 @@
-# 投票フェーズ
+# Voting Phase
 
-投票フェーズでは、犯人投票をはじめとした様々な投票を行うことができます。 ウズスタジオv2では、どこにでも何回でも投票フェーズを設置できるようになりました。
+In the voting phase, you can conduct various types of votes, including voting for suspects. With UzStudio v2, you can now place a voting phase anywhere, anytime.
 
 ![](../../images/select.png)
 
 \
 
+Here are the settings for the voting phase.
 
-投票フェーズのための設定項目について説明します。
+## Voting Options (Basic)
 
-## 投票の選択肢（基本）
+Set the names and images of the options. The difference in display with or without an image is as follows.
 
-選択肢の名前や画像を設定します。画像がある場合とない場合の表示の違いは以下の通りです。
+### Phase Completion Conditions
 
-フェーズ完了条件について
+Next Button: You cannot press "Next" unless you have selected a vote. This is recommended for the voting phase.
 
-次へボタン：投票先を選択しないと「次へ」を押せない状態になります。投票フェーズではこちらがおすすめです。
-
-制限時間：投票先を選択していなくても設定したタイマーが0秒になったら次へ進んでしまいます。投票フェーズで制限時間を設定する場合は注意してください。
+Time Limit: Even if no selection has been made, the phase will automatically progress once the set timer reaches zero seconds. Be careful when setting a time limit for the voting phase.
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Characters Who Can Vote
 
-## 投票できるキャラクター
-
-該当の投票フェーズで投票できるキャラクターを設定します。ここで特定のキャラクターを設定すると、そのキャラクターしか投票を行うことができません。代表者一人に投票を行わせたい場合などに有効です。
+Set the characters who can vote in the respective voting phase. By specifying certain characters here, only those characters can vote. This is effective when you want only one representative to cast a vote.
 
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Characters Who Can View the Vote
 
-## 投票を閲覧できるキャラクター
-
-該当の投票フェーズの投票内容を閲覧できるキャラクターを設定します。この設定をONにしたキャラクターの画面では、誰がどこに投票したのかがアイコンで示されます。重複投票を回避したい場合に有効です。
+Set the characters who can view the contents of the voting phase. If this setting is turned ON, the screens of those characters will show who voted for what with icons. This is effective for preventing duplicate votes.
 
 <figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Display Voting Results on the Post-Game Screen
 
-## 投票結果を感想戦画面に表示するか
-
-投票結果とは、ある投票フェーズで誰がどの選択肢に投票して、各選択肢に何票集まったのかを示す画面です。ONにすると感想戦画面に投票結果が表示され、OFFにすると表示されません。
+The voting results show who voted for which option and how many votes each option received during a particular voting phase. Turning this ON will display the voting results on the post-game screen, and turning it OFF will not.
 
 <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Advanced Voting Options
 
-## 投票の選択肢（応用）
+Each option can be set with "Display Conditions" and "Selection Conditions."
 
-それぞれの選択肢に「表示条件」と「選択条件」を設定することができます。
-
-「表示条件」は、ある特定の条件を満たしたときのみ、その選択肢が現れるようにする設定です。条件を満たしていないときは全キャラクターの画面で完全に非表示になるのが特徴です。 あるフェーズに辿り着いている時、ある手がかりを持っている時といった条件と相性が良いでしょう。
+"Display Conditions" are settings that make an option appear only when a specific condition is met. If the condition is not met, the option is completely hidden from all characters' screens. Conditions like reaching a certain phase or possessing a specific clue are well-matched with this setting.
 
 <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 \
 
-
-「投票条件」は、ある特定の条件を満たしたときやあるキャラクターのみ、その選択肢に投票できるようにする設定です。 投票できない選択肢は薄い色で表示されます。
+"Selection Conditions" allow only certain characters or those meeting specific conditions to vote for an option. Options that cannot be voted on are displayed in a lighter color.
 
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 \
 
-
-同じ選択肢に2人以上が投票できないようにすることもできます。主に、投票と手がかりを組み合わせて調査フェーズを作りたい方向けの機能になります。調査フェーズの作成について、より詳しく知りたい方は、[こちらのページ](../../advanced/investigation.md)をご参照ください。
+You can also set it so that no more than two people can vote for the same option. This function is mainly aimed at those who want to combine voting and clues to create an investigation phase. For more information on creating an investigation phase, please refer to [this page](../../advanced/investigation.md).
 
 <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
+\
 
+## Multiple Votes Settings
 
-## 複数票設定
-
-一人に複数票持たせる、条件を満たしたものだけに複数票持たせるといった設定もできます。
+You can also set up multiple votes per person, allowing only those who meet certain conditions to have multiple votes.
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt="" width="563"><figcaption></figcaption></figure>
-

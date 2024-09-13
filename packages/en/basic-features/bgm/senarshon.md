@@ -1,26 +1,21 @@
-# SE・ナレーション
+# SE & Narration
 
-SE・ナレーションは、効果音や読み合わせフェーズのナレーションなど、一度しか流さない音声を再生する時に使います。
+SE (Sound Effects) and narration are used for playing sounds that are played only once, such as sound effects or narration during the read-along phase.
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2024-02-20 19.59.30.png" alt=""><figcaption></figcaption></figure>
 
-### 再生条件の設定
+### Setting Playback Conditions
 
-SEはBGMと違って一度きりの再生を想定しているため、停止条件は存在しません。
+Unlike BGM, SE is intended to be played only once, so there are no stop conditions.
 
-「再生条件を追加」から再生条件を設定して、その条件が満たされた時に一度だけ音声が再生されます。
+From "Add Playback Condition," set the conditions under which the sound will play. The sound will be played once when the conditions are met.
 
-条件は複数設定できて、その条件が満たされるたびに再生されます。
+You can set multiple conditions, and the sound will play each time any of the conditions are fulfilled.
 
+### Playback Settings During the Read-Along Phase
 
+If you want to play a sound during the read-along phase, you need to configure the "cue" settings.
 
-### 読み合わせフェーズでの再生設定
-
-読み合わせフェーズの途中で音声を再生したい場合には、「キュー」の設定を行います。
-
-キューは、読み合わせフェーズのそれぞれのセリフから行うことができます。
+Cues can be set from each line of dialogue in the read-along phase.
 
 <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
-
-
-

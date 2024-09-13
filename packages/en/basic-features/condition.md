@@ -1,58 +1,46 @@
-# 全体共通：条件設定
+# General: Setting Conditions
 
-キャラクターのミッション、フェーズ、テキスト、手がかり、ルーム、ゲームの流れなど、ほぼ全ての編集画面で「条件設定」が登場します。条件設定の種類や意味を覚えて、適切な条件を設定しましょう。
+On almost every editing screen, you will encounter the "Setting Conditions" feature, which applies to characters' missions, phases, text, clues, rooms, and game flow. Familiarize yourself with the types and meanings of these conditions to set them appropriately.
 
+## Types and Meanings of Conditions
 
+### New Design
 
-## 条件の種類と意味
+<table><thead><tr><th width="166">Major Category</th><th width="271">Suffix</th><th>Meaning</th></tr></thead><tbody><tr><td>Phase Progress</td><td>During ~</td><td>Texts and BGM are displayed or played only during the relevant phase<br>Clues are distributed during the relevant phase and remain unless collected</td></tr><tr><td></td><td>Not during ~</td><td>Texts and BGM are displayed or played only when the relevant phase is not in progress<br>Clues are distributed when the phase is not in progress and remain unless collected</td></tr><tr><td></td><td>~ has started</td><td>Texts, clues, and BGM are displayed or played from the start of the phase until they are stopped</td></tr><tr><td></td><td>~ has ended</td><td>Texts, clues, and BGM are displayed or played immediately after the phase ends until they are stopped</td></tr><tr><td></td><td>~ was not stepped on</td><td>Indicates that a certain phase has not yet been reached or a certain route among multiple routes has not been taken</td></tr><tr><td>Voting Results</td><td>~ got the most votes in ○</td><td>Literally as stated</td></tr><tr><td></td><td>~ got the most votes alone in ○</td><td>Literally as stated</td></tr><tr><td>Voting Action</td><td>□ voted for ~ in ○</td><td>Focuses not on vote tallying but on specifying individual voting targets, differing from the above two</td></tr><tr><td>Clues</td><td>□ revealed △</td><td>The clue is publicly revealed</td></tr><tr><td></td><td>□ possesses △</td><td>The clue is possessed (not just viewable)</td></tr><tr><td></td><td>□ viewed △</td><td>Among clues that are neither publicly revealed nor possessed, those that have been viewed (shown by someone or originally possessed and then transferred)</td></tr><tr><td>Call Room</td><td>Only while □ is in ◇</td><td>Texts and BGM are displayed or played only while in the specific room<br>Clues are distributed while in the room and remain unless collected</td></tr><tr><td>Cue</td><td>~ has started</td><td>At any point after the start of the reading</td></tr><tr><td>Action Action</td><td>□ executed ▽</td><td>Whether the action execution button has been pressed or not</td></tr></tbody></table>
 
-### 新デザイン
+Furthermore, the new design includes numerical comparison conditions as follows.
 
-<table><thead><tr><th width="166">大分類</th><th width="271">語尾</th><th>意味</th></tr></thead><tbody><tr><td>フェーズ進行</td><td>～が進行中</td><td>テキストやBGMは該当フェーズの進行中のみ表示・再生される<br>手がかりは該当フェーズの進行中に配布され、回収処理をしない限りは手元に残る</td></tr><tr><td></td><td>～が進行中でない</td><td>テキストやBGMは該当フェーズの進行中でないときのみ表示・再生される<br>手がかりは該当フェーズの進行中でないときに配布され、回収処理をしない限りは手元に残る</td></tr><tr><td></td><td>～が開始した</td><td>テキスト・手がかり・BGMが該当フェーズ開始直後から停止処理をするまでずっと表示・再生される</td></tr><tr><td></td><td>～が終了した</td><td>テキスト・手がかり・BGMが該当フェーズ終了直後から停止処理をするまでずっと表示・再生される</td></tr><tr><td></td><td>～が踏まれなかった</td><td>先にあるフェーズにまだ到達していない・2ルート以上ある場合の一方のフェーズを通っていないなどを表す</td></tr><tr><td>投票結果</td><td>○で～が単独・同票問わず最多票</td><td>文字通り</td></tr><tr><td></td><td>○で～が単独最多票</td><td>文字通り</td></tr><tr><td>投票行動</td><td>○で□が～に投票した</td><td>投票の集計ではなく、個人の投票先を指定できる点が上の２つとは異なる</td></tr><tr><td>手がかり</td><td>□が△を公開</td><td>手がかりが全体公開されている</td></tr><tr><td></td><td>□が△を所有</td><td>手がかりを所有している（閲覧できているだけでは該当しない）</td></tr><tr><td></td><td>□が△を閲覧</td><td>全体公開されておらず所有もしていない手がかりのうち、中身を確認できているもの（誰かに見せてもらった・もともと所有しており誰かに譲渡した等）</td></tr><tr><td>通話ルーム</td><td>□が◇にいる間のみ</td><td>テキストやBGMは該当ルームにいる間のみ表示・再生される<br>手がかりは該当ルームにいる間に配布され、回収処理をしない限りは手元に残る</td></tr><tr><td>キュー</td><td>～が開始</td><td>読み合わせ中の任意のタイミング以降</td></tr><tr><td>アクション行動</td><td>□が▽を実行</td><td>アクションの実行ボタンが押されている/いない</td></tr></tbody></table>
+<table><thead><tr><th width="201">Type</th><th>Item to Compare</th><th>Comparison Target</th></tr></thead><tbody><tr><td>Votes Count</td><td>Number of votes for any option in any voting phase</td><td>Any number</td></tr><tr><td></td><td></td><td>Number of votes for any other option in the same voting phase</td></tr><tr><td>Action Execution Count</td><td>How many times any character has executed any action</td><td>Any number</td></tr><tr><td>Token Possession Count</td><td>Number of tokens a particular character possesses</td><td>Any number</td></tr><tr><td></td><td></td><td>Number of tokens a specific character possesses</td></tr><tr><td>Phase Loop Count</td><td>How many times a particular phase has been passed</td><td>Any number</td></tr></tbody></table>
 
+#### Condition Groups
 
+In some settings, you can also use condition groups. With condition groups, you can set **complex conditions using 'and' and 'or'**.
 
-また、新デザインでは以下のような数値の比較条件も新たに加わってます。
+To change to a condition group, add the condition as usual and then click the '...' that appears in the top right corner of the condition. If clicking '...' does not suggest changes, condition groups are not available.
 
-<table><thead><tr><th width="201">種類</th><th>比較するもの</th><th>比較対象となるもの</th></tr></thead><tbody><tr><td>得票数</td><td>任意の投票フェーズでの任意の選択肢の票数</td><td>任意の数</td></tr><tr><td></td><td></td><td>同じ投票フェーズの任意の他選択肢の票数</td></tr><tr><td>アクション実行回数</td><td>任意のアクションを任意のキャラクターが何回実行したか</td><td>任意の数</td></tr><tr><td>トークン所持数</td><td>任意のキャラクターが持っているトークンの所持数</td><td>任意の数</td></tr><tr><td></td><td></td><td>特定のキャラクターが持っているトークンの所持数</td></tr><tr><td>フェーズループ回数</td><td>あるフェーズが何回通過されたのか</td><td>任意の数</td></tr></tbody></table>
-
-
-
-#### 条件グループ
-
-一部の条件設定では条件グループも使用できます。条件グループを使えば、**「かつ」と「または」の複合条件**を設定することができます。
-
-条件グループへの変更は、普段通りに条件を追加したあと、条件の右上に表示される「・・・」から行います。「・・・」をクリックしても変更のサジェストが出てこないところでは条件グループが使用できません。
-
-現状、条件グループは３段階まで設定できます。
+Currently, condition groups can be set up to three levels.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+### Old Design
 
+Note that the contents are generally the same, but old and new designs coexist.
 
+Here are the 8 types of conditions that can be set. For every 'during ~', a 'not during ~' condition can also be used, and similarly for 'when ~' and 'when not ~'.
 
+| Item                                               | Basic Content                                                                             | Other                                                                          |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Only during a specific phase                       | Texts and rooms are displayed only during that phase and disappear once the phase ends.   | Clues can only be obtained during that phase and once obtained remain in hand. |
+| Has reached a specific phase                       | Distribution and display apply from the moment that phase begins.                         | Distribution and display continue even after the phase.                        |
+| A specific phase has ended                         | Distribution and display start after the phase ends.                                      | Suitable for read-through distribution.                                        |
+| A certain option has the most votes                | Both sole majority and tie majority can be selected, mainly used for branching processes. | Tie majority means 'considered the most even in a tie'.                        |
+| A certain character has voted for a certain option | Literally as stated. Used for branching processes and distribution of information.        | Also plays a role in achieving detective missions.                             |
+| A certain character possesses a certain clue       | Literally as stated. Used for determining additional information distribution.            | Also plays a role in achieving collection missions.                            |
+| A certain character is in a certain room           | Conditions can be based on whether a character is in a specific call room.                | -                                                                              |
+| Character conditions                               | You can select the characters to apply conditions to using checkboxes.                    | -                                                                              |
 
-### 旧デザイン
+**and (and)**\
+Please understand it in a mathematical sense of 'happening simultaneously' or 'both being fulfilled'. It's not just a simple 'and' like A&B.
 
-※設定できる内容はだいたい同じですが、旧デザインと新デザインが混在しています。
-
-設定できる条件は以下の8種類です。 「～いる時」であれば「～いない時」、「～である時」であれば「～でない時」のように、否定バージョンの条件も使用できます。
-
-| 項目                     | 基本内容                                                                                      | その他                                               |
-| ---------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 特定のフェーズにいる時のみ          | そのフェーズ中のみテキストやルームが表示され、指定のフェーズが終わると消える。                                                   | 手がかりについては、そのフェーズ中にのみ取得可能となり、一度取得した手がかりはそのまま手元に残る。 |
-| 特定のフェーズに辿り着いている時       | <p>配布や表示について、そのフェーズが始まった瞬間から適用される。<br>ミッション達成判断や分岐判断の文脈では、そのフェーズを通過したかどうかというニュアンスになる。</p> | 配布や表示はそのフェーズ以降でも継続される。                            |
-| 特定のフェーズが終了した時          | そのフェーズが終わってから配布・表示される。                                                                    | 読み合わせの配布に適している。                                   |
-| ある選択肢が最多得票の時           | 単独最多と同票最多を選択できる。主に分岐処理に使用される。                                                             | 同票最多は「同票でもその選択肢を最多と捉える」という意味。                     |
-| あるキャラクターがある選択肢に投票している時 | 文字通り。分岐処理や配布情報の分配などに使用される。                                                                | 推理系ミッションの達成判断でも活躍する。                              |
-| あるキャラクターがある手がかりを持っている時 | 文字通り。追加情報の配布判断などに使用される。                                                                   | 収集系ミッションの達成判断でも活躍する。                              |
-| あるキャラクターがある部屋にいる時      | 特定の通話ルームにいるかどうかを条件にできる。                                                                   | －                                                 |
-| キャラクター条件               | チェックボックスで条件を適用するキャラクターを選択できる。                                                             | －                                                 |
-
-
-
-【and（かつ）】\
-「同時に起こる」「どちらも満たしている」といった数学的な意味で捉えてください。 A＆Bのような単純な「と」を示すものではありません。
-
-【or（または）】\
-「いずれかでも起こっていれば」を指します。
+**or (or)**\
+Refers to 'if either occurs'.

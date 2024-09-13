@@ -1,71 +1,69 @@
-# テキスト
+# Text
 
-テキストでは、プレイ中にテキストタブに配布するテキストを設定・編集できます。
+In the text settings, you can configure and edit texts that are distributed to the text tab during gameplay.
 
 ![](../images/text1.png)
 
 \
 
+## Adding New Text
 
-## 新規テキストの追加
-
-新規テキストの追加方法は2種類あります。
+There are two ways to add new text:
 
 \
 
+### ① Add from the Text List
 
-### ①テキスト一覧から追加
+Click "**Add Text**" at the top right of the text list screen to create a "new text tab."
 
-テキスト一覧画面の右上「**テキストを追加**」をクリックすると、「新しいテキストタブ」が作成されます。
-
-「新しいテキストタブ」をクリックすると、内容の編集画面に移動します。
+Clicking on the "new text tab" will take you to the editing screen for its content.
 
 ![](../images/text2.png)
 
 \
 
+### ② Add from the Desired Phase
 
-### ②配布したいフェーズ内から追加
+Add from the section labeled "Distributed Materials" on the right side of the phase editing screen.
 
-フェーズの編集画面右側の「配布物」というセクションから追加を行います。
-
-配布物下部の「追加」というボタンを押すと、どの種類の配布物を追加するのか選べるので「テキスト」を選択、テキスト名や詳細な条件を設定して「保存する」をクリックしてください。
+Press the "Add" button at the bottom of the distributed materials, select "Text" from the types of materials you can add, set the text name and detailed conditions, and click "Save."
 
 <figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
-また、画面右下の「テキストとして配布」をタップすると、フェーズの内容と完全に同期したテキストが、該当のフェーズ終わりに配布されます。例えばオープニングの文章を後から読み返せるようにフェーズ終わりにも配布したい、等の場合にお使いください。\
+Additionally, tapping "Distribute as Text" at the bottom right of the screen will distribute a text completely synchronized with the content of the phase at the end of the respective phase. Use this for cases where, for example, you want to distribute the opening text at the end of the phase so it can be reread later.
 
+\
 
-## テキストタブの内容
+## Contents of the Text Tab
 
-テキストタブには、テキストや画像はもちろんのこと、区切り線や吹き出しも入れられます。
+In the text tab, you can include not only text and images but also dividers and speech bubbles.
 
-それぞれ追加ボタンから追加してください。後から順番を入れ替えることもできます。
+Please add each from the add button. You can also rearrange their order later.
 
 <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
-テキストでは、以下のような文字装飾が使用できます。
+In texts, you can use the following types of text decorations:
 
 ![](../images/giron3.png)
 
 \
 
-
-画像では、画像を画面の**どこに揃えるか**（左寄せ・中央揃え・右寄せ）、どのくらいの**大きさ**で表示するかを設定できます。
+For images, you can set **where to align the image** (left, center, right) and **how large** it appears.
 
 <figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-「特定のフェーズに辿り着いている時」に「特定のキャラクター」に配布するといった基本的な条件以外にも、**複雑な配布条件**を設定することができます。**特殊な情報**や**追加情報**の配布の際に活用してください。
+Apart from basic conditions like distributing to "a specific character" when "reaching a specific phase," you can set **complex distribution conditions**. Utilize these for distributing **special information** or **additional information**.
 
 ![](<../.gitbook/assets/スクリーンショット 2024-02-20 19.16.46.png>)
 
-キャラクターや条件によってテキストや画像の表示・非表示を制御する事も出来ます。詳しくは [text-customize.md](../advanced/text-customize.md "mention") をご覧ください。\
+You can also control the visibility of text and images based on characters and conditions. For more details, see [text-customize.md](../advanced/text-customize.md "mention").
 
+\
 
-## アプリ上での表示順
+## Display Order on the App
 
-ウズスタジオのテキスト一覧における**上から**の順番＝アプリ上のテキストタブ内における**左から**の順番となります。
+In Uzu Studio's text list, the order **from the top** corresponds to the order **from the left** in the text tab on the app.
 
-アプリ上で表示したい順番に入れ替えておきましょう。
+Make sure to rearrange them in the order you want them to appear on the app.
 
 ![](../images/text6.png)

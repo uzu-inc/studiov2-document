@@ -1,31 +1,27 @@
-# ミッション
+# Mission
 
-ウズスタジオv2では、自動判定される**ミッション**を各キャラクターに設定することができます。
+In Uz Studio v2, you can assign **missions** to each character that are automatically determined.
 
-ミッションを設定したい場合はまず「＋」ボタンからミッションタブを追加します。\
+If you want to set a mission, first add the mission tab by clicking the "+" button.\
 
+In the "Title" field, enter the "Mission Description." The "Completion Criteria" can be freely set.\
 
-「タイトル」には「ミッションの内容」を記入します。 「達成条件」は自由に設定できます。\
+Example:
 
+- For a deduction mission: when a certain character votes for a certain **option** (culprit)
+- For a collection mission: when a certain character possesses a certain **clue**
+- For a mission related to a choice: when a certain **ending** is reached\
 
-例
+The missions you set will only be displayed **during the post-game discussion screen**. The mission details **will not be automatically distributed to the text tab of each character**, so it’s okay to set missions that will be revealed during gameplay in the same way.
 
-* 推理ミッションの場合：あるキャラクターがある**選択肢**（犯人）に投票しているとき
-* 収集ミッションの場合：あるキャラクターがある**手がかり**を持っているとき
-* 選択に関わるミッションの場合：ある**エンディング**に到達しているとき\
-
-
-設定したミッションは**感想戦画面でのみ**表示されます。各キャラクターの**テキストタブ等に自動でミッション内容が配布されることはありません**ので、プレイ途中で明かされるミッションも同じように設定しておいて問題ありません。
-
-逆に言うと、ミッション内容は配布テキスト内で文字として書いておかなければ、プレイヤーには伝わらないため注意してください。
+In other words, if you don't write the mission content in the distributed text, the players won't know about it, so be careful.
 
 ![](../../images/character4.png)
 
 \
 
+Each mission can be assigned a **score**. The **total score** will be displayed on the character list screen, allowing you to check the balance with other characters.
 
-ミッションにはそれぞれ**点数**をつけることができます。**点数の合計**はキャラクター一覧画面に表示され、他のキャラクターとのバランスを確認できます。
-
-点数配分を0点にしているミッションは、達成/未達成として、感想戦画面にて点数表記なしで表示されます。
+Missions with a score of 0 points will be displayed as achieved/not achieved without a score display in the post-game discussion screen.
 
 ![](../../images/character6.png)

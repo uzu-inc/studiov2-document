@@ -1,50 +1,46 @@
-# 調査フェーズを組み込みたい
+# Incorporating an Investigation Phase
 
-投票フェーズと手がかり配布を組み合わせることで、調査フェーズを実現することができます。
+By combining a voting phase with clue distribution, you can create an investigation phase.
 
-山札を使った調査については、[こちらのページ](../basic-features/decks.md)をご参照ください。
+For investigations using decks, please refer to [this page](../basic-features/decks.md).
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## ① Creating the Phase
 
-## ①フェーズの作成
+From the phase list, click "Add Phase" and select the "Voting" phase.
 
-フェーズ一覧から「フェーズを追加」をクリックし、「投票」フェーズを選択します。
+Within the voting phase you created, set the options for investigation locations.
 
-作成した投票フェーズ内に、調査箇所の選択肢を設定します。
-
-複数のプレイヤーが同じ場所を調査してしまうと、得られる手がかりが減ってしまうため、それぞれがどこに投票したのか閲覧できる設定にしておくのがよいでしょう。
+Since multiple players investigating the same location reduces the number of clues they can gather, it’s advisable to allow players to view which locations others have voted for.
 
 \
 
+Additionally, by clicking "Prohibit duplicate votes for this option" under "Selection Conditions," you can prevent more than one player from voting for the same option. This is effective when you want each player to investigate different locations without overlap.
 
-また、「選択条件」の「この選択肢の重複投票を禁止する」をクリックすると、同じ選択肢に2人以上が投票できないようにすることができます。1人1つずつ、被りなく調査してもらいたい場合に有効です。
+During gameplay, the options chosen by others will appear dimmed on the screens of the remaining players.
 
-プレイ中の画面では、誰かが選んだ選択肢は他の人の画面で薄く表示されます。
-
-※現在、「この選択肢の重複投票を禁止する」を他の条件と「かつ」や「または」で繋ぐことはできません。
+_Note: Currently, "Prohibit duplicate votes for this option" cannot be combined with other conditions using "and" or "or."_
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## ② Creating Clues
 
-## ②手がかりの作成
+From the clue list, click "Add New" and create clues corresponding to the investigation locations set in step ①.
 
-手がかり一覧から「新規追加」をクリックし、①で設定した調査箇所に対応する手がかりを作成します。
+Set up the clue distribution for each player as follows:
 
-手がかりの配布設定を全員分、以下のように組みます。
-
-| 項目         | 内容                     | 詳細                                                               |
-| ---------- | ---------------------- | ---------------------------------------------------------------- |
-| 条件１（必要な場合） | フェーズ進行・○○が開始した         | <p>手がかりを配布するフェーズです。<br>連続する投票フェーズのうち一番最後のフェーズや議論フェーズがよいでしょう。</p> |
-| 条件２        | 投票行動・○○が投票フェーズで△△に投票した | ①で作成した投票フェーズにて、あるキャラクターが該当する調査箇所に投票しているという条件を設定します。              |
-| 配布方法　　     | 未公開状態で所有権を渡す           | －                                                                |
-| 配布対象       | キャラクターを選択              | 条件２のキャラクターと一致させます。                                               |
+| Item                    | Content                                                 | Details                                                                                                                                   |
+| ----------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Condition 1 (if needed) | Phase Progress・When ○○ starts                          | This is the phase where clues will be distributed. It’s best to use the last of the consecutive voting phases or the discussion phase.    |
+| Condition 2             | Voting Action・When ○○ voted for △△ in the voting phase | Set the condition that a specific character has voted for the corresponding investigation location in the voting phase created in step ①. |
+| Distribution Method     | Transfer ownership in an unpublished state              | －                                                                                                                                        |
+| Distribution Target     | Select a character                                      | Match this to the character from Condition 2.                                                                                             |
 
 \
 
-
-全体公開・共有・譲渡などの条件は「フェーズ進行・○○が開始した」で議論フェーズを指定しておくとよいでしょう。
+For conditions like public display, sharing, or transfer, it’s a good idea to set the discussion phase under "Phase Progress・When ○○ starts."

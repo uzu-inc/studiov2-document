@@ -1,5 +1,5 @@
-# ムービー
+# Movie
 
-mp4形式の動画をアップロードできます。※10MBを超えるものはアップロードできません。
+You can upload videos in mp4 format. Note: Files larger than 10MB cannot be uploaded.
 
-再生はフェーズまたは読み合わせ中のキュー（セリフか地の文）をきっかけに実行できます。
+Playback can be triggered during a phase or by cues (dialogue or narrative) in the read-along phase.

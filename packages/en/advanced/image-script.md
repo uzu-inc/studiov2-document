@@ -1,19 +1,17 @@
-# 読み合わせ中に画像を挿入したい
+# Inserting Images During Read-Along Phases
 
-基本フェーズ内の共通画面や個別に配布するテキストと同じように、読み合わせフェーズでも画像を挿入することができます。
+Just like in the common screen of basic phases or individually distributed texts, you can insert images in the read-along phase as well.
 
 <figure><img src="../.gitbook/assets/image (76).png" alt="" width="252"><figcaption></figcaption></figure>
 
+① Create a read-along phase.
 
+② Add default narrative text by clicking the add button.
 
-①読み合わせフェーズを作成します
+③ Click the icon on the left side of the box you want to convert into an image.
 
-②追加ボタンでデフォルトの地の文を追加します
+④ From the menu that appears, select "Convert to Image."
 
-③画像に変えたいボックスの左側にあるマークをクリックします
-
-④出てきたメニューで「画像に変換」を選択します
-
-⑤画像用のボックスに変わるので挿入したい画像を選択します
+⑤ The box will change to an image box, allowing you to select and insert your desired image.
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>

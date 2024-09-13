@@ -1,64 +1,64 @@
-# 山札
+# Decks
 
-山札では、任意のトークンを消費して手がかりを取得することができます。
+In the deck, you can consume tokens to acquire clues.
 
-## トークン・山札の作成
+## Creating Tokens & Decks
 
-山札ではトークンを消費して手がかりを取得することが前提となっているため、山札の初回作成時には先に**トークン**の設定をする必要があります。 「トークン設定へ」をクリックすると、トークン設定画面に移動します。
+Since the premise in the deck is to consume tokens to obtain clues, it is necessary to configure the **tokens** first when creating the deck for the first time. Clicking on "Go to Token Settings" will take you to the token configuration screen.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-トークンが未設定の場合は以下のような画面になるので、「トークン作成」をクリックしてください。
+If the tokens are not yet set up, the screen will look like this, so please click "Create Token".
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-トークン名、トークンの見た目、配布条件を設定します。 調査にお金がかかるイメージならコイン、時間がかかるイメージなら砂時計といったように決めるとよいでしょう。
+Set up the token name, appearance, and distribution conditions. For example, if the investigation costs money, use a coin; if it takes time, use an hourglass.
 
-用途に合わせて複数のトークンを設定することもできます。
+It is also possible to set up multiple tokens according to the use case.
 
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-**全員に等しく配布**されるような通常の調査トークンであれば、あるフェーズに到達したときにきまった数だけ配布するとよいでしょう。
+For a normal investigation token that is **distributed equally to everyone**, it is a good idea to distribute a set number when a certain phase is reached.
 
-ある手がかりを取得したとき、ある選択肢に投票したときのように特殊な条件を満たした場合に配布されるトークンも設定できます。
+Tokens that are distributed under special conditions, like when a certain clue is obtained or a certain option is voted on, can also be set up.
 
 ![](../images/decks4.png)
 
 \\
 
-トークン設定が終わったら、左メニューから「山札」に戻ります。
+After setting up the tokens, return to the "Decks" from the left menu.
 
-「山札を追加」ボタンから、新しい山札を作成できます。
+From the "Add Deck" button, you can create a new deck.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-## 山札の編集
+## Editing Decks
 
-山札の基本項目は以下の通りです。
+The basic items of a deck are as follows:
 
-* **タイトル**
-  * 山札のタイトルです。
-* **説明文**
-  * 山札の説明文です。山札を使用するときのボタンが「**実行する**」という名前で固定されているので、実行するという文言に合うように説明文を書いてください。
-  * 山札の残り枚数と消費トークンについては自動で表示されるので、説明文には含めないでください。
-* **実行条件**
-  * 山札の実行条件を設定できます。例えば、特定のキャラクターは実行できないようにする、特定の手がかりを持ってないと実行できないようにする、といった設定が可能です。
-* **消費トークン**
-  * 山札を引いたら何枚のトークンが消費されるかを設定できます。
-  * 手がかりごとではなく、山札ごとに固定されます。
-* **山札に含める手がかり**
-  * 山札に含める手がかりを設定できます。何枚でも設定可能です。
-  * **既に手がかりを作成している**場合は「手がかり一覧から選択」、**新しく手がかりを作成する**場合は「新規作成」をクリックしてください。
-  * 手がかりそれぞれについて、山札から手がかりを引いた際に、手がかりを引いたキャラクターに所有権を持たせるのか、それとも全体公開になるのかなど、いくつかの設定が可能です。所有権を持っていると、その人の任意のタイミングで全体公開・共有・譲渡ができます。
-  * 山札に含める手がかりでは、配布条件が自動的に「山札から引かれたとき」になるため、**手がかりごとの配布条件設定**が不要です。
+- **Title**
+  - The title of the deck.
+- **Description**
+  - The description of the deck. Since the button used when utilizing the deck is fixed as "**Execute**," please write the description accordingly.
+  - Do not include details about the remaining number of cards or the tokens consumed in the description, as these are displayed automatically.
+- **Execution Conditions**
+  - You can set the conditions for executing the deck. For example, you can make it so that certain characters cannot perform actions or that actions cannot be performed without specific clues.
+- **Tokens Consumed**
+  - You can set how many tokens are consumed when the deck is used.
+  - The tokens are fixed per deck, not per clue.
+- **Clues Included in the Deck**
+  - You can set which clues to include in the deck. Any number of clues can be set.
+  - If you have **already created clues**, select from the "List of Clues," and if you are **creating new clues**, click "Create New".
+  - For each clue, you can set whether the character who draws the clue from the deck owns it or if it is made public to everyone. Ownership allows for public sharing or transfer at any time by the owner.
+  - The distribution conditions for the clues included in the deck are automatically set to "when drawn from the deck," so **setting distribution conditions for each clue** is not necessary.
 
 ![](../images/decks6.png)
 
@@ -66,44 +66,44 @@
 
 \\
 
-山札の削除には２種類の方法があります。
+There are two ways to delete a deck.
 
-山札に含まれる**手がかりを残して山札構造のみ解除**する場合は「この山札を削除」、**山札もそこに含まれる手がかりも全て消す**場合は「この山札を手がかりごと消去」を選択してください。
+If you want to **dissolve the deck structure while keeping the clues included**, choose "Delete this deck." If you want to **erase both the deck and all the clues included**, select "Erase this deck along with the clues."
 
 ![](../images/decks9.png)
 
 \\
 
-## 山札を設置する
+## Placing Decks
 
-山札は、「**基本**」フェーズに設置が可能です。基本フェーズはアイコンで見分けられます。
+Decks can be placed in the "**Basic**" phase. The basic phase can be identified by its icon.
 
-フェーズ一覧から、山札を設置したいフェーズを選択します。
+From the list of phases, select the phase where you want to place the deck.
 
 ![](../images/decks10.png)
 
 \\
 
-フェーズの内容の「追加」ボタンをクリックし、「**トークン**」と「**山札調査**」を選んでください。
+Click the "Add" button in the phase details and select both "**Tokens**" and "**Deck Investigation**."
 
-調査中にそれぞれのキャタクターの残りトークンを閲覧できるようにするため、**山札調査を行うフェーズでは「トークン」の表示も一緒に設置**することを推奨しています。
+To allow viewing of each character's remaining tokens during the investigation, it is recommended to set up both "Tokens" and "Deck Investigation" during the phase that involves deck investigation.
 
 ![](../images/decks11.png)
 
 \\
 
-プレイ中の実際の画面は以下のようになります。
+The actual screen during play looks like this:
 
-この例では、「役者の持ち物」を役者本人が調査できないようにしているため、一番左の役者の画面では「実行する」が押せないようになっています。
+In this example, since the actor cannot investigate their own props, the "Execute" button is disabled on the screen of the actor on the far left.
 
 ![](../images/decks8.png)
 
-### 山札をランダムに配布する
+### Random Distribution of Decks
 
-デフォルトでは山札は設定している手がかりリストの上から順番に配布されますが、ランダムで配布することも可能です。
+By default, decks distribute the clues in the list from top to bottom, but you can also set them to be distributed randomly.
 
-設定方法は、山札詳細画面の右側の「調査内容の取得順」の「ランダムに取得」にチェックを入れるだけで完了します。
+The setting is simply done by checking "Obtain Randomly" in the "Order of Investigation Content" on the right side of the deck details screen.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-05-24 18.55.07.png" alt=""><figcaption></figcaption></figure>
 
-※Webでの動作確認時には、「プレイ状況をリセット」を押しても順番はシャッフルされず、一度動作確認画面のタブを閉じてもう一度動作確認を立ち上げることによって再度シャッフルされます。
+※During web operation checks, pressing "Reset Play Status" does not shuffle the order; you need to close the tab of the operation check screen and launch the operation check again to shuffle the order.

@@ -1,26 +1,24 @@
-# フェーズの作成・概要
+# Creating Phases - Overview
 
-フェーズの作成方法について説明します。
+This section explains how to create phases.
 
-まずフェーズ一覧画面の右上「フェーズを追加」を押します。
+First, click on "Add Phase" at the top right of the phase list screen.
 
 ![](../../images/phase1.png)
 
 \
 
-
-すると以下の4つからフェーズの種類を選ぶ画面が出てきます。作成したいフェーズの内容に合わせて、適切なものを選択します。
+You will then see a screen where you can choose from the following four types of phases. Select the appropriate type according to the content of the phase you want to create.
 
 ![](../../images/phase2.png)
 
 \
 
+The characteristics of each phase type are as follows. Clicking on the type name will take you to a more detailed explanation page.
 
-それぞれのフェーズ種別の特徴は以下の通りです。種別名をクリックすると、より詳細な説明ページに飛びます。
-
-| 種別名                     | できること                 | 使用例                             |
-| ----------------------- | --------------------- | ------------------------------- |
-| [基本](discussion.md)     | テキスト・画像の表示            | キャラクターテキスト読み込み・議論・説明の提示・追加情報の確認 |
-| [読み合わせ](script.md)      | 地の文・セリフの表示            | オープニング・エンディング・幕間                |
-| [ゲームの流れ表示](timeline.md) | ゲーム全体の流れと次が何のフェーズかの表示 | －                               |
-| [投票](select.md)         | 選択肢の表示と投票             | 犯人投票・分岐前の選択・調査場所の選択             |
+| Type Name                        | Capabilities                                               | Examples                                                                          |
+| -------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Basic](discussion.md)           | Display of text and images                                 | Character text loading, discussions, presentations, additional information review |
+| [Read-through](script.md)        | Display of narration and dialogues                         | Openings, endings, intermissions                                                  |
+| [Game Flow Display](timeline.md) | Display of the overall game flow and what phase comes next | –                                                                                 |
+| [Voting](select.md)              | Display of options and voting                              | Culprit voting, pre-branch choices, selection of investigation locations          |

@@ -1,75 +1,67 @@
-# 全てのエンディングを配布したい
+# Distributing All Endings
 
-v1では全てのエンディングが感想戦で強制的に開示されていましたが、v2では通過していないエンディングを見せるかどうかを作者側で設定できるようになりました。
+In v1, all endings were forcibly revealed during the post-game discussion, but in v2, creators can now decide whether or not to show endings that the players did not pass through.
 
-全てのエンディングを感想戦画面で確認できるようにする方法を説明します。
+This guide explains how to make all endings viewable on the post-game discussion screen.
 
 \
 
+## Method 1: Distribute Endings on the "Thank You" Screen
 
-## 方法１：お疲れさまでした画面で配布する
+**① Add a "Thank You" Phase**
 
-**①お疲れさまでしたフェーズを追加する**
-
-フェーズ一覧画面から「フェーズを追加」をクリックし、「基本」フェーズを選んで作成すると良いでしょう。
-
-フェーズの内容は自由に設定してください。
+From the phase list screen, click "Add Phase" and select a "Basic" phase to create. You can customize the content of the phase freely.
 
 ![](../images/end1.png)
 
 \
 
+**② Place the "Thank You" Phase Just Before the Post-Game Discussion Screen**
 
-**②お疲れさまでしたフェーズを感想戦画面の１つ手前に設置**
-
-フェーズ一覧画面から「フェーズ進行を設定」と進み、①で追加したフェーズを「感想戦画面」の１つ手前に差し込みます。
+From the phase list screen, proceed to "Set Phase Progress" and insert the phase you added in step ① just before the post-game discussion screen.
 
 ![](../images/end2.png)
 
 \
 
+**③ Distribute Endings as Text**
 
-**③エンディングをテキストにも配布する**
-
-フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
+From the phase list, go to the editing screen of each ending phase, and check the option "Distribute as text" under "Record Phase Content."
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
 
-**④配布のタイミングを変更**
+**④ Change the Distribution Timing**
 
-テキスト一覧から、③で追加したエンディングテキストそれぞれの編集画面に行き、配布するフェーズを「お疲れさまでした」に変更します。
+From the text list, go to the editing screen of each ending text you added in step ③, and change the distribution phase to "Thank You."
 
 <figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Method 2: Distribute Endings via Settings
 
-## 方法２：または設定で配布する
+**① Distribute Endings as Text**
 
-**①エンディングをテキストにも配布する**
-
-フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
+From the phase list, go to the editing screen of each ending phase, and check the option "Distribute as text" under "Record Phase Content."
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
 
 \
 
+**② Add Distribution Timing**
 
-**②配布のタイミングを追加する**
+Change the condition to "When 〇〇 has ended" and add the distribution timing for all other endings.
 
-条件を「〇〇が終了した時」に変え、他の全てのエンディングを配布のタイミングとして追加していきます。
-
-条件同士の関係は「または」にしておきましょう。
+Set the relationships between conditions to "or."
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.37.13.png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Method 3: Transcribe Endings into the Post-Game Discussion Screen
 
-## 方法３：感想戦画面に転記する
+**① Add a Tab such as "Other Endings" to the Post-Game Discussion Screen**
 
-**①感想戦画面に「他のエンディング」といったタブを追加する**
-
-**②タブ内にエンディングを転記する**
+**② Transcribe the Endings into the Tab**
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.38.41.png" alt=""><figcaption></figcaption></figure>

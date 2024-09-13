@@ -1,18 +1,14 @@
 ---
-description: 音声ファイルの音量自体を調整する
+description: Adjust the volume of the audio file itself
 ---
 
-# 音声ファイル自体の音量を調整する
+# Adjust the volume of the audio file itself
 
-フリー音源サイトなどから音声をダウンロードした場合、デフォルトの音量が大き過ぎる場合があります。そのような場合に、ウズスタジオ上で音声ファイルの音量を調整する方法をご紹介します。
+When downloading audio from free sound source websites, the default volume may sometimes be too loud. In such cases, here's how to adjust the volume of audio files within UZU Studio.
 
+### ① Click the volume adjustment button in the BGM/SE tab
 
-
-### ① BGM・SEタブで音量調整ボタンをクリック
-
-
-
-以下のような画面になります。
+The following screen will appear.
 
 <div align="left">
 
@@ -20,16 +16,14 @@ description: 音声ファイルの音量自体を調整する
 
 </div>
 
-### ②音量を調整したい音声ファイルの音量を調整する
+### ② Adjust the volume of the audio file you want to modify
 
-数値は現在の音量相対的なものとなるので、マイナスの値が大きいほどより小さく、プラスの値が大きいほどより大きくなります。大抵の場合、-10〜-20に設定しておけば十分小さくなります。
+The values represent the current volume relatively, so the larger the negative value, the quieter the sound, and the larger the positive value, the louder the sound. In most cases, setting the value between -10 to -20 will be sufficiently quiet.
 
-音量を変更すると、▶︎ボタンで変更した音量での試聴が出来ます。
+Once you change the volume, you can preview the modified volume by pressing the ▶︎ button.
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
+### ③ Apply the changes
 
-
-### ③変更を適用する
-
-音量の設定が終わったら、「変更を適用」ボタンをタップすると音声ファイルの音量が変更されます。音量調整は一度に10ファイルまで行うことが出来ます。
+After adjusting the volume, tap the "Apply Changes" button to modify the volume of the audio file. You can adjust the volume of up to 10 files at once.

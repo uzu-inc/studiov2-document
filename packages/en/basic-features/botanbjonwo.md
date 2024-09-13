@@ -1,41 +1,35 @@
-# 右上ボタン：最新バージョンを作成
+# Top Right Button: Create Latest Version
 
-## 最新バージョン作成の操作
+## How to Create the Latest Version
 
-シナリオの制作が終わったら、まずは制作した内容をアプリに反映してテストプレイを実施しましょう。そのために、バージョンを作成する手順を踏む必要があります。
+Once you have finished creating your scenario, first reflect the content in the app and conduct a test play. To do this, you need to follow the steps to create a version.
 
-**右上のボタン**を押すと、新しいバージョンが作成できるかどうかのエラーチェックが自動でおこなわれます。
+Pressing the **top right button** will automatically perform an error check to see if a new version can be created.
 
 ![](../images/submit1.png)
 
-## エラーチェックと修正
+## Error Check and Correction
 
-設定漏れがある場合は、**未設定箇所が表示**されるので、適宜修正してください。
+If there are any settings missing, **unconfigured areas will be displayed**, so please make the necessary corrections.
 
-「**該当箇所へ**」をクリックすると、エラーが出ている場所へ直接飛ぶことができます。
+Clicking "**Go to the corresponding section**" will take you directly to the location of the error.
 
 ![](../images/demo2.png)
 
 \
 
+If everything is set up correctly, a popup for creating the version will appear.
 
-全て問題なく設定できていれば、バージョン作成のためのポップアップが出てきます。
-
-入力欄は、何を修正したのかを後から確認しやすくするための自分用のメモ欄です。作者以外には見えないものなので、自由に記入してかまいません。また、空欄でも問題ありません。
+The input field is a memo field for your own use to make it easier to check what was modified later. It is not visible to anyone other than the author, so feel free to fill it in. It's also okay to leave it blank.
 
 ![](../images/submit4.png)
 
+#### ※What is the Latest Version?
 
+The latest version is for test play and can only be created by the author; general users on the app cannot play this version.
 
-#### ※最新バージョンとは？
+In version 2, compared to version 1, there is more freedom, which means more settings and considerations, and it is more prone to implementation errors. To prevent a version with remaining errors from being released, it has become standard to create the latest version once. The latest version is displayed as "Latest Version" on the release management screen.
 
-作者だけがイベント作成できるテストプレイ用であり、アプリ上の一般ユーザーはプレイできないバージョンのことです。
+Pressing "**Release Latest Version**" on the release management screen releases it on the app as a version that general users can also play. For works transitioning from v1 to v2, **you cannot press "Release Latest Version"** until the transition application is approved.
 
-v2では、v1に比べて自由度が高くなった分、設定箇所や考慮する部分が多くなっており、実装ミスが発生しやすいと考えられます。ミスが残ったままのバージョンが公開されてしまわないよう、一度、最新バージョンが作成されるようになっています。最新バージョンは、リリース管理画面で「最新版」と表示されます。
-
-リリース管理画面から「**最新版をリリース**」を押すと、一般ユーザーも遊べるバージョンとしてアプリ上にリリースされます。v1→v2移行作品では**移行申請が承認されるまで「最新版をリリース」は押せない**ようになっています。
-
-
-
-バージョンを管理する「リリース管理」画面については、[こちら](../scenariohome/release.md)で解説しています。
-
+For more about the "Release Management" screen where versions are managed, see [here](../scenariohome/release.md).

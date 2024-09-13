@@ -1,19 +1,18 @@
-# 感想戦画面
+# Post-Game Discussion Screen
 
-感想戦画面とは、議論・投票・エンディングなど全てが終わった後に表示される解説・結果画面です。
+The post-game discussion screen is the explanation and results screen displayed after all discussions, voting, and endings have concluded.
 
-v1では「真相テキスト」として１つのタブにまとめるしかありませんでしたが、v2では**内容ごとにタブを分けられる**ようになりました。
+In version 1, there was only one option to summarize everything under a tab called "True Explanation Text," but in version 2, **tabs can now be separated by content**.
 
 <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Tab Contents
 
-## タブの内容
+The contents that can be entered in a tab are "Title," "Description," and "Main Text."
 
-タブに入力できる内容は「タイトル」「説明」「本文」の３つです。
-
-タブの内容はそれぞれのタブの右上をクリックすると編集できます。
+You can edit the contents of each tab by clicking on the top right corner of the respective tab.
 
 <div align="left">
 
@@ -21,30 +20,26 @@ v1では「真相テキスト」として１つのタブにまとめるしかあ
 
 </div>
 
-アプリ上の画面との対応は以下の通りです。
+The correspondence with the screens in the app is as follows.
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 \
 
+## Title Differentiation
 
-## タイトルの出し分け
+You can differentiate the first title displayed on the post-game discussion screen based on conditions.
 
-感想戦画面の一番最初に表示されるタイトルを条件に沿って出し分けることができます。
-
-基本的に「基本タイトル」の部分のみ記載しておけば問題はないですが、「条件付きエンディングタイトルを追加」を押すと複雑な出し分けを行うことができます。
+Generally, it's sufficient to just include the "Basic Title," but by clicking "Add Conditional Ending Title," you can perform more complex differentiation.
 
 <figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-### タブの並び替え
+### Tab Reordering
 
-タブを長押しして他のタブと表示順を入れ替えることができます。
+You can long-press a tab and switch the display order with other tabs.
 
+### Display List of Undiscovered Clues
 
-
-### 未取得の手がかり一覧を表示
-
-タブ一覧の一番右にある「未取得の手がかり一覧」というタブのトグルをonにすると、感想戦のタブ一覧の最後に、そのイベントで誰にも取得されなかった手がかりの一覧が表示されます。
+By turning on the toggle for the tab labeled "List of Undiscovered Clues" located at the far right of the tab list, a list of clues that no one obtained during the event will be displayed at the end of the post-game tab list.
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
-

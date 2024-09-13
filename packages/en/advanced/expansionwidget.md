@@ -1,38 +1,31 @@
-# 開閉ブロックを設置する
+# Adding Expandable Blocks
 
-**開閉ブロック**とはタップで開いたり閉じたりできる折り畳み式のブロックのことです。**複数のテキストや山札をまとめたい**ときに便利です。
+**Expandable blocks** are collapsible sections that can be opened and closed with a tap. They are useful when you want to **group multiple texts or card decks** together.
 
+## Adding an Expandable Block
 
-
-## 開閉ブロックの追加
-
-フェーズやテキストの追加ボタン、または「：：：」マークから「前に/次に挿入」をクリックして、開閉ブロックを選択します。
+Click the "Add Phase" or "Add Text" button, or click the "⋮" symbol and select "Insert Before/After." Then, choose the expandable block option.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+## Adding Content to an Expandable Block
 
+Click the arrow on the right side of the added expandable block to make it point downwards and open the block.
 
-## 開閉ブロックの中身の追加
+Click the "Add" button to insert your desired widgets. You can add **text, images, dividers, dialogue, card decks, or additional nested expandable blocks**.
 
-追加した開閉ブロックの右にある矢印が下を向くようにクリックすると、開閉ブロックが開きます。
+To move items in and out of the expandable block, drag them as needed. For larger text boxes or content that doesn't move easily, you may need to use copy and paste.
 
-追加ボタンをクリックして、好きなウィジェットを追加します。**テキスト、画像、区切り線、セリフ、山札、２層目以降の開閉ブロック**が追加できます。
-
-開閉ブロックの外にあるものを中に入れたり、開閉ブロックの中にあるものを外に出したりする際はドラッグ操作で移動させます。文章が長いテキストボックスなどは上手く出し入れできないこともあります。その場合はテキストのコピー＆ペーストをご利用ください。
-
-以下の画像は山札を追加した場合を示しています。複数の調査箇所をまとめたいとき、ジャンル分けしたいときなどに便利です。実際のプレイ画面では矢印部分をタップすると右のようにブロックが開きます。
+The image below shows an example where a card deck has been added. This is useful for grouping multiple investigation areas or categorizing content. During actual gameplay, tapping the arrow will open the block as shown on the right.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+## Layered Structure
 
+You can add **more than two layers** of expandable blocks.
 
-## 層構造
+This is useful when dealing with long character texts that show actions by time and you want to separate them into blocks by time.
 
-開閉ブロックは**２層以上**追加することもできます。
-
-時間ごとの行動を示す文章が長いようなキャラクターテキストにおいて時間ごとにブロック分けしたいとき等に便利です。
-
-層ごとやテキストごとに[表示条件](text-customize.md)も利用できます。
+You can also apply [display conditions](text-customize.md) for each layer or text.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-

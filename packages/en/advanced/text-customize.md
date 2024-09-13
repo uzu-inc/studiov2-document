@@ -1,37 +1,37 @@
-# キャラクターによって表示する内容を変えたい
+# Changing Displayed Content Based on the Character
 
-この機能を使うことで、特定の条件を満たしているキャラクターにのみ追加情報が分かるといったギミックを作ることが出来ます。
+By using this feature, you can create a mechanism where only characters that meet specific conditions can see additional information.
 
-この機能は現状、以下の箇所で使用できます。
+Currently, this feature can be used in the following sections:
 
-* 基本フェーズの「フェーズの内容」のテキスト/アクション/山札
-* テキストタブのテキスト
-* 手がかりの「手がかりの詳細」のテキスト
+- Text/Actions/Decks in the "Phase Content" of the Basic Phase
+- Text in the Text Tab
+- Text in "Clue Details" of Clues
 
-今回は例として手がかりの詳細のテキストを特定の条件によって変更してみましょう。
+In this example, we'll change the text in the clue details based on specific conditions.
 
-### ①テキストを作成する
+### ① Create the Text
 
-「手がかりの詳細」で、条件分岐を行いたいテキストを作成します。今回は、赤文字の部分を条件によって出し分けたいと思います。
+In "Clue Details," create the text you want to show conditionally. In this example, we will conditionally show or hide the red text.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-12-15 16.54.34 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### ②表示条件の制限を行う
+### ② Restrict Display Conditions
 
-まず、以下のような手順で条件の制限を行います。
+First, follow the steps below to set the condition restrictions.
 
 <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-そうすると、条件を設定するダイアログが表示されるので、任意の条件を設定します。
+A dialog for setting conditions will appear, allowing you to configure any conditions.
 
-条件の詳しい設定方法は[こちら](../basic-features/condition.md)
+For detailed information on setting conditions, see [this guide](../basic-features/condition.md).
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-12-15 17.03.47.png" alt=""><figcaption></figcaption></figure>
 
-条件を設定し、「保存する」を押すとテキストの表示が変わり、表示条件が設定されました。
+After setting the conditions, click "Save." The text display will now change according to the display conditions.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-12-15 17.04.00.png" alt=""><figcaption></figcaption></figure>
 
-動作確認を行ってみましょう。同じ手がかりでも、キャラクターによって違う文章が表示されています。
+Let's test the functionality. The same clue now displays different text depending on the character.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-12-15 17.04.54.png" alt=""><figcaption></figcaption></figure>

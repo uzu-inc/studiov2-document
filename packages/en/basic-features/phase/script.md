@@ -1,66 +1,53 @@
-# 読み合わせフェーズ
+# Script Reading Phase
 
-読み合わせフェーズでは、**地の文**と**セリフ**を設定することができます。 キャラクターの掛け合いがあるオープニングやエンディング、幕間などに適しています。\
+In the Script Reading Phase, you can set up **narrative text** and **dialogue**. This is ideal for scenes such as the opening, ending, or intermission where character interactions take place. \
 
+## Basic Settings
 
-## 基本項目
+The settings for basic elements such as the title or caption are the same as in the [Basic Phase](discussion.md). \
 
-タイトルやキャプションなどの基本項目の設定は[基本フェーズ](discussion.md)と同じです。\
-
-
-v1では「地の文の読み手」を設定すると自動でプレイ中画面に「○○が地の文を読み上げてください」という文章が表示されていましたが、v2では**サブタイトルかキャプションに文章として入れる**必要があります。自由入力式になったことで「○○が地の文を、△△がNPCのセリフを」といった指定がしやすくなっています。
+In v1, setting a "narrator" would automatically display the message "○○ will narrate" during the game screen, but in v2, you need to **include this as part of the subtitle or caption**. With this free-text input format, it is now easier to specify, for example, "○○ will narrate, and △△ will voice the NPC dialogue."
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-## 地の文・セリフ
+## Narrative Text & Dialogue
 
-地の文とセリフについて、ウズスタジオの編集画面と実際のプレイ画面の対応は以下の通りです。 v2では自分が担当するキャラクターのセリフに色がつくようになりました。
+The correspondence between the editing screen in Uzustudio and the actual gameplay for narrative text and dialogue is as follows. In v2, dialogue spoken by your character is now color-coded.
 
 ![](../../images/script2.png)
 
-* **キャラクター**のセリフ
-  * プレイヤーキャラクターのセリフとして設定すると、そのキャラクターが喋っているような吹き出しがつきます。
-  * 「進む」を押す人はセリフに設定されているキャラクターになります。
-* **NPC**のセリフ
-  * NPCのセリフとして設定すると、そのキャラクターが喋っているような吹き出しがつきます。
-  * 「進む」を押す人はウズスタジオの「地の文の読み手」に設定されているキャラクターになります。
-* **地の文**
-  * キャラクターを設定しないと、誰も喋っているように見えない、いわゆる地の文として表示されます。
-  * 「進む」を押す人は、ウズスタジオの「地の文の読み手」に設定されているキャラクターになります。
+- **Character Dialogue**
+  - If set as the player character’s dialogue, it will display a speech bubble as if the character is speaking.
+  - The person who presses “Continue” will be the character assigned to that dialogue.
+- **NPC Dialogue**
+  - If set as the NPC’s dialogue, it will display a speech bubble as if the character is speaking.
+  - The person who presses “Continue” will be the character assigned as the "narrator" in Uzustudio.
+- **Narrative Text**
+  - If no character is assigned, it will appear as narrative text without anyone seeming to speak.
+  - The person who presses “Continue” will be the character assigned as the "narrator" in Uzustudio.
 
+## Adding Images to Dialogue
 
+You can add images to dialogue sections in addition to text. For more details, see [image-script.md](../../advanced/image-script.md "mention"). \
 
-## セリフに画像を追加する
+## What is "Add Effects"?
 
-セリフの部分には、テキスト以外に画像も追加することができます。詳しくは [image-script.md](../../advanced/image-script.md "mention")をご覧ください。\
+The "Add Effects" button is explained in the [Effects](../bgm.md) section.
 
+## Distributing the Phase Content as Text
 
-## 「演出を追加」とは？
+If you want to **distribute the reading history to the Text tab** (so it can be referenced later), you can configure it from the menu on the right.
 
-「演出を追加」というボタンについては、[演出](../bgm.md)ページで説明します。
+If you want to add **synchronized text** (which is not editable from the text side and automatically updates when the phase is edited): \
+→ Just turn on "Distribute as text" under the phase recording options.
 
+If you want to add **copied text** (which is editable from the text side and is a copy of the current phase content):
 
+1. Press "＋ Add" in the distribution items.
+2. Select "Text."
+3. Open the distribution text field.
+4. Select "Copy this phase."
 
-## フェーズの内容をテキストにも配布する
-
-読み合わせの履歴を**テキストタブにも配布したい**（後から見返せるようにしたい）場合は右側のメニューから設定します。
-
-
-
-フェーズの内容と**同期したテキスト**（テキスト側から編集不可・フェーズのほうで編集するとテキストにも自動反映される）を追加したい場合\
-→フェーズ内容の記録「テキストとして配布」をONにするだけです。
-
-
-
-現在入力済みのフェーズの内容を**コピーしたテキスト**（テキスト側から編集可）を追加したい場合
-
-1. 配布物「＋追加」を押す
-2. テキストを選択
-3. 配布テキストの欄を開く
-4. 「このフェーズのコピー」を選択する
-
-
-
-読み合わせフェーズでは基本的に前者の「同期したテキスト」にしておくのがよいでしょう。
+In general, it's recommended to set it as the former, "synchronized text," during the Script Reading Phase.
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

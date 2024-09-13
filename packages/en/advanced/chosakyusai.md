@@ -1,42 +1,35 @@
-# 全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい
+# Implementing a Rescue Phase When Proceeding Before Everyone Has Completed the Investigation
 
-１つ前のフェーズに戻るような操作ができないウズでは、手がかりの取得が全て終わらないまま次へ進んでしまうと、必要な情報が欠けたままになることがあります。
+In UZU, where it is not possible to go back to the previous phase, moving forward without completing all clue gathering may result in missing necessary information.
 
-それを回避するために、調査を忘れていた場合・調査が完了していなかった場合の救済フェーズを設ける方法をご紹介します。
+To avoid this, here is how to implement a rescue phase for situations where the investigation was forgotten or incomplete.
 
+## Pattern 1: Always Go Through the Rescue Phase
 
-
-## パターン１：必ず救済フェーズを通るようにする
-
-難易度：低
+Difficulty: Low
 
 <figure><img src="../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
 
-①調査の説明や山札などを設置した調査フェーズを作成します。
+① Create an investigation phase with explanations and the deck of clues.
 
-②その調査フェーズをコピーし、救済用のフェーズとします。 「先程のフェーズで調査が全て終わっていない場合、今ここで手がかりを取得してください」 のような文章を追加するとよいでしょう（書き方は自由です）。
+② Copy that investigation phase and make it the rescue phase. It's a good idea to add a message like "If you didn't finish the investigation in the previous phase, please gather the clues here" (you can write it however you like).
 
-③元の調査フェーズと救済用のフェーズを図のように連続で配置して繋げば完了です。
+③ Simply place and link the original investigation phase and the rescue phase in sequence, as shown in the diagram, to complete the setup.
 
+## Pattern 2: Only Go to the Rescue Phase When the Investigation is Incomplete
 
-
-## パターン２：調査が不完全なときだけ救済フェーズに行くようにする
-
-難易度：中～高
+Difficulty: Medium to High
 
 <figure><img src="../.gitbook/assets/image (79).png" alt="" width="563"><figcaption></figcaption></figure>
 
-①調査の説明や山札などを設置した調査フェーズを作成します。
+① Create an investigation phase with explanations and the deck of clues.
 
-②その調査フェーズをコピーし、救済用のフェーズとします。 「調査が終わっていない人がいるようです。今ここで手がかりを取得してください」 のような文章を追加するとよいでしょう（書き方は自由です）。
+② Copy that investigation phase and make it the rescue phase. It's a good idea to add a message like "It seems someone hasn't finished the investigation. Please gather the clues here" (you can write it however you like).
 
-③調査フェーズと次のフェーズ（図中では議論１）を普通に繋ぎます。
+③ Link the investigation phase and the next phase (in the diagram, "Discussion 1") as normal.
 
-④条件を満たしていると救済フェーズに寄り道してから次のフェーズ（図中では議論１）に行くように繋ぎます。
+④ Set it up so that if certain conditions are met, players will detour to the rescue phase before moving to the next phase (in the diagram, "Discussion 1").
 
-⑤救済フェーズに行く条件として、「調査が終わっていないとき（手がかりを持っていないなど）」を設定すれば完了です。
+⑤ As the condition for going to the rescue phase, set it to "When the investigation is incomplete (e.g., clues not collected)." This completes the setup.
 
 <figure><img src="../.gitbook/assets/image (80).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-

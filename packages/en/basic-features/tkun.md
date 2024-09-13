@@ -1,6 +1,5 @@
-# トークン
+# Tokens
 
-トークンは山札と共に使います。
+Tokens are used in conjunction with decks.
 
-詳しくは「[山札](decks.md)」で説明していますので、そちらをご覧ください。
-
+For more details, please see "[Decks](decks.md)."

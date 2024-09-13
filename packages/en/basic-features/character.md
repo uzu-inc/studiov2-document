@@ -1,3 +1,3 @@
-## キャラクターの設定
+## Character Settings
 
-「キャラクター」では、PC（プレイヤーキャラクター）とNPC（ノンプレイヤーキャラクター）の基本項目、PCのミッションを設定できます。
+In "Character," you can set the basic elements for PCs (Player Characters) and NPCs (Non-Player Characters), as well as the mission for PCs.

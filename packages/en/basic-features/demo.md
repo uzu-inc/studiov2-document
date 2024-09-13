@@ -1,32 +1,29 @@
-# 右上ボタン：動作確認
+# Top-right Button: Operation Check
 
-実際のアプリでテストプレイをする前に、ウズスタジオ上で動作確認を実施することができます。
+Before conducting a test play on the actual app, you can perform an operation check on UzStudio.
 
-エディター画面の右上の「再生ボタン」をクリックすると、動作確認ができるかどうかのチェックが自動でおこなわれます。
+By clicking the "Play button" at the top right of the editor screen, an automatic check will be performed to see if the operation check can be conducted.
 
 ![](../images/demo1.png)
 
 \
 
+If there are any settings omitted, **the unset areas will be displayed**, so please make the necessary adjustments.
 
-設定漏れがある場合は、**未設定箇所が表示**されるので、適宜修正してください。
-
-「**該当箇所へ**」をクリックすると、エラーが出ている場所へ直接飛ぶことができます。
+Clicking "**Go to the corresponding section**" will take you directly to the location of the error.
 
 ![](../images/demo2.png)
 
 \
 
-
-全て設定できている場合は、画面が切り替わり「**動作確認を行う**」が表示されるので、クリックしてください。
+If all settings are complete, the screen will change and "**Proceed with operation check**" will be displayed, so please click on it.
 
 ![](../images/demo4.png)
 
 \
 
+You will perform the operation check while operating a screen almost identical to the app.
 
-アプリとほぼ同じ画面を操作しながら動作確認を行います。
-
-BGMやSEも流れます。
+Background music and sound effects will also play.
 
 ![](../images/demo3.png)

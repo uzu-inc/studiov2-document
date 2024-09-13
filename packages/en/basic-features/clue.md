@@ -1,102 +1,77 @@
-# 手がかり
+# Clues
 
-手がかりでは、ゲーム中にやり取りする手がかりの設定や編集ができます。
+In Clues, you can set up and edit the clues exchanged during the game.
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ![](../images/clue1.png)
 
+## Basic Items
 
+The basic items of clues are displayed on the **List of Clues** and **Detail of Clues** screens during play.
 
-## 基本項目
-
-手がかりの基本項目は、プレイ中画面の**手がかり一覧**と**手がかり詳細**に表示されます。
-
-対応は以下の通りです。
+The correspondences are as follows:
 
 <figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
-
-
-**タグ**はプレイ中に実行できる絞り込み検索にも関係しています。
+**Tags** are also related to the filtering search that can be performed during play.
 
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
-\
+**Whether to display the existence of unpublished clues on the list screen for non-owners** can also be set. Turning this setting ON will make it apparent to others that the person has some clue, even if they are not the owner.
 
-
-**未公開の手がかりの存在を所有者以外の手がかり一覧画面に表示するかどうか**も設定できます。この設定をONにすると、所有者以外からも、その人が何らかの手がかりを持っていることが分かるようになります。
-
-所有者以外の画面に表示されるのは「非公開時のタイトル」と「タグ」だけであり、手がかりの詳細は開示されません。
+What is displayed on the screen for non-owners are only "Title when private" and "Tags", and the details of the clue are not disclosed.
 
 <figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
-\
+**About the display of the number of clues**
 
+Only the clues that are "public" and "unpublished but set to display when private" are counted, i.e., those whose existence is clear on the person's screen.
 
-**手がかりの数の表示について**
+## Distribution Conditions (Optional)
 
-「公開されている手がかり」と「未公開時の表示設定がONになっている手がかり」、すなわち、その人の画面上で存在が明らかとなっている手がかりのみがカウントされます。
+Distribution conditions are set from the '＋ Add' button in the upper right corner. You can decide under what conditions, how, and to whom to distribute.
 
-\
+In distribution methods, whether there is "ownership" of a clue is important. If you own a clue, you can make it public, share it, or transfer it; without ownership, these actions cannot be done.
 
+## Collection Conditions (Optional)
 
-## 配布条件（任意）
+Once distributed, clues remain in play, but by setting collection conditions, you can also return them to a state of non-play.
 
-配布条件は右上の「＋追加」ボタンから設定します。どんな条件で、どんな風に、誰に配布するかを決められます。
+Collection conditions are set from the '＋ Add' button under the distribution conditions.
 
-配布方法では「所有権」があるか否かは重要です。手がかりの所有権があると全体公開・共有・譲渡ができ、所有権がないとそれらができません。
+You can combine them with distribution conditions to collect them once and redistribute them in the second half, for example.
 
+You can set various conditions for collection, so if you are unfamiliar, please set them while checking the [conditions settings page](condition.md).
 
+If you want to create a scenario with a drastically different look between the first and second half, or if the rules are complex and you need to use sample clues to explain in the first half, please use this feature.
 
-## 回収条件(任意)
+## Conditions for Public Release, Sharing, and Transfer (Optional)
 
-手がかりは**一度配布すると場に出たまま**になりますが、回収条件を設定することで場に出てない状態に戻すことも出来ます。
+If you want to allow the exchange of clues with other players, set conditions for public release, sharing, and transfer.
 
-回収条件は配布条件の下の「＋追加」ボタンから設定します。
+The contents are as follows:
 
-配布条件と組み合わせて、一度回収して後半に再度配布、といったことも出来ます。
+| Item                | Display on Uzu App  | Content                                                                                    |
+| ------------------- | ------------------- | ------------------------------------------------------------------------------------------ |
+| Public              | Public to everyone  | You can make the clue public to everyone.                                                  |
+| Share in this space | Information sharing | You can show the clue only to those in the same room, such as during a private discussion. |
+| Transfer            | Transfer            | You can select one person and transfer the clue to them.                                   |
 
+Settings include "Simple Settings" and "Advanced Conditions Settings".
 
+Simple settings allow you to set public release, sharing, and transfer only in the basic phases you created.
 
-様々な条件で回収を設定することができますので、不慣れな方は[条件設定のページ](condition.md)を確認しながら設定してください。
-
-前半と後半で様相がガラリと変わるシナリオを作りたい時や、ルールが複雑で前半にサンプル的な手がかりを使って説明するのが必要な場合等でお使いください。
-
-
-
-## 全体公開・共有・譲渡の条件（任意）
-
-他のプレイヤーとの手がかりのやり取りを許可したい場合は、全体公開・共有・譲渡などの条件を設定します。
-
-それぞれの内容は以下の通りです。
-
-| 項目     | ウズアプリ上での表示 | 内容                                |
-| ------ | ---------- | --------------------------------- |
-| 全体公開   | 全体に公開      | 手がかりを全員に公開することができます               |
-| この場に共有 | 情報共有       | 密談中などそのルーム内にいる人だけに手がかりを見せることができます |
-| 譲渡     | 譲渡する       | 相手を１人選んで手がかりを譲渡できます               |
-
-\
-
-
-設定には「簡易設定」と「高度な条件設定」があります。
-
-簡易設定では、基本フェーズとして作ったフェーズでのみ全体公開・共有・譲渡できるように設定できます。
-
-高度な条件設定では、フェーズだけでなく、投票結果や手がかりの状況、ルームなどを条件に組み込むことができます。
+Advanced conditions settings allow you to include not only phases but also voting results, clue situations, rooms, etc., as conditions.
 
 ![](../images/clue8.png)
 
+## Actions
 
+Actions within clues are explained on [this page](clue.md#akushon).
 
-## アクション
+## Applications
 
-手がかり内へのアクションの設置は[こちらのページ](clue.md#akushon)で解説しています。\
+If you want to incorporate an investigation phase combining voting phases and clues into your scenario, please refer to [this page](../advanced/investigation.md).
 
-
-## 応用
-
-投票フェーズと手がかりを組み合わせた調査フェーズをシナリオに組み込みたい場合は[こちらのページ](../advanced/investigation.md)をご参照ください。
-
-また、山札調査については[こちらのページ](decks.md)で説明しています。
+For deck investigations, please see [this page](decks.md).

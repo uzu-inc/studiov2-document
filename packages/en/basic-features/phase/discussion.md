@@ -1,60 +1,60 @@
-# 基本フェーズ
+# Basic Phase
 
-基本フェーズでは**テキスト・画像・山札・アクション**などの表示ができます。 キャラクターテキスト読み込み、議論、調査、説明の提示、追加情報の確認などに適しているフェーズです。
+In the Basic Phase, you can display **text, images, decks, and actions**. This phase is suitable for loading character texts, discussing, investigating, presenting explanations, and verifying additional information.
 
 \\
 
-## 入力する項目と内容
+## Fields to Input and Their Content
 
-| 項目                  | 内容                                                                                       | 記入例                         |
-| ------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |
-| 管理タイトル(任意)          | <p>作者がウズスタジオ上でシナリオを実装する上でメモ的に使うタイトルです。<br>アプリ上には反映されません。</p>                             | ○○フェーズの次・○○の場合など            |
-| タイトル(必須)            | トップに表示されるタイトルを設定します。                                                                     | キャラクターテキスト読み込み・第一議論など       |
-| サブタイトル(任意)          | <p>タイトルの下に黒字で表示される文章を設定します。<br>空欄の場合は表示されません。</p>                                        | テキストタブを開いてください・議論を始めてくださいなど |
-| キャプション(任意)          | <p>タイトルの下にグレーで表示される文章を設定します。<br>空欄の場合は表示されません。</p>                                       | 議論時間は10分です・手がかりの公開ができますなど   |
-| 所要時間                | フェーズ完了条件を「次へボタン」にしている場合は目安の所要時間、「制限時間(タイマー)」にしている場合はタイマーの設定時間になります。 前者の場合、アプリ上には表示されません。 | 半角数字                        |
-| フェーズ完了条件(必須)        | 「次へ」ボタンを押して進むか、「タイマー」を設定するかを決めます。                                                        | －                           |
-| 次へボタンを押せるキャラクター(必須) | フェーズ完了条件を「次へボタン」にしている場合はそれを押せるキャラクターを設定できます。特にこだわりがなければ全員にしておくといいでしょう。                   | －                           |
-| フェーズの内容(必須)         | 共通画面に表示するテキスト・画像・山札・アクションを設定します。                                                         | 指示文・共通情報・山札・アクションなど         |
+| Field                                           | Content                                                                                                                                                                                           | Example                                              |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Management Title (Optional)                     | <p>A title used by the author on Uzu Studio for memo-like purposes during scenario implementation.<br>It does not reflect on the app.</p>                                                         | Phase next for ○○・If ○○ then                        |
+| Title (Required)                                | Sets the title displayed at the top.                                                                                                                                                              | Character Text Loading・First Discussion             |
+| Subtitle (Optional)                             | <p>Set the text displayed in black under the title.<br>If left blank, it will not be displayed.</p>                                                                                               | Please open the text tab・Start the discussion       |
+| Caption (Optional)                              | <p>Set the text displayed in gray under the title.<br>If left blank, it will not be displayed.</p>                                                                                                | Discussion time is 10 minutes・Clues can be revealed |
+| Required Time                                   | If the phase completion condition is set to "Next Button," it's the estimated time required; if set to "Time Limit (Timer)," it's the timer setting time. The former does not display on the app. | Enter numeric values                                 |
+| Phase Completion Condition (Required)           | Decide whether to proceed by pressing the "Next" button or by setting a "Timer."                                                                                                                  | -                                                    |
+| Characters Who Can Press Next Button (Required) | If the phase completion condition is set to "Next Button," you can set which characters can press it. It's good to allow all if there's no particular preference.                                 | -                                                    |
+| Phase Content (Required)                        | Set the text, images, decks, and actions to be displayed on the common screen.                                                                                                                    | Instruction text・Common information・Decks・Actions |
 
 <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-## フェーズの内容について
+## About the Phase Content
 
-テキスト・画像・山札・アクションなどの追加は「＋追加」ボタンからおこないます。
+Adding text, images, decks, and actions is done through the "Add +" button.
 
-以下のようなポップアップが出てくるので追加したいものを選択してください。
+A popup like the following will appear, so select what you want to add.
 
 <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
-テキストでは、以下のような文字装飾が使用できます。
+For text, you can use the following types of text decorations.
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-画像では、画像を画面の**どこに揃えるか**（左寄せ・中央揃え・右寄せ）、どのくらいの**大きさ**で表示するかを設定できます。
+For images, you can set **where to align the image** (left-aligned, centered, right-aligned) and **how big** to display it.
 
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
-## フェーズの内容をテキストにも配布する
+## Distributing Phase Content as Text
 
-このフェーズ中に共通画面に表示した情報を**テキストタブにも配布したい**（後から見返せるようにしたい）場合は右側のメニューから設定します。
+If you want to distribute the information displayed on the common screen during this phase to the **text tab** as well (to make it reviewable later), set it up from the menu on the right.
 
-フェーズの内容と**同期したテキスト**（テキスト側から編集不可・フェーズのほうで編集するとテキストにも自動反映される）を追加したい場合\
-→フェーズ内容の記録「テキストとして配布」をONにするだけです。
+If you want to add synchronized text (cannot be edited from the text side; editing on the phase side automatically reflects on the text) with the phase content\
+→ Just turn ON "Distribute as Text" for phase content recording.
 
-現在入力済みのフェーズの内容を**コピーしたテキスト**（テキスト側から編集可）を追加したい場合
+If you want to add copied text (can be edited from the text side) from the currently inputted phase content:
 
-1. 配布物「＋追加」を押す
-2. テキストを選択
-3. 配布テキストの欄を開く
-4. 「このフェーズのコピー」を選択する
+1. Press "Add +" for distribution.
+2. Select text.
+3. Open the distribution text field.
+4. Select "Copy of this phase".
 
-同期したテキストはルール説明・共通情報を追加したいときなど、コピーしたテキストは個別に編集を加えたい内容のときに便利です。
+Synchronized text is useful for adding rule explanations and common information, while copied text is convenient for content that requires individual editing.
 
 <figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption></figcaption></figure>

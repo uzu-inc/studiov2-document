@@ -1,11 +1,11 @@
-## フェーズ
+## Phases
 
-フェーズは、マダミスのシナリオの流れを設定する最重要パーツです。
+Phases are the most crucial parts in setting the flow of scenarios in Madame Miss.
 
-フェーズについて設定する画面は主に 2 画面あります。
+There are mainly two screens for setting up phases:
 
-1. [それぞれのフェーズの編集画面](../basic-features/phase/basic.md)
-   → フェーズの中身を設定する
+1. [Editing screen for each phase](../basic-features/phase/basic.md)
+   → Set the contents of the phase
 
-2. [フェーズ進行の設定画面](../basic-features/phase/flow.md)
-   → フェーズの遷移を設定する
+2. [Phase progression setting screen](../basic-features/phase/flow.md)
+   → Set the transitions between phases

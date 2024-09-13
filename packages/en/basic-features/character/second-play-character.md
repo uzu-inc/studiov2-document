@@ -1,21 +1,14 @@
-# 周回プレイキャラクター
+# New Game Plus Characters
 
-2024年5月に周回プレイ機能がリリースされ、周回プレイキャラクターを設定できるようになりました。
+The New Game Plus feature was released in May 2024, allowing players to set up characters specifically for repeat gameplay.
 
-
-
-ウズスタジオでの設定はとても簡単。
-
-キャラクター編集画面の右上にある「2周目＋専用キャラクター」にチェックを入れるだけです。
+Setting up at UzStudio is very simple. Just check the "NG+ Exclusive Character" box in the top right corner of the character edit screen.
 
 <figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
+## Details of the New Game Plus Feature
 
-
-## 周回プレイ機能の詳細
-
-* 「2周目＋専用キャラクター」にチェックを入れたキャラクターは、そのキャラクター以外でそのシナリオをプレイ済みの人、シナリオ詳細画面の未プレイボタンをプレイ済みに変えた人だけが選択できます。
-* 周回プレイキャラクターが設定されているシナリオを一度プレイした人は、2回目以降のプレイの際、周回プレイキャラクターしか選択できません。
-* 周回プレイキャラクターと通常キャラクターでプレイ料金を変えることができます。公開準備をする際のフォームに回答欄がありますので、そこで指定してください。
-* GMや進行役を周回プレイキャラクターとして設定しており、進行役向けの事前資料を配布したい場合は「[追加コンテンツ](../../scenariohome/marketing.md#kontentsuno)」をご利用ください。追加コンテンツはシナリオ詳細画面の未プレイボタンをプレイ済みに変えると、プレイ前から閲覧することができます。
-
+- Characters checked as "NG+ Exclusive Character" can only be selected by players who have already played that scenario with other characters, or those who have changed the "Unplayed" button to "Played" on the scenario detail screen.
+- Players who have played a scenario with a New Game Plus character set up can only select New Game Plus characters for their second and subsequent plays.
+- You can set different playing fees for New Game Plus characters and regular characters. There will be a field to specify this when preparing for publication.
+- If you wish to set a GM or facilitator as a New Game Plus character and distribute preparatory materials specific to facilitators, please use the "[Additional Content](../../scenariohome/marketing.md#kontentsuno)" section. Additional content can be viewed before playing once the "Unplayed" button is changed to "Played" on the scenario detail screen.

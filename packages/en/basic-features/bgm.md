@@ -1,12 +1,11 @@
-# 演出
+# Staging
 
-### 演出
+### Staging
 
-演出では、主にBGM・SEと背景画像、カラーテーマを設定します。
+In staging, you mainly set BGM, sound effects (SE), background images, and color themes.
 
 \
 
+### Frequently Asked Questions
 
-### よくある質問
-
-演出についてのよくある質問は[こちら](../QandA.md#bgm-se)
+Common questions about staging can be found [here](../QandA.md#bgm-se).

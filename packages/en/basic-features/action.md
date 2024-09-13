@@ -1,173 +1,133 @@
 ---
-description: 単純な手がかり取得や山札調査を超えた様々なアクションを設定できます。
+description: You can set various actions beyond simple clue acquisition and deck investigation.
 ---
 
-# アクション
+# Actions
 
-## アクションの新規作成・種類
+## Creating New Actions & Types
 
-左メニューから「アクション」に移動します。
+Navigate to "Actions" from the left menu.
 
-「アクションを追加」をクリックし、アクションの種類を選ぶと、新規作成ができます。
+Click "Add Action" to choose the type of action, and you can create a new one.
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
+There are currently two types of actions available (as of 2023.12.7).
 
-
-アクションには以下の2種類があります（2023.12.7現在）。
-
-<table><thead><tr><th width="141">名称</th><th>内容</th></tr></thead><tbody><tr><td><a href="action.md#shinpuruakushonno">シンプル</a></td><td>「実行する」を押すだけでアクションが発動する</td></tr><tr><td><a href="action.md#pasuwdoakushonno">パスワード</a></td><td>「実行する」を押すとパスワード入力が求められ、正しいパスワードを入力するとアクションが発動する</td></tr></tbody></table>
+<table><thead><tr><th width="141">Name</th><th>Description</th></tr></thead><tbody><tr><td><a href="action.md#shinpuruakushonno">Simple</a></td><td>Triggered by simply pressing "Execute"</td></tr><tr><td><a href="action.md#pasuwdoakushonno">Password</a></td><td>Pressing "Execute" prompts for a password input, and the action is activated if the correct password is entered</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
 
+## List of Configurable Actions
 
+As of 2023.12.7, the following actions can be set:
 
-## 設定できるアクション一覧
+<table><thead><tr><th width="226">Item</th><th>Description</th></tr></thead><tbody><tr><td>Send Notification</td><td>Sends a text notification at the top of the screen when the action is executed.</td></tr><tr><td>Play Sound Effect</td><td>Plays a sound effect when the action is executed.</td></tr><tr><td>Reveal Clue</td><td>Reveals a specific clue to everyone. Ownership is not transferred.</td></tr><tr><td>Phase Transition</td><td>Forcibly transitions to a specific phase.<br>For example, it's recommended to use this in scenarios like the reasoning announcement phase where it's acceptable for one player to decide to move to the next phase.</td></tr><tr><td>Clue Ownership</td><td>Distributes a specific clue to a character.</td></tr><tr><td>Clue Viewing Rights</td><td>Grants viewing rights for a specific clue to a character.</td></tr><tr><td>Move to Chat Room</td><td>Forcibly moves to a specific chat room.</td></tr></tbody></table>
 
-2023.12.7現在、以下のアクションが設定できます。
+## Setting Simple Actions
 
-<table><thead><tr><th width="226">項目</th><th>内容</th></tr></thead><tbody><tr><td>通知を送信</td><td>アクション実行時に画面上部にテキストで通知を送ります。</td></tr><tr><td>SE再生</td><td>アクション実行時に効果音を鳴らします。</td></tr><tr><td>手がかり公開</td><td>特定の手がかりを全体公開します。所有権は渡されません。</td></tr><tr><td>フェーズ遷移</td><td>強制的に特定のフェーズに移行します。<br>例えば、推理発表フェーズなど、1人のプレイヤーの判断で次のフェーズに遷移していい状況で使うのがおすすめです。</td></tr><tr><td>手がかり所有権</td><td>特定の手がかりをキャラクターに配布します。</td></tr><tr><td>手がかり閲覧権</td><td>特定の手がかりの閲覧権をキャラクターに与えます。</td></tr><tr><td>通話ルーム移動</td><td>強制的に特定の通話ルームに移動させます。</td></tr></tbody></table>
+### In the Action Editing Screen
 
-
-
-## シンプルアクションの設定
-
-### アクション編集画面での設定
-
-* **タイトル**：アクションのタイトルです。どのように表示されるかは右側のプレビューで確認します。
-* **説明文**：アクションのボタンが「**実行する**」という名前で固定されているので、実行するという文言に合うように説明文を書いてください。
-* **アクションの実行条件**：キャラクターの制限だけであればチェックボックスで簡単にできます。その他細かい条件を設定したい場合は「[**高度な設定**](action.md#na)」を利用してください。
-* **結果アクション**：「実行する」を押すと何が起こるのかを設定します。画像の例では、実行すると特定の手がかりが配布されるよう設定しています。
+- **Title**: The title of the action. Check how it will be displayed in the preview on the right side.
+- **Description**: Since the action button is fixed to "**Execute**," write a description that fits this wording.
+- **Action Execution Conditions**: If it's just restricting to characters, it can be easily done with checkboxes. For more detailed settings, use "[**Advanced Settings**](action.md#na)."
+- **Result Action**: Sets what happens when "Execute" is pressed. For instance, in the image example, it's set to distribute a specific clue when executed.
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-#### 結果アクションを複数設定する
+#### Setting Multiple Result Actions
 
-以下の画像のように、結果アクションを複数設定することができます。
+As shown in the following image, multiple result actions can be set.
 
-これらは、プレイヤーが「実行する」のボタンを1回押したときに**一連のアクションとして全て実行**されます。上から順番に処理されますので、「手がかりを配布→通知を送る」の順で処理したい場合は、この画面で上からそう並ぶように設定してください。
+These will be executed all at once as a series of actions when the player presses the "Execute" button once. They are processed in order from top to bottom, so if you want to process them in the order of "distribute clue → send notification," set them up that way in this screen.
 
 <figure><img src="../.gitbook/assets/image (59).png" alt="" width="515"><figcaption></figcaption></figure>
 
+### Placement of Actions (In Clues/Phases)
 
+Actions don't appear during the game just by being set in the action editing screen. You need to configure where the created actions will be placed.
 
-### アクションの配置（手がかり/フェーズでの設定）
+They can be placed in two locations: "within a clue" and "within a basic phase." Here, we'll discuss placing them "within a clue." For placing them "within a basic phase," please refer to [here](action.md#akushonnofzugakarideno-1).
 
-アクションは、アクションの編集画面で設定するだけではゲーム中に登場しません。作成したアクションをどこに配置するのかを設定する必要があります。
-
-配置できるのは、「手がかりの中」と「基本フェーズの中」の2ヶ所です。ここでは「手がかりの中」に配置する場合を説明します。「基本フェーズの中」に置く場合の操作は[こちら](action.md#akushonnofzugakarideno-1)をご参照ください。
-
-
-
-以下のように、「日記」という手がかりの中に「中身を見る（１ページ目の内容を追加配布する）」というアクションを置きたいとします。
+For instance, you want to place an action called "View Contents (add distribution of the first page's content)" within a clue called "Diary."
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-①左メニューから「手がかり」に移動します。
-
-②アクションを配置したい手がかりの編集画面に移動します。
-
-③アクション欄の「追加」をクリックします。
-
-④配置したいアクションを選択して決定をクリックします。
+1. Navigate to "Clues" from the left menu.
+2. Move to the editing screen of the clue where you want to place the action.
+3. Click "Add" in the action section.
+4. Select the desired action and click "Decide."
 
 <figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-
-
-アクション欄に以下のように表示されたら成功です。
+If it appears as shown below, it's successful.
 
 <figure><img src="../.gitbook/assets/image (58).png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Setting Password Actions
 
+### In the Action Editing Screen
 
-## パスワードアクションの設定
-
-### アクション編集画面での設定
-
-* **タイトル**：アクションのタイトルです。どのように表示されるかは右側のプレビューで確認します。
-* **説明文**：アクションのボタンが「**実行する**」という名前で固定されているので、実行するという文言に合うように説明文を書いてください。
-* **回答**：パスワードの正解を入力します。カンマ区切りで表記揺れなど複数設定することができます。空白スペースは無視されます。
-  * 回答タブを追加すると「おはよう」と入力されたら「おはよう」と返し、「こんにちは」と入力されたら「こんにちは」と返すような入力内容ごとの反応を設定することもできます。
-* **アクションの実行条件**：キャラクターの制限だけであればチェックボックスで簡単にできます。その他細かい条件を設定したい場合は「[**高度な設定**](action.md#na)」を利用してください。
-* **結果アクション**：「実行する」を押すと何が起こるのかを設定します。パスワードを正しく入力できた場合とできなかった場合に分かれています。
-  * **共通タブ**：正答の回答タブを複数設定しており、それらに共通した結果アクションがある場合は共通タブに設定します。例えば正答の回答を入力すると、まず効果音が鳴り、その後は入力内容ごとにアクションが分かれる場合、共通タブに「効果音」を設定し、回答１以降にそれぞれの結果アクションを設定するとよいでしょう。
+- **Title**: The title of the action. Check how it will be displayed in the preview on the right side.
+- **Description**: Since the action button is fixed to "**Execute**," write a description that fits this wording.
+- **Answer**: Enter the correct password. You can set multiple entries separated by commas. White spaces are ignored.
+  - Adding an Answer Tab allows you to set reactions for each input, such as returning "Good morning" when "Good morning" is entered, and "Hello" when "Hello" is entered.
+- **Action Execution Conditions**: If it's just restricting to characters, it can be easily done with checkboxes. For more detailed settings, use "[**Advanced Settings**](action.md#na)."
+- **Result Action**: Sets what happens when "Execute" is pressed. It's divided into scenarios where the password is entered correctly and where it's not.
+  - **Common Tab**: If there are multiple correct answer tabs set, and they share common result actions, set them in the common tab. For example, if entering a correct answer first triggers a sound effect, then depending on the input, the actions are divided, set "Sound Effect" in the common tab, and set each result action for Answer 1 onwards.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-画像の例における、結果アクションの中身はそれぞれ以下のようになっています。
+In the image example, the contents of the result actions are as follows.
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
+### Placement of Actions (In Clues/Phases)
 
+Actions don't appear during the game just by being set in the action editing screen. You need to configure where the created actions will be placed.
 
-### アクションの配置（手がかり/フェーズでの設定）
+They can be placed in two locations: "within a clue" and "within a basic phase." Here, we'll discuss placing them "within a basic phase." For placing them "within a clue," please refer to [here](action.md#akushonnogakarifzudeno).
 
-アクションは、アクションの編集画面で設定するだけではゲーム中に登場しません。作成したアクションをどこに配置するのかを設定する必要があります。
-
-配置できるのは、「手がかりの中」と「基本フェーズの中」の2ヶ所です。ここでは「基本フェーズの中」に配置する場合を説明します。「手がかりの中」に置く場合の操作は[こちら](action.md#akushonnogakarifzudeno)をご参照ください。
-
-
-
-以下のように「議論フェーズ」に、パスワードで金庫を開けられるアクションを配置したいとします。
-
-
+For instance, you want to place an action that allows opening a safe with a password during the "Discussion Phase."
 
 <figure><img src="../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-①左メニューから「フェーズ」に移動します。
-
-②アクションを配置したい手がかりの「基本フェーズ（議論フェーズなど）」に移動します。
-
-③フェーズの内容の下部にある「追加」ボタンをクリックします。
-
-④「アクション」を選択します。
-
-⑤該当のアクションにチェックを入れて「決定」をクリックします。
+1. Navigate to "Phases" from the left menu.
+2. Move to the basic phase (like the Discussion Phase) where you want to place the action.
+3. Click the "Add" button at the bottom of the phase content.
+4. Select "Action."
+5. Check the corresponding action and click "Decide."
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-以下のように適切に追加されたら成功です。
+If it is added properly as shown below, it's successful.
 
 <figure><img src="../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Advanced Edition: Setting Advanced Execution Conditions
 
+We will explain advanced condition settings that can be used for both simple and password actions.
 
-## 発展編：実行条件の高度な設定
+### Limiting Action Execution to Once
 
-シンプルアクションとパスワードアクション両方で使用できる、高度な条件設定について解説します。
+If no conditions are set, anyone can execute the action any number of times after a successful execution.
 
+For example, if you set an action to distribute a specific clue to the executor when "Execute" is pressed, after Mr. A executes it, if Mr. B executes it, the clue will move from Mr. A's possession to Mr. B's (because the action overwrites the previous execution).
 
+To avoid such situations, you need to set conditions that prevent the action from being executed again after a successful execution. Here's an example of how to set this up.
 
-### アクションの実行を１回に制限したい
-
-特に条件を設定しなければ、アクションは成功後も誰でも何回でも実行できてしまいます。
-
-例えば、「実行する」で特定の手がかりを実行者に配布する設定にしていた場合、Ａさん実行後にＢさんが実行すると、手がかりはＡさんの手元から消え、Ｂさんの手元に移ります（アクションの実行が上書きされるため）。
-
-そういった状況を回避したいときは、アクションの実行が成功したら、それ以降はアクションを実行できないような条件を設定する必要があります。設定の例を画像で示します。
-
-
-
-**シンプルアクションの場合**
+**For a Simple Action**
 
 <figure><img src="../.gitbook/assets/image (67).png" alt="" width="563"><figcaption></figcaption></figure>
 
+**For a Password Action**
 
-
-**パスワードアクションの場合**
-
-上記のシンプルアクションと同じように設定してしまうと、パスワード入力に誤答した場合でも「実行した」と判断され、それ以降は誰も入力にチャレンジできなくなってしまうので、少し設定に工夫が必要です。
+If you set it up the same way as the simple action, even an incorrect password input would count as "executed," and afterwards, no one else would be able to attempt to input the password, so a bit of customization is necessary in the settings.
 
 <figure><img src="../.gitbook/assets/image (68).png" alt="" width="563"><figcaption></figcaption></figure>
 
+### Other Limitations
 
+You can also set conditions such as "only during a certain phase," "only when in a certain chat room," "only if the person has a certain clue," etc.
 
-### その他の制限
-
-「あるフェーズの進行中のみ」、「ある通話ルームにいるときのみ」、「ある手がかりを持っている人のみ」などの条件を設定することもできます。
-
-シナリオの内容に合わせてご活用ください。
-
+Utilize these settings according to the content of your scenario.

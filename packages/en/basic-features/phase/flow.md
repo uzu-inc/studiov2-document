@@ -1,51 +1,46 @@
-# フェーズ進行
+# Phase Progression
 
-フェーズ進行は**フェーズ同士の順番**や**分岐**を設定する画面です。
+Phase Progression is the screen where you set the **order of the phases** and their **branching**.
 
-左メニューから「フェーズ」を選択し、その画面の中にある「進行設定」をクリックすると編集画面に移動できます。
+From the left menu, select "Phases," and within that screen, click "Progression Settings" to move to the editing screen.
 
 \
 
+## Basic Operations
 
-## 基本操作
+The basic operations are "arranging" and "connecting."
 
-基本的な操作は「並べる」「繋げる」の 2 つです。
+Phases can be connected as follows, allowing you to set which phase follows which. The alphabets written on the line correspond to the alphabets displayed on the left column.
 
-フェーズとフェーズは以下のような操作をすれば繋げることができ、どのフェーズの次に何のフェーズが来るのかを設定することができます。 線上に書いてあるアルファベットと左列に表示されるアルファベットが対応しています。
+If you want to reconnect an already connected line (transition) to a different place, find the corresponding alphabet from the left column and select **Delete** from the "..." menu.
 
-既に繋がっている線（遷移）を別の場所へ繋ぎなおしたいときは、左列から該当のアルファベットを探し、「・・・」から**削除**を選択してください。
-
-※スマートフォンで閲覧している場合、横持ちにしないと左半分が表示されません。
+_Note: If you are browsing on a smartphone, the left half will not display unless you hold it horizontally._
 
 ![](../../images/flow.gif)
 
 \
 
+## Types of Transitions
 
-## 遷移の種類
+There are two types of lines (transitions) between phases: "**Basic Transition**" and "**Conditional Transition**."
 
-フェーズとフェーズの間の線（遷移）には、「**基本遷移**」と「**条件遷移**」の２種類があります。
-
-| 遷移の種類 | 見た目      | 説明                                                       |
-| ----- | -------- | -------------------------------------------------------- |
-| 基本遷移  | ○ 白地に黒文字 | <p>「次へ」をタップ/設定した時間経過で遷移する<br>条件遷移のどれにも当てはまらないときに遷移する</p> |
-| 条件遷移  | ● 黒地に白文字 | 条件を満たしている場合のみ遷移する                                        |
+| Type of Transition     | Appearance              | Description                                                                                                              |
+| ---------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Basic Transition       | ○ White with black text | <p>Transitions on tap or after a set time has passed<br>If no conditional transitions apply, this transition occurs.</p> |
+| Conditional Transition | ● Black with white text | Transitions only if certain conditions are met.                                                                          |
 
 \
 
+Setting multiple lines (transitions) from one phase will always result in one being a "**Basic Transition**" and the rest as "**Conditional Transitions**." This can be visualized as branching from voting to an ending.
 
-ひとつのフェーズから複数の線（遷移）を設定すると、必ず１つが「**基本遷移**」、残りが「**条件遷移**」になります。 投票からエンディングへの**分岐**をイメージすると分かりやすいでしょう。
+When there are multiple conditional branches, they are prioritized from top to bottom in the left column. The alphabets are just identifiers and do not indicate priority.
 
-条件分岐が複数あるときは左列で**上から順に優先**となります。アルファベットはただの識別記号であり、優先順位とは関係ありません。
-
-遷移の条件を設定したり、削除したりするときは「・・・」を押してください。
+To set or delete transition conditions, press the "..." button.
 
 ![](../../images/flow2.png)
 
-分岐条件に「かつ」と「または」の複合（入れ子）を使用することもできます。詳しくは[こちら](../condition.md#gurpu)をご覧ください。
+You can also use a combination of "and" and "or" in nesting conditions. For more details, see [here](../condition.md#gurpu).
 
+## Frequently Asked Questions
 
-
-## よくある質問
-
-フェーズ進行に関するよくある質問は[こちら](../../QandA.md#phases)
+For frequently asked questions related to phase progression, see [here](../../QandA.md#phases)
