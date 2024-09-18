@@ -1,34 +1,29 @@
-# サブ画像の設定
+# Setting Sub-Images
 
-カバー画像ではキービジュアルのほかにサブ画像を最大10枚まで設定することができます。
-
-
+In addition to the key visual, you can set up to 10 sub-images for your cover.
 
 <figure><img src="../../.gitbook/assets/image (147).png" alt="" width="563"><figcaption></figcaption></figure>
 
+Please follow the rules below when setting sub-images:
 
-
-サブ画像は以下のルールに従って設定してください。
-
-* キービジュアルはサブ画像ではなく必ずトップに設定すること
-* 公序良俗に反するものをアップロードしないこと
+- The key visual must always be set as the top image, not as a sub-image.
+- Do not upload content that violates public morals or decency.
 
 {% hint style="info" %}
-サブ画像として設定できるものの例
+Examples of what can be used as sub-images:
 
-* キービジュアルの別バージョン
-* キャラクター紹介画像
-* シナリオ傾向・概要を紹介する画像
-* 導入漫画・導入イラスト
-* スクリーンショットを撮って使用できるプレイ前カード
-{% endhint %}
+- Alternative versions of the key visual
+- Character introduction images
+- Images introducing the scenario's theme or overview
+- Introduction comics or illustrations
+- Pre-play cards or screenshots that players can use
+  {% endhint %}
 
 {% hint style="danger" %}
-サブ画像として設定できないもの
+Examples of what **cannot** be used as sub-images:
 
-* シナリオのネタバレを含むもの
-* 外部サイトへ誘導する宣伝
-* シナリオと関係のないもの
-* 他のシナリオの宣伝
-{% endhint %}
-
+- Content containing spoilers for the scenario
+- Advertisements leading to external websites
+- Unrelated content
+- Promotions for other scenarios
+  {% endhint %}

@@ -1,96 +1,79 @@
-# 発展的な使い方
+# Advanced Usage
 
-## キャラクターを追加したい
+## How to Add Characters
 
-プレイアブルキャラクターを追加する場合は「キャラクター」の画面から、NPCを追加する場合は「NPC」の画面から追加します。
+To add playable characters, use the "Character" screen. To add NPCs, go to the "NPC" screen.
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
+## How to Add Phases
 
+#### ① Click "Add Phase" and Select a Type
 
-## フェーズを追加したい
+From the phase list screen, click "Add Phase" and choose the type of phase to add.
 
-#### ①「フェーズを追加」をクリックして種類を選択
-
-フェーズ一覧画面から「フェーズを追加」をクリックして、どんなフェーズを追加するのか選択します。
-
-* 基本フェーズ：キャラクターテキスト読み込み、追加情報配布、議論、説明の提示など
-* 読み合わせ：キャラクターやNPCのセリフ・地の文で構成される読み合わせパート、進むを押しながら順に読んでほしいパートなど
-* ゲームの流れ表示：「ゲームの流れ」で設定した全体の流れが表示される
-* 投票：真相の投票、行動の選択など
+- Basic Phase: For character text reading, additional information distribution, discussions, or explanations.
+- Read-aloud: A part composed of character or NPC dialogue and narration, where players take turns reading.
+- Game Flow Display: Shows the overall game flow as set in "Game Flow."
+- Voting: For truth voting, action selection, etc.
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-#### ②フェーズを繋ぐ操作をする
+#### ② Connect the Phases
 
-フェーズ一覧画面から「進行設定」に移動します。
+From the phase list screen, move to "Progress Settings."
 
-画像の例では「新しく追加したフェーズ」を「第一議論」と「追加情報」の間に入れようとしています。操作手順は以下の通りです。
+In the image example, the new phase is being placed between "First Discussion" and "Additional Information." Follow these steps:
 
-1. 「第一議論」と「追加情報」の間の既に繋がっている「F」を一度削除する（・・・ボタンから削除）。
-2. 「第一議論」から「新しく追加したフェーズ」、「新しく追加したフェーズ」から「追加情報」を繋ぐ。
+1. Remove the existing connection between "First Discussion" and "Additional Information" by deleting the "F" (via the "..." button).
+2. Connect "First Discussion" to the new phase and then the new phase to "Additional Information."
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-#### ③ゲームの流れに追加する
+#### ③ Add to the Game Flow
 
-フェーズ一覧から「ゲームの流れ」に移動します。ここでの操作は以下の通りです。
+From the phase list screen, move to "Game Flow." Follow these steps:
 
-1. 「タイムライン追加」をクリック
-2. 必須事項を入力する
-3. 画面下部の「タイムライン未設定フェーズ」から該当のフェーズをドラッグで移動してくる
+1. Click "Add Timeline."
+2. Enter the required information.
+3. Drag the relevant phase from "Unassigned Timeline Phases" at the bottom of the screen to the timeline.
 
-詳しくは[こちらのページ](../../basic-features/phase/timeline.md)でも説明しています。
+For more details, see [this page](../../basic-features/phase/timeline.md).
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
+## How to Delete Phases
 
+#### ① Delete from the Phase Details Screen
 
-## フェーズを削除したい
-
-#### ①フェーズ詳細画面からフェーズを削除する
-
-フェーズの詳細画面の右上にある「・・・」をクリックして、削除を選択します
+In the phase details screen, click the "..." button in the top-right corner and select "Delete."
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-#### ②フェーズ進行を繋ぎなおす
+#### ② Reconnect Phase Progress
 
-フェーズ一覧画面から「進行設定」に移動します。削除した部分の繋がりが切れているので、繋ぎなおします。
+From the phase list screen, move to "Progress Settings." Since the connection where the phase was deleted is broken, reconnect it.
 
+#### ③ Delete from the Game Flow
 
+From the phase list screen, move to "Game Flow" and remove the phase from the game flow list.
 
-#### ③ゲームの流れから削除する
+## How to Add Text
 
-フェーズ一覧画面から「ゲームの流れ」に移動します。該当フェーズの説明をゲームの流れ一覧から削除します。
+Please refer to [this page](../../basic-features/textTab.md).
 
+## How to Distribute Clues
 
+Please refer to [this page](../../basic-features/clue.md).
 
-## テキストを追加したい
+## How to Use the Deck Function
 
-[こちらのページ](../../basic-features/textTab.md)をご参照ください。
+Please refer to [this page](../../basic-features/decks.md).
 
+## How to Create Secret Talk Rooms
 
+Please refer to [this page](../../basic-features/room.md).
 
-## 手がかりを配布したい
+## How to Set BGM
 
-[こちらのページ](../../basic-features/clue.md)をご参照ください。
-
-
-
-## 山札機能を使いたい
-
-[こちらのページ](../../basic-features/decks.md)をご参照ください。
-
-
-
-## 密談ルームを作りたい
-
-[こちらのページ](../../basic-features/room.md)をご参照ください。
-
-
-
-## BGMを設定したい
-
-[こちらのページ](../../basic-features/bgm.md)をご参照ください。
-
+Please refer to [this page](../../basic-features/bgm.md).

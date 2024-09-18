@@ -1,105 +1,105 @@
-# よくある質問
+# Frequently Asked Questions
 
-## キャラクターについて
+## About Characters
 
 <details>
 
-<summary>PCやNPCは何人まで作成できるか</summary>
+<summary>How many PCs and NPCs can be created?</summary>
 
-PC（プレイヤーキャラクター）は7人まで作成できます。\
-NPCは理論上、無限です。
+You can create up to 7 PCs (Player Characters).\
+There is no limit for NPCs (Non-Player Characters) in theory.
 
 </details>
 
 <details>
 
-<summary>設定したミッションはプレイ中、どこから確認できるのか</summary>
+<summary>Where can I check the mission set during gameplay?</summary>
 
-ウズスタジオのキャラクター編集画面で設定したミッションは、**感想戦画面でのみ**表示されます。プレイ中のテキストタブ等に自動で表示されることはありませんので、プレイヤーにミッションを提示したい場合は**配布するテキスト内に文字情報として載せる**ようにしてください。
-
-</details>
-
-\\
-
-## フェーズについて <a href="#phases" id="phases"></a>
-
-<details>
-
-<summary>分岐がある場合の遷移設定で、全てを条件遷移（青い線の分岐）にすることができないのなぜか？</summary>
-
-条件遷移で全ての可能性を網羅できていない場合、プレイヤーの選択によっては行きつくフェーズがない状態が発生し、**進行不能**になってしまいます。そういった状況に陥るのを防ぐため、必ず１つは「条件遷移で設定されていない残り全て」に対応する**基本遷移**（黒い線の分岐）になるようにしてあります。
-
-</details>
-
-<details>
-
-<summary>同票のときとそうでないときで分岐を分けられるか？</summary>
-
-同票でも最多と見なす「**同票最多**」、単独トップのときのみ最多と見なす「**単独最多**」という条件が設定できます。
-
-例えば、４人シナリオで２対２となっていても２人が犯人に投票できていれば正答エンドに遷移させたい場合は「**同票最多**」を、２：１：１か３：１で犯人が最多である場合しか認めたくない場合は「**単独最多**」を使うと良いでしょう。
-
-</details>
-
-<details>
-
-<summary>読み合わせフェーズに画像を入れられるか</summary>
-
-セリフボックスの横にある6つの点が並んでいるマークをクリックし、「画像に変換」を選択すると、画像が挿入できるようになります。
+The mission set in the character editing screen of Uz Studio will **only be displayed in the post-game discussion screen**. It will not automatically appear in the text tab during gameplay, so if you want to present the mission to players, make sure to **include it as text in the distributed materials**.
 
 </details>
 
 \\
 
-## テキストについて
+## About Phases <a href="#phases" id="phases"></a>
 
 <details>
 
-<summary>特定のフェーズ以降、読み返せなくなるようなテキストを配布したい</summary>
+<summary>Why can't I set all transitions to conditional transitions (blue lines) when there are branches?</summary>
 
-テキストの配布条件で「特定のフェーズにいる時のみ」を設定してください。
+If all possibilities are not covered by conditional transitions, there may be situations where players encounter a phase with no destination, causing the game to become **unplayable**. To prevent this, there must always be one **default transition** (black line) to cover all other conditions not set by conditional transitions.
 
 </details>
 
 <details>
 
-<summary>別の画面に移動してから戻ってくると、入力したはずのテキストが消えている</summary>
+<summary>Can branches be separated depending on whether there is a tie in votes?</summary>
 
-反映が遅れているだけの可能性が高いため、一度リロード「Ctrl + R」「Command + R」をお試しください。
+You can set conditions for "Tied Majority," where tied votes are considered the majority, or "Solo Majority," where only a single top vote counts as the majority.
 
-</details>
-
-<details>
-
-<summary>数字以外が斜体にならない</summary>
-
-エディター画面では斜体が反映されません。動作確認やアプリ上では反映されています。
+For example, in a 4-person scenario, if you want to branch to the correct ending even if the vote is 2:2, you should use "Tied Majority." If you only want to recognize the correct ending when the vote is 2:1:1 or 3:1, use "Solo Majority."
 
 </details>
 
 <details>
 
-<summary>文字の色を変更したが反映されない</summary>
+<summary>Can images be inserted into the reading phase?</summary>
 
-もともと黒以外の文字色にしていたテキストの色を別の色で上書きした場合は、エディター画面で即時反映されません。一度リロード「Ctrl + R」「Command + R」をしていただくと反映されます。
+Yes, you can insert images by clicking the icon with six dots next to the dialogue box and selecting "Convert to Image."
+
+</details>
+
+\\
+
+## About Text
+
+<details>
+
+<summary>Can I distribute text that cannot be re-read after a certain phase?</summary>
+
+Set the distribution conditions for the text to "Only while in a specific phase."
 
 </details>
 
 <details>
 
-<summary>画像がアップロードできない</summary>
+<summary>Text disappears after moving to another screen. Why?</summary>
 
-4.5MB以上の画像はアップロードできません。サイズの圧縮をしてからアップロードしてください。\
-4.5MB未満であるがアップロードできていないように見える場合は、リロード「Ctrl + R」「Command + R」をお試しください。\
-それでも反映されない場合は、運営チームにお問い合わせください。
+It may be due to a delay in reflection. Try refreshing the page with "Ctrl + R" or "Command + R."
 
 </details>
 
 <details>
 
-<summary>動作確認・テストプレイで「エラーが発生しました」と出る</summary>
+<summary>Non-numeric text is not italicized. Why?</summary>
 
-画像のようなエラーの場合、何も書かれていないテキストボックスがあるのが原因です。ウズスタジオのエディター画面から該当のテキストボックスを削除すると、次の動作確認（テストプレイ）から直ります。
+Italic formatting does not appear in the editor screen but will be reflected during testing or in the app.
+
+</details>
+
+<details>
+
+<summary>Text color change is not reflected. Why?</summary>
+
+If you overwrite text that was originally not black, the color change may not immediately appear in the editor. Please refresh the page with "Ctrl + R" or "Command + R" to reflect the changes.
+
+</details>
+
+<details>
+
+<summary>I can't upload an image. Why?</summary>
+
+Images larger than 4.5MB cannot be uploaded. Please compress the image before uploading.\
+If the image is under 4.5MB but still doesn't upload, try refreshing the page with "Ctrl + R" or "Command + R."\
+If the problem persists, please contact the support team.
+
+</details>
+
+<details>
+
+<summary>I get an "Error has occurred" message during testing. Why?</summary>
+
+This is likely caused by an empty text box. Delete the empty text box from the editor screen in Uz Studio to resolve the issue in the next test play.
 
 <img src="images/QA1.png" alt="" data-size="original">
 
@@ -107,210 +107,173 @@ NPCは理論上、無限です。
 
 \\
 
-## 手がかりについて
+## About Clues
 
 <details>
 
-<summary>ある一つの手がかりに関して、見る人によって表示する内容を変えることはできるか</summary>
+<summary>Can I show different clue information depending on who is viewing it?</summary>
 
-可能です。[こちらのページ](advanced/text-customize.md)をご参照ください。
+Yes, this is possible. Please refer to [this page](advanced/text-customize.md).
 
 </details>
 
 <details>
 
-<summary>一度配布した手がかりを特定のタイミングから非表示にしたい</summary>
+<summary>Can I hide a distributed clue at a specific timing?</summary>
 
-[手がかりの回収](basic-features/clue.md#hui-shou-tiao-jian-ren-yi)機能をご利用ください。
-
-</details>
-
-\\
-
-## ルームについて
-
-まだ質問はありません。
-
-\\
-
-## 感想戦画面について
-
-<details>
-
-<summary>感想戦画面に何を書けばいいのか分からない</summary>
-
-推理を必要とするシナリオの場合は、必ず真相とその解説をするタブを追加してください。解説として、どのような内容を書けばいいのか分からない方は、公式Discordサーバー内の「編集部記事」チャンネルから「解説テキストの書き方・コツ」という記事をご参照ください。
-
-</details>
-
-<details>
-
-<summary>感想戦画面に置いたリンクがクリック/タップしても反応しなかった</summary>
-
-アプリの実際の画面上でリンクをタップした際、問題なく遷移できる/遷移できない/アプリが落ちるなど、端末や環境によって動作が異なるため、リンクの新規設置はできないようになっています。単にURLの文字列を表示することや二次元コードの画像を設置することは可能です。
-
-過去に設置したリンクについて\
-動作確認ではクリックしても反応しないようになっています。
+Use the [Clue Collection](basic-features/clue.md#hui-shou-tiao-jian-ren-yi) feature.
 
 </details>
 
 \\
 
-## 演出について <a href="#bgm-se" id="bgm-se"></a>
+## About Rooms
+
+No questions have been asked yet.
+
+\\
+
+## About the Post-Game Discussion Screen
 
 <details>
 
-<summary>フェーズの途中でBGMを切り替えたい</summary>
+<summary>I don't know what to write in the post-game discussion screen. Any tips?</summary>
 
-読み合わせフェーズであれば可能です。[演出](basic-features/bgm.md)で方法を説明していますので、ご参照ください。
+If your scenario requires reasoning, be sure to add a tab for the solution and its explanation. If you are unsure what content to include as an explanation, please refer to the article "How to Write a Solution Text" in the "Editing Department" channel on the official Discord server.
 
 </details>
 
 <details>
 
-<summary>どうしてもアップロードできないBGMがある</summary>
+<summary>Links placed in the post-game discussion screen are not responsive. Why?</summary>
 
-1分あたり2MBを超えるBGMはアップロードできません。「mp3 圧縮」等で検索すると、サイズ容量を小さくできるサイトが見つかりますので、1分あたり2MB未満にしてからアップロードしてください。
+Link behavior varies depending on the device and environment, such as whether the link transitions correctly or crashes the app. Because of this, new links cannot be placed. However, displaying the URL as text or placing a QR code image is possible.
 
-</details>
-
-<details>
-
-<summary>BGMの音量が大きすぎる</summary>
-
-Audacityなどのアプリや音量調整のできるサイトを利用して音量を調整してからアップロードする、ウズスタジオ内の音量調整ボタンから調整する　のいずれかをお願いいたします。
-
-実際にアプリ内で聞こえる音量は、スマートフォンでウズスタジオにアクセス→イヤホンをつけてBGMを再生してみる　で確認できます。
+For previously placed links,\
+they will not respond when clicked during testing.
 
 </details>
 
 \\
 
-## ゲームの流れについて
+## About Effects <a href="#bgm-se" id="bgm-se"></a>
 
 <details>
 
-<summary>フェーズで設定している制限時間と異なる時間がゲームの流れに表示される</summary>
+<summary>Can I change the BGM during a phase?</summary>
 
-フェーズの編集画面で設定するタイマーとは別で、[ゲームの流れ](QandA.md#gmunorenitsuite)の編集画面でも制限時間を入力する必要があります。フェーズの編集画面で設定した制限時間と同じ時間をゲームの流れの編集画面に入力すれば、不一致が解消されます。
+Yes, it is possible during the reading phase. Please refer to the [Effects](basic-features/bgm.md) section for the method.
+
+</details>
+
+<details>
+
+<summary>There's a BGM that I can't upload. Why?</summary>
+
+You cannot upload BGM that exceeds 2MB per minute. You can search for "mp3 compression" to find websites that allow you to reduce the file size to less than 2MB per minute before uploading.
+
+</details>
+
+<details>
+
+<summary>The BGM volume is too loud. How can I adjust it?</summary>
+
+You can either adjust the volume using applications like Audacity or through websites that allow volume control before uploading, or you can use the volume adjustment button within Uz Studio.
+
+To check the actual volume in the app, access Uz Studio via your smartphone, put on headphones, and play the BGM.
 
 </details>
 
 \\
 
-## その他
+## About Game Flow
 
 <details>
 
-<summary>「シナリオが見つかりませんでした〜」と表示される</summary>
+<summary>The time limit displayed in the game flow differs from the one set in the phase. Why?</summary>
 
-自作シナリオのはずであるのに、以下のような「シナリオが見つかりませんでした〜」となる場合の対処法です。
+In addition to setting the timer in the phase editing screen, you also need to enter the time limit in the [Game Flow](QandA.md#gmunorenitsuite) editing screen. To resolve the discrepancy, make sure to input the same time in both the phase editing screen and the game flow editing screen.
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+</details>
 
-**V1から移行したシナリオの場合**
+\\
 
-v1シナリオをv2のウズスタジオで使用する場合、移行処理が必要です。
+## Other
 
-[v1-to-v2.md](others/v1-to-v2.md "mention") を行なってください。
+<details>
 
-**V2シナリオの場合**
+<summary>"This account is not linked to Uz" message appeared. What should I do?</summary>
 
-ログインが正常にできていない可能性が高いので、以下の操作を行なってください。
-
-**①「シナリオが見つかりませんでした〜」の画面からログアウトする**
-
-PCでウズスタジオにアクセスしている方は左下のログアウトボタン、スマートフォンの方はヘッダー一番右のドアアイコンのボタンからログアウトを行います。
-
-* PCの方
-
-<img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
-
-* スマートフォンの方
-
-<img src=".gitbook/assets/名称未設定.003.jpeg" alt="" data-size="original">
-
-**②ログイン画面に遷移するので、普段お使いのウズアカウントのログイン方法でログインする**
-
-<img src=".gitbook/assets/image (5) (1) (1).png" alt="" data-size="original">
-
-この方法でログインし直しても同様の症状になる方は、運営にお問い合わせください。
+Click "Logout" on the screen and log in again. If the issue persists after re-logging in, please contact the support team.
 
 </details>
 
 <details>
 
-<summary>「このアカウントはウズに連携していません」という画面になった</summary>
+<summary>The content of the scenario seems to have disappeared. What should I do?</summary>
 
-画面に表示されているログアウトをクリックし、もう一度ログインしてください。再ログインで解消しない場合は、運営チームにお問い合わせください。
-
-</details>
-
-<details>
-
-<summary>シナリオの中身が消えたように見える</summary>
-
-読み込みが間に合ってないだけの場合が多いです。リロード「Ctrl + R」「Command + R」、あるいは、時間を置いてから再度確認してください。解消しない場合は、運営チームにお問い合わせください。
+It is likely just a loading issue. Please refresh the page with "Ctrl + R" or "Command + R" or wait and check again later. If the issue persists, please contact the support team.
 
 </details>
 
 <details>
 
-<summary>Application errorと表示された</summary>
+<summary>"Application error" message appeared. What should I do?</summary>
 
-複数の操作を連続で行ったために、読み込みが間に合ってない可能性があります。リロード「Ctrl + R」「Command + R」、あるいは、時間を置いてから再度確認してください。解消しない場合は、運営チームにお問い合わせください。
-
-</details>
-
-<details>
-
-<summary>動作確認やアプリに反映のエラーで「undefinedのフェーズ」と出てくる</summary>
-
-こちらで処理が必要ですので、運営チームにご連絡ください。
+This error may occur if multiple operations were performed consecutively, causing the page to not load properly. Please refresh the page with "Ctrl + R" or "Command + R" or wait and try again. If the issue persists, please contact the support team.
 
 </details>
 
 <details>
 
-<summary>動作確認で、最初のフェーズから再生されるように設定した音声が再生されない</summary>
+<summary>"Undefined phase" error appeared during testing. What should I do?</summary>
 
-Google Chromeでは、最初のフェーズから再生されるように設定した音声は再生されません。アプリ側では問題なく再生されます。 対処法としては、以下の2つのうちどちらかをお試しください。\
-1\. 他のブラウザ(Safariなど)で試す\
-2\. Google ChromeのautoPlayポリシーの設定を変更する。\\
-
-autoPlay ポリシーの設定変更の方法は以下の通りです。\\
-
-1. 動作確認画面の URL バーの鍵マークをクリック →「サイトの設定」をクリック\
-   ![](images/autoplay\_1.png)\\
-2. 「音声」の項目で「自動(デフォルト)」をクリック →「許可する」に変更\
-   ![](images/autoplay\_2.png)\\
+This requires support intervention. Please contact the support team.
 
 </details>
 
 <details>
 
-<summary>共同編集者の追加方法は？</summary>
+<summary>Sound set to play from the first phase is not playing during testing. Why?</summary>
 
-シナリオホーム画面の「[メンバー](scenariohome/author.md)」から行います。追加をクリックし、共同編集者の**ウズのユーザー ID**を入力してください。
+In Google Chrome, sound set to play from the first phase does not automatically play. It works fine in the app, though. You can try one of the following:
+
+1. Test in another browser (such as Safari).\
+2. Change Google Chrome's autoPlay policy settings.\\
+
+Here’s how to change the autoPlay policy settings:\
+
+1. Click the lock icon in the URL bar on the test screen → Click "Site Settings"\
+   ![](images/autoplay_1.png)\\
+2. Under the "Sound" section, click "Automatic (default)" → Change it to "Allow"\
+   ![](images/autoplay_2.png)\\
 
 </details>
 
 <details>
 
-<summary>アプリ「ウズ」のサイドメニューに「作家ページ」が表示されない</summary>
+<summary>How do I add a co-editor?</summary>
 
-ウズスタジオにログイン後、１つ以上シナリオを作成すると表示されるようになります。
-
-詳しくは[こちら](top/profile.md#pjibotan)をご参照ください。
+You can add a co-editor from the "Members" section of the scenario home screen. Click "Add" and enter the co-editor's **Uz user ID**.
 
 </details>
 
 <details>
 
-<summary>このサイトにアクセスできません/ERR_CONNECTIN_CLOSEDと表示される</summary>
+<summary>The "Author Page" is not displayed in the side menu of the Uz app. Why?</summary>
 
-お使いのWi-Fiによる一時的なセキュリティ制限が原因であることが多いです。丸１日以上経過すると改善されるという報告があります。
+The "Author Page" will appear once you've created at least one scenario after logging into Uz Studio.
 
-お急ぎの場合は、スマートフォンからのテザリングやスマートフォン4G/5Gであればアクセスできるはずです。
+For more details, please refer to [this section](top/profile.md#pjibotan).
+
+</details>
+
+<details>
+
+<summary>"This site can't be reached" or "ERR_CONNECTION_CLOSED" message appeared. What should I do?</summary>
+
+This is often due to temporary security restrictions by your Wi-Fi. There are reports that it resolves after about one day.
+
+If you're in a hurry, you can access it via tethering or using 4G/5G on your smartphone.
 
 </details>

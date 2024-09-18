@@ -1,21 +1,19 @@
 ---
-description: ウズスタジオ作品で自由に使えるアイコン素材
+description: Icon assets freely available for use in Uzu Studio works.
 ---
 
-# キャラクターアイコン
+# Character Icons
 
-キャラクター作成時にランダムで入るアイコンのシリーズを含む、アイコン素材集です。\
-必要なバリエーションをダウンロードしてご利用ください。
+This is a collection of icon assets, including the series of randomly assigned icons when creating characters.\
+Download the necessary variations and use them freely.
 
-[素材ページへ（Googleドライブ）→](https://drive.google.com/drive/folders/15Bw\_ejFrXiPR2HMJLVaVgUsOSzPibkE3?usp=sharing)
+[Go to the asset page (Google Drive) →](https://drive.google.com/drive/folders/15Bw_ejFrXiPR2HMJLVaVgUsOSzPibkE3?usp=sharing)
 
+## Terms of Use
 
-
-【ご利用にあたって】
-
-* この素材は、ウズに掲載する有料及び無料作品の「キャラクター」または「NPC」のアイコン画像としてのみ、無料で自由にご利用いただけます。
-* ご自身の作品の雰囲気に合わせる目的であれば、加工や合成も自由に行なっていただけます。
-* この素材を使ったウズに掲載中の作品をウズ以外の媒体に展開される場合に限り、外部媒体でも引き続きこのキャラクターアイコンを使用できます。
-* キービジュアルの素材としての利用はご遠慮ください。
-* マダミスのキャラクター以外のアイコンとしての利用はできません。
-* この素材の再配布や加工再配布は固くお断りします。
+- These assets are available for free use as character or NPC icons for both paid and free works published on Uzu.
+- You may freely edit or combine the icons to match the atmosphere of your work.
+- If you expand your Uzu-published work using these assets to other platforms, you may continue using these character icons on external media.
+- Please refrain from using these assets for key visuals.
+- These icons cannot be used for anything other than murder mystery characters.
+- Redistribution of these assets or the redistribution of modified versions is strictly prohibited.

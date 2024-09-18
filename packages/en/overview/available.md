@@ -1,85 +1,84 @@
-# ウズスタジオ v2 で出来ること・出来ないこと
+# What You Can and Cannot Do in Uzu Studio v2
 
-(最終更新日 11/14)
+(Last updated: 11/14)
 
-## 🙆‍♀️ ウズスタジオ v2 で出来ること
+## 🙆‍♀️ What You Can Do in Uzu Studio v2
 
-### 7 人までキャラクターを作成する
+### Create Up to 7 Characters
 
-キャラクターは、7 人までなら何人でも作成できます。
+You can create up to 7 characters in total.
 
-### キャラクターにミッションを設定する
+### Set Missions for Characters
 
-キャラクターが任意の条件を達成したら〇〇点を与えるといったような、いわゆるミッションを設定することができます。 設定の仕方は [こちら](../basic-features/character/mission.md) をご覧ください。
+You can assign missions to characters, such as awarding points when specific conditions are met. For more details on how to set missions, refer to [this guide](../basic-features/character/mission.md).
 
-### NPC キャラクターを作成する
+### Create NPC Characters
 
-NPC キャラクターを作成して、プレイ中の登場人物一覧やセリフの役として設定することができます。 NPC は何人でも作成可能です。
+You can create NPC characters and assign them as part of the character list or as dialogue participants during gameplay. There is no limit to how many NPCs you can create.
 
-### 様々な種類のフェーズを作成する
+### Create Various Types of Phases
 
-ウズスタジオでは現在、以下の 4 種類のフェーズを作成することができます。
+Uzu Studio currently allows you to create the following four types of phases:
 
-* 基本フェーズ(テキストや画像の表示)
-* 読み合わせフェーズ(オープニングやエンディングなど、地の文とセリフで構成されたフェーズ)
-* 投票フェーズ(犯人投票をはじめとした様々な投票を行うことができるフェーズ)
-* ゲームの流れ表示フェーズ(シナリオ全体の流れを示すフェーズ)
+- Basic Phase (for displaying text or images)
+- Read-Aloud Phase (for sections composed of narrative and dialogue, such as openings or endings)
+- Voting Phase (for conducting various types of votes, such as identifying the culprit)
+- Game Flow Display Phase (for showing the overall flow of the scenario)
 
-どの種類のフェーズも何回でも作成することが出来ます。
+You can create as many phases of each type as needed.
 
-### 条件分岐によってフェーズ遷移を設定する
+### Set Conditional Phase Transitions
 
-フェーズ遷移時の条件を設定することで、フェーズの分岐を自由に設定することができます。 詳しくは [こちら](../basic-features/phase/flow.md) をご覧ください。
+You can freely configure phase transitions based on conditions. For more details, check out [this guide](../basic-features/phase/flow.md).
 
-### テキストを自由なタイミングで配布する
+### Distribute Text at Any Time
 
-キャラクターシートや追加情報などのテキストを任意のタイミングで配布することができます。また一度配布したテキストを非表示にすることもできます。 詳しくは [こちら](../basic-features/textTab.md) をご覧ください。
+You can distribute character sheets or additional information at any time. You can also hide previously distributed text. For more information, see [this guide](../basic-features/textTab.md).
 
-### 手がかりを配布する・回収する
+### Distribute and Retrieve Clues
 
-任意のタイミングで任意のキャラクターに対して手がかりを配布・回収できるように設定することが出来ます。 詳しくは [こちら](../basic-features/clue.md) をご覧ください。
+You can set up the distribution and retrieval of clues to specific characters at specific times. Learn more about this feature [here](../basic-features/clue.md).
 
-### 手がかりを譲渡・共有・全体公開する
+### Transfer, Share, or Make Clues Public
 
-手がかりの所有者は、条件を設定することで他のプレイヤーに手がかりを譲渡・共有・全体公開することができます。 詳しくは [こちら](../basic-features/clue.md) をご覧ください。
+The owner of a clue can transfer, share, or make it public by setting specific conditions. For more details, check out [this guide](../basic-features/clue.md).
 
-### ルームを複数作成する
+### Create Multiple Rooms
 
-全体議論や密談などを行うルームを複数個作成することができます。 特定のルームにいる時のみ発火する条件の設定も行うことが出来ます。
+You can create multiple rooms for different types of discussions, such as general discussions or secret talks. You can also set conditions to trigger actions only in specific rooms.
 
-### カラーモードの設定
+### Set Color Mode
 
-ライトモードとダークモードをはじめとした様々なカラーを搭載しており、好きなモードを選択することができます。シナリオの途中で変えることもできます。
+You can choose from various color modes, including light mode and dark mode, and change them during the scenario.
 
-### BGM・SE の設定
+### Set BGM and SE
 
-任意のタイミングで BGM・SE の再生と停止を設定することが出来ます。 詳しくは [こちら](../basic-features/bgm.md) をご覧ください。
+You can configure the playback and stopping of BGM and sound effects at any point. More details are available [here](../basic-features/bgm.md).
 
-### 調査フェーズを組み込む１
+### Integrate Investigation Phases 1
 
-投票フェーズで特定の選択肢を選んだ場合に任意の手がかりを配布することで、調査フェーズを実現できます。 詳しくは [こちら](../advanced/investigation.md) をご覧ください。
+By distributing specific clues when certain options are chosen in a voting phase, you can implement investigation phases. Learn how [here](../advanced/investigation.md).
 
-### 調査フェーズを組み込む２
+### Integrate Investigation Phases 2
 
-トークンと山札を使った調査を組み込めるようになりました（2023.11）。 詳しくは [こちら](../basic-features/decks.md) をご覧ください。
+You can now incorporate investigations using tokens and decks (since November 2023). Learn more [here](../basic-features/decks.md).
 
-### 条件の入れ子設定
+### Set Nested Conditions
 
-AND（かつ）とOR（または）を3層まで組み合わせて条件を設定することができるようになりました（2023.11）。
+You can now combine AND and OR conditions up to three levels deep (since November 2023).
 
-### 背景画像の設定
+### Set Background Images
 
-背景画像を任意のタイミングで設定できるようになりました。
+You can now set background images at any time.
 
 \
 
+## 🙅‍♀️ What You Cannot Do in Uzu Studio v2
 
-## 🙅‍♀️ ウズスタジオ v2 で出来ないこと
+### Change Character Names Mid-Scenario
 
-### キャラクターの名前を途中で変更する
+Currently, character names cannot be changed midway through the scenario. This feature is planned for future updates, so please stay tuned.
 
-キャラクターの名前は現状、シナリオの途中で変更することができません。 実装予定ではあるので、今しばらくお待ちください。
+### Limit the Number of Votes in Voting Phases
 
-### 投票フェーズでの投票数の制限
-
-現状、投票フェーズでは一人のプレイヤーは一票しか投票できません。
+At present, each player can only cast one vote in a voting phase.

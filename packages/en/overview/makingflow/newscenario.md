@@ -1,18 +1,15 @@
-# 新規シナリオの作成
+# Creating a New Scenario
 
-新規シナリオの作成は、ウズスタジオの**シナリオ一覧画面**から行います。
+You can create a new scenario from the **Scenario List Screen** in Uz Studio.
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-「新規シナリオ作成」をクリックすると、テンプレート選択画面になります。
+Clicking "Create New Scenario" will take you to the template selection screen.
 
-白紙から始めたい人は一番上を、テンプレートから始めたい人は制作したいシナリオに合ったテンプレートを選択してください。
+If you'd like to start from scratch, select the first option. If you prefer to use a template, choose the one that best suits the scenario you want to create.
 
-タイトルとふりがなを入力したら「この内容で作成」をクリックします。
+After entering the title and its pronunciation (furigana), click "Create with this Content."
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-テンプレートを使えば、**埋めるだけでマダミスを完成**させることができます。詳しくは[こちらのページ](../template/)をご覧ください。
-
+By using a template, you can **easily complete a Murder Mystery scenario by simply filling in the blanks**. For more details, please refer to [this page](../template/).

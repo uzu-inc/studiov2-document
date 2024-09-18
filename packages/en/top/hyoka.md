@@ -1,8 +1,6 @@
-# 評価・バッジを確認する
+# Viewing Ratings and Badges
 
-評価やバッジは「評価と収益」画面から確認できます。
-
-
+You can check your ratings and badges from the "Ratings and Earnings" screen.
 
 <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 

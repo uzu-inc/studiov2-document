@@ -1,28 +1,28 @@
-# 売上を受け取る
+# Receiving Sales Proceeds
 
-売上を受け取るには「振り込み先情報」の設定、「振り込み申請」が必要です。
+To receive sales proceeds, you need to set up your "Bank Account Information" and submit a "Payment Request."
 
-## 振り込み先情報の設定
+## Setting Up Bank Account Information
 
-振り込み先情報の設定はウズスタジオの制作シナリオ一覧画面の右上にあるアイコンから行います。
+You can set up your bank account information by clicking the icon in the top right corner of the scenario list screen in Uz Studio.
 
 <figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
-本人確認のため、氏名・メールアドレス・生年月日・口座情報が必要です。振込方法はAmazonギフトカード、銀行振り込みから選べます。
+For identity verification, your full name, email address, and date of birth are required.
 
 <figure><img src="../.gitbook/assets/image (136).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 振り込み申請
+## Submitting a Payment Request
 
-売上は月末で集計され、翌月から振り込み申請できるようになります。振り込み申請は「評価と収益」画面から行います。
+Sales are tallied at the end of each month, and you will be able to submit a payment request starting from the following month. Payment requests can be made from the "Ratings & Earnings" screen.
 
 <figure><img src="../.gitbook/assets/image (137) (1).png" alt=""><figcaption></figcaption></figure>
 
-「評価と収益」画面の「未振り込み金額」に振り込み申請ができる売上の合計が表示されます。
+The total sales available for a payment request will be displayed under "Unpaid Amount" on the "Ratings & Earnings" screen.
 
-「詳細確認」ボタンを押した先で「振り込み申請」を押すと、申請は完了です。振り込みはボタンを押した月の20日以降～翌月に行われます。
+By clicking the "View Details" button and then the "Payment Request" button, your request will be completed. Payments are processed from the 20th of the month after the request is made.
 
-毎月20日～月末までは処理中のため、振り込み申請ボタンを押すことができません。
+From the 20th to the end of each month, the system is processing, and the payment request button will be unavailable.
 
 <figure><img src="../.gitbook/assets/image (138).png" alt="" width="563"><figcaption></figcaption></figure>
 

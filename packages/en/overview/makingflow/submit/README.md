@@ -1,23 +1,17 @@
-# 作品提出
+# Submitting Your Work
 
-## 作品を審査に提出する
+## Submitting Your Work for Review
 
-テストプレイと修正が終わったら、作品を審査に提出しましょう。
+Once test plays and revisions are completed, it's time to submit your work for review.
 
-ホームから「**リリース管理**」画面に移動し、「**アプリ掲載申請**」ボタンを押します。
+Navigate to the " **Release Management** " screen from the home page, and click the " **Submit for App Listing** " button.
 
-審査は、「**無料**公開予定の作品に対する**簡易審査**」と「**有料**公開予定の作品に対する[**詳細審査**](check.md)に分かれています。 申請ボタンを押した先の**フォーム**から、どちらの審査に提出するか選択し、必要事項を記入してください。
+The review process is divided into a " **Simplified Review** " for works planned for **free** release and a "[ **Detailed Review** ](check.md)" for works planned for **paid** release. After pressing the submission button, select which review to submit to from the **form**, and fill out the necessary details.
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+A simplified review for free release works will take approximately 1–2 business days, while a detailed review for paid release works will take about 3 business days (excluding weekends and holidays).
 
+Since you may be asked to make revisions or resubmit, if you have a desired release date, please submit your work with plenty of time in advance (※In some cases, it may not be possible to meet your requested date depending on the situation).
 
-無料公開作品に対する簡易審査は1～2営業日、有料公開作品に対する詳細審査は3営業日（土日祝除く）を目安に返却されます。
-
-修正や再提出が求められることがありますので、リリース希望日がある場合は余裕を持って提出してください（※状況により希望に沿えない場合もございます）。
-
-
-
-※審査提出後もシナリオ内容の修正は可能ですが、審査は審査担当が確認した時点でウズスタジオに反映されている内容で行われます。
-
-\
+※ You can still make edits to the scenario content after submitting it for review, but the review will be based on the content as it appears in Uz Studio at the time the reviewer checks it.

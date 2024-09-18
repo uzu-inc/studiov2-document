@@ -1,124 +1,102 @@
-# キービジュアル作成レギュレーション
+# Key Visual Creation Regulations
 
-ウズスタジオから投稿するシナリオのキービジュアル（カバー画像・タイトル画像）に関するレギュレーションを策定いたしました。
+We have established regulations for the key visuals (cover images, title images) used in scenarios posted from Uzu Studio.
 
+## ① Create the Image with a 16:9 Aspect Ratio
 
-
-## ①画像の縦横比は16:9で作成すること
-
-16:9以外で作成されたキービジュアルは、アプリ内で正しく表示されません。
+Key visuals created with an aspect ratio other than 16:9 will not display correctly in the app.
 
 <figure><img src="../.gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## ②タイトルが読みやすいコントラストにすること
+## ② Ensure Readable Contrast for the Title
 
-背景の画像とタイトルの文字の色のコントラストが弱いと可読性が下がってしまうため、コントラストを意識して作成してください。
+If the contrast between the background image and the title text is too weak, readability will decrease. Please create your visual with contrast in mind.
 
 {% hint style="success" %}
-『コントラスト』とは \
-「対比」のこと。キービジュアルにおいては、明度・彩度・色相の差のこと。
+**What is 'contrast'?** \
+In this context, contrast refers to the difference in brightness, saturation, and hue in the key visual.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-### 改善方法
+### How to Improve Contrast
 
-▷文字色を工夫する
+▷ Adjust the text color
 
-▷タイトル文字を線で縁取る
+▷ Outline the title text
 
-▷タイトル文字の背景にシャドウを入れる
+▷ Add shadows behind the title text
 
-▷背景の画像に黒あるいは白をうっすらと重ねる
-
-
-
-
+▷ Add a subtle black or white overlay to the background image
 
 {% hint style="info" %}
-**【発展的な注意点】**
+**Advanced Note**
 
-上記の【悪い例】【良い例】では「明度」「色相」を調整して読みやすくするという対応をしていますが、注意点が一つあります。
-
-それが「**ハレーション**」です。
+In the "bad example" and "good example" above, the adjustments made improve readability by adjusting "brightness" and "hue." However, there is one additional point to be mindful of: **halation**.
 
 ![](<../.gitbook/assets/image (38).png>)
 
-
-
-ハレーションとは配色の「明度」が近く、かつ「彩度」が高いと起きる目がチカチカしてしまう状態のことを指します。非常に視認性が悪いデザインになってしまうので、この状態も避けられると理想的です。
+Halation occurs when the "brightness" of colors is similar, and the "saturation" is high, causing an eye-straining effect. It results in poor visibility, so it's best to avoid this as well.
 {% endhint %}
 
-
-
-## ③サイズを縮小してもタイトル（主題）が読めること
+## ③ Ensure the Title (Main Subject) is Readable Even When the Image is Reduced
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-### 改善方法
+### How to Improve Readability
 
-▷フォントの太さを太くする
+▷ Increase the font thickness
 
-▷フォントサイズを大きくする
+▷ Increase the font size
 
 {% hint style="success" %}
-ウズアプリのシナリオ一覧画面上では「160px ✕ 90px」で表示されます。作ったキービジュアルを縮小し、画面に当て込んで確認してみると良いかと思います。
+In the Uzu App's scenario list, key visuals are displayed at "160px ✕ 90px." It's a good idea to shrink your visual to this size and check its readability.
 {% endhint %}
 
-
-
-## ④シナリオ詳細に表示するタイトルは画像内に全文入れること
+## ④ Include the Full Title in the Image for Scenario Details Display
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-タイトル以外の文字を入れる場合は、タイトルの文字が最も目立つフォントサイズになっているようにしてください。
+If you include other text besides the title, ensure that the title is the most prominent in terms of font size.
 
+## ⑤ About Furigana (Pronunciation Guides)
 
+Uzu Studio has a "furigana entry field," but this is only for hiragana searches in the app. Furigana will not be displayed in the app itself.
 
-## ⑤ふりがなについて
-
-ウズスタジオには「ふりがな記入欄」がありますが、こちらはアプリ内でのひらがな検索のためであり、アプリ内ではふりがなが表示されません。
-
-「ふりがなをタイトルに入れる」 「タイトルの読み方を作者コメント欄で補足する」 のいずれの対応も行わない場合は、キービジュアルにふりがなを含めてください。ふりがなが必要なラインは以下の通りです。
+If you do not add furigana to the title or include a pronunciation guide in the author comments, please include furigana in the key visual. Here are the situations where furigana is necessary:
 
 {% hint style="info" %}
-①一般に難読と呼ばれる読みが含まれる
+① When the title includes generally difficult-to-read kanji
 
-②複数の読み方のあるもの
+② When there are multiple possible readings
 
-③固有名詞
+③ For proper nouns
 
-④当て字
+④ For words written with ateji (phonetic kanji characters)
 
-⑤一般的でない英単語・外国語
+⑤ For uncommon English or foreign words
 {% endhint %}
 
-
-
-## ⑥使用している素材が著作権・パブリシティ権を侵害していないこと
+## ⑥ Ensure That Materials Used Do Not Violate Copyright or Publicity Rights
 
 {% hint style="info" %}
-**著作権とは？**（簡単な説明）
+**What is copyright?** (Simple explanation)
 
-「著作物」を創作した者に与えられる、自分が創作した著作物を無断でコピーされたり、インターネット上で使用されない権利のこと。
+Copyright is the right given to creators of "works" to prevent their creations from being copied or used without permission, including on the internet.
 
-キービジュアルにおいては、権利者の許諾なくイラストや画像素材を使用することは著作権侵害にあたる可能性が高いので、注意しましょう。
+In key visuals, using illustrations or image materials without permission from the rights holder can be considered copyright infringement, so be careful.
 {% endhint %}
-
-
 
 {% hint style="info" %}
-**パブリシティ権とは？**（簡単な説明）
+**What is the right of publicity?** (Simple explanation)
 
-顧客吸引力を有するような著名人の氏名・肖像等を保護する権利のこと。
+The right to protect the name or likeness of a well-known person with commercial value.
 
-有名人や著名人の写真を無断で使用することはパブリシティ権の侵害にあたるので、注意しましょう。
+Using photos of famous individuals without permission can infringe on their publicity rights, so be cautious.
 {% endhint %}
 
+---
 
-
-***
-
-※特別の事情があり上記レギュレーションから外れたキービジュアルを採用したい場合は、審査時にその理由を添えてください。
+If you have special reasons for wanting to use a key visual that does not conform to these regulations, please include an explanation during the review process.

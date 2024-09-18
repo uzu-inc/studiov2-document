@@ -1,226 +1,207 @@
 ---
-description: ウズで作品を有料公開する場合に必ず受けていただく審査です。
+description: This is a mandatory review process when publishing your work for a fee on Uz.
 ---
 
-# 詳細審査(有料公開作品)について
+# Detailed Review (For Paid Publication Works)
 
-## 審査とリリースの流れ
+## Review and Release Process
 
-### 1．審査提出\_制作者
+### 1. Review Submission_Creator
 
-ウズスタジオの「[リリース管理](../../../scenariohome/release.md)」画面にある「本公開申請」というボタンをクリックすると、審査提出フォームが開きます。「有料でのリリースを希望する」で「はい」を選択し、必要事項を記入して送信してください。
+Click the "Submit for Public Release" button on the " [Release Management](../../../scenariohome/release.md) " page in Uz Studio. A review submission form will open. Select "Yes" under "Do you wish to release for a fee?" and fill out the required information before submitting.
 
-### 2．事前確認\_ウズスタジオ編集部
+### 2. Pre-check_Uz Studio Editorial Team
 
-テストプレイを**３回以上**実施しているかを確認します。
+We will confirm whether you have conducted **at least three test plays**.
 
-※ウズ上で１回以上、ウズ外も含めて合計３回以上
+※ At least one test play on Uz, and a total of three including external tests.
 
-※無料で公開されていた作品を有料化する場合はその限りではありません。詳しくはＱ＆Ａをご覧ください。
+※ This does not apply if a work previously available for free is transitioning to paid. For more details, please refer to the Q&A.
 
-### 3．審査\_ウズスタジオ編集部
+### 3. Review_Uz Studio Editorial Team
 
-審査提出フォームの内容を参考に、ウズスタジオの編集画面や動作確認画面でシナリオの中身全体を確認します。
+Based on the information in the review submission form, we will check the entire scenario content in the editorial interface and operational check screens of Uz Studio.
 
-### 4．返却\_ウズスタジオ編集部
+### 4. Return_Uz Studio Editorial Team
 
-「審査通過」、「修正して再提出」、「クオリティ不足」の３種類の結果のいずれかをフィードバックと共に返却します。連絡はウズスタジオ公式サーバー（Discord）の個別チャンネルで行います。
+We will return one of three results along with feedback: "Pass", "Revise and Resubmit", or "Insufficient Quality". Communication will be done via individual channels on Uz Studio's official Discord server.
 
-※作品が審査に提出されてから、第一次返却までの期間は**3営業日（土日祝除く）**を目安としています。
+※ The review period from submission to the first feedback is **3 business days (excluding weekends and holidays)**.
 
-### （5．修正・再提出\_制作者）
+### (5. Revision & Resubmission_Creator)
 
-「修正して再提出」、「クオリティ不足」となった場合は指摘部分を修正し、再提出（１の手順に戻る）をしてください。
+If you receive "Revise and Resubmit" or "Insufficient Quality", please correct the indicated issues and resubmit (return to step 1).
 
-### 6．公開準備
+### 6. Preparation for Publication
 
-審査を通過されましたら、ウズスタジオ公式サーバー（Discord）の個別チャンネルにて公開のための準備を進めます。公開準備用のフォームにて、以下の内容をご回答いただきます。
+After passing the review, preparations for publication will proceed in the individual channels on Uz Studio's official Discord server. You will be asked to provide the following information in a publication preparation form:
 
-* **公開希望日**：他の作品やお知らせと被らない範囲で希望制
-* ウズ公式アカウントからの投稿のための**シナリオ概要**
-  * タイトル
-  * 作者名：連名も可能
-  * プレイ人数
-  * プレイ時間
-  * あらすじ
-* **プレイ料金**
-  * セールを希望する場合：その価格と期間
-  * 共作の場合：その配分割合
-* アプリ内に表示する**シナリオ傾向タグ**
+- **Desired Publication Date**: You may request a date that doesn’t overlap with other works or announcements.
+- **Scenario Overview** for posting via the Uz official account:
+  - Title
+  - Author name: Co-authorship is also allowed.
+  - Number of players
+  - Playtime
+  - Synopsis
+- **Play Fee**:
+  - If you wish to have a sale: the price and the period.
+  - If it's a co-production: the percentage distribution.
+- **Scenario Tendency Tags** to be displayed in the app.
 
-### 7．公開準備
+### 7. Publication
 
-確定した公開日の18:00に、ウズ公式アカウントから作品公開についての投稿が行われ、アプリ「ウズ」にて作品が**リリース**されます。
+At 18:00 on the confirmed publication date, a post about the work's release will be made by the Uz official account, and the work will be **released** on the Uz app.
 
+The entire process from step 1 to step 7 takes approximately one week on average.
 
+---
 
-1～7までの平均は一週間程度です。
+## Detailed Review Contents and Criteria
 
-***
+### ◆Test Play: Confirmed in the Form
 
-## 審査の具体的な内容・基準
+**Whether test plays have been properly conducted and utilized**
 
-### ◆テストプレイ：フォームでの確認
+- Have at least three test plays been conducted? (At least one on Uz and a total of three including external tests)
+- Have test play surveys been collected? (Including those from external test plays)
+- Have the issues pointed out in the surveys been resolved through corrections?
 
-**テストプレイをしっかり実施し、活用しているか**
+### ◆Key Points of the Work: Confirmed in the Form
 
-* テストプレイを３回以上実施しているか（ウズ上で１回以上、ウズ外も含めて合計３回以上）
-* テストプレイアンケートを回収しているか（ウズ外のテストプレイの分も含めてよい）
-* アンケートで指摘された問題点を修正で解決しているか
+- What parts of the scenario show particular care or enjoyment?
+- Are the characters individually interesting?
+- Do the desired tags match the content?
 
+### ◆Preliminary Information: Confirmed by Uz Studio
 
+#### Scenario Tendency, Warnings, Synopsis, and Author Comments
 
-### ◆作品のポイント：フォームでの確認
+- Is the information sufficient?
+- Is there no inconsistency between the scenario content and the description?
+- If there are warnings, are they included?
 
-* 全体として、どのような部分にこだわりや面白さのあるシナリオか
-* キャラクターそれぞれに十分な面白さが設定されているか
-* 希望のタグが内容に合っているか
+#### Key Visual
 
+- Does it match the content?
+- Does it comply with the [key visual creation regulations](../../visual-regulation.md)?
 
+### ◆Scenario Content: Confirmed by Uz Studio
 
-### ◆事前情報：ウズスタジオでの確認
+#### Phase Progression and Settings
 
-#### シナリオ傾向・注意事項・あらすじ・作者コメント
+- Are there any mistakes in the phase progression?
+- Are the instructions for how to play appropriate?
+- Are settings like secret talks correctly implemented?
+- Are there no setting errors in the materials?
+- Are the ending branches correct?
 
-* 内容が十分であるか
-* シナリオの中身と齟齬がないか
-* 注意点がある場合、それが記載されているか
+#### Text
 
-#### キービジュアル
+- Are there any typos or misspellings?
+- Are difficult kanji properly annotated with furigana?
+- Are there no fatal inconsistencies in the text that impair the experience?
+- Is there sufficient readability in terms of uniform indentation and line breaks?
+- Are there no errors in markdown syntax?
 
-* 内容に見合っているか
-* [キービジュアル作成レギュレーション](../../visual-regulation.md)に沿っているか
+#### True Scenario Text
 
-
-
-### ◆シナリオの中身：ウズスタジオでの確認
-
-#### フェーズ進行・設定
-
-* フェーズ進行に間違いがないか
-* 遊び方を示す指示文が適切か
-* 密談等の設定が正しいか
-* 配布物に設定ミスがないか
-* エンディング分岐が正しいか
-
-#### テキスト
-
-* 誤字・脱字がないか
-* 難しい漢字にふりがなが振られているか
-* 体験感を損ねる致命的な表記揺れがないか
-* 字下げの統一や改行など可読性が十分であるか
-* マークダウン記法にミスがないか
-
-#### 真相テキスト
-
-* マーダーミステリーの場合：真相だけでなく、推理動線・解説が十分に書かれているか
-* ストーリープレイングの場合：作中の謎や世界観について、必要な解説がなされているか
-* 謎解きの場合：謎の解き方と答えについて十分に解説されているか
+- For Murder Mystery: Are the reasoning clues and explanations written in detail in addition to the truth?
+- For Story Playing: Are necessary explanations about the mysteries or world in the story provided?
+- For Puzzle Solving: Is there sufficient explanation on how to solve the puzzles and the correct answers?
 
 #### BGM
 
-* 大きすぎる/小さすぎるBGMがないか
-* BGMの設定ミスがないか
+- Is the BGM not too loud or too quiet?
+- Are there no mistakes in BGM settings?
 
+---
 
+## Items to Submit for First-Time Submission
 
-***
+### 1. Test Play Survey Results
 
-## ご提出いただく内容：初回提出の場合
+We will share a "Test Play Survey (Google Form)" with anyone creating a scenario for Uz.
 
-### 1．テストプレイアンケートの結果
+Please check the " [How to Use the Test Play Survey](questionnaire.md) " for more details.
 
-シナリオを制作されている方であれば誰でも活用していただける「テストプレイアンケート(Google Form)」をウズスタジオ編集部から共有します。
-
-詳細は「[テストプレイアンケートの使い方](questionnaire.md)」からご確認ください。
-
-テストプレイ期間中にGoogle Formで収集したアンケート結果をGoogle スプレッドシート形式にして、ご提出いただきます。
+During the test play period, collect the survey results via Google Form, and submit them in Google Sheets format.
 
 <figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 2．作品のポイント
+### 2. Key Points of the Work
 
-シナリオを制作するにあたってこだわった部分、キャラクターそれぞれの見せ場や面白さについて、ご回答いただきます。
+Please describe the parts of the scenario you focused on, as well as the highlights and interesting aspects of each character.
 
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 3．希望価格・希望タグ
+### 3. Desired Price & Tags
 
-審査通過の有無には影響しません。 よりこちらのほうが合っているのではないかといったご提案をさせていただく場合がございます。
+These do not affect whether you pass the review. However, we may suggest adjustments if we believe other options are more suitable.
 
+## Items to Submit for Resubmission
 
+### Corrected and Uncorrected Points and Their Reasons
 
-## ご提出いただく内容：再提出の場合
-
-### 修正を行った点・行わなかった点とその理由
-
-再提出が必要な場合は、初回の審査返却時にフィードバックとして、修正が必要と考えられる部分をお送りしますので、それをベースに修正・調整をしていただき、フォームの再提出欄にご記入いただきます。
+If resubmission is required, we will send feedback on the areas that need corrections based on the initial review. You will need to adjust and correct based on this feedback and fill out the resubmission section in the form.
 
 <figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-***
+---
 
-## Q\&A
+## Q&A
 
-以下の内容を読んでも疑問が解決しなかった場合は、Discordサーバー内の「質問・要望など」のテキストチャンネルで「@編集部」メンションをつけて質問してください。
-
-
+If you still have questions after reading the following content, please mention "@Editorial Team" in the "Questions & Requests" text channel on the Discord server.
 
 <details>
 
-<summary>無料公開希望の作品でも詳細審査を通過しなければなりませんか？</summary>
+<summary>Do I need to pass the detailed review even for works that I wish to release for free?</summary>
 
-無料公開を希望される作品は詳細審査に提出いただく必要はありません。今まで通り簡易審査のみを実施いたします。
+Works that are to be released for free do not need to go through the detailed review. We will continue to conduct a simplified review as before.
 
 </details>
 
 <details>
 
-<summary>詳細審査に提出した作品を、リリースからしばらくは無料で公開し、途中から有料化することは可能ですか？</summary>
+<summary>Is it possible to publish a work for free initially and switch to paid later after passing the detailed review?</summary>
 
-詳細審査を経てリリースされる有料シナリオは有料公開を前提としておりますので、セールのみ実施可能です。セール希望については、審査提出フォーム内のフリーライト部分に「m/dまでnコインでセール希望」のように記載していただければ確認いたします。
+Paid scenarios released after detailed review are intended for paid publication, so only sales are allowed. If you wish to run a sale, please indicate this in the free text section of the review submission form, such as "Sale at n coins until m/d".
 
 </details>
 
 <details>
 
-<summary>有料作品への詳細審査開始日(2023.6.26)以前から無料で公開されていた作品を有料化したい場合、無料でリリースしたが後から有料化したくなった場合はどうしたらいいですか？</summary>
+<summary>What should I do if I want to monetize a work that was previously released for free or initially planned to be free?</summary>
 
-※この制度の適用は有料化するつもりがなく無料でリリースした場合に限ります。有料にしようと思っている場合は最初から有料作品用の詳細審査に提出してください。
+This policy only applies if the work was originally released with no intention of monetizing. If you intend to monetize, please submit it for detailed review for paid works from the beginning.
 
-有料化に伴う公式からの再投稿や新着シナリオへの再表示はできないため、途中からの有料化にあまりメリットはありません。初めから有料公開をオススメします。
+Reposting or new scenario listing cannot be done after monetization, so transitioning to a paid work later has limited benefits. We recommend starting as a paid release.
 
-
-
-審査提出フォームから有料公開希望(**一番上：はい**)を選択し、詳細審査に提出していただきます。
+Select "Yes" for the option to monetize from the review submission form and submit it for detailed review.
 
 ![](<../../../.gitbook/assets/image (10).png>)
 
-* v1作品の場合：「作品を提出」→「審査中」をクリックすると、審査提出フォームが出てきます。
-* v2作品の場合：ウズスタジオの「**リリース管理**」画面から「有料化申請」をクリッすると、審査提出フォームに遷移します。
+- For v1 works: Click "Submit Work" → "Under Review" to open the review submission form.
+- For v2 works: From the " **Release Management** " screen in Uz Studio, click "Submit for Monetization" to proceed to the review submission form.
 
+As mentioned earlier, there is a section to submit test play survey results in the detailed review, but for works transitioning to paid after release, the process is as follows:
 
-
-前述の通り、詳細審査ではテストプレイアンケートの結果を提出していただく欄がございますが、途中からの有料化作品の場合は以下のようになります。
-
-* **リリース前のテストプレイでアンケートを収集していなかった場合**\
-  詳細審査提出時にアンケート結果を添付していただく必要はございません。 こちらでリリース後のデータを参照させていただきます。
-* **リリース前のテストプレイでアンケートを収集していた場合**\
-  詳細審査提出時にアンケート結果を添付していただければと思います。
+- **If no surveys were collected during pre-release test plays**\
+  You do not need to attach survey results when submitting for detailed review. We will refer to post-release data.
+- **If surveys were collected during pre-release test plays**\
+  Please attach the survey results when submitting for detailed review.
 
 </details>
 
 <details>
 
-<summary>ウズ外で既に販売している作品を転載する場合はテストプレイやアンケート回収をどのようにしたらいいですか？</summary>
+<summary>How should I handle test plays and survey collection for works already sold outside Uz?</summary>
 
-テストプレイは「ウズ上で１回以上」を含む計３回以上の実施が必要です。
+Test plays must be conducted at least three times, including **at least one** on Uz.
 
-例①　外部での販売前に３回以上テストプレイを行っていた\
-→ウズへの実装後、ウズを使ったテストプレイを１回以上実施しアンケートを回収してください。ウズ上でのテストプレイで３回分以上のアンケートが集まらない場合は、ウズ外でのテストプレイを遡ってアンケートを回収してもかまいません。
+Example ①: You conducted three or more test plays before external sales\
+→ After implementation on Uz, conduct at least one test play using Uz and collect surveys. If fewer than three surveys are collected on Uz, you may retroactively collect surveys from external test plays.
 
-例②　外部での販売前に１回テストプレイを行っていた\
-→ウズへの実装後、ウズを使ったテストプレイを２回以上実施し、計３回としてください。アンケートの回収については例①と同じです。
+Example ②: You conducted one test play before external sales\
+→ After implementation on Uz, conduct at least two more test plays, bringing the total to three. Survey collection follows the same process as Example ①.
 
 </details>
-

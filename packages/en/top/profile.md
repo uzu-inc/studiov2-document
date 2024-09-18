@@ -1,33 +1,33 @@
-# 作家プロフィールの変更
+# How to Update Your Author Profile
 
-ウズスタジオのトップ画面である制作シナリオ一覧画面から作家プロフィールの変更ができます。
+You can update your author profile from the main screen of Uz Studio, the scenario list screen.
 
-## 変更手順
+## Steps to Update
 
-**①右上のアイコンをクリック**
+**① Click the icon in the top right corner**
 
-**②作家プロフィール編集を選択**
+**② Select "Edit Author Profile"**
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**③作家プロフィールを変更して保存**
+**③ Modify the author profile and save**
 
-設定するもの
+Items to configure:
 
-* 作家名：ウズのプレイヤーニックネームとは別のものを設定することもできます
-* カバー画像
-* アイコン画像：：ウズのプレイヤーアイコンとは別のものを設定することもできます
-* 紹介文
-* リンク
+- **Author Name:** You can set a different name than your Uz player nickname.
+- **Cover Image**
+- **Icon Image:** You can set a different one from your Uz player icon.
+- **Introduction**
+- **Links**
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 作家ページボタン
+## Author Page Button
 
-シナリオのバージョンを一度以上作成するとウズスタジオと連携しているアプリウズのアカウントに「作家ページ」ボタンが現れます。
+Once you've created at least one version of a scenario, an "Author Page" button will appear on your Uz account linked with Uz Studio.
 
-作家ページからはリリースしたシナリオの一覧、大好き数の合計が確認できます。
+From the author page, you can check the list of released scenarios and the total number of likes.
 
-※他の人のシナリオのメンバーになっただけでは自分の作家ページは現れません。作家ページボタンが表示されていない方は白紙のシナリオでもかまいませんので、ウズスタジオのトップページから１つ以上シナリオを作成してください。
+※ If you are only a member of someone else's scenario, your author page will not appear. If the author page button does not appear, please create at least one scenario, even if it's a blank one, from the top page of Uz Studio.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>

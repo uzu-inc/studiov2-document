@@ -1,167 +1,145 @@
-# テストプレイ
+# Test Play
 
-## テストプレイ前準備
+## Preparing for the Test Play
 
-### ◆動作確認
+### ◆ Checking Functionality
 
-ウズスタジオには、アプリで実際にテストプレイをする前に動作の確認ができる機能があります。
+Uz Studio has a feature that allows you to check the functionality of your scenario before conducting an actual test play in the app.
 
-ウズスタジオv2では複雑な条件や分岐を設定できる分、ミスも発生しやすくなっています。動作確認で想定通りに動かないものはウズアプリ上でも動きません。
+Since Uz Studio v2 allows for complex conditions and branching, errors are more likely to occur. If something doesn’t work as expected during functionality checks, it won’t work in the Uz app either.
 
-ゲームが破綻するようなミスを事前に見つけて修正できるので、テストプレイの実施前には必ずウズスタジオで動作確認を行いましょう。
+By identifying and fixing game-breaking mistakes in advance, you can ensure a smoother test play. Always perform a functionality check in Uz Studio before conducting the test play.
 
-
-
-**右上の再生ボタンをクリック**すると「動作確認」の画面に移動します。
+Click the **play button in the top right** to move to the "functionality check" screen.
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-動作確認では、アプリとほぼ同じ画面でシナリオを最初から最後まで通して見ることができます。
+In the functionality check, you can view the scenario from start to finish in an interface almost identical to the app.
 
-プレイヤーの人数分、スマートフォンを想定した画面が並んで表示されるので、１人で全員分を操作していくイメージです。BGMやSEも流れます。
+Screens for each player will be displayed side by side, simulating the view on a smartphone, allowing you to control all players by yourself. BGM and sound effects will also play.
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-
-
-動作確認では、以下のようなミスがないか確認しておくとよいでしょう。
+It’s a good idea to check for the following common mistakes during the functionality check:
 
 {% hint style="success" %}
-* セリフの設定ミス
-* テキストや手がかりの配布先・配布条件のミス
-* 密談ができるフェーズの設定ミス
-* 投票によるエンディングの分岐ミス
-* BGM・SEの設定ミス
-{% endhint %}
 
+- Incorrect dialogue settings
+- Mistakes in the distribution of text or clues and their conditions
+- Errors in phase settings for secret talks
+- Incorrect branching for endings based on voting
+- BGM or sound effect settings errors
+  {% endhint %}
 
+### ◆ Test Publishing
 
+To conduct a test play in the Uz app, you need to **create the latest version**.
 
+#### **① Click the Button in the Top Right**
 
-### ◆テスト公開
+When you press the "Create Latest Version" button in the top right, the scenario structure will be validated.
 
-ウズアプリ上でテストプレイを実施するには、**最新バージョンの作成**が必要です。
-
-#### **①右上のボタンをクリックする**
-
-右上の「最新バージョンの作成」ボタンを押すと、シナリオ構造の検証が行われます。
-
-入力や設定に漏れがなければ、反映が進行しますが、入力や設定ができていない箇所があると、エラーが表示されます。エラーが表示されたら、提示されている場所を確認し、適宜修正を行ってください。
+If there are no missing inputs or settings, the update will proceed. However, if there are missing inputs or settings, an error will be displayed. If this happens, check the indicated areas and make the necessary corrections.
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-#### ②バージョンメモを入力する
+#### ② Enter a Version Note
 
-何を変更したバージョンなのか、どのタイミングのバージョンなのかをメモしておくと便利です。空欄でもかまいません。
+It’s helpful to leave a note about what changes were made or when the version was created. This is optional and can be left blank.
 
-#### ③リリース管理画面に遷移する
+#### ③ Navigate to the Release Management Screen
 
-右上に成功の通知が出てきて、リリース管理画面へと遷移したら、最新バージョンの作成（＝アプリへの反映）が完了しています。
+When a success notification appears in the top right and you are taken to the Release Management screen, it means that creating the latest version (reflecting it in the app) has been completed.
 
+### ◆ Creating a Test Play Event
 
+A work that is test-published will not appear in the Uz app unless it is searched by its ID.
 
-### ◆テストプレイイベントの作成
+#### **① Copy the Work ID from the Release Management Screen**
 
-テスト公開中の作品はウズアプリ内でID検索しなければ見つかりません。
-
-#### **①リリース管理画面で作品IDをコピー**
-
-「リリース管理」画面内から作品ID（英数字の文字列）をコピーしてください。
+Copy the work ID (an alphanumeric string) from the "Release Management" screen.
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-#### **②ウズアプリを開く**
+#### **② Open the Uz App**
 
-#### **③アプリ内でシナリオを検索する**
+#### **③ Search for the Scenario in the App**
 
-* 左上のアイコンをタップし、出てきたメニューバーから**「ID検索」→「シナリオを検索」**とタップしてください。
-* シナリオ検索画面が出てくるので、①でコピーしたシナリオIDをペーストします。
+- Tap the icon in the top left and select **"ID Search" → "Search Scenario"** from the menu bar.
+- The scenario search screen will appear, so paste the scenario ID you copied in step ①.
 
 <figure><img src="../../.gitbook/assets/desc.001.png" alt=""><figcaption></figcaption></figure>
 
-#### ④**シナリオ詳細画面が出てくる**
+#### ④ **The Scenario Details Screen Will Appear**
 
-#### ⑤**イベントを作成する**
+#### ⑤ **Create the Event**
 
-* 画面下部の「**最新版でイベントを作成**」をタップします
-* 「今すぐ遊ぶ」か「イベント予定を作成（日時指定）」かを選び、「**イベント設定へ**」進みます
-* 「**観戦を許可する**」をタップし、自分の参加枠で「**観戦者**」を選びます
+- Tap "**Create Event with Latest Version**" at the bottom of the screen.
+- Choose between "Play Now" or "Create a Scheduled Event" (specify date and time) and proceed to "**Event Settings**."
+- Tap "**Allow Spectators**" and select "**Spectator**" for your participation slot.
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### ⑥**共有用リンクを取得する**
+#### ⑥ **Obtain the Shareable Link**
 
-イベントが作成できたら、以下のような画面が出てくるので「コピー」で共有用リンクを取得します。
+Once the event is created, you will see a screen like the one below. Click "Copy" to get the shareable link.
 
-
-
-#### ⑦**テストプレイ参加者へリンクを送ったら完了**
+#### ⑦ **Send the Link to the Test Play Participants**
 
 {% hint style="warning" %}
-このイベントリンクはウズアプリ内の検索では出てこない（＝正式リリースされていない）シナリオの詳細ページに直接飛ぶものになっているため、Twitterなど公開の場に貼ったままにしまうと、リリース前から誰でもイベントを作成してシナリオをプレイできる状態となってしまいます。リンクの取り扱いには十分ご注意ください。
+Since this event link takes users directly to the scenario's details page, which does not appear in the Uz app's search (as it hasn't been officially released), be careful when sharing the link in public forums like Twitter. Leaving the link publicly available can allow anyone to create an event and play the scenario before it is officially released.
 {% endhint %}
 
+## How to Conduct the Test Play
 
+### ◆ Using Discord Alongside Uz
 
-## テストプレイの実施方法
-
-### ◆Discordを併用する場合
-
-ウズでプレイ進行をし、音声のみDiscordでやり取りする方法です。ウズ側の音声をミュート、Discordの音声をONにして行います。
+One method is to progress the game in Uz while communicating only via voice on Discord. Mute the audio in Uz and keep Discord audio on.
 
 {% hint style="info" %}
-**利点**
+**Advantages**
 
-* 参加プレイヤーが壁打ち(プレイ中にメモをとる)する場を設けやすい
-{% endhint %}
+- It's easier to create spaces for players to reflect (note-taking) during play.
+  {% endhint %}
 
 {% hint style="warning" %}
-**欠点**
+**Disadvantages**
 
-* Discordサーバーの準備が必要
-* イベント作成から実施までの手順が少し煩雑になる
-{% endhint %}
+- You need to set up a Discord server.
+- The procedure from event creation to execution becomes slightly more complex.
+  {% endhint %}
 
+**【Discord Setup】**
 
+- Create a Discord server for the test play and invite the participants.
+- If the scenario includes secret talks, create voice channels for those.
+- Create channels for each player to take notes.
+- It’s also a good idea to send the Uz event participation link within the server.
 
-**【Discord準備】**
+**【Event Creation】**
 
-* テストプレイ用のDiscordサーバーを作成し、参加者を招待します
-* 密談があるシナリオの場合、密談用のボイスチャンネルを作成します
-* プレイヤーごとの壁打ち(メモ用)チャンネルを作成します
-* ウズのイベント参加リンクもサーバー内で送るとよいでしょう
+- Create the event as mentioned earlier.
+- The author can participate as a spectator in the Uz app or listen in on Discord without participating in the app.
 
+### ◆ Completing the Process within Uz
 
-
-**【イベント作成】**
-
-* 前述の方法でイベントを作成します
-* 作者はウズアプリ内で観戦者として参加するか、アプリ上では参加せずDiscordで音声のみ聞く形になります
-
-
-
-### ◆ウズで完結させる場合
-
-ウズアプリ内で作者が観戦者として参加し、Discord等を使用しない方法です。
+This method involves the author participating as a spectator within the Uz app, without using Discord.
 
 {% hint style="info" %}
-**利点**
+**Advantages**
 
-* 前述の方法で自分が観戦者として参加するイベントを作成するだけなので募集や実施が簡単
-* ウズのプレイ画面をプレイヤーと一緒に見ることができる
-* 観戦者として参加していてもミュートを解除してプレイヤーに話しかけることができるので、進行トラブルやミスがあった場合でもウズのプレイ画面を見ながら補足説明ができる
-{% endhint %}
+- It’s simple to create and execute the event, as you only need to set up yourself as a spectator.
+- You can view the play screen together with the players.
+- Even as a spectator, you can unmute yourself and talk to the players, so if there’s any issue during play, you can provide additional explanations while watching the play screen.
+  {% endhint %}
 
 {% hint style="warning" %}
-**欠点**
+**Disadvantages**
 
-* 参加プレイヤーが壁打ち(プレイ中にメモをとる)する場がない
-{% endhint %}
+- There’s no space for players to take notes (reflection) during play.
+  {% endhint %}
 
+**【Event Creation】**
 
-
-**【イベント作成】**
-
-* 前述の方法でイベントを作成します
-* 作者はウズアプリ内で観戦者として参加してください
-
+- Create the event as mentioned earlier.
+- The author should participate as a spectator in the Uz app.

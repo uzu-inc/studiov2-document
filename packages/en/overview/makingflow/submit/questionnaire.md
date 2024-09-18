@@ -1,126 +1,98 @@
-# テストプレイアンケートの使い方
+# How to Use the Test Play Survey
 
-## テストプレイ前の準備
+## Preparing for Test Play
 
-### ◆事前準備：Googleアカウントの作成
+### ◆ Preparation: Creating a Google Account
 
-テストプレイアンケートの使用にはGoogleアカウントが必要です。
+You need a Google account to use the test play survey.
 
-アカウントをお持ちでない方は[Googleアカウントの作成方法(公式)](https://support.google.com/accounts/answer/27441?hl=ja)を参考にアカウントを準備してください。
+If you don’t have an account, please refer to the [Google Account Creation Guide (Official)](https://support.google.com/accounts/answer/27441?hl=en) and create one.
 
-アカウントを既に持っている方はログイン状態にしておくと、以降の手順がスムーズに行えます。
+If you already have an account, staying logged in will make the following steps smoother.
 
+### ◆ Creating Your Own Survey Form
 
-
-### ◆自分用のアンケートフォームを作成する
-
-以下のリンクをクリックし、テストプレイアンケートのコピーを作成してください。
+Click the link below to create a copy of the test play survey.
 
 {% embed url="https://docs.google.com/forms/d/1n-zpeO81ovftLRx133F38ygJpzKMn0K_CznkdPxbGL0/copy" %}
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-以下のようなフォーム編集画面が出てきたら成功です。 ※カラーは端末の設定により異なる可能性があります。
+If you see a form editing screen like the one above, you've succeeded. ※ The colors may vary depending on your device settings.
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
 
+### ◆ Customizing
 
+As a premise, Uz Studio Editorial Team conducts the detailed review based on the preset survey items. Please **do not delete the preset questions** when creating a copy of the survey. We also ask that you avoid making any structural changes that would significantly alter the format.
 
-### ◆カスタマイズする
+You are free to add additional questions if needed.
 
-まず前提として、ウズスタジオ編集部ではアンケートに初期設定されている項目を元に詳細審査を実施いたしますので、アンケートのコピー作成時に**初期設定されている質問項目は削除しない**ようお願いいたします。構造を大きく崩すような変更もお控えいただけると助かります。
+#### Customization 1: Changing the Title
 
-質問項目の追加は自由にしていただいてかまいません。
-
-
-
-#### カスタマイズ１：タイトルの変更
-
-管理用タイトル（左上点線枠内）、アンケートタイトル（中央太枠内）は「（シナリオ名）テストプレイアンケート」のように変更してかまいません。
-
-説明文内の『（シナリオ名）』もご自身のシナリオのタイトルに変更しておくとよいでしょう。
+You can change the management title (in the dotted box on the top left) and the survey title (in the large central box) to something like "Test Play Survey for (Scenario Name)". It’s also a good idea to change ‘(Scenario Name)’ in the description to your scenario title.
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+#### Customization 2: Changing Character Names and Number of Characters
 
-
-#### カスタマイズ２：キャラ名・キャラクター数の変更
-
-（キャラ名）をそれぞれ入力し、シナリオのプレイアブルキャラクターの数に合わせて、適宜PCを増減させてください。
+Please enter the character names and adjust the number of playable characters according to your scenario by adding or removing PCs as necessary.
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Distributing the Test Play Survey
 
+### ◆ Distributing the Survey
 
-## テストプレイでの配布
-
-### ◆アンケートを配布する
-
-右上の「送信」ボタンを押すとポップアップが出てきます。
+Click the "Send" button in the top right, and a pop-up will appear.
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-
-
-送信方法で真ん中の「リンクマーク」を選び、右下の「コピー」をクリックします。
+Select the middle "link icon" as the sending method, and click "Copy" in the bottom right.
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
 
+The survey link will be copied, so paste it into a place where you interact with test play participants, such as Discord or direct messages.
 
+## After the Test Play & Submission for Review
 
-アンケートに回答するためのリンクがコピーされるので、DiscordやDMなどテストプレイ参加者とのやり取りの場に貼り付けてください。
+### ◆ Checking Survey Results
 
+You can check the survey results from the "Responses" tab.
 
-
-## テストプレイ後・審査提出
-
-### ◆アンケート結果を確認する
-
-アンケートの結果は「回答」タブから確認できます。
-
-* 概要：全ての質問項目の全員の回答が概要として確認できます。
-* 質問：質問項目ごとに回答を確認できます。
-* 個別：回答者ごとに回答を確認できます。
+- Summary: View the summary of all participants' answers to all questions.
+- Questions: View responses to each individual question.
+- Individual: View each respondent's answers individually.
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
-###
+### ◆ Creating a Spreadsheet
 
-### ◆スプレッドシートを作成する
+For the review, you will need to submit the survey results in spreadsheet format.
 
-審査の際は、アンケート結果をスプレッドシート形式にして提出していただきます。
-
-「回答」タブから「スプレッドシートにリンク」を押すと、Googleドライブ内にスプレッドシートが作成されます。
+From the "Responses" tab, click "Link to Sheets," and a Google Sheets document will be created in your Google Drive.
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 
+### ◆ Obtaining the Submission Link for the Spreadsheet
 
-
-### ◆スプレッドシートの提出用リンクを取得する
-
-スプレッドシートを開き、画面右上の「共有」をクリックします。
+Open the spreadsheet, and click "Share" in the upper right corner.
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+A pop-up like the one below will appear.
 
+1. Change "General access" to "Anyone with the link."
+2. Click "Copy link."
 
-以下のようなポップアップが出てくるので
-
-①「一般的なアクセス」を「リンクを知っている全員」に変更してください
-
-②「リンクをコピー」してください
-
-コピーしたリンクを提出用フォームの該当箇所にペーストしていただければ完了です。
+Paste the copied link into the appropriate field in the submission form to complete the process.
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
-***
+---
 
-### Q\&A
+### Q&A
 
-よくあるご質問をこちらに掲載していきます。
+We will list frequently asked questions here.
 
-Q\&Aを読んでも疑問が解決しなかった場合は、Discordサーバー内の「質問・要望など」のテキストチャンネルで「@編集部」メンションをつけて質問してください。
-
+If your question is not resolved after reading the Q&A, please mention "@Editorial Team" in the "Questions & Requests" text channel on the Discord server.

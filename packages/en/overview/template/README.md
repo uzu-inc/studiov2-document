@@ -1,7 +1,7 @@
-# 埋めるだけでマダミス完成テンプレート
+# Fill-in-the-Blank Murder Mystery Completion Template
 
-ウズスタジオv2では、テンプレートを活用して、埋めるだけで簡単にマダミスを完成させることができます。
+With Uzu Studio , you can easily complete a murder mystery scenario by simply filling in the template.
 
-テンプレートの使い方について、4人用を例にとり、[基本編](basic.md)と[発展編](advanced.md)に分けて解説します。
+Using a 4-player template as an example, we will explain how to use the templates in two parts: [Basic](basic.md) and [Advanced](advanced.md).
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

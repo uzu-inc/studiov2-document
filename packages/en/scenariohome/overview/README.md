@@ -1,306 +1,217 @@
-# 作品概要
+# Work Overview
 
-作品概要では、アプリ内でプレイ前に公開される情報を設定します。
+In the work overview, you set the information that will be publicly available before the scenario is played in the app.
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
+## Cover Image
 
+You can set or change the image by clicking on the image area. Make sure to follow the [key visual creation regulations](../../overview/visual-regulation.md) and set an image with a 16:9 aspect ratio.
 
-## カバー画像
+In addition to the key visual, you can also set sub-images for character introductions or scenario overviews. For the rules regarding sub-images, please refer to [this page](sub.md).
 
-画像部分をクリックすると設定・変更ができます。キービジュアルは[キービジュアル作成レギュレーション](../../overview/visual-regulation.md)に沿って、16:9の画像を設定してください。
+## Title
 
-キービジュアルのほかにキャラクター紹介・概要紹介などのためのサブ画像も設定できます。サブ画像の掲載ルールは[こちら](sub.md)をご確認ください。
+This is the title that will be displayed in the app.
 
-
-
-## タイトル
-
-アプリ内で表示されるタイトルです。
-
-タイトルが以下のいずれかに該当する場合は、「タイトルにふりがなを含める」 「作者コメント欄で読み方を補足する」 「キービジュアルにふりがなを入れる」 のいずれかの対応が必要です。
+If the title falls into any of the following categories, you must either include **furigana** (reading guide) in the title, provide a pronunciation guide in the author’s comment section, or include the furigana in the key visual:
 
 {% hint style="info" %}
-①一般に難読と呼ばれる読みが含まれる
-
-②複数の読み方のある漢字が含まれる
-
-③固有名詞が含まれる
-
-④当て字が含まれる
-
-⑤一般的でない英単語・外国語が含まれる
+① Includes kanji that are generally considered difficult to read  
+② Contains kanji with multiple possible readings  
+③ Includes proper nouns  
+④ Uses ateji (kanji used for phonetic purposes)  
+⑤ Includes uncommon English or foreign words
 {% endhint %}
 
-※タイトルにふりがなを含める際、『難読(なんどく)漢字』 のようにすると、「難読漢字」で検索したときに引っかかりづらくなりますので、『難読漢字(なんどくかんじ)』 のようにしてください。
+_Note_: When adding furigana to a title, avoid formats like `難読(なんどく)漢字`, as it will be harder to find when searching for "難読漢字". Instead, use `難読漢字(なんどくかんじ)`.
 
+## Furigana
 
+This field is referenced when searching for the scenario in hiragana within the app. Only **hiragana** can be entered.
 
-## ふりがな
+## Genre
 
-アプリ内でシナリオをひらがなで検索する際に参照されます。**ひらがな**のみ入力できます。
+Set the genre based on which type of players you want to attract the most. This will be reflected in the genre filter on the scenario list and event list screens in the app.
 
+_Note_: This is not meant to define the genre itself.
 
+## Play Time
 
-## ジャンル
+This is the total time from gathering to dispersal. Include time for character selection and wrap-up discussions to allow some flexibility.
 
-どのジャンルを求めている人に最も遊んでほしいかという視点で設定してください。アプリ内のイベント一覧・シナリオ一覧画面のジャンル絞り込み機能に反映されます。
+Example: Play time 60 minutes = 45 minutes of scenario + 15 minutes for character selection and wrap-up.
 
-※定義を決めるものではありません。
+## Shortened Title
 
+This is used for invites and hashtags when posting impressions in the app. You can use the full title if you'd like. Keep in mind that punctuation marks (。,、) and certain symbols (！？) won’t be included in the hashtag.
 
+## Author
 
-## プレイ時間
+You can set the author to be displayed on the scenario details screen in the app.
 
-**集合から解散まで**の時間です。キャラクターを選ぶ時間や感想戦の時間も少し含め、余裕をもって設定してください。
+Click the "Add" button and enter the author’s name (not the player name) to see suggestions. Enter relevant roles such as creator or illustrator.
 
-例：プレイ時間60分＝シナリオの中身45分＋キャラクター選択や感想戦のための余白15分
+_Note_: How to check your author name  
+Once you’ve created a work and built the latest version at least once, a "Author Page" button will appear in the app’s side menu (assuming you're logged into the app and Uzu Studio with the same account). Click this button to confirm your author name.
 
+## Tags
 
+These tags indicate the tendencies and themes of the scenario and are used in the scenario search within the app.
 
-## 短縮タイトル
+_Note_: The tags "Uzu Exclusive," "Includes BGM/SE," and "Easy to Play Face-to-Face (No Secret Conversations)" are set by the operations team when the scenario is published.
 
-アプリ内の**おさそい文**や**感想投稿時のハッシュタグ**に使われます。タイトルそのままでもかまいません。\
-句点や読点（。、）や一部の記号（！？）はハッシュタグから外れてしまいますのでご注意ください。
+## Scenario Tendencies
 
+As murder mysteries have expanded, specialized works and similar genres have developed. At Uzu, we interpret "Madamis" as **content that allows players to immerse themselves in and experience the story as a character**, rather than just as a genre.
 
+To avoid mismatches between players and scenarios, which is important for both authors and players, please include information about the tendencies of the scenario. Here are some examples:
 
-## 作家
+> **Examples**  
+> ・Closed-type murder mystery.  
+> ・Open-type murder mystery.  
+> ・For beginners (intermediate, advanced players).  
+> ・A scenario that focuses on deduction and strategy.  
+> ・No clear deduction pathway.  
+> ・A work that emphasizes role-playing.  
+> ・A story-playing scenario.  
+> ・A scenario with strong story-playing elements.  
+> ・Werewolf-style murder mystery.  
+> ・A non-typical murder mystery with special elements.  
+> ・A scenario with a lot of reading.  
+> ・A scenario with a large amount of text and information.
 
-アプリ上のシナリオ詳細画面に表示する作家を設定できます。
+## Cautions
 
-「追加」ボタンを押し、作者名（プレイヤー名ではない）を入力するとサジェストが出てきます。制作者・イラスト担当などの肩書きを入力してください。
+Since murder mysteries don’t reveal much about the content beforehand and players cannot leave mid-session, providing warnings before play is crucial. While balancing potential spoilers and misleads, be sure to include important information.
 
-※作家名の確認方法\
-作品を制作し、一度でも最新バージョンの作成をしたことがあれば、アプリ内のサイドメニューに「作家ページ」というボタンが現れるようになっています（アプリとウズスタジオへ同じアカウントでログインしている前提）。作家ページボタンを押すと、自分の作家名が確認できます。
+### ① Warnings About Content and Themes (Required)
 
-
-
-## タグ
-
-シナリオの傾向やテーマを示すタグです。アプリ内のシナリオ検索にも関係します。
-
-※「ウズ限定」 「BGM・SE付き」 「対面でも遊びやすい（密談がない）」の３つは公開時のフォームで確認し、運営が設定します。
-
-
-
-## シナリオ傾向
-
-マーダーミステリーは、その広がりとともに、要素に特化した作品や類似ジャンルなど様々に発展してきています。ウズでは、「マダミス」を単なるマーダーミステリーの略称ではなく、**登場人物になりきって体験したり没入したりできるコンテンツ**として広く捉えています。
-
-今後も定義やイメージが広がり得る中で、ミスマッチを防止することは作者にとってもプレイヤーにとっても大切です。以下の例を参考に、シナリオの傾向が伝わる内容を設置していただければと思います。
-
-> **記載例**
->
-> ・クローズ型マーダーミステリーです。
->
-> &#x20;・オープン型マーダーミステリーです。
->
-> &#x20;・初心者（中級者・上級者）向けです。&#x20;
->
-> ・推理や駆け引きを重視したシナリオです。
->
-> &#x20;・明確な推理導線がありません。
->
-> &#x20;・ロールプレイを楽しんでいただく作品です。
->
-> &#x20;・本作品はストーリープレイングです。&#x20;
->
-> ・ストーリープレイング要素の強い作品です。
->
-> &#x20;・人狼風マーダーミステリーです。&#x20;
->
-> ・一般的なマーダーミステリーではなく、特殊な要素のあるシナリオです。
->
-> &#x20;・○○に特化したシナリオです。
->
-> ・読み上げの多いシナリオです。&#x20;
->
-> ・文章量や情報量の多いシナリオです。&#x20;
-
-
-
-## 注意事項
-
-事前に中身を知ることができず、プレイ開始後の途中離脱ができないマダミスでは、プレイ前の注意喚起が非常に大切です。
-
-ミスリードやシナリオのネタバレなどとのバランスを考慮しつつ、必要な情報をしっかりと記載しましょう。
-
-### ①描写・テーマについての注意（必須）
-
-　人によっては不快に感じる可能性のある描写が存在する場合や苦手な人もいるテーマを扱っている場合は、注意書きをしておきましょう。
+If the scenario contains content that some people may find uncomfortable or deals with sensitive themes, be sure to include a warning.
 
 {% hint style="warning" %}
-**記載例**
+**Examples**
 
-・グロ描写 ・残酷な描写（拷問・虐待・凌辱など）&#x20;
-
-・トラウマになるような内容&#x20;
-
-・動物が傷つくような内容&#x20;
-
-・性行為を匂わせる描写&#x20;
-
-・差別的な表現
-
-・自殺&#x20;
-
-・デスゲーム&#x20;
-
-・ホラー&#x20;
-
-・百合・BL
+・Graphic descriptions  
+・Cruel depictions (torture, abuse, rape, etc.)  
+・Traumatizing content  
+・Animal cruelty  
+・Implied sexual content  
+・Discriminatory expressions  
+・Suicide  
+・Death game  
+・Horror  
+・Yuri/BL themes
 {% endhint %}
 
-※注意書きの対応がなされていても、ウズスタジオ規約に違反する内容が含まれているシナリオでは、表現の調整をしていたただく場合、あるいは掲載不可となる場合があります。
+_Note_: Even if proper warnings are provided, scenarios that violate Uzu Studio’s terms of service may require adjustments or may not be accepted for publication.
 
-※ウズでは年齢によるゾーニングができないため、R18にあたる内容が含まれているシナリオでは、表現の調整をしていたただく場合、あるいは掲載不可となる場合があります。
+Since Uzu doesn’t have an age restriction system, scenarios containing adult (R18) content may also require adjustments or may not be accepted for publication.
 
+### ② Series or Related Works (Required)
 
-
-### ②シリーズ作品・関連作品（必須）
-
-シリーズ作品や関連作品など、あるシナリオをプレイ済みであることが条件となる場合は、その旨を記載しておきましょう。
+If the scenario is part of a series or requires players to have played another scenario beforehand, make sure to mention that.
 
 {% hint style="warning" %}
-**記載例**&#x20;
+**Examples**
 
-・必ず○○シリーズ１作目をプレイしてから遊んでください。
-
-・シリーズ作品『○○』のネタバレが含まれますので、先にそちらをプレイしてください。
-
-・『○○』をプレイ済みでない場合は参加をご遠慮ください。
+・Please play the first work in the ○○ series before playing this.  
+・This scenario contains spoilers for the series ‘○○’. Please play that first.  
+・If you haven’t played ‘○○’, please refrain from participating.
 {% endhint %}
 
+### ③ Warnings About Play Time (Required)
 
+If your scenario includes **open discussion phases without a timer**, be sure to note that it may run over the estimated time.
 
-### ③プレイ時間への注意（必須）
+Uzu allows the creation of consecutive event schedules with a 10-minute buffer after the expected end time, but we recommend setting a generous playtime based on test play results to avoid players being late for the next event.
 
-**タイマーを設定していない自由議論のフェーズ**があるようなシナリオでは、**時間を超過する可能性**がある旨を記載しておきましょう。
+### ④ Warnings About Play Difficulty or Audience (Optional)
 
-ウズでは、想定終了時刻の10分後であれば連続でイベント予定を作成できるようになっています。
+If the scenario has specific difficulty levels or is targeted at beginners or advanced players, you can note that here, or in the scenario tendency section mentioned earlier.
 
-参加した方が次のイベントに遅刻するという事態を避けるため、前提として余裕をもった総プレイ時間の設定を推奨します。テストプレイでの総プレイ時間等を参考にするのがよいでしょう。
+### ⑤ Other Warnings (Optional)
 
-
-
-### ④プレイ難易度・対象（任意）
-
-プレイ難易度や初心者向け・上級者向けといった指定があれば記載しておくとよいでしょう。前述したシナリオ傾向欄でもかまいません。
-
-
-
-### ⑤その他（任意）
-
-その他、ありそうな注意事項の例を以下に示します。
+Here are some other possible warnings you might want to include:
 
 {% hint style="warning" %}
-・メモの準備を推奨します。&#x20;
-
-・一部、特殊な進行をする箇所がありますので、説明をよく読んで遊んでください。&#x20;
-
-・外部リンクが含まれています。&#x20;
-
-・キャラクターが死亡する可能性があります。&#x20;
-
-・ハッピーエンドはありません。&#x20;
-
-・メリーバッドエンド（メリバ）を含みます。
+・We recommend preparing notes.  
+・Some sections of the scenario have special progression mechanics, so please read the instructions carefully.  
+・Includes external links.  
+・Characters may die.  
+・There is no happy ending.  
+・This scenario includes a bittersweet (melancholy) ending.
 {% endhint %}
 
+## Synopsis
 
-
-## あらすじ
-
-あらすじは、プレイ前にシナリオの具体的な中身について知るための唯一の情報です。シナリオを遊んでみたくなるように、物語の期待感を高めるような内容にすると良いでしょう。
-
-具体的には
+The synopsis is the only concrete information players will have about the scenario before playing. Try to make it intriguing and exciting to encourage players to play.
 
 {% hint style="success" %}
-・世界観&#x20;
+Key elements to include:
 
-・舞台（いつ/どこで）&#x20;
-
-・体験する物語や事件（だれが/なぜ/なにを/どんな風に）
+・World setting  
+・Location (when/where)  
+・The story or events that players will experience (who/why/what/how)
 {% endhint %}
 
-などを意識して、あらすじ文を構成すると良いでしょう。シナリオの雰囲気がしっかり伝わるようなあらすじ文を心がけましょう。
+Craft the synopsis to convey the atmosphere and feel of the scenario.
 
+## Creator's Comments
 
+While not mandatory, here are some tips if you choose to add creator comments.
 
-## 制作者のコメント
+### ① Comments
 
-注意事項とは違い、必須とは限りませんが、記載の際の参考にしていただければと思います。
+You can include comments about what kind of scenario it is, key points, what inspired you to create it, and any recommendations on who to play it with.
 
-### ①コメント
+### ② Credits
 
-どんなシナリオなのか、何がポイントなのか、どんな考えで制作したのか、どういう関係性の人とプレイするのがオススメなのかなど、制作者だからこそのコメントをぜひ書いてみましょう。
+List any credits for illustrations, BGM/SE, collaborators, etc., as needed.
 
+_Note_: If the terms of use require displaying credits on the top screen, be sure to include them.
 
+### ③ Update History
 
-### ②クレジット
+If you’ve made updates to the scenario, you can use this section to list the update history.
 
-イラスト、BGM・SE、協力者など必要に応じて記載しましょう。
+### ④ Sales/Price Changes
 
-※利用規約等でトップ画面に表示が必須となっている場合は必ず記載しましょう。
+You can also use this section to announce sales or price changes.
 
-
-
-### ③更新履歴
-
-シナリオを修正した場合、更新履歴の記載欄としても利用できます。
-
-
-
-### ④セール・価格変更
-
-セール情報の発信や価格変更の予告等に使っていただいてもかまいません。
-
-
-
-## 関連シナリオ
+## Related Scenarios
 
 {% hint style="info" %}
-**関連シナリオ機能の使用例**
+**Examples of Using the Related Scenarios Feature**
 
-・そのシナリオを遊ぶために前提として遊んでおかなければならないシナリオ（例：シリーズの前作）
-
-&#x20;・そのシナリオの体験版シナリオ（例：有料シナリオの無料体験版）&#x20;
-
-・そのシナリオの別バージョン（例：GMあり/なし）
+・Scenarios that need to be played beforehand (e.g., previous entries in a series)  
+・Demo versions of the scenario (e.g., a free demo for a paid scenario)  
+・Alternative versions of the scenario (e.g., with or without a GM)
 {% endhint %}
 
-**関連シナリオ機能は「内容としては関連のない、単に同じ作者のシナリオ」「無関係な作品の宣伝」にはご利用いただけません。**&#x20;
+**Please note that the Related Scenarios feature is not for "unrelated works by the same author" or "advertising unrelated works."**
 
-作品数の多いシリーズの場合は、関連シナリオに全てを載せるのではなく、[コレクション機能](../../top/collection.md)をご利用ください。直前の1作を関連シナリオに載せるのは問題ありません。
+For long series with many works, use the [Collection feature](../../top/collection.md) instead of listing every related scenario. Listing just the previous work in the series as a related scenario is acceptable.
 
+## Role Assignment Hints
 
-
-## 配役のヒント
-
-キャラクター選択時に表示される説明が必要であれば記載しましょう。
+If hints for character selection are needed, include them here.
 
 {% hint style="info" %}
-記載例
+**Examples**
 
-・キャラクターAは犯人ではありません。
-
-・キャラクターBのみ、他のキャラクターとプレイ感が異なります。
-
-・キャラクターCは読み上げが多いです。
-
-・キャラクター診断はこちら→URL
+・Character A is not the culprit.  
+・Character B has a different play experience from others.  
+・Character C has a lot of lines to read.  
+・For a character quiz, click here → URL
 {% endhint %}
 
-アプリ内では以下のように表示されます。
+In the app, this will be displayed as follows:
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt="" width="320"><figcaption></figcaption></figure>
 
+## Streaming Permission
 
+Set whether or not streaming is allowed.
 
-## 配信を許可するか
-
-配信の拒否・許可について設定します。
-
-許可する場合の条件をチェックボックスで簡単に設定したり、作者の連絡先を記載したりできます。
-
+You can easily set conditions for streaming using checkboxes or include contact information for the creator if needed.

@@ -1,40 +1,40 @@
-# マーケティング
+# Marketing
 
-追加コンテンツの作成・管理と、チケットコードの発行ができる画面です。
+This is the screen where you can create and manage additional content and issue ticket codes.
 
-## 追加コンテンツの作成・管理
+## Creating and Managing Additional Content
 
-### 基本設定
+### Basic Settings
 
-後日談や制作秘話など、シナリオプレイ後に購入できるコンテンツを作成することができます。
+You can create content that can be purchased after playing a scenario, such as epilogues or behind-the-scenes stories.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-追加コンテンツの値段の下限は0コイン、上限はありません。
+The price for additional content starts at 0 coins, with no upper limit.
 
-アップロードできるコンテンツの種類は以下の通りです。
+The types of content that can be uploaded include the following:
 
-* 画像(png/jpg形式)
-* 動画(mp4形式)
-* 音声(mp3形式)
-* pdf
-* ウズスタジオ内で作成できるテキストエディタ
+- Images (png/jpg format)
+- Videos (mp4 format)
+- Audio (mp3 format)
+- PDF documents
+- Text editors that can be created within Uzu Studio
 
-### 規約への同意
+### Agreement to Terms
 
-有料で公開する際は「ウズ追加コンテンツ有償公開規約」をご一読ください。売り上げを受け取る人全員が規約に同意していなければ公開できません。
+When publishing for a fee, please read the “Uzu Additional Content Paid Publication Terms.” All members entitled to receive revenue must agree to the terms, or the content cannot be published.
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-共作の場合の売り上げの分配設定は「メンバー」画面から行います。
+For collaborative works, revenue-sharing settings can be adjusted in the “Members” screen.
 
-追加コンテンツの種類ごとに分配率を設定することはできず、全て一括での分配率設定になります。
+Revenue cannot be divided for different types of additional content individually. All content will follow a unified revenue-sharing ratio.
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
-### アプリ内での表示
+### Display in the App
 
-追加コンテンツのアプリ側での見え方は以下のようになります。v3.50.0以上にアップデートしている端末で確認できます。
+The following images show how additional content is displayed in the app. You can confirm this on devices updated to version 3.50.0 or higher.
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,31 +42,31 @@
 
 <figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-## チケットコードの発行
+## Issuing Ticket Codes
 
-有料シナリオに限り、シナリオを無料で体験してもらえるチケットと引き換えることができるコードを発行することが出来ます。自分のシナリオをプレイしてレビューを書いてもらいたいときや、キャンペーンを行うときなどに便利な機能です。　
+For paid scenarios, you can issue a code that allows others to play your scenario for free in exchange for a ticket. This is useful when you want someone to play your scenario and write a review or when running a campaign.
 
-有料作品のv2移行テストプレイを実施する際に、無料で遊んでもらうためにも使えます。
+This feature can also be used to allow free access for test plays during the v2 transition of paid works.
 
-### 基本仕様
+### Basic Specifications
 
-* 発行したコードは一度ずつしか使えません。※試しに自分のアカウントで入力してみるなどすると、そのチケットは他の人が使えなくなるので注意してください。
-* 一度にシナリオのキャラクター数×3件まで発行でき、毎月1日に発行可能数が回復します。
-* チケットを使って無料でプレイした人の分の売上は入りません。
+- Each code can only be used once. **If you test the code on your own account, others won’t be able to use that ticket, so be careful.**
+- You can issue up to 3 tickets per character in the scenario at one time. The number of available tickets resets on the first of every month.
+- You will not receive any revenue from people who use the ticket to play for free.
 
-### 発行の仕方
+### How to Issue Tickets
 
-シナリオ詳細画面の「マーケティング」タブに遷移して、「新規コード発行」をタップします。
+Go to the “Marketing” tab on the scenario details screen and tap “Issue New Code.”
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-ボタンを押すと以下のような画面となり、コードが発行されます。このコード番号をシナリオをプレイしてもらいたい人に伝えます。コードは一つにつき一回しか使えないので注意してください。
+After pressing the button, a screen like the one below will appear, and a code will be issued. You can then give this code to the person you want to play your scenario. Please note that each code can only be used once.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-04-15 18.49.19.png" alt=""><figcaption></figcaption></figure>
 
-### アプリでの適用の仕方
+### How to Use Tickets in the App
 
-サイドメニューから「クーポン・チケット」を押します。
+From the side menu, press “Coupons & Tickets.”
 
 <div align="left" data-full-width="false">
 
@@ -74,7 +74,7 @@
 
 </div>
 
-先ほど発行したクーポンコードを入力すると、「所持チケット一覧」に該当のシナリオの無料チケットが増えます。
+Enter the coupon code you issued earlier, and the corresponding free ticket for the scenario will be added to the "Ticket List."
 
 <div align="left">
 
@@ -82,29 +82,29 @@
 
 </div>
 
-チケットが換券されると、ウズスタジオでは以下のような画面になり、換券したユーザーがわかります。
+Once the ticket has been redeemed, Uzu Studio will display the following screen, showing who has redeemed the ticket.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-04-15 19.00.29.png" alt=""><figcaption></figcaption></figure>
 
-### ユーザー向け　使用方法説明ページ
+### User Instructions Page
 
-ユーザー向けの使用方法説明ページが公開されています。チケットを渡す相手に以下のリンクを添えて送るとよいでしょう。
+There is a user instruction page explaining how to use tickets. You can send this link along with the ticket code to the recipient:
 
-* [https://www.uzu-app.com/articles/free-play-ticket](https://www.uzu-app.com/articles/free-play-ticket)
+- [https://www.uzu-app.com/articles/free-play-ticket](https://www.uzu-app.com/articles/free-play-ticket)
 
-### ステルスマーケティングについての注意喚起
+### Stealth Marketing Warning
 
-ステルスマーケティングとは、実際には広告や宣伝であるのにそれを隠して商品やサービスの販促・宣伝を行うことで、2023年10月より景品表示法上の不当表示として規制されています。
+Stealth marketing refers to promoting or advertising products or services without disclosing that it is, in fact, an advertisement or promotion. Starting in October 2023, this practice is regulated as misleading advertising under the Act against Unjustifiable Premiums and Misleading Representations.
 
-気をつけるべき例
+**Examples of What to Watch For**
 
-* 無料チケットでプレイしたことを隠して高評価を書いてもらう
-* 宣伝の依頼を受けてプレイしたことを隠して宣伝してもらう
+- Asking someone to leave a positive review without disclosing they played with a free ticket.
+- Requesting promotion without revealing it was a sponsored play.
 
-対策の例
+**Best Practices**
 
-* 高評価や宣伝を強要しない
-* キャンペーンで遊んだ、無料チケットで遊んだ旨を添えた上で感想投稿してもらう
-* 記事や感想投稿時に宣伝であることを明記してもらう
+- Do not force positive reviews or promotion.
+- Ask players to mention if they participated in a campaign or used a free ticket when posting a review.
+- Ensure articles and reviews explicitly mention if they are advertisements or promotions.
 
-詳しくは「ステルスマーケティング」、「ステマ法」等で検索してください。
+Search for terms like "stealth marketing" or "stealth marketing law" for more information.

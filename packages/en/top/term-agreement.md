@@ -1,10 +1,9 @@
-# 各種規約への同意
+# Agreement to Various Terms and Conditions
 
-規約への同意は制作シナリオ一覧画面の右上のアイコンから行えます。
+You can agree to the terms and conditions by clicking the icon in the top right corner of the scenario list screen.
 
-有料公開作品をリリースする場合、有料の追加コンテンツを販売する場合は売り上げを受け取る人全員がそれぞれのアカウントから規約に同意している必要があります。
+If you are releasing paid content or selling additional paid content, all individuals who will receive sales proceeds must agree to the terms from their respective accounts.
 
-特に有料公開作品では、一人でも規約への同意ボタンを押していないと運営側でプレイ料金の設定ができませんので、ご注意ください。
+Please note, especially for paid content, if even one person has not clicked the agreement button, the management side will not be able to set the play fee.
 
 <figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
-

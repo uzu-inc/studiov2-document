@@ -1,37 +1,35 @@
-# 作成からリリースまでの流れ
+# From Creation to Release
 
-①ウズスタジオのシナリオ一覧画面から「**新規シナリオ作成**」をクリックします。
+① On the scenario list screen of Uz Studio, click "**Create New Scenario**."
 
-②シナリオの中身を**編集**します。
+② **Edit** the content of your scenario.
 
-③エディタ右上のボタンから「**最新バージョンの作成**」を行います。
+③ Click "**Create Latest Version**" from the button in the top-right corner of the editor.
 
-④[**テストプレイ**](testplay.md)を実施し、**修正・調整**を行います。有料公開予定の作品ではテストプレイで[アンケート](submit/questionnaire.md)を回収してください。
+④ Conduct a [**test play**](testplay.md) and make any necessary **adjustments**. For works intended for paid release, be sure to collect [survey responses](submit/questionnaire.md) during the test play.
 
-⑤ウズスタジオの「[リリース管理](../../scenariohome/release.md)」画面にある「アプリ掲載申請」というボタンから審査提出フォームに回答し、**審査に提出**します。
+⑤ From the " [Release Management](../../scenariohome/release.md) " screen in Uz Studio, click the "Submit for App Listing" button and complete the submission form to submit your work for **review**.
 
-※審査提出後もシナリオ内容の修正は可能ですが、審査は審査担当が確認した時点でウズスタジオに反映されている内容で行われます。
+※ You can continue to make edits to the scenario content even after submitting it for review, but the review will be based on the content in Uz Studio at the time the reviewer checks it.
 
-⑥**ウズスタジオ編集部による審査**が行われます。簡易審査（無料作品）は土日祝除く1～2営業日、[詳細審査](submit/check.md)（有料作品）は土日祝除く3営業日程度かかります。詳細審査では、指摘部分を修正した上での再提出が求められる場合があります。営業日は[こちら](../working-day.md)です。
+⑥ The **Uz Studio Editorial Team will review** your work. The simplified review (for free works) takes 1–2 business days excluding weekends and holidays, while the [detailed review](submit/check.md) (for paid works) takes about 3 business days excluding weekends and holidays. In the detailed review, you may be asked to resubmit your work after correcting the pointed-out issues. Check the business days [here](../working-day.md).
 
-⑦**審査完了**の連絡がウズスタジオ公式サーバー（Discord）の個別チャンネルに届きます。
+⑦ You will receive a notification of **review completion** in your individual channel on Uz Studio's official Discord server.
 
-⑧**アプリ「ウズ」への公開準備**のためのフォームに回答します。回答いただく内容は以下の通りです。
+⑧ Fill out the form to prepare for **publication on the Uz app**. The form will ask for the following details:
 
-* **公開希望日**：他の作品やお知らせと被らない範囲で希望制
-* ウズ公式アカウントからの投稿のための**シナリオ概要**
-  * タイトル
-  * 作者名：連名も可能
-  * プレイ人数
-  * プレイ時間
-  * あらすじ
-* （有料公開の場合）**プレイ料金**
-  * セールを希望する場合：その価格と期間
-  * 共作の場合：その配分割合
-* アプリ内に表示する**シナリオ傾向タグ**
+- **Desired publication date**: You may request a date that doesn’t overlap with other works or announcements.
+- **Scenario overview** for posting via the Uz official account:
+  - Title
+  - Author name: Co-authorship is also allowed.
+  - Number of players
+  - Playtime
+  - Synopsis
+- (For paid releases) **Play fee**:
+  - If you wish to have a sale: the price and the period.
+  - If it's a co-production: the percentage distribution.
+- **Scenario tendency tags** to be displayed in the app.
 
-⑨確定した公開日の18:00に、ウズ公式アカウントから作品公開についての投稿が行われ、アプリ「ウズ」にて作品が**リリース**されます。
+⑨ At 18:00 on the confirmed publication date, a post about the work’s release will be made by the Uz official account, and the work will be **released** on the Uz app.
 
-
-
-⑥～⑨までの最短は1日、平均は1週間程度です。
+The shortest time from step ⑥ to ⑨ is 1 day, with the average being about a week.

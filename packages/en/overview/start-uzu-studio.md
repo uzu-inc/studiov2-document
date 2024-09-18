@@ -1,13 +1,13 @@
-# ログイン方法
+# How to Log In
 
-[アプリ「ウズ」](https://uzu.one/app/dl)でアカウントを作成してから、同じアカウントでウズスタジオにログインします。ウズのアカウントをお持ちでない方は、先にウズをダウンロードして、アカウントを作成してください。
+After creating an account in the [Uzu App](https://uzu.one/app/dl), log in to Uzu Studio using the same account. If you don't have an Uzu account yet, please download the app first and create an account.
 
-「ウズ」で電話番号を登録している方が多いと思いますので、「**電話番号でログイン**」がおすすめです。
+Most users have registered their phone numbers in the Uzu App, so we recommend logging in with "**Phone Number Login**."
 
-ウズスタジオへは[こちら](https://studio.uzu-app.com/)からアクセスできます。ブックマークしておくと便利です。
+You can access Uzu Studio from [this link](https://studio.uzu-app.com/). Bookmarking the page is recommended for easy access.
 
 ![](../images/overview1.png)
 
-ウズのアカウントに外部サービスを連携している場合は、それらの方法でログインすることもできます。
+If you have linked external services to your Uzu account, you can also log in using those methods.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -1,81 +1,59 @@
-# メンバー
+# Members
 
-メンバー管理画面では、共同制作者・閲覧者の追加や売り上げの分配率の設定ができます。
+In the member management screen, you can add collaborators, viewers, and set the revenue sharing rates.
 
 <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-\
+## Adding Members
 
+① Click the "Add Member" button.
 
-## メンバー追加
+② Enter the Uzu user ID of the member you want to add. If entered correctly, the user's icon will appear—click it.
 
-①「制作メンバーを追加」というボタンを押します。
-
-②追加したいメンバーのウズのユーザーIDを入力します。正しく入力できているとアイコンが出てくるので、それをクリックします。
-
-③権限設定をします。
+③ Set the permissions for the member.
 
 <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
+## Displaying as Author
 
+To display a member as an author in the app, you must set this in the "Work Overview," not in the "Members" screen.
 
-## 作家として表示
+In the "Work Overview," enter the **author name** (not the player name) in the author field and set the title (e.g., creator, illustrator). The display in the app will look as shown on the right.
 
-アプリ内に作家として表示するための設定は「メンバー」画面ではなく、「作品概要」から行います。
-
-「作品概要」の作家欄に**作家名**（プレイヤー名ではない）を入力し、肩書きを設定してください。アプリ内での表示イメージは右の通りです。
-
-※作家名の確認方法\
-作品を制作し、一度でも最新バージョンの作成をしたことがあれば、アプリ内のサイドメニューに「作家ページ」というボタンが現れるようになっています（アプリとウズスタジオへ同じアカウントでログインしている前提）。作家ページボタンを押すと、自分の作家名が確認できます。
+_Note_: How to check your author name  
+Once you have created a work and built the latest version at least once, a "Author Page" button will appear in the app’s side menu (assuming you're logged into the app and Uzu Studio with the same account). Click this button to confirm your author name.
 
 <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
+## Play Fee Distribution Rate
 
+This is where you set the distribution rate for royalties among members. If only one person is receiving the sales, there is no need to adjust anything from the default 100% setting for yourself.
 
+Any changes will be applied starting from the following month\*. You cannot distribute royalties to members who have not agreed to the "Uzu Studio Paid Release Terms." Members must [agree to the terms](author.md#heno) by clicking the icon in the top right of the production scenario list screen.
 
+## Additional Content Distribution Rate
 
-## プレイ料金分配率
+This is where you set the distribution rate for additional content sales. If only one person is receiving the sales, there is no need to adjust anything from the default 100% setting for yourself.
 
-印税のメンバー内での分配率の設定です。売上を受け取る人が複数いない場合は、ご自身の表記が100%になっている状態から触る必要はありません。
+Any changes will be applied starting from the following month\*. Members who have not agreed to the "Uzu Additional Content Paid Release Terms" cannot be set for distribution. Members must [agree to the terms](author.md#heno) by clicking the icon in the top right of the production scenario list screen.
 
-変更すると、次月\*から新しい比率が適用されます。「ウズスタジオ有償公開規約」に未同意のメンバーには分配することができません。[規約への同意](author.md#heno)は制作シナリオ一覧画面の右上のアイコンから行います。
+### Interpretation of "Starting Next Month"
 
+In Uzu Analytics, sales from the start to the end of the month are displayed as a report the following month, and you can submit a payout request starting the following month. If you set the distribution rate during the month when sales occurred, it will be applied to the sales that can be withdrawn in the following month.
 
+#### Examples:
 
+- If you release a paid work on April 1 and set the distribution rate on April 2 → April sales can be requested for withdrawal from May onwards, with the distribution rate set on April 2 applied.
+- If the distribution rate is already set on April 1 and you release a paid work on April 2 → April sales can be requested for withdrawal from May onwards, with the distribution rate set on April 1 applied.
+- If the distribution rate is already set on March 31 and you release a paid work on April 1 → Since there were no sales in March, it doesn’t matter. April sales can be requested for withdrawal from May onwards, with the distribution rate set on March 31 applied.
+- If you release a paid work on April 1 but forget to set the distribution rate until May 1 → April sales can be requested for withdrawal from May onwards, but the distribution rate won’t apply to April sales (the representative will receive the full payment). May sales (withdrawable from June onwards) will have the distribution rate applied.
 
-
-## 追加コンテンツ分配率
-
-追加コンテンツの売上の分配率の設定です。売上を受け取る人が複数いない場合は、ご自身の表記が100%になっている状態から触る必要はありません。
-
-変更すると、次月\*から新しい比率が適用されます。「ウズ追加コンテンツ有償公開規約」に未同意のメンバーには配分を設定することができません。[規約への同意](author.md#heno)は制作シナリオ一覧画面の右上のアイコンから行います。
-
-
-
-#### \*次月から の解釈について
-
-ウズアナリティクスでは、その月初め～月末までの売上が翌月に集計として表示され、翌月以降に振り込み申請できるようになります。売上の発生している、ある月の間に分配率を設定すると、その月の売上の振り込み申請ができるようになる翌月から分配率が反映されます。
-
-例
-
-* 4/1に有料作品をリリースし、4/2に分配率を設定した → 4月分の売上は5月以降に振り込み申請ができるようになり、4/2に設定した分配率が適用されている。
-* 4/1に分配率を設定済みの状態で、4/2に有料作品をリリースした → 4月分の売上は5月以降に振り込み申請ができるようになり、4/1に設定した分配率が適用されている。
-* 3/31に分配率を設定済みの状態で、4/1に有料作品をリリースした → 3月はまだリリースされておらず売上がないので関係ない。4月分の売上は5月以降に振り込み申請ができるようになり、3/31に設定した分配率が適用されている。
-* 4/1に有料作品をリリースしたが、分配率設定を忘れており、5/1に設定した → 4月分の売上は5月以降に振り込み申請ができるが、4月分の売上には分配率が適用されない（代表者1名に支払われる）。6月以降に振り込み申請できる5月分の売上には分配率が適用される。
-
-
-
-すなわち、**リリース前**あるいは**リリースした月の間**に分配率を設定する必要があります。**設定ができていないまま、月をまたいでしまった場合は運営にご連絡いただいても対処ができません**ので、予めご了承ください。
-
-
+In other words, **you must set the distribution rate either before the release or during the release month**. If the month passes without setting the distribution rate, **the operations team cannot rectify it**, so please be mindful of this.
 
 <figure><img src="../.gitbook/assets/分配率１.png" alt=""><figcaption></figcaption></figure>
 
+## Agreeing to Terms
 
-
-## 規約への同意
-
-規約への同意は制作シナリオ一覧画面の右上のアイコンから行ってください。売り上げを受け取る人全員が規約に同意している必要があります。
+Members receiving sales must agree to the terms. You can do this by clicking the icon in the top right of the production scenario list screen.
 
 <figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
-

@@ -1,73 +1,53 @@
 ---
-description: ウズスタジオでは、営業日に、シナリオの作成から公開までの過程で発生する質問への対応、シナリオの審査、公開対応などをおこなっています。
+description: In Uzu Studio, the team handles questions, scenario reviews, and publication processes during business days from creation to release.
 ---
 
-# 営業日・営業時間
+# Business Days and Hours
 
+## Business Days and Hours
 
-
-## 営業日・営業時間
-
-**平日　　12:00～21:00**\
-**土日祝　お休み**\
-※長期休暇・年末年始などは都度お知らせ
+**Weekdays: 12:00 PM – 9:00 PM**  
+**Weekends and Holidays: Closed**  
+_Extended holidays and year-end breaks will be announced as needed._
 
 {% hint style="info" %}
-上記の営業時間外に審査提出やフォームへの回答、質問を送るなどしていただいても問題ございません。ただし、運営チームによる即時対応が保証できないものと考えていただければと思います。
+You may submit reviews, respond to forms, or ask questions outside of the business hours mentioned above without issue. However, please be aware that immediate responses from the operations team may not be guaranteed.
 {% endhint %}
 
+## Examples Requiring Operations Team Support
 
+The following cases require support from the operations team. Please make sure to check the business hours and allow ample time for communication.
 
-## 運営チームによる対応が必要な例
+### ① Requesting the creation of a free test play table for a paid scenario during v2 transitions
 
-以下の場合は運営チームの対応が必須になりますので、営業時間をご確認いただいた上で余裕を持ってご連絡ください。
+When you need a free test play table for a paid scenario during v2 transitions, please share the following three items with the operations team during business hours:
 
-
-
-**①v2移行時など、有料公開中の作品の無料テストプレイ卓の作成を運営に依頼する場合**
-
-以下3点を営業時間内に運営チームにご共有ください。
-
-* テストプレイに向けた修正およびバージョン作成が完了している状態の該当シナリオのタイトル
-* テストプレイの開始日時
-* 観戦者（作者）のユーザーID
+- The title of the scenario, with all fixes and version updates complete for test play
+- The start date and time of the test play
+- The user ID of the spectator (author)
 
 {% hint style="info" %}
-※連絡を忘れていた場合の解決方法
+**What to do if you forget to inform us:**
 
-マーケティング画面から無料チケットを発行して実施する
+- Issue free tickets from the marketing screen
+- Create a temporary copy of the scenario and conduct the test play
+  {% endhint %}
 
-一時的にシナリオのコピーを作成してテストプレイを実施する
-{% endhint %}
+### ② Gathering players who have already played the scenario in Uzu for a test play during v2 transitions
 
+When you want to conduct a test play with players who have already played the scenario (normally, players who have already participated cannot join a test play), share the following four items with the operations team during business hours:
 
-
-**②v2移行時など、ウズでそのシナリオをプレイ済みの人を集めてテストプレイしたい場合（本来プレイ済みの人はテストプレイに参加できません）**
-
-以下4点を営業時間内に運営チームにご共有ください。
-
-* テストプレイに向けた修正およびバージョン作成が完了している状態の該当シナリオのタイトル
-* テストプレイの開始日時
-* 観戦者（作者）のユーザーID
-* 参加者全員のユーザーID
+- The title of the scenario, with all fixes and version updates complete for test play
+- The start date and time of the test play
+- The user ID of the spectator (author)
+- The user IDs of all participants
 
 {% hint style="info" %}
-※連絡を忘れていた場合の解決方法
+**What to do if you forget to inform us:**
 
-一時的にシナリオのコピーを作成してテストプレイを実施する
-{% endhint %}
+- Create a temporary copy of the scenario and conduct the test play
+  {% endhint %}
 
+### ③ Submitting a publication preparation form for a scenario you wish to release on weekends, holidays, or long breaks
 
-
-**③土日祝や長期休暇に新規公開を希望するシナリオの公開準備用フォームの送信**
-
-例えば、日曜リリース希望のシナリオのフォーム送信を土曜に行なっていただいた場合などは対応できない場合がございます。
-
-
-
-**④土日祝や長期休暇に新規公開されるシナリオで、予約済みの公式ポストの内容やキービジュアルを変更したい場合**
-
-変更がある場合は、直前の営業日の営業時間内にご連絡ください。
-
-
-
+For example, if you submit a form on Saturday for a scenario that you wish to rele

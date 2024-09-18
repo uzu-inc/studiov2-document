@@ -1,113 +1,91 @@
-# 機能更新一覧
+# Feature Update List
 
-### 今後の機能更新予定&#x20;
+### Upcoming Feature Updates
 
-* 準備中
+- Currently in preparation
 
+### June 2024
 
+- Added puzzle-solving templates and single-player templates
 
-### 2024年6月
+### May 2024
 
-* 謎解き用テンプレート・一人用テンプレートが追加されました
+- You can now adjust the volume of audio and BGM files within Uzu Studio
+- Expandable blocks can now be used
+- [Second-play+ Characters](../basic-features/character/second-play-character.md) can now be set
+- Clues within decks can now be [distributed randomly](../basic-features/decks.md#worandamunisuru)
 
+### April 2024
 
+- Multiple votes can now be cast under specific conditions in the voting phase
+- You can now change the nickname and icon of characters during the scenario
+- You can issue [free tickets for paid works](../scenariohome/marketing.md#chikettokdono)
 
-### 2024年5月
+### March 2024
 
-* ウズスタジオ内で音声・BGMファイルの音量を調整できるようになりました
-* 開閉ブロックが使用できるようになりました
-* [二周目+キャラクター](../basic-features/character/second-play-character.md)が設定できるようになりました
-* 山札内の手がかりを[ランダム配布](../basic-features/decks.md#worandamunisuru)できるようになりました
+- You can now create multiple types of tokens
+- Multiple answers can now be set for password actions
+- Scenario tags can now be set directly from Uzu Studio
 
+### February 2024
 
+- "Someone" condition can now be set
+- Numerical comparisons can now be made in conditions. Learn more [here](../basic-features/condition.md)
 
-### 2024年4月
+### January 2024
 
-* 投票フェーズで、任意の条件で複数票が投票できるようになりました
-* キャラクターのニックネームとアイコンをシナリオの途中で変更できるようになりました
-* [有料作品を無料で遊べるチケット](../scenariohome/marketing.md#chikettokdono)を発行できるようになりました
+- The number of color themes expanded from 2 to 9 (1/12). More details [here](../basic-features/bgm.md)
+- The title of the main room can now be changed with condition settings (1/17)
+- Background images can now be set (1/31). More details [here](../basic-features/background.md)
 
+### December 2023
 
+- Added free-response actions (e.g., players can input any text to obtain a clue) (12/7)
+- Added the ability to toggle text display based on conditions (12/15)
+- Added the ability to retrieve already-distributed clues (12/19)
 
-### 2024年3月
+### November 2023
 
-* トークンを複数種類作れるようになりました
-* パスワードアクションの回答を複数設定できるようになりました
-* シナリオタグをウズスタジオから設定できるようになりました
+- Composite conditions using AND/OR are now possible (11/1)
+  - You can now set up to three levels of AND/OR conditions for more complex branching
+- Added token investigation feature (11/14)
+  - Implement investigations using tokens to draw clues from decks
+- Released player count-specific templates (11/20)
 
+### October 2023
 
+- Clue distribution settings updated (10/6)
+- You can now select "someone" for clue distribution conditions (10/20)
+  - Allows easier setup for distributing clues to specific characters based on their choices
 
-### 2024年2月
+### September 2023
 
-* 「誰か」の条件設定が出来るようになりました
-* 条件設定で数値比較が出来るようになりました。詳細は[こちら](../basic-features/condition.md)
+- Improved clarity of error messages during functionality checks and version creation (9/1)
+  - One-click navigation to error locations for easier fixes
+- Dark mode setting introduced (9/5)
+  - New theme colors suitable for horror and serious scenarios
+- Added an option to prevent duplicate voting for the same choices (9/7)
+  - Limits players from investigating the same location as others
+- Added an option to display the existence of undisclosed clues to non-owners (9/7)
+  - Shows the "backside" of a card to others
+- You can now double-click to navigate to a specific phase from the phase progression settings screen (9/7)
+- Added a "Proceed to Next Phase" button for moving to the next phase (applies to all players) during functionality checks (9/22)
 
+### August 2023
 
+- Server enhancements improved speed (8/2)
+- Major redesign (8/3)
+- Phases, texts, characters, and clues can now be rearranged (8/3)
+- Added an easier-to-use separator feature (8/9)
+- Option to display voting results in the epilogue screen (8/9)
+- Official guide released (8/14)
+- Mobile editing support introduced (8/24)
 
-### 2024年1月
+### July 2023
 
-* カラーテーマを2→9種類に拡充されました。(1/12) 詳細は [こちら](../basic-features/bgm.md)
-* メインルームのタイトルを条件設定で変えられるようになりました(1/17)
-* 背景画像が設定できるようになりました(1/31) 詳細は [こちら](../basic-features/background.md)
+- Priority order of phase transitions can now be rearranged (7/31)
+- You can now easily switch between basic and conditional transitions (7/31)
 
-### 2023年12月
+### June 2023
 
-* 自由回答アクション(任意の文字を入力すれば手がかりが獲得出来たりする機能) を追加(12/7)
-* 任意の条件で文章の表示・非表示が切り替えられる機能を追加(12/15)
-* 既に配布された手がかりを回収できる機能を追加(12/19)
-
-### 2023年11月
-
-* かつ/またはの複合条件の設定が可能に（11/1）
-  * かつ/またはが3段階まで使用でき、より複雑な条件分岐を設定できる
-* トークン調査機能が追加（11/14）
-  * トークンを使用して山札から手がかりを引くような調査が実装可能に
-* 人数別テンプレートを公開（11/20）
-
-
-
-### 2023年10月&#x20;
-
-* 手がかりの配布設定アップデート（10/6）&#x20;
-* 手がかりの配布条件で「誰か」を選択可能に（10/20）
-  * 特定の選択肢を選んだ任意のキャラクターに手がかりを配布する設定が簡単にできるようになりました
-
-
-
-### 2023年9月
-
-* 動作確認・バージョン作成時のエラー表示の明確化（9/1）&#x20;
-  * エラー箇所にクリック一つで飛べる機能が実装され、修正が簡単に
-* ダークモードの設定が可能に（9/5）&#x20;
-  * ホラー、シリアス系のシナリオに合ったテーマカラーを使用できる
-* 選択肢の重複投票を禁止できるオプション追加（9/7）&#x20;
-  * 調査時に他の人と同じ場所を調べられないよう制限がかけられる
-* 未公開の手がかりの存在を所有者以外に表示するオプション追加（9/7）&#x20;
-  * いわゆるカードの「裏面」が他人に見える状態
-* フェーズ進行設定画面からダブルクリックで該当フェーズに移動可能に（9/7）&#x20;
-* 動作確認において「次のフェーズに進む(全員分の次へを押してくれる）」ボタンの追加（9/22）
-
-
-
-### 2023年8月
-
-* サーバー増強により速度改善（8/2）&#x20;
-* 大幅リデザイン（8/3）&#x20;
-* フェーズ・テキスト・キャラクター・手がかりの並び替えが可能に（8/3）&#x20;
-* 区切り線が使用が簡単に（8/9）&#x20;
-* 投票結果を感想戦画面に表示するか選択可能に（8/9）&#x20;
-* 公式ガイドリリース（8/14）&#x20;
-* スマートフォンからの編集に対応（8/24）
-
-
-
-### 2023年7月
-
-* フェーズ遷移の優先順位の並び替えが可能に（7/31）&#x20;
-* 基本遷移と条件遷移の簡単変更が可能に（7/31）
-
-
-
-### 2023年6月
-
-* ウズスタジオv2リリース（6/29）
+- Uzu Studio v2 Released (6/29)

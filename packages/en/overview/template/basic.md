@@ -1,131 +1,146 @@
-# 基本的な使い方
+# Basic Usage
 
-## シナリオを新規作成する
+## Creating a New Scenario
 
-①テンプレートを選択する。
+① Select a template.
 
-②タイトルとふりがなを入力する。決まっていない場合は「仮（かり）」等でも可。
+② Enter the title and its pronunciation (furigana). If undecided, you can input something temporary like "仮 (kari)."
 
-③「この内容で作成」をクリックする。
+③ Click "Create with this content."
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-## 作品概要を入力する
+## Entering the Work Overview
 
-上記の「この内容で作成」をクリックすると、左のような画面に移動します。
+After clicking "Create with this content," you will be taken to a screen like the one on the left.
 
-ここは作品概要を設定する場所です。既に決まっている部分があれば入力し、未定であればスキップしてください。
+This is where you set the work's overview. If you already have information decided, input it. If not, feel free to skip.
 
-入力したら画面下部に表示される「**保存して反映**」ボタンを忘れずにクリックしてください。
+Once entered, don't forget to click the " **Save and Reflect** " button at the bottom of the screen.
 
-<table><thead><tr><th width="145">項目</th><th width="308">説明</th><th>例</th></tr></thead><tbody><tr><td>カバー画像</td><td>16:9の横長画像を設定します。詳細なレギュレーションについては、<a href="../visual-regulation.md">こちらのページ</a>をご確認ください。</td><td>－</td></tr><tr><td>タイトル</td><td>アプリ内で表示されるタイトルです。</td><td>渦巻館の殺人</td></tr><tr><td>ふりがな</td><td><p>アプリのシナリオ詳細画面でタイトルの下に表示されます。</p><p><strong>ひらがな</strong>のみ入力できます。</p></td><td>うずまきかんのさつじん</td></tr><tr><td>ジャンル</td><td>どのジャンルを求めている人に最も遊んでほしいかを設定してください。</td><td>・マーダーミステリー<br>・ストーリープレイング<br>・謎解き<br>・その他</td></tr><tr><td>プレイ時間</td><td><strong>集合から解散まで</strong>の時間です。キャラクターを選ぶ時間や感想戦の時間も少し含め、余裕をもって設定してください。</td><td>60分<br>（中身45分＋余裕15分）</td></tr><tr><td>短縮タイトル</td><td><p>アプリ内のおさそい文や感想投稿時のハッシュタグに使われます。</p><p>タイトルそのままでもかまいません。</p><p><br>句点や読点（。、）や一部の記号（！？）はハッシュタグになりません。</p></td><td>・うずさつ<br>・渦巻館の殺人</td></tr><tr><td>シナリオ傾向</td><td>マダミスの多様化に伴い、ミスマッチを防ぐ主旨で設置しています。<br>より詳細な記入事項については、<a href="../../scenariohome/overview/#shinario">こちらのページ</a>をご参照ください。</td><td><p>・クローズ型マーダーミステリー</p><p>・オープン型マーダーミステリー</p><p>・ストーリープレイング要素が強い</p><p>・上級者（初心者、中級者）向け</p><p>・推理（駆け引き、ロールプレイ）重視</p><p>・明確な推理導線はない</p></td></tr><tr><td>注意事項</td><td>人によっては不快に感じる可能性のある描写が存在する場合や苦手な人もいるテーマを扱っている場合などにご利用ください。<br>その他の記入事項については、<a href="../../scenariohome/overview/#zhu-yi-shi-xiang">こちらのページ</a>をご参照ください。</td><td>・ホラー描写あり<br>・グロ描写あり<br>・メリーバッドエンドあり<br>・キャラクターの死亡の可能性あり<br>・特殊な進行あり</td></tr><tr><td>あらすじ</td><td>アプリのシナリオ詳細画面に表示されるあらすじです。<br>どこで何が起きたかを書くとよいでしょう。</td><td>ある冬の日、渦巻館に集まった４人。使用人の悲鳴で目を覚ますと、館の主人が殺されていた。</td></tr><tr><td>制作者のコメント</td><td>制作者としてのコメントやクレジットがあれば記載します。</td><td>初めて制作するマダミスです。<br>クレジット<br>・イラスト：○○さん<br>・BGM：□□</td></tr><tr><td>配役のヒント</td><td>キャラクター選択時に表示される説明が必要であれば記載します。</td><td>犯人ではないキャラクター、プレイ感が他とは異なるキャラクターがいるなど</td></tr><tr><td>配信を許可するか</td><td>チェックボックスを利用して配信を許可するかどうかについて指定してください。</td><td>－</td></tr></tbody></table>
+| Item                 | Description                                                                                                                                 | Example                                                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Cover Image          | Set a 16:9 wide image. For detailed regulations, refer to [this page](../visual-regulation.md).                                             | —                                                                                                                                       |
+| Title                | This is the title displayed in the app.                                                                                                     | Murder at Uzumaki Manor                                                                                                                 |
+| Furigana             | Displayed under the title in the app’s scenario details screen. Only **hiragana** can be entered.                                           | うずまきかんのさつじん                                                                                                                  |
+| Genre                | Set which genre you most want the audience to play.                                                                                         | ・Murder Mystery <br>・Story Playing                                                                                                    |
+| Play Time            | This is the total time from gathering to dispersal. Include some extra time for character selection, etc.                                   | 60 minutes <br>(45 minutes + 15 minutes buffer)                                                                                         |
+| Short Title          | Used for invites and hashtags. Can be the same as the full title.                                                                           | ・うずさつ <br>・Murder at Uzumaki Manor                                                                                                |
+| Scenario Tags        | Set to prevent mismatches between players and scenarios. For detailed instructions, see [this page](../../scenariohome/overview/#shinario). | ・Closed-type Murder Mystery <br>・For Beginners/Intermediate Players                                                                   |
+| Warnings             | Use when your scenario contains themes that might be uncomfortable for some players.                                                        | ・Contains Horror <br>・Character Death Possible                                                                                        |
+| Synopsis             | This is the synopsis displayed in the scenario details screen in the app.                                                                   | On a winter day, four people gather at Uzumaki Manor. They awaken to the scream of a servant, only to find the manor's master murdered. |
+| Creator's Comment    | Include comments or credits if any.                                                                                                         | This is my first time creating a murder mystery. <br>・Illustrations: [Name] <br>・BGM: [Name]                                          |
+| Role Hints           | Include any necessary information for players selecting characters.                                                                         | Some characters have different play styles.                                                                                             |
+| Streaming Permission | Use the checkbox to allow streaming if you want.                                                                                            | —                                                                                                                                       |
 
 <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-## シナリオの中身を入力する
+## Entering Scenario Content
 
-右上にある「シナリオを編集」をクリックして編集画面へ移動します。
+Click "Edit Scenario" in the top right to move to the editing screen.
 
 <figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**編集画面を操作する際のポイント**
+**Note while using the editing screen**
 
-別の画面に行って戻ってくると入力した内容が消えているように見えることがありますが、遭遇した際は「**リロード（Ctrl+R）（Command＋R）**」をしてください。
+Sometimes, when you navigate to another screen and return, it may look like your inputs have disappeared. If this happens, try refreshing the screen by pressing **Ctrl+R** (or **Command+R** on Mac).
 {% endhint %}
 
-###
+### ① Enter Character Information
 
-### ①キャラクターの情報を入力する
-
-選択した人数別テンプレートの通りに、プレイアブルキャラクターが設定されていますので、それぞれの名前や説明を記入していきます。
+Playable characters are set based on the selected player count template. Input the names and descriptions for each.
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-### ②フェーズ「はじめに」を編集する
+### ② Edit the "Introduction" Phase
 
-\*\*フェーズ「はじめに」\*\*を開くと、マダミスの基本的なルールが既に入力されています。
+Open the **"Introduction" phase**. Basic murder mystery rules are already input. Add or edit any rules if necessary. Otherwise, you can skip this step.
 
-追加したいルールや説明があれば、適宜編集してください。特になければ、この手順はスキップしてください。
+### ③ Enter the Opening
 
-### ③オープニングを入力する
+Open the **"Opening" phase** and input the reading-aloud part for the opening. Follow these three steps:
 
-\*\*フェーズ「オープニング」\*\*を開き、オープニングの読み合わせを入力していきます。必要な手順は以下の３つだけです。
+- Enter the dialogue.
+- Set the narrator for the non-dialogue text.
+- Fill in the character names in the subtitle placeholder "○○."
 
-* 読み合わせ部分を入力する
-* 地の文（セリフ以外の文章）の読み手を設定する
-* サブタイトルの「○○」部分にキャラクターの名前を埋める
+For detailed instructions and how it will appear in the app, refer to [this page](../../basic-features/phase/script.md).
 
-詳細な操作方法やアプリでの見え方については、[こちらのページ](../../basic-features/phase/script.md)をご覧ください。
+### ④ Enter Character Texts
 
-### ④キャラクターテキストを入力する
+Go to the " **Text** " tab from the left menu and edit the character texts for the number of players.
 
-左メニューから「**テキスト**」に移動し、人数分のキャラクターテキストを編集します。
-
-詳細な操作方法やアプリでの見え方については、[こちらのページ](../../basic-features/textTab.md)をご覧ください。
+For detailed instructions and how it will appear in the app, refer to [this page](../../basic-features/textTab.md).
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-### ⑤議論フェーズの設定をする
+### ⑤ Set the Discussion Phases
 
-テンプレートでは、議論フェーズは\*\*「第一議論」と「第二議論」の2回\*\*、それぞれ**10分**ずつで初期設定されています。
+The template comes with two discussion phases: **"First Discussion" and "Second Discussion," each set to 10 minutes** by default.
 
-左メニューから「**フェーズ**」へ移動し、**議論時間や議論の説明文**を適宜編集してください。
+Go to the " **Phases** " tab from the left menu and edit the **discussion time and instructions** as needed.
 
-一方の議論が不要であれば、右上の「・・・」から削除することもできます。
+If one of the discussions isn’t necessary, you can delete it from the "..." menu in the top right.
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### ⑥追加情報を入力する
+### ⑥ Enter Additional Information
 
-左メニューからテキストに戻り、「追加情報」の内容を編集します。
+Return to the "Text" tab from the left menu and edit the "Additional Information" section.
 
-このテキストは「追加情報フェーズ」に辿り着くと、全員に共通で配布される設定になっています。不要であれば、右上にある「・・・」ボタンから削除してください。
+This text will be distributed to all players during the "Additional Information" phase. If unnecessary, you can delete it by clicking the "..." button in the top right.
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### ⑦投票選択肢を編集する
+### ⑦ Edit the Voting Options
 
-左メニューから「フェーズ」に戻り、「投票」をクリックします。
+Return to the "Phases" tab from the left menu and click on "Voting."
 
-テンプレートでは「キャラ1」「キャラ2」のように入力されているので、正しい名前に変更してください。「事故」「自殺」等の選択肢を増やすこともできます。
+In the template, the options are set as "Character 1," "Character 2," etc. Change these to the correct names, and you can also add options like "Accident" or "Suicide."
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-### ⑧エンディングを入力する
+### ⑧ Enter the Endings
 
-「フェーズ」の一覧画面に戻り、「エンディング」を順に入力していきます。
+Return to the "Phases" tab and input the endings.
 
-テンプレートの初期設定では、それぞれのエンディングは以下のように設定されています。
+The template has pre-set conditions for the endings, as shown below:
 
-<table><thead><tr><th width="183">エンディング名</th><th>分岐条件</th><th>内容例</th></tr></thead><tbody><tr><td>エンディング1</td><td>投票でキャラ1（1人目のキャラクター）が単独最多となったとき</td><td>キャラ1が犯人として追及されるエンディング</td></tr><tr><td>エンディング2</td><td>投票でキャラ2（2人目のキャラクター）が単独最多となったとき</td><td>キャラ2が犯人として追及されるエンディング</td></tr><tr><td>エンディング3</td><td>投票でキャラ3（3人目のキャラクター）が単独最多となったとき</td><td>キャラ3が犯人として追及されるエンディング</td></tr><tr><td>エンディング4</td><td>投票でキャラ4（4人目のキャラクター）が単独最多となったとき</td><td>キャラ4が犯人として追及されるエンディング</td></tr><tr><td>エンディング5</td><td>いずれの条件も満たさなかったとき（同票・事故死など）</td><td>真相が分からず迷宮入りとなったエンディング</td></tr></tbody></table>
+| Ending Name | Condition                                              | Example                                |
+| ----------- | ------------------------------------------------------ | -------------------------------------- |
+| Ending 1    | When Character 1 receives the most votes               | Character 1 is accused as the culprit. |
+| Ending 2    | When Character 2 receives the most votes               | Character 2 is accused as the culprit. |
+| Ending 3    | When Character 3 receives the most votes               | Character 3 is accused as the culprit. |
+| Ending 4    | When Character 4 receives the most votes               | Character 4 is accused as the culprit. |
+| Ending 5    | When none of the conditions are met (tied votes, etc.) | The mystery remains unsolved.          |
 
-### ⑨ルーム名を設定する
+### ⑨ Set Room Names
 
-左メニューから「ルーム」に移動してください。
+Go to the "Room" tab from the left menu.
 
-ルーム名とは、そのシナリオの登場人物たちが会話をしている場所名を示すものです。シナリオの世界観に合う名前に変更してください。
+The room name represents where the characters are conversing in the scenario. Change it to match the world of your scenario.
 
-### ⑩真相解説を書く
+### ⑩ Write the Solution Explanation
 
-左メニューから「感想戦画面」に移動してください。
+Go to the "Epilogue" tab from the left menu.
 
-編集マークアイコンをクリックして、「真相解説」や「あとがき」を入力します。「あとがき」については不要であれば、削除してもかまいません。
+Click the edit icon and input the "Solution Explanation" or "Afterword." If you don’t need an afterword, feel free to delete it.
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-## 動作確認とバージョン作成
+## Functionality Check and Version Creation
 
-### ①動作確認
+### ① Functionality Check
 
-右上の再生マークをクリックすると、実際のアプリと同じ画面を見ながら動作確認をすることができます。
+Click the play icon in the top right to check the functionality with a screen similar to the actual app.
 
-詳細は[こちらのページ](../../basic-features/demo.md)をご覧ください。
+For more details, refer to [this page](../../basic-features/demo.md).
 
-### ②最新バージョンの作成
+### ② Create Latest Version
 
-右上の人間マークをクリックすると、最新バージョンを作成して、アプリでテストプレイができる状態にすることができます。
+Click the user icon in the top right to create the latest version, which will make the scenario available for test play in the app.
 
-詳細は[こちらのページ](../../basic-features/botanbjonwo.md)をご覧ください。
+For more details, refer to [this page](../../basic-features/botanbjonwo.md).
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
