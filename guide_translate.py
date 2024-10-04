@@ -24,7 +24,7 @@ def translate_text(text, source_language, target_language):
 
 # read file and write the translation in the same file
 def translate_markdown_file(file_path, source_language, target_language):
-    # 讀read original file
+    # read original file
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
