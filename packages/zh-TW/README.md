@@ -1,7 +1,7 @@
-# ウズスタジオ 公式ガイド
+# UZU STUDIO 官方指南
 
-マダミス制作ツール「ウズスタジオ」の公式ガイドです。
+這是馬達密斯製作工具「UZU STUDIO」的官方指南。
 
-**ウズスタジオの使い方**や**ウズで作品を公開するまでの流れ**について説明します。　
+說明**UZU STUDIO 的使用方法**以及**在 UZU 上發布作品的流程**。
 
 <figure><img src=".gitbook/assets/image (9)-new (1).png" alt=""><figcaption></figcaption></figure>

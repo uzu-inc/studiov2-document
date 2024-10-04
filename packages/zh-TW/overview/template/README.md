@@ -1,7 +1,7 @@
-# 埋めるだけでマダミス完成テンプレート
+# 只需填寫即可完成的馬達密模板
 
-ウズスタジオv2では、テンプレートを活用して、埋めるだけで簡単にマダミスを完成させることができます。
+UZU STUDIO v2 提供模板，讓您只需填寫即可輕鬆完成馬達密。
 
-テンプレートの使い方について、4人用を例にとり、[基本編](basic.md)と[発展編](advanced.md)に分けて解説します。
+關於模板的使用方法，以四人用為例，分為[基本篇](basic.md)和[進階篇](advanced.md)進行解說。
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
