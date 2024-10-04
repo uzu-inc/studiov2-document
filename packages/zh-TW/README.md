@@ -1,6 +1,6 @@
-# UZU STUDIO 官方指南
+# UZU STUDIO 公式指南
 
-這是馬達密斯製作工具「UZU STUDIO」的官方指南。
+這是劇本殺製作工具「UZU STUDIO」的官方指南。
 
 說明**UZU STUDIO 的使用方法**以及**在 UZU 上發布作品的流程**。
 
