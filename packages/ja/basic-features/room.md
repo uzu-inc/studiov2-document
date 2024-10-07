@@ -14,7 +14,7 @@
 
 より詳細な条件設定をしたい場合は「利用条件」をクリックします。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 条件付きルーム名
 

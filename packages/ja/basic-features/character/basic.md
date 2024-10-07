@@ -60,4 +60,4 @@
 
 例えば画像の例では、エンディング１が開始するとこのキャラクターは「怪盗ウズ」であったことが明かされるようになっています。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

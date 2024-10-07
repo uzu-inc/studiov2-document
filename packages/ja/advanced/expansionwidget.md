@@ -2,15 +2,11 @@
 
 **開閉ブロック**とはタップで開いたり閉じたりできる折り畳み式のブロックのことです。**複数のテキストや山札をまとめたい**ときに便利です。
 
-
-
 ## 開閉ブロックの追加
 
 フェーズやテキストの追加ボタン、または「：：：」マークから「前に/次に挿入」をクリックして、開閉ブロックを選択します。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 開閉ブロックの中身の追加
 
@@ -22,9 +18,7 @@
 
 以下の画像は山札を追加した場合を示しています。複数の調査箇所をまとめたいとき、ジャンル分けしたいときなどに便利です。実際のプレイ画面では矢印部分をタップすると右のようにブロックが開きます。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 層構造
 
@@ -34,5 +28,4 @@
 
 層ごとやテキストごとに[表示条件](text-customize.md)も利用できます。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

@@ -30,4 +30,4 @@
 
 ※他の人のシナリオのメンバーになっただけでは自分の作家ページは現れません。作家ページボタンが表示されていない方は白紙のシナリオでもかまいませんので、ウズスタジオのトップページから１つ以上シナリオを作成してください。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>

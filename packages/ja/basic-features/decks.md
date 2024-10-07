@@ -12,7 +12,7 @@
 
 トークンが未設定の場合は以下のような画面になるので、「トークン作成」をクリックしてください。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
