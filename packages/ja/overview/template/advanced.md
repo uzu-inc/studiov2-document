@@ -76,4 +76,4 @@
 
 ## BGMを設定したい
 
-[こちらのページ](../../basic-features/bgm.md)をご参照ください。
+[こちらのページ](../../basic-features/effect/)をご参照ください。

@@ -130,6 +130,6 @@
 
 右上の人間マークをクリックすると、最新バージョンを作成して、アプリでテストプレイができる状態にすることができます。
 
-詳細は[こちらのページ](../../basic-features/botanbjonwo.md)をご覧ください。
+詳細は[こちらのページ](../../basic-features/new-version.md)をご覧ください。
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>

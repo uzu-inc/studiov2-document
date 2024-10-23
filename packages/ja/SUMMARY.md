@@ -4,7 +4,7 @@
 
 ## はじめに <a href="#overview" id="overview"></a>
 
-* [ウズスタジオとは](overview/uzusutajiotoha.md)
+* [ウズスタジオとは](overview/uzustudio.md)
 * [ログイン方法](overview/start-uzu-studio.md)
 * [作成からリリースまでの流れ](overview/makingflow/README.md)
   * [新規シナリオの作成](overview/makingflow/newscenario.md)
@@ -12,7 +12,7 @@
   * [作品提出](overview/makingflow/submit/README.md)
     * [詳細審査(有料公開作品)について](overview/makingflow/submit/check.md)
     * [テストプレイアンケートの使い方](overview/makingflow/submit/questionnaire.md)
-    * [文章のよくある指摘](overview/makingflow/submit/yokuaru-shiteki.md)
+    * [文章のよくある指摘](overview/makingflow/submit/common-mistake.md)
 * [埋めるだけでマダミス完成テンプレート](overview/template/README.md)
   * [基本的な使い方](overview/template/basic.md)
   * [発展的な使い方](overview/template/advanced.md)
@@ -25,8 +25,8 @@
 
 * [作家プロフィールの変更](top/profile.md)
 * [各種規約への同意](top/term-agreement.md)
-* [売上を受け取る](top/uriage.md)
-* [評価・バッジを確認する](top/hyoka.md)
+* [売上を受け取る](top/revenue.md)
+* [評価・バッジを確認する](top/heart-badge.md)
 * [コレクション機能](top/collection.md)
 
 ## シナリオホーム <a href="#scenariohome" id="scenariohome"></a>
@@ -59,15 +59,15 @@
 * [山札](basic-features/decks.md)
 * [トークン](basic-features/tkun.md)
 * [アクション](basic-features/action.md)
-* [演出](basic-features/bgm.md)
-  * [BGM](basic-features/bgm/bgm.md)
-  * [SE・ナレーション](basic-features/bgm/senarshon.md)
-  * [ムービー](basic-features/bgm/movie.md)
-  * [背景画像](basic-features/background.md)
-  * [カラーテーマ](basic-features/bgm/kartma.md)
+* [演出](basic-features/effect/README.md)
+  * [BGM](basic-features/effect/bgm.md)
+  * [SE・ナレーション](basic-features/effect/se.md)
+  * [ムービー](basic-features/effect/movie.md)
+  * [背景画像](basic-features/effect/background.md)
+  * [カラーテーマ](basic-features/effect/colortheme.md)
 * [全体共通：条件設定](basic-features/condition.md)
 * [右上ボタン：動作確認](basic-features/demo.md)
-* [右上ボタン：最新バージョンを作成](basic-features/botanbjonwo.md)
+* [右上ボタン：最新バージョンを作成](basic-features/new-version.md)
 
 ## 応用 <a href="#advanced" id="advanced"></a>
 
@@ -75,7 +75,7 @@
 * [全てのエンディングを配布したい](advanced/ending.md)
 * [キャラクターによって表示する内容を変えたい](advanced/text-customize.md)
 * [読み合わせ中に画像を挿入したい](advanced/image-script.md)
-* [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/chosakyusai.md)
+* [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/additional-investigation.md)
 * [音声ファイル自体の音量を調整する](advanced/adjust-audio-file.md)
 * [開閉ブロックを設置する](advanced/expansionwidget.md)
 
