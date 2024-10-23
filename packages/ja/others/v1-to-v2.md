@@ -57,7 +57,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、ボタンひとつで太字や斜体、見出し文字や色付き文字に変えられるようになっています。
 * それに伴い、マークダウン記法を覚える必要がなくなりました。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## v2移行することで改善できること
 
@@ -66,14 +66,14 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**読み合わせフェーズをどこにでも何回でも差し込める**ようになりました。
 * v1で2回以上の読み合わせを設ける際、キャラ名「セリフ」のようにテキストで代用していた部分を大幅に改善できます。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆投票フェーズ
 
 * v2では、**投票フェーズを何回でも設定できる**ようになりました。
 * v1シナリオで頻発していた「投票前に投票先を一つに絞るための長い説明」を設ける必要がなくなり、より自然な形で投票できます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 「キャラクター１が○○に投票しているとき」のような詳細な条件による分岐も設定できるようになっています。
 

@@ -8,7 +8,7 @@
 
 **②作家プロフィール編集を選択**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **③作家プロフィールを変更して保存**
 
@@ -20,7 +20,7 @@
 * 紹介文
 * リンク
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 作家ページボタン
 
@@ -30,4 +30,4 @@
 
 ※他の人のシナリオのメンバーになっただけでは自分の作家ページは現れません。作家ページボタンが表示されていない方は白紙のシナリオでもかまいませんので、ウズスタジオのトップページから１つ以上シナリオを作成してください。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>

@@ -12,23 +12,17 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-
-
 アクションには以下の2種類があります（2023.12.7現在）。
 
 <table><thead><tr><th width="141">名称</th><th>内容</th></tr></thead><tbody><tr><td><a href="action.md#shinpuruakushonno">シンプル</a></td><td>「実行する」を押すだけでアクションが発動する</td></tr><tr><td><a href="action.md#pasuwdoakushonno">パスワード</a></td><td>「実行する」を押すとパスワード入力が求められ、正しいパスワードを入力するとアクションが発動する</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ## 設定できるアクション一覧
 
 2023.12.7現在、以下のアクションが設定できます。
 
 <table><thead><tr><th width="226">項目</th><th>内容</th></tr></thead><tbody><tr><td>通知を送信</td><td>アクション実行時に画面上部にテキストで通知を送ります。</td></tr><tr><td>SE再生</td><td>アクション実行時に効果音を鳴らします。</td></tr><tr><td>手がかり公開</td><td>特定の手がかりを全体公開します。所有権は渡されません。</td></tr><tr><td>フェーズ遷移</td><td>強制的に特定のフェーズに移行します。<br>例えば、推理発表フェーズなど、1人のプレイヤーの判断で次のフェーズに遷移していい状況で使うのがおすすめです。</td></tr><tr><td>手がかり所有権</td><td>特定の手がかりをキャラクターに配布します。</td></tr><tr><td>手がかり閲覧権</td><td>特定の手がかりの閲覧権をキャラクターに与えます。</td></tr><tr><td>通話ルーム移動</td><td>強制的に特定の通話ルームに移動させます。</td></tr></tbody></table>
-
-
 
 ## シンプルアクションの設定
 
@@ -49,15 +43,11 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 <figure><img src="../.gitbook/assets/image (59).png" alt="" width="515"><figcaption></figcaption></figure>
 
-
-
 ### アクションの配置（手がかり/フェーズでの設定）
 
 アクションは、アクションの編集画面で設定するだけではゲーム中に登場しません。作成したアクションをどこに配置するのかを設定する必要があります。
 
 配置できるのは、「手がかりの中」と「基本フェーズの中」の2ヶ所です。ここでは「手がかりの中」に配置する場合を説明します。「基本フェーズの中」に置く場合の操作は[こちら](action.md#akushonnofzugakarideno-1)をご参照ください。
-
-
 
 以下のように、「日記」という手がかりの中に「中身を見る（１ページ目の内容を追加配布する）」というアクションを置きたいとします。
 
@@ -73,13 +63,9 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 <figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-
-
 アクション欄に以下のように表示されたら成功です。
 
 <figure><img src="../.gitbook/assets/image (58).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ## パスワードアクションの設定
 
@@ -93,13 +79,11 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 * **結果アクション**：「実行する」を押すと何が起こるのかを設定します。パスワードを正しく入力できた場合とできなかった場合に分かれています。
   * **共通タブ**：正答の回答タブを複数設定しており、それらに共通した結果アクションがある場合は共通タブに設定します。例えば正答の回答を入力すると、まず効果音が鳴り、その後は入力内容ごとにアクションが分かれる場合、共通タブに「効果音」を設定し、回答１以降にそれぞれの結果アクションを設定するとよいでしょう。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 画像の例における、結果アクションの中身はそれぞれ以下のようになっています。
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### アクションの配置（手がかり/フェーズでの設定）
 
@@ -107,15 +91,9 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 配置できるのは、「手がかりの中」と「基本フェーズの中」の2ヶ所です。ここでは「基本フェーズの中」に配置する場合を説明します。「手がかりの中」に置く場合の操作は[こちら](action.md#akushonnogakarifzudeno)をご参照ください。
 
-
-
 以下のように「議論フェーズ」に、パスワードで金庫を開けられるアクションを配置したいとします。
 
-
-
 <figure><img src="../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ①左メニューから「フェーズ」に移動します。
 
@@ -133,13 +111,9 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 <figure><img src="../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ## 発展編：実行条件の高度な設定
 
 シンプルアクションとパスワードアクション両方で使用できる、高度な条件設定について解説します。
-
-
 
 ### アクションの実行を１回に制限したい
 
@@ -149,13 +123,9 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 そういった状況を回避したいときは、アクションの実行が成功したら、それ以降はアクションを実行できないような条件を設定する必要があります。設定の例を画像で示します。
 
-
-
 **シンプルアクションの場合**
 
 <figure><img src="../.gitbook/assets/image (67).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 **パスワードアクションの場合**
 
@@ -163,11 +133,8 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 <figure><img src="../.gitbook/assets/image (68).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ### その他の制限
 
 「あるフェーズの進行中のみ」、「ある通話ルームにいるときのみ」、「ある手がかりを持っている人のみ」などの条件を設定することもできます。
 
 シナリオの内容に合わせてご活用ください。
-
