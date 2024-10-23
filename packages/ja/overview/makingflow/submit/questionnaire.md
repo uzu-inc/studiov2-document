@@ -10,8 +10,6 @@
 
 アカウントを既に持っている方はログイン状態にしておくと、以降の手順がスムーズに行えます。
 
-
-
 ### ◆自分用のアンケートフォームを作成する
 
 以下のリンクをクリックし、テストプレイアンケートのコピーを作成してください。
@@ -20,21 +18,15 @@
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 以下のようなフォーム編集画面が出てきたら成功です。 ※カラーは端末の設定により異なる可能性があります。
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ### ◆カスタマイズする
 
 まず前提として、ウズスタジオ編集部ではアンケートに初期設定されている項目を元に詳細審査を実施いたしますので、アンケートのコピー作成時に**初期設定されている質問項目は削除しない**ようお願いいたします。構造を大きく崩すような変更もお控えいただけると助かります。
 
 質問項目の追加は自由にしていただいてかまいません。
-
-
 
 #### カスタマイズ１：タイトルの変更
 
@@ -44,15 +36,11 @@
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-
-
 #### カスタマイズ２：キャラ名・キャラクター数の変更
 
 （キャラ名）をそれぞれ入力し、シナリオのプレイアブルキャラクターの数に合わせて、適宜PCを増減させてください。
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ## テストプレイでの配布
 
@@ -62,17 +50,11 @@
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-
-
 送信方法で真ん中の「リンクマーク」を選び、右下の「コピー」をクリックします。
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 アンケートに回答するためのリンクがコピーされるので、DiscordやDMなどテストプレイ参加者とのやり取りの場に貼り付けてください。
-
-
 
 ## テストプレイ後・審査提出
 
@@ -86,7 +68,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
-###
+
 
 ### ◆スプレッドシートを作成する
 
@@ -96,15 +78,11 @@
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ### ◆スプレッドシートの提出用リンクを取得する
 
 スプレッドシートを開き、画面右上の「共有」をクリックします。
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-
 
 以下のようなポップアップが出てくるので
 
@@ -123,4 +101,3 @@
 よくあるご質問をこちらに掲載していきます。
 
 Q\&Aを読んでも疑問が解決しなかった場合は、Discordサーバー内の「質問・要望など」のテキストチャンネルで「@編集部」メンションをつけて質問してください。
-

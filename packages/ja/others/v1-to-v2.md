@@ -84,7 +84,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**シナリオの途中でも条件に合わせた分岐ができる**ようになりました。
 * v1でよく行われていた「改行で中身が見えないように工夫したタブを複数配布して該当するものだけ見てもらう」ような状態を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆調査・手がかり
 
@@ -92,7 +92,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * 手がかりは「**全体公開**」も「**譲渡**」も「**誰かだけに公開**」もできます。
 * v1でよく行われていた「リンクをタップ→画像を表示」で、プレイヤーの良心に任せた擬似調査を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆その他
 

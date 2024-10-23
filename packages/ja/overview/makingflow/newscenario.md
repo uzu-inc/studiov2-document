@@ -2,17 +2,14 @@
 
 新規シナリオの作成は、ウズスタジオの**シナリオ一覧画面**から行います。
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 「新規シナリオ作成」をクリックすると、テンプレート選択画面になります。
 
 白紙から始めたい人は一番上を、テンプレートから始めたい人は制作したいシナリオに合ったテンプレートを選択してください。
 
-タイトルとふりがなを入力したら「この内容で作成」をクリックします。
+ジャンルを選択し、タイトルとふりがなを入力したら「この内容で作成」をクリックします。
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 テンプレートを使えば、**埋めるだけでマダミスを完成**させることができます。詳しくは[こちらのページ](../template/)をご覧ください。
-

@@ -6,8 +6,6 @@
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## フェーズを追加したい
 
 #### ①「フェーズを追加」をクリックして種類を選択
@@ -16,10 +14,10 @@
 
 * 基本フェーズ：キャラクターテキスト読み込み、追加情報配布、議論、説明の提示など
 * 読み合わせ：キャラクターやNPCのセリフ・地の文で構成される読み合わせパート、進むを押しながら順に読んでほしいパートなど
-* ゲームの流れ表示：「ゲームの流れ」で設定した全体の流れが表示される
 * 投票：真相の投票、行動の選択など
+* ゲームの流れ表示：「ゲームの流れ」で設定した全体の流れが表示される
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ②フェーズを繋ぐ操作をする
 
@@ -44,8 +42,6 @@
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## フェーズを削除したい
 
 #### ①フェーズ詳細画面からフェーズを削除する
@@ -58,39 +54,26 @@
 
 フェーズ一覧画面から「進行設定」に移動します。削除した部分の繋がりが切れているので、繋ぎなおします。
 
-
-
 #### ③ゲームの流れから削除する
 
 フェーズ一覧画面から「ゲームの流れ」に移動します。該当フェーズの説明をゲームの流れ一覧から削除します。
-
-
 
 ## テキストを追加したい
 
 [こちらのページ](../../basic-features/textTab.md)をご参照ください。
 
-
-
 ## 手がかりを配布したい
 
 [こちらのページ](../../basic-features/clue.md)をご参照ください。
-
-
 
 ## 山札機能を使いたい
 
 [こちらのページ](../../basic-features/decks.md)をご参照ください。
 
-
-
 ## 密談ルームを作りたい
 
 [こちらのページ](../../basic-features/room.md)をご参照ください。
 
-
-
 ## BGMを設定したい
 
 [こちらのページ](../../basic-features/bgm.md)をご参照ください。
-
