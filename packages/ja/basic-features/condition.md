@@ -27,6 +27,8 @@
 
 また、「特定の誰かが」から始まる条件を、同じボックス内で複数使った場合は、同じ人が複数の行動したときのみ条件を満たすことになります。
 
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+
 
 
 **誰でも**
