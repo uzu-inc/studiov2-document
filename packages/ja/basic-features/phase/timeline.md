@@ -16,7 +16,7 @@ v1では、全てのフェーズとフェーズの間で自動的にゲームの
 
 それぞれ以下のように表示されます。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 対応するフェーズ（必須）
 
