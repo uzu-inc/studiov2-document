@@ -2,12 +2,7 @@
 
 感想戦画面とは、議論・投票・エンディングなど全てが終わった後に表示される解説・結果画面です。
 
-v1では「真相テキスト」として１つのタブにまとめるしかありませんでしたが、v2では**内容ごとにタブを分けられる**ようになりました。
-
 <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
-
-\
-
 
 ## タブの内容
 
@@ -25,7 +20,6 @@ v1では「真相テキスト」として１つのタブにまとめるしかあ
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-\
 
 
 ## タイトルの出し分け
@@ -42,9 +36,16 @@ v1では「真相テキスト」として１つのタブにまとめるしかあ
 
 
 
+### 投票結果を表示 <a href="#vote" id="vote"></a>
+
+投票機能は犯人投票だけでなく、調査や個別目標の達成判定など様々な場面で利用できますが、シナリオ内で設けた投票のうち、感想戦画面で結果を表示するものを選ぶことができます。
+
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 未取得の手がかり一覧を表示
 
 タブ一覧の一番右にある「未取得の手がかり一覧」というタブのトグルをonにすると、感想戦のタブ一覧の最後に、そのイベントで誰にも取得されなかった手がかりの一覧が表示されます。
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
-

@@ -4,8 +4,7 @@
 
 ![](../../images/select.png)
 
-\
-
+\\
 
 投票フェーズのための設定項目について説明します。
 
@@ -21,8 +20,7 @@
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ## 投票できるキャラクター
 
@@ -30,8 +28,7 @@
 
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ## 投票を閲覧できるキャラクター
 
@@ -39,16 +36,12 @@
 
 <figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-\
 
 
 ## 投票結果を感想戦画面に表示するか
 
-投票結果とは、ある投票フェーズで誰がどの選択肢に投票して、各選択肢に何票集まったのかを示す画面です。ONにすると感想戦画面に投票結果が表示され、OFFにすると表示されません。
+投票結果とは、ある投票フェーズで誰がどの選択肢に投票して、各選択肢に何票集まったのかを示す画面です。感想戦の編集画面で設定できます→[詳細](../result.md#wo)
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
-
-\
 
 
 ## 投票の選択肢（応用）
@@ -59,14 +52,12 @@
 
 <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-\
 
 
 「投票条件」は、ある特定の条件を満たしたときやあるキャラクターのみ、その選択肢に投票できるようにする設定です。 投票できない選択肢は薄い色で表示されます。
 
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-\
 
 
 同じ選択肢に2人以上が投票できないようにすることもできます。主に、投票と手がかりを組み合わせて調査フェーズを作りたい方向けの機能になります。調査フェーズの作成について、より詳しく知りたい方は、[こちらのページ](../../advanced/investigation.md)をご参照ください。
@@ -80,4 +71,3 @@
 一人に複数票持たせる、条件を満たしたものだけに複数票持たせるといった設定もできます。
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt="" width="563"><figcaption></figcaption></figure>
-
