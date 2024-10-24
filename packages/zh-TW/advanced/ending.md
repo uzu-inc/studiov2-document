@@ -1,10 +1,14 @@
-# 想要分發所有結局
+---
+description: 此頁面為機器翻譯
+---
+
+# 想分發所有結局
 
 在v1中，所有結局在感想戰中被強制開示，但在v2中，作者可以設定是否顯示未通過的結局。
 
 以下說明如何在感想戰畫面中確認所有結局的方法。
 
-\
+\\
 
 ## 方法1：在「辛苦了」畫面中分發
 
@@ -16,7 +20,7 @@
 
 ![](../images/end1.png)
 
-\
+\\
 
 **②將「辛苦了」階段設置在感想戰畫面前一個**
 
@@ -24,7 +28,7 @@
 
 ![](../images/end2.png)
 
-\
+\\
 
 **③將結局也分發為文本**
 
@@ -38,7 +42,7 @@
 
 <figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 方法2：或者在設定中分發
 
@@ -48,7 +52,7 @@
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 **②新增分發的時機**
 
@@ -58,7 +62,7 @@
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.37.13.png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 方法3：轉記到感想戰畫面
 

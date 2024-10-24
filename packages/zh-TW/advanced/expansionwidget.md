@@ -1,16 +1,16 @@
+---
+description: 此頁面為機器翻譯
+---
+
 # 設置開閉區塊
 
 **開閉區塊**是指可以點擊展開或收起的摺疊式區塊。當**想要整理多個文本或牌庫**時非常方便。
-
-
 
 ## 添加開閉區塊
 
 點擊階段或文本的添加按鈕，或者從「：：：」標記中選擇「前插入/後插入」，然後選擇開閉區塊。
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## 添加開閉區塊的內容
 
@@ -24,8 +24,6 @@
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## 層結構
 
 開閉區塊可以**添加兩層以上**。
@@ -35,4 +33,3 @@
 可以為每一層或每一文本使用[顯示條件](text-customize.md)。
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-

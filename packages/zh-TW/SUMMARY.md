@@ -56,7 +56,7 @@
 * [房間](basic-features/room.md)
 * [感想戰畫面](basic-features/result.md)
 * [線索](basic-features/clue.md)
-* [牌組](basic-features/decks.md)
+* [卡堆](basic-features/decks.md)
 * [代幣](basic-features/tkun.md)
 * [行動](basic-features/action.md)
 * [演出](basic-features/bgm.md)

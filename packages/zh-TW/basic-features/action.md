@@ -1,8 +1,8 @@
 ---
-description: 可以設定超越簡單線索獲取或牌庫調查的各種動作。
+description: （此頁面為機器翻譯）可以設定超越簡單線索獲取或牌庫調查的各種動作。
 ---
 
-# 動作
+# 行動
 
 ## 新建動作・種類
 
@@ -94,8 +94,8 @@ description: 可以設定超越簡單線索獲取或牌庫調查的各種動作�
 以下示例中，想在「討論階段」中配置可以用密碼打開保險箱的動作。
 
 <figure><img src="../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>
-```plaintext
-caption></figure>
+
+\`\`\`plaintext caption>
 
 ①從左側選單移動到「階段」。
 
@@ -140,4 +140,6 @@ caption></figure>
 也可以設置「僅在某個階段進行中時」、「僅在某個通話房間中時」、「僅持有某個線索的人」等條件。
 
 請根據劇本內容靈活運用。
+
+```
 ```

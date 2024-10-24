@@ -1,10 +1,14 @@
+---
+description: 此頁面為機器翻譯
+---
+
 # 成員
 
 在成員管理畫面中，可以新增共同創作者、閱覽者，並設定銷售分配率。
 
 <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 新增成員
 
@@ -59,4 +63,3 @@
 請從製作劇本列表畫面的右上角圖示進行同意規約。所有接收銷售收入的人都必須同意規約。
 
 <figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
-

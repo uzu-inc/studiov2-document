@@ -1,3 +1,7 @@
+---
+description: 此頁面為機器翻譯
+---
+
 # 感想戰畫面
 
 感想戰畫面是指在討論、投票、結局等所有過程結束後顯示的解說和結果畫面。
@@ -6,7 +10,7 @@
 
 <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 標籤的內容
 
@@ -24,7 +28,7 @@
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 標題的顯示切換
 

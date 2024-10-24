@@ -1,10 +1,14 @@
+---
+description: 此頁面為機器翻譯
+---
+
 # 投票階段
 
 在投票階段中，可以進行犯人投票等各種投票。在UZU STUDIO v2中，無論何處都可以多次設置投票階段。
 
 ![](../../images/select.png)
 
-\
+\\
 
 下面說明投票階段的設定項目。
 
@@ -20,7 +24,7 @@
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 可以投票的角色
 
@@ -28,7 +32,7 @@
 
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 可以查看投票的角色
 
@@ -36,7 +40,7 @@
 
 <figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 是否在感想戰畫面顯示投票結果
 
@@ -44,7 +48,7 @@
 
 <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 ## 投票選項（應用）
 
@@ -54,13 +58,13 @@
 
 <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 「投票條件」是指只有在滿足特定條件或特定角色時，才能對該選項進行投票的設定。無法投票的選項將以淡色顯示。
 
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
 
 也可以設置為無法讓兩人以上投票給同一選項。主要是針對希望結合投票和線索來創建調查階段的功能。想要更詳細了解調查階段的創建，請參考[此頁面](../../advanced/investigation.md)。
 

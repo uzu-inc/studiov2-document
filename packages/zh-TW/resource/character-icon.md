@@ -1,5 +1,5 @@
 ---
-description: UZU STUDIO作品中可自由使用的圖標素材
+description: （此頁面為機器翻譯）UZU STUDIO作品中可自由使用的圖標素材
 ---
 
 # 角色圖標
@@ -8,8 +8,6 @@ description: UZU STUDIO作品中可自由使用的圖標素材
 請下載所需的變體並加以使用。
 
 [素材頁面（Google雲端硬盤）→](https://drive.google.com/drive/folders/15Bw\_ejFrXiPR2HMJLVaVgUsOSzPibkE3?usp=sharing)
-
-
 
 【使用須知】
 

@@ -8,7 +8,7 @@
 
 ③點擊「以此內容創建」
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 輸入作品概要
 
@@ -20,13 +20,13 @@
 
 <table><thead><tr><th width="145">項目</th><th width="308">說明</th><th>例子</th></tr></thead><tbody><tr><td>封面圖片</td><td>設定16:9的橫向圖片（詳細的規範請參考<a href="../visual-regulation.md">此頁面</a>）</td><td>－</td></tr><tr><td>標題</td><td>在應用程式內顯示的標題</td><td>漩渦館的殺人事件</td></tr><tr><td>類型</td><td>設定希望由哪類型的玩家遊玩</td><td>・劇本殺<br>・故事扮演<br>・解謎<br>・其他</td></tr><tr><td>遊玩時間</td><td><strong>從集合到解散</strong>的時間（請包含選擇角色的時間和覆盤的時間，並預留緩衝時間）</td><td>60分鐘<br>（內容45分鐘＋緩衝15分鐘）</td></tr><tr><td>簡短標題</td><td><p>用於應用程式內的邀請文或感想投稿時的標籤（可直接使用標題）</p><p><br>句點和逗點（。、）及部分標點符號（！？）不會成為標籤。</p></td><td>・漩渦館<br>・漩渦館的殺人事件</td></tr><tr><td>劇本傾向</td><td>隨著劇本殺的多樣化，為防止內容與玩家想遊玩的類型不匹配而設置（更詳細的填寫事項請參考<a href="../../scenariohome/overview/#shinario">此頁面</a>）</td><td><p>・封閉型劇本殺</p><p>・開放型劇本殺</p><p>・故事扮演要素強</p><p>・適合高級者（初學者、中級者）</p><p>・重視推理（策略、角色扮演）</p><p>・沒有明確的推理線索</p></td></tr><tr><td>注意事項</td><td>如果存在可能讓人感到不適的描寫或涉及不喜歡的主題，請填寫此項（其他填寫事項請參考<a href="../../scenariohome/overview/#zhu-yi-shi-xiang">此頁面</a>）</td><td>・有恐怖描寫<br>・有血腥描寫<br>・有悲劇結局<br>・可能有角色死亡<br>・有特殊進行</td></tr><tr><td>概要</td><td>在應用程式的劇本詳細畫面中顯示的概要（建議寫明在哪裡發生了什麼）</td><td>某個冬日，四人聚集在漩渦館。被僕人的尖叫聲驚醒後，發現館主被殺。</td></tr><tr><td>作者的話</td><td>如果有製作者想說的話或製作人員名單，請記載於此處。</td><td>這是第一次製作的謀殺之謎。<br>製作人員名單<br>・插畫：○○先生<br>・背景音樂：□□</td></tr><tr><td>選角提示</td><td>如果需要在選擇角色時顯示說明，請記載於此處。</td><td>有非犯人的角色，或有與其他角色不同的遊玩感受等</td></tr><tr><td>是否允許直播</td><td>使用勾選框指定是否允許直播。</td><td>－</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp2.png" alt=""><figcaption></figcaption></figure>
 
 ## 輸入劇本內容
 
 點擊右上角的「編輯劇本」進入編輯畫面。
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-10-24 17.50.24.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **操作編輯畫面時的重點**
@@ -34,13 +34,13 @@
 切換到其他畫面再返回時，可能會看似輸入的內容消失，遇到此情況時，請進行「**重新載入（Ctrl+R）（Command＋R）**」。
 {% endhint %}
 
-###
+
 
 ### ①輸入角色資訊
 
 根據選擇的人數模板，設定可玩角色，並輸入各自的名字和說明。
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp3.png" alt=""><figcaption></figcaption></figure>
 
 ### ②編輯階段「開始」
 

@@ -1,10 +1,12 @@
-# BGM
+---
+description: 此頁面為機器翻譯
+---
+
+# 背景音樂
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2024-02-20 19.48.50.png" alt=""><figcaption></figcaption></figure>
 
 BGM主要用於在特定階段重複播放的音源。
-
-
 
 ### BGM的播放條件
 
@@ -19,8 +21,6 @@ BGM主要用於在特定階段重複播放的音源。
 如果將某個BGM的「停止時機」設置為另一個BGM的「開始時機」，則BGM將不會中斷地播放。
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### 從某個階段開始一直播放相同的音聲
 
