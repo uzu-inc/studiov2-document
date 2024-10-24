@@ -6,17 +6,13 @@ description: 音声ファイルの音量自体を調整する
 
 フリー音源サイトなどから音声をダウンロードした場合、デフォルトの音量が大き過ぎる場合があります。そのような場合に、ウズスタジオ上で音声ファイルの音量を調整する方法をご紹介します。
 
-
-
 ### ① BGM・SEタブで音量調整ボタンをクリック
-
-
 
 以下のような画面になります。
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-05-07 19.33.14.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/スクリーンショット 2024-05-07 19.33.14.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,10 +22,17 @@ description: 音声ファイルの音量自体を調整する
 
 音量を変更すると、▶︎ボタンで変更した音量での試聴が出来ます。
 
-<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (133).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ③変更を適用する
 
 音量の設定が終わったら、「変更を適用」ボタンをタップすると音声ファイルの音量が変更されます。音量調整は一度に10ファイルまで行うことが出来ます。
+
+
+
+### ④音量を確認する
+
+スマートフォンで該当シナリオのBGMページにアクセスし、イヤホンをつけて再生ボタンを押すと、実際のアプリ内での音量と近いものを確認することができます。
+
+※パソコンやイヤホンなしで再生すると、音量の違いを聞き分けるのが難しいです。
+
