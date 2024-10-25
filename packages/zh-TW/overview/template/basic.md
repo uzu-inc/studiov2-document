@@ -64,7 +64,7 @@
 
 詳細的操作方法和應用程式中的顯示方式，請參考[此頁面](../../basic-features/textTab.md)。
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp4.png" alt=""><figcaption></figcaption></figure>
 
 ### ⑤設定討論階段
 
@@ -74,7 +74,7 @@
 
 如果不需要其中一個討論，可以從右上角的「⋯」中刪除。
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp5 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑥輸入附加信息
 
@@ -82,7 +82,7 @@
 
 此文本在到達「額外情報」階段時，將設置為全員共通發放。如果不需要，請從右上角的「⋯」按鈕中刪除。
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp6.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ⑦編輯投票選項
 
@@ -90,7 +90,7 @@
 
 模板中輸入為「角色1」、「角色2」，請更改成正確的名字。（也可以增加「事故」、「自殺」等選項）
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp7.jpg" alt=""><figcaption></figcaption></figure>
 
 ### ⑧輸入結局
 
@@ -112,7 +112,7 @@
 
 點擊編輯標記圖標，輸入「真相解說」或「後記」。如果不需要「後記」，可以刪除。
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp8.png" alt=""><figcaption></figcaption></figure>
 
 ## 動作確認與版本創建
 
@@ -128,4 +128,4 @@
 
 詳情請參閱[此頁面](../../basic-features/botanbjonwo.md)。
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp9.png" alt=""><figcaption></figcaption></figure>
