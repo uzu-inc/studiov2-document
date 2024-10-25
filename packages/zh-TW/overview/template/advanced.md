@@ -4,7 +4,7 @@
 
 如果要新增可玩角色，請從「角色」畫面中新增；如果要新增NPC，請從「NPC」畫面中新增。
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp2-1.png" alt=""><figcaption></figcaption></figure>
 
 ## 新增階段
 
@@ -17,18 +17,19 @@
 * 投票：真相投票、行動選擇等⋯
 * 顯示遊戲流程：顯示在「遊戲流程」中設定的整體流程
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp2-2.png" alt=""><figcaption></figcaption></figure>
 
 #### ② 進行階段連接操作
 
 從「階段列表」畫面中移動到「流程設定」。
 
-圖片範例中，嘗試將「新添加的階段」插入到「第一次討論」和「額外情報」之間的操作步驟如下：
+圖片範例中，嘗試將「新追加的階段」插入到「第一次討論」和「額外情報」之間的操作步驟如下：
 
-1. 在「第一討論」的⋯按鈕中選擇「重置此轉場設定」
-2. 將「第一討論」連接到「新添加的階段」，再將「新添加的階段」連接到「附加信息」。
+1. 點擊F節點
+2. 將「第一次討論」的「預設轉場目的地」調整成「新追加的階段」
+3. 將「新追加的階段」連接到「額外信息」
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp2-3.png" alt=""><figcaption></figcaption></figure>
 
 #### ③ 添加到遊戲流程中
 
@@ -37,10 +38,11 @@
 1. 點擊「新增流程」
 2. 輸入標題等資訊
 3. 從畫面底部的「未設定流程階段」中拖曳相關階段至所新增的流程內
+4. 將新增的流程拖曳到正確位置
 
 詳細說明請參考[這個頁面](../../basic-features/phase/timeline.md)。
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp2-4.png" alt=""><figcaption></figcaption></figure>
 
 ## 刪除階段
 
@@ -48,7 +50,7 @@
 
 點擊階段詳細畫面右上角的「⋯」，然後選擇刪除。
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-temp2-5.png" alt=""><figcaption></figcaption></figure>
 
 #### ② 重新連接階段進行
 
