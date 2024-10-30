@@ -2,7 +2,7 @@
 
 基本フェーズでは**テキスト・画像・山札・アクション**などの表示ができます。 キャラクターテキスト読み込み、議論、調査、説明の提示、追加情報の確認などに適しているフェーズです。
 
-\\
+
 
 ## 入力する項目と内容
 
@@ -19,7 +19,7 @@
 
 <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
-\\
+
 
 ## フェーズの内容について
 
@@ -33,13 +33,13 @@
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-\\
+
 
 画像では、画像を画面の**どこに揃えるか**（左寄せ・中央揃え・右寄せ）、どのくらいの**大きさ**で表示するかを設定できます。
 
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-\\
+
 
 ## フェーズの内容をテキストにも配布する
 
@@ -58,3 +58,10 @@
 同期したテキストはルール説明・共通情報を追加したいときなど、コピーしたテキストは個別に編集を加えたい内容のときに便利です。
 
 <figure><img src="../../.gitbook/assets/image (118) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 投票フェーズを作る
+
+[こちら](select.md)で解説しています。
+
