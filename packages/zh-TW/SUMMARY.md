@@ -12,7 +12,6 @@
   * [作品提交](overview/makingflow/submit/README.md)
     * [詳細審查（付費公開劇本）](overview/makingflow/submit/check.md)
     * [測試遊玩問卷的使用方法](overview/makingflow/submit/questionnaire.md)
-    * [文章常見的指正](overview/makingflow/submit/yokuaru-shiteki.md)
 * [只需填空即可完成劇本殺的模板](overview/template/README.md)
   * [基本使用方法](overview/template/basic.md)
   * [進階使用方法](overview/template/advanced.md)
