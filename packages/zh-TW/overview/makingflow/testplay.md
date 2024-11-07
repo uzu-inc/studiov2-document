@@ -12,13 +12,13 @@ UZU STUDIO有能夠在應用程式中實際測試之前確認動作的功能。
 
 **點擊右上角的播放按鈕**即可進入「動作確認」畫面。
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-test1.png" alt=""><figcaption></figcaption></figure>
 
 在動作確認中，可以在與應用程式幾乎相同的畫面上從頭到尾查看劇情。
 
-畫面會顯示與玩家人數相應的手機畫面，因此可以一個人操作所有玩家的畫面。BGM和SE（音效）也會播放。
+畫面會顯示與玩家人數相應的手機畫面，因此可以一個人操作所有玩家的畫面。背景音樂和音效也會播放。
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-11-07 18.24.43.png" alt=""><figcaption></figcaption></figure>
 
 在動作確認中，建議確認是否存在以下錯誤。
 
@@ -40,7 +40,7 @@ UZU STUDIO有能夠在應用程式中實際測試之前確認動作的功能。
 
 如果沒有輸入或設置的遺漏，反映將會進行，但如果有未完成的輸入或設置，將顯示錯誤。顯示錯誤時，請確認提示的地方並進行適當的修正。
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-test2.png" alt=""><figcaption></figcaption></figure>
 
 #### ②輸入版本備註
 
@@ -56,9 +56,9 @@ UZU STUDIO有能夠在應用程式中實際測試之前確認動作的功能。
 
 #### **①在發佈管理畫面中複製劇本ID**
 
-請從「發佈管理」畫面中複製**劇本**ID（英數字的字串）。
+請從「上架管理」畫面中複製**劇本**ID（英數字的字串）。
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2024-11-07 18.31.34.png" alt=""><figcaption></figcaption></figure>
 
 #### **②打開UZU應用程式**
 
@@ -67,17 +67,17 @@ UZU STUDIO有能夠在應用程式中實際測試之前確認動作的功能。
 * 點擊左上角的圖標，從彈出的選單欄中點擊\*\*「ID搜尋」→「搜尋劇情」\*\*。
 * 劇情搜尋畫面會出現，將①中複製的劇本ID貼上。
 
-<figure><img src="../../.gitbook/assets/desc.001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-test3 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ④**劇本詳細畫面出現**
 
 #### ⑤**創建活動**
 
-* 點擊畫面底部的「**用最新版創建活動**」
-* 選擇「立即遊玩」或「創建活動計劃（指定日期時間）」並進入「**場次設置**」
-* 點擊「**允許觀眾**」，在自己的報名名額中選擇「**觀眾**」
+* 點擊畫面底部的「遊玩此劇本」
+* 選擇「立即遊玩」或「創建場次計劃（指定日期時間）」並進入「**場次設置**」
+* 開啟「**允許觀眾**」，並在自己的報名名額中選擇「**觀眾**」
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-test4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### ⑥**獲取分享用連結**
 

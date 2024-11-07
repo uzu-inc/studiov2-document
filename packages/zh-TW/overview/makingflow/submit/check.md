@@ -126,13 +126,13 @@ UZU STUDIO編輯部將分享任何製作劇本的人都可以使用的「測試�
 
 在測試遊玩期間收集的Google Form問卷結果，請以Google試算表格式提交。
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/スクリーンショット 2024-11-07 17.47.11.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 2．作品的重點
 
 請回答在製作劇本時特別用心的部分、各角色的亮點或有趣的地方。
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/スクリーンショット 2024-11-07 18.58.05.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3．希望價格・希望標籤
 
@@ -144,13 +144,13 @@ UZU STUDIO編輯部將分享任何製作劇本的人都可以使用的「測試�
 
 若需重新提交，請以「初次審查的反饋所提供所需修正的部分」作為基礎進行修正和調整，並在表單的重新提交欄中填寫。
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/スクリーンショット 2024-11-07 19.00.27.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
 ## Q\&A
 
-若閱讀以下內容後仍有疑問，請在Discord伺服器內的「問題・需求等」文字頻道中標註「@編輯部」進行提問。
+若閱讀以下內容後仍有疑問，請在Discord伺服器內的「問題・需求」頻道中標註「@編輯部」進行提問。
 
 <details>
 
