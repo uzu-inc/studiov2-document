@@ -20,5 +20,7 @@
 
 <figure><img src="../.gitbook/assets/セールバッジ使用方法.png" alt=""><figcaption></figcaption></figure>
 
+セールを行う場合、セールの終了期限をシナリオ説明などに記載してください。
 
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 

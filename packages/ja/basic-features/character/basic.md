@@ -2,7 +2,7 @@
 
 キャラクター基本情報の設定について説明します。
 
-![](../../images/character3.png)
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 \\
 

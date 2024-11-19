@@ -42,7 +42,7 @@
 
 入力や設定に漏れがなければ、反映が進行しますが、入力や設定ができていない箇所があると、エラーが表示されます。エラーが表示されたら、提示されている場所を確認し、適宜修正を行ってください。
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 #### ②バージョンメモを入力する
 
