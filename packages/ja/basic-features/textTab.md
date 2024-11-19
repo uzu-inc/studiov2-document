@@ -2,17 +2,15 @@
 
 テキストでは、プレイ中にテキストタブに配布するテキストを設定・編集できます。
 
-![](../images/text1.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ## 新規テキストの追加
 
 新規テキストの追加方法は2種類あります。
 
-\
-
+\\
 
 ### ①テキスト一覧から追加
 
@@ -20,10 +18,9 @@
 
 「新しいテキストタブ」をクリックすると、内容の編集画面に移動します。
 
-![](../images/text2.png)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+\\
 
 ### ②配布したいフェーズ内から追加
 
@@ -33,8 +30,7 @@
 
 <figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
-また、画面右下の「テキストとして配布」をタップすると、フェーズの内容と完全に同期したテキストが、該当のフェーズ終わりに配布されます。例えばオープニングの文章を後から読み返せるようにフェーズ終わりにも配布したい、等の場合にお使いください。\
-
+また、画面右下の「テキストとして配布」をタップすると、フェーズの内容と完全に同期したテキストが、該当のフェーズ終わりに配布されます。例えばオープニングの文章を後から読み返せるようにフェーズ終わりにも配布したい、等の場合にお使いください。\\
 
 ## テキストタブの内容
 
@@ -48,8 +44,7 @@
 
 ![](../images/giron3.png)
 
-\
-
+\\
 
 画像では、画像を画面の**どこに揃えるか**（左寄せ・中央揃え・右寄せ）、どのくらいの**大きさ**で表示するかを設定できます。
 
@@ -59,8 +54,7 @@
 
 ![](<../.gitbook/assets/スクリーンショット 2024-02-20 19.16.46.png>)
 
-キャラクターや条件によってテキストや画像の表示・非表示を制御する事も出来ます。詳しくは [text-customize.md](../advanced/text-customize.md "mention") をご覧ください。\
-
+キャラクターや条件によってテキストや画像の表示・非表示を制御する事も出来ます。詳しくは [text-customize.md](../advanced/text-customize.md "mention") をご覧ください。\\
 
 ## アプリ上での表示順
 
@@ -68,4 +62,4 @@
 
 アプリ上で表示したい順番に入れ替えておきましょう。
 
-![](../images/text6.png)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

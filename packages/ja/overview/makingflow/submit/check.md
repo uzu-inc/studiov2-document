@@ -126,13 +126,13 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 テストプレイ期間中にGoogle Formで収集したアンケート結果をGoogle スプレッドシート形式にして、ご提出いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2．作品のポイント
 
 シナリオを制作するにあたってこだわった部分、キャラクターそれぞれの見せ場や面白さについて、ご回答いただきます。
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3．希望価格・希望タグ
 
@@ -184,7 +184,7 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 審査提出フォームから有料公開希望(**一番上：はい**)を選択し、詳細審査に提出してください。
 
-<img src="../../../.gitbook/assets/image (10).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
 
 
 

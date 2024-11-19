@@ -4,13 +4,11 @@
 
 それを回避するために、調査を忘れていた場合・調査が完了していなかった場合の救済フェーズを設ける方法をご紹介します。
 
-
-
 ## パターン１：必ず救済フェーズを通るようにする
 
 難易度：低
 
-<figure><img src="../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ①調査の説明や山札などを設置した調査フェーズを作成します。
 
@@ -18,13 +16,11 @@
 
 ③元の調査フェーズと救済用のフェーズを図のように連続で配置して繋げば完了です。
 
-
-
 ## パターン２：調査が不完全なときだけ救済フェーズに行くようにする
 
 難易度：中～高
 
-<figure><img src="../.gitbook/assets/image (79).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ①調査の説明や山札などを設置した調査フェーズを作成します。
 
@@ -37,6 +33,3 @@
 ⑤救済フェーズに行く条件として、「調査が終わっていないとき（手がかりを持っていないなど）」を設定すれば完了です。
 
 <figure><img src="../.gitbook/assets/image (80).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-

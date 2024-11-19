@@ -34,13 +34,13 @@
 
 説明文内の『（シナリオ名）』もご自身のシナリオのタイトルに変更しておくとよいでしょう。
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### カスタマイズ２：キャラ名・キャラクター数の変更
 
 （キャラ名）をそれぞれ入力し、シナリオのプレイアブルキャラクターの数に合わせて、適宜PCを増減させてください。
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## テストプレイでの配布
 
@@ -48,11 +48,11 @@
 
 右上の「送信」ボタンを押すとポップアップが出てきます。
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 送信方法で真ん中の「リンクマーク」を選び、右下の「コピー」をクリックします。
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 アンケートに回答するためのリンクがコピーされるので、DiscordやDMなどテストプレイ参加者とのやり取りの場に貼り付けてください。
 
@@ -66,7 +66,7 @@
 * 質問：質問項目ごとに回答を確認できます。
 * 個別：回答者ごとに回答を確認できます。
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -76,13 +76,13 @@
 
 「回答」タブから「スプレッドシートにリンク」を押すと、Googleドライブ内にスプレッドシートが作成されます。
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆スプレッドシートの提出用リンクを取得する
 
 スプレッドシートを開き、画面右上の「共有」をクリックします。
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 以下のようなポップアップが出てくるので
 
@@ -92,7 +92,7 @@
 
 コピーしたリンクを提出用フォームの該当箇所にペーストしていただければ完了です。
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

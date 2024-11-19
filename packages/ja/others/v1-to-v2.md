@@ -57,7 +57,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、ボタンひとつで太字や斜体、見出し文字や色付き文字に変えられるようになっています。
 * それに伴い、マークダウン記法を覚える必要がなくなりました。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## v2移行することで改善できること
 
@@ -66,14 +66,14 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**読み合わせフェーズをどこにでも何回でも差し込める**ようになりました。
 * v1で2回以上の読み合わせを設ける際、キャラ名「セリフ」のようにテキストで代用していた部分を大幅に改善できます。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆投票フェーズ
 
 * v2では、**投票フェーズを何回でも設定できる**ようになりました。
 * v1シナリオで頻発していた「投票前に投票先を一つに絞るための長い説明」を設ける必要がなくなり、より自然な形で投票できます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 「キャラクター１が○○に投票しているとき」のような詳細な条件による分岐も設定できるようになっています。
 
@@ -84,7 +84,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * v2では、**シナリオの途中でも条件に合わせた分岐ができる**ようになりました。
 * v1でよく行われていた「改行で中身が見えないように工夫したタブを複数配布して該当するものだけ見てもらう」ような状態を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆調査・手がかり
 
@@ -92,14 +92,14 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * 手がかりは「**全体公開**」も「**譲渡**」も「**誰かだけに公開**」もできます。
 * v1でよく行われていた「リンクをタップ→画像を表示」で、プレイヤーの良心に任せた擬似調査を大きく改善できます。
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### ◆その他
 
 * **キャラクターテキストを「あるフェーズにいるときだけ表示する」ことができる**ため、読み返し禁止のようなギミックがより自然に実装できます。
 * 読み合わせ中の特定の地の文やセリフをきっかけとして、**フェーズの途中でBGMを変えられる**ようになりました。
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **先のフェーズを隠すかどうか選べる**ようになりました。
   * 追加議論があることを最初は見せたくない場合などに有効です。
@@ -113,7 +113,7 @@ v1で作成したシナリオは、本ページで説明する手順を踏むと
 * 「**シナリオ傾向**」「**注意事項**」を設定できるようになりました。
   * 「あらすじ」や「作者コメント」に無理やり入れていた注意事項や文章を内容ごとにきちんと分類して表示できるようになっています。
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ウズスタジオv2には、本ページで紹介しきれないくらいたくさんの機能があります。v1では少し不自然な形で実装していたものも、v2ではより自然な状態に改善できますので、ぜひあなたのシナリオもv2版へ移行してみてください。
 

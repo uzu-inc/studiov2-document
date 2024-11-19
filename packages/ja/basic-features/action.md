@@ -8,11 +8,11 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 
 左メニューから「アクション」に移動します。
 
-「アクションを追加」をクリックし、アクションの種類を選ぶと、新規作成ができます。
+「アクションを追加」をクリックすると、新規作成ができます。
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-アクションには以下の2種類があります（2023.12.7現在）。
+アクションには以下の2種類があります（2024.11.19現在）。
 
 <table><thead><tr><th width="141">名称</th><th>内容</th></tr></thead><tbody><tr><td><a href="action.md#shinpuruakushonno">シンプル</a></td><td>「実行する」を押すだけでアクションが発動する</td></tr><tr><td><a href="action.md#pasuwdoakushonno">パスワード</a></td><td>「実行する」を押すとパスワード入力が求められ、正しいパスワードを入力するとアクションが発動する</td></tr></tbody></table>
 
@@ -83,7 +83,7 @@ description: 単純な手がかり取得や山札調査を超えた様々なア�
 * **結果アクション**：「実行する」を押すと何が起こるのかを設定します。パスワードを正しく入力できた場合とできなかった場合に分かれています。
   * **共通タブ**：正答の回答タブを複数設定しており、それらに共通した結果アクションがある場合は共通タブに設定します。例えば正答の回答を入力すると、まず効果音が鳴り、その後は入力内容ごとにアクションが分かれる場合、共通タブに「効果音」を設定し、回答１以降にそれぞれの結果アクションを設定するとよいでしょう。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 画像の例における、結果アクションの中身はそれぞれ以下のようになっています。
 

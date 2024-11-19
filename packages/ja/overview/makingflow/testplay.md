@@ -60,7 +60,7 @@
 
 **①リリース管理画面でURLまたは作品IDをコピー**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **②URLの場合：スマートフォン等にURLを送る**\
 　**作品IDの場合：ウズアプリを開く**
@@ -71,7 +71,7 @@
 * 左上のアイコンをタップし、出てきたメニューバーから「ID検索」→「シナリオを検索」とタップしてください。
 * シナリオ検索画面が出てくるので、①でコピーしたシナリオIDをペーストします。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ④**シナリオ詳細画面が出てくる**
 
@@ -81,7 +81,7 @@
 * 「イベント予定を作成」を選び、「**イベント設定へ**」進みます
 * 「**観戦を許可する**」がONになっているのを確認し、自分の参加枠で「**観戦者**」を選びます
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ⑥**共有用リンクを取得する**
 

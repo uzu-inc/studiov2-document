@@ -8,7 +8,7 @@
 
 後日談や制作秘話など、シナリオプレイ後に購入できるコンテンツを作成することができます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **トップ画像**\
 デフォルト画像のままの販売はNGです。ご自身で作成した画像をアップロードしてください。
@@ -71,7 +71,7 @@
 
 シナリオ詳細画面の「マーケティング」タブに遷移して、「新規コード発行」をタップします。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ボタンを押すと以下のような画面となり、コードが発行されます。このコード番号をシナリオをプレイしてもらいたい人に伝えます。コードは一つにつき一回しか使えないので注意してください。
 
