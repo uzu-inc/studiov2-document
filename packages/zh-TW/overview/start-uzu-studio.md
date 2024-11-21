@@ -10,4 +10,4 @@
 
 如果UZU帳戶已經連接外部服務，您也可以使用這些方法登入。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/account (1).png" alt="" width="563"><figcaption></figcaption></figure>
