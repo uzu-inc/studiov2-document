@@ -1,6 +1,6 @@
 # よくある質問
 
-## キャラクターについて
+キャラクターについて
 
 <details>
 
@@ -27,7 +27,16 @@ NPCは理論上、無限です。
 
 </details>
 
+<details>
 
+<summary>2周目キャラクターにするにはどうすればいいですか</summary>
+
+キャラクターをクリックした後に、プレイ条件:2周目+専用キャラクターにチェックを入れてください。\
+詳しくは以下のリンクから確認してください。
+
+[https://app.gitbook.com/o/g4uBD0iJkCwCG7OS3Op7/s/gOyErfAjeKrNXFgLBxtx/\~/changes/204/basic-features/character/second-play-character](https://app.gitbook.com/o/g4uBD0iJkCwCG7OS3Op7/s/gOyErfAjeKrNXFgLBxtx/~/changes/204/basic-features/character/second-play-character)
+
+</details>
 
 ## フェーズについて <a href="#phases" id="phases"></a>
 
@@ -275,9 +284,9 @@ Google Chromeでは、最初のフェーズから再生されるように設定�
 autoPlay ポリシーの設定変更の方法は以下の通りです。\\
 
 1. 動作確認画面の URL バーの鍵マークをクリック →「サイトの設定」をクリック\
-   ![](images/autoplay\_1.png)\\
+   ![](images/autoplay_1.png)\\
 2. 「音声」の項目で「自動(デフォルト)」をクリック →「許可する」に変更\
-   ![](images/autoplay\_2.png)\\
+   ![](images/autoplay_2.png)\\
 
 </details>
 
