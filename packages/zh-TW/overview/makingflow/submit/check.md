@@ -83,7 +83,7 @@ description: 在UZU STUDIO上付費公開作品時必須通過的審查。
 #### 關鍵視覺
 
 * 是否符合內容
-* 是否符合[關鍵視覺創作規範](../../visual-regulation.md)
+* 是否符合[封面圖片創建規範](../../visual-regulation.md)
 
 ### ◆劇本內容：UZU STUDIO確認
 

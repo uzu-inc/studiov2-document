@@ -15,7 +15,7 @@
 * [只需填空即可完成劇本殺的模板](overview/template/README.md)
   * [基本使用方法](overview/template/basic.md)
   * [進階使用方法](overview/template/advanced.md)
-* [封面圖片創建規範](overview/visual-regulation.md)
+* [關鍵視覺創建規範](overview/visual-regulation.md)
 * [功能更新列表](overview/update.md)
 * [營業日・營業時間](overview/working-day.md)
 * [UZU STUDIO v2 能做的事與不能做的事](overview/available.md)
