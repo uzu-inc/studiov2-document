@@ -59,7 +59,7 @@
 * [手がかり](basic-features/clue.md)
 * [山札](../../basic-features/decks.md)
 * [トークン](../../basic-features/tkun.md)
-* [自由記述](basic-features/zi-you-ji-shu.md)
+* [自由記述](basic-features/text-fields.md)
 * [アクション](basic-features/action.md)
 * [演出](basic-features/effect/README.md)
   * [BGM](basic-features/effect/bgm.md)
