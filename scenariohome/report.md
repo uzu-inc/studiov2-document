@@ -8,4 +8,4 @@
 
 プレイ時間は「キャラクター選択（待合室除く）」から「感想戦画面到達」までを計測したものです。作品概要で設定しているプレイ時間より、この画面のプレイ時間目安が15分以上長い場合は、プレイ時間の変更をお願いいたします。
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>

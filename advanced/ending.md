@@ -14,7 +14,7 @@ v1では全てのエンディングが感想戦で強制的に開示されてい
 
 フェーズの内容は自由に設定してください。
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -22,7 +22,7 @@ v1では全てのエンディングが感想戦で強制的に開示されてい
 
 フェーズ一覧画面から「フェーズ進行を設定」と進み、①で追加したフェーズを「感想戦画面」の１つ手前に差し込みます。
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -30,13 +30,13 @@ v1では全てのエンディングが感想戦で強制的に開示されてい
 
 フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **④配布のタイミングを変更**
 
 テキスト一覧から、③で追加したエンディングテキストそれぞれの編集画面に行き、配布するフェーズを「お疲れさまでした」に変更します。
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -46,7 +46,7 @@ v1では全てのエンディングが感想戦で強制的に開示されてい
 
 フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -56,7 +56,7 @@ v1では全てのエンディングが感想戦で強制的に開示されてい
 
 条件同士の関係は「または」にしておきましょう。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.37.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-02-20 20.37.13.png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -66,4 +66,4 @@ v1では全てのエンディングが感想戦で強制的に開示されてい
 
 **②タブ内にエンディングを転記する**
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-02-20 20.38.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-02-20 20.38.41.png" alt=""><figcaption></figcaption></figure>

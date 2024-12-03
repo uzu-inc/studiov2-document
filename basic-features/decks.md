@@ -4,15 +4,11 @@
 
 ## トークン・山札の作成
 
-山札ではトークンを消費して手がかりを取得することが前提となっているため、山札の初回作成時には先に**トークン**の設定をする必要があります。 「トークン設定へ」をクリックすると、トークン設定画面に移動します。
-
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 \\
 
 トークンが未設定の場合は以下のような画面になるので、「トークン作成」をクリックしてください。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (2) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -20,7 +16,7 @@
 
 用途に合わせて複数のトークンを設定することもできます。
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -28,7 +24,7 @@
 
 ある手がかりを取得したとき、ある選択肢に投票したときのように特殊な条件を満たした場合に配布されるトークンも設定できます。
 
-![](../images/decks4.png)
+![](../packages/ja/images/decks4.png)
 
 \\
 
@@ -36,7 +32,7 @@
 
 「山札を追加」ボタンから、新しい山札を作成できます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -60,9 +56,9 @@
   * 手がかりそれぞれについて、山札から手がかりを引いた際に、手がかりを引いたキャラクターに所有権を持たせるのか、それとも全体公開になるのかなど、いくつかの設定が可能です。所有権を持っていると、その人の任意のタイミングで全体公開・共有・譲渡ができます。
   * 山札に含める手がかりでは、配布条件が自動的に「山札から引かれたとき」になるため、**手がかりごとの配布条件設定**が不要です。
 
-![](../images/decks6.png)
+![](../packages/ja/images/decks6.png)
 
-![](../images/decks7.png)
+![](../packages/ja/images/decks7.png)
 
 \\
 
@@ -70,7 +66,7 @@
 
 山札に含まれる**手がかりを残して山札構造のみ解除**する場合は「この山札を削除」、**山札もそこに含まれる手がかりも全て消す**場合は「この山札を手がかりごと消去」を選択してください。
 
-![](../images/decks9.png)
+![](../packages/ja/images/decks9.png)
 
 \\
 
@@ -80,7 +76,7 @@
 
 フェーズ一覧から、山札を設置したいフェーズを選択します。
 
-![](../images/decks10.png)
+![](../packages/ja/images/decks10.png)
 
 \\
 
@@ -88,7 +84,7 @@
 
 調査中にそれぞれのキャタクターの残りトークンを閲覧できるようにするため、**山札調査を行うフェーズでは「トークン」の表示も一緒に設置**することを推奨しています。
 
-![](../images/decks11.png)
+![](../packages/ja/images/decks11.png)
 
 \\
 
@@ -96,7 +92,7 @@
 
 この例では、「役者の持ち物」を役者本人が調査できないようにしているため、一番左の役者の画面では「実行する」が押せないようになっています。
 
-![](../images/decks8.png)
+![](../packages/ja/images/decks8.png)
 
 ### 山札をランダムに配布する
 
@@ -104,6 +100,6 @@
 
 設定方法は、山札詳細画面の右側の「調査内容の取得順」の「ランダムに取得」にチェックを入れるだけで完了します。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-05-24 18.55.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-05-24 18.55.07.png" alt=""><figcaption></figcaption></figure>
 
 ※Webでの動作確認時には、「プレイ状況をリセット」を押しても順番はシャッフルされず、一度動作確認画面のタブを閉じてもう一度動作確認を立ち上げることによって再度シャッフルされます。

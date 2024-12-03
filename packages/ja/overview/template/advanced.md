@@ -60,7 +60,7 @@
 
 ## テキストを追加したい
 
-[こちらのページ](../../basic-features/textTab.md)をご参照ください。
+[こちらのページ](../../../../basic-features/textTab.md)をご参照ください。
 
 ## 手がかりを配布したい
 
@@ -68,11 +68,11 @@
 
 ## 山札機能を使いたい
 
-[こちらのページ](../../basic-features/decks.md)をご参照ください。
+[こちらのページ](../../../../basic-features/decks.md)をご参照ください。
 
 ## 密談ルームを作りたい
 
-[こちらのページ](../../basic-features/room.md)をご参照ください。
+[こちらのページ](../../../../basic-features/room.md)をご参照ください。
 
 ## BGMを設定したい
 

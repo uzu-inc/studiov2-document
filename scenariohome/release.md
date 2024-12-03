@@ -12,7 +12,7 @@
 
 <table><thead><tr><th width="180.33333333333331">名称</th><th>内容</th></tr></thead><tbody><tr><td>アプリ掲載中</td><td>アプリ上で「このシナリオで遊ぶ」を押すことで誰でも遊べるバージョン<br>更新ボタンを押すと反映される</td></tr><tr><td>テストプレイ中</td><td>ウズスタジオの作家アカウントと紐づいているウズアカウントでのみイベント作成できるバージョン<br>このバージョンがあるときは作者のアカウントでのみ、ウズアプリ内のシナリオ詳細画面にイベント作成ボタンが２つ表示される</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 修正内容(バージョン)の反映について
 
@@ -38,13 +38,13 @@ v2では、v1に比べて自由度が高くなった分、設定箇所や考慮�
 
 リンク限定公開の使用例としては、作者の観戦なしでテストプレイをしてもらう場合、公開はせずに知り合い数名に遊んでもらうだけの身内シナリオの場合などです。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 審査提出
 
 「**アプリ掲載申請**」ボタンを押すと、作品を審査に提出できます。
 
-審査は、**無料**公開予定の作品に対する**簡易審査**と**有料**公開予定の作品に対する[**詳細審査**](../overview/makingflow/submit/check.md)に分かれています。 申請ボタンを押した先の**フォーム**から、どちらの審査に提出するか選択し、必要事項を記入してください。
+審査は、**無料**公開予定の作品に対する**簡易審査**と**有料**公開予定の作品に対する[**詳細審査**](../packages/ja/overview/makingflow/submit/check.md)に分かれています。 申請ボタンを押した先の**フォーム**から、どちらの審査に提出するか選択し、必要事項を記入してください。
 
 ※審査提出後もシナリオ内容の修正は可能ですが、審査は審査担当が確認した時点でウズスタジオに反映されている内容で行われます。
 
@@ -52,6 +52,6 @@ v2では、v1に比べて自由度が高くなった分、設定箇所や考慮�
 
 ウズで一般公開されていないテストプレイ段階の作品をアプリで見るには、作品ID（英数字の文字列）が必要です。以下のような画面からコピーして使用してください。
 
-テストプレイについては、[こちらのページ](../overview/makingflow/testplay.md)で説明しています。
+テストプレイについては、[こちらのページ](../packages/ja/overview/makingflow/testplay.md)で説明しています。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

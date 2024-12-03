@@ -4,7 +4,7 @@
 
 ## はじめに <a href="#overview" id="overview"></a>
 
-* [ウズスタジオとは](overview/uzustudio.md)
+* [ウズスタジオとは](overview/uzusutajiotoha.md)
 * [ログイン方法](overview/start-uzu-studio.md)
 * [作成からリリースまでの流れ](overview/makingflow/README.md)
   * [新規シナリオの作成](overview/makingflow/newscenario.md)
@@ -34,9 +34,9 @@
 * [ホーム全体について](scenariohome/main-screen.md)
 * [作品概要](scenariohome/overview/README.md)
   * [サブ画像の設定](scenariohome/overview/sub.md)
-* [マーケティング](scenariohome/marketing.md)
-* [リリース管理](scenariohome/release.md)
-* [レポート](scenariohome/report.md)
+* [マーケティング](../../scenariohome/marketing.md)
+* [リリース管理](../../scenariohome/release.md)
+* [レポート](../../scenariohome/report.md)
 * [メンバー](scenariohome/author.md)
 * [エディション機能](scenariohome/edition.md)
 
@@ -46,19 +46,20 @@
   * [キャラクターの基本項目](basic-features/character/basic.md)
   * [ミッション](basic-features/character/mission.md)
   * [周回プレイキャラクター](basic-features/character/second-play-character.md)
-* [フェーズ](basic-features/phase.md)
+* [フェーズ](../../basic-features/phase.md)
   * [フェーズの作成・概要](basic-features/phase/basic.md)
     * [基本フェーズ](basic-features/phase/discussion.md)
     * [読み合わせフェーズ](basic-features/phase/script.md)
     * [ゲームの流れ表示フェーズ](basic-features/phase/timeline.md)
     * [投票フェーズの作り方](basic-features/phase/select.md)
   * [フェーズ進行](basic-features/phase/flow.md)
-* [テキスト](basic-features/textTab.md)
-* [ルーム](basic-features/room.md)
+* [テキスト](../../basic-features/textTab.md)
+* [ルーム](../../basic-features/room.md)
 * [感想戦画面](basic-features/result.md)
 * [手がかり](basic-features/clue.md)
-* [山札](basic-features/decks.md)
-* [トークン](basic-features/tkun.md)
+* [山札](../../basic-features/decks.md)
+* [トークン](../../basic-features/tkun.md)
+* [自由記述](basic-features/zi-you-ji-shu.md)
 * [アクション](basic-features/action.md)
 * [演出](basic-features/effect/README.md)
   * [BGM](basic-features/effect/bgm.md)
@@ -67,16 +68,16 @@
   * [背景画像](basic-features/effect/background.md)
   * [カラーテーマ](basic-features/effect/colortheme.md)
 * [全体共通：条件設定](basic-features/condition.md)
-* [右上ボタン：動作確認](basic-features/demo.md)
+* [右上ボタン：動作確認](../../basic-features/demo.md)
 * [右上ボタン：最新バージョンを作成](basic-features/new-version.md)
 
 ## 応用 <a href="#advanced" id="advanced"></a>
 
-* [調査フェーズを組み込みたい](advanced/investigation.md)
-* [全てのエンディングを配布したい](advanced/ending.md)
-* [キャラクターによって表示する内容を変えたい](advanced/text-customize.md)
-* [読み合わせ中に画像を挿入したい](advanced/image-script.md)
-* [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/additional-investigation.md)
+* [調査フェーズを組み込みたい](../../advanced/investigation.md)
+* [全てのエンディングを配布したい](../../advanced/ending.md)
+* [キャラクターによって表示する内容を変えたい](../../advanced/text-customize.md)
+* [読み合わせ中に画像を挿入したい](../../advanced/image-script.md)
+* [全員の調査が完了する前に次へ進んでしまった場合の救済フェーズを設けたい](advanced/chosakyusai.md)
 * [音声ファイル自体の音量を調整する](advanced/adjust-audio-file.md)
 * [開閉ブロックを設置する](advanced/expansionwidget.md)
 
@@ -87,10 +88,10 @@
 
 ## その他 <a href="#others" id="others"></a>
 
-* [v1 のシナリオを v2 に移行する](others/v1-to-v2.md)
+* [v1 のシナリオを v2 に移行する](others/v1-noshinariowo-v2-nisuru.md)
 * [プレイ料金・セールの設定](others/pureisruno.md)
 
 ## よくある質問 <a href="#qanda" id="qanda"></a>
 
-* [よくある質問](QandA.md)
+* [よくある質問](../../QandA.md)
 * [よくある質問：v1→v2 移行](QandA-v1-v2.md)

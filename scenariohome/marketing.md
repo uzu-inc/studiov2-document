@@ -1,14 +1,48 @@
+---
+description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布するコンテンツを管理できる画面です。
+---
+
 # マーケティング
 
-追加コンテンツの作成・管理と、チケットコードの発行ができる画面です。
+## ■ プレイカード
 
 ## 追加コンテンツの作成・管理
+
+担当キャラクターごとに、エントリー時・プレイ終了後に配布する画像を設定できます。
+
+<figure><img src="../packages/ja/.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+
+画像を設定したいキャラクターのタブを開き、16:9の比率で作成したプレイカードをアップロードしてください。
+
+タブのラインナップがエディターと異なる場合、バージョンを作成すると最新の状態を反映できます。
+
+
+
+#### プレイ前カード
+
+イベントにエントリーしたタイミングでプレイヤーに配布されます。キャラ事前選択ができるイベントの場合はキャラごとのカード、エントリー時に配役するイベントでは「未選択」タブで設定したカードが配られます。
+
+設定しなかった場合は、特に何も配布されません。
+
+<figure><img src="../packages/ja/.gitbook/assets/image (180).png" alt=""><figcaption><p>配布ダイアログイメージ</p></figcaption></figure>
+
+#### プレイ後カード
+
+感想戦画面と、イベント解散後に配布されます。
+
+設定しなかった場合は、シナリオのカバー画像が代わりに配布されます。
+
+<figure><img src="../packages/ja/.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## ■ 追加コンテンツ
 
 ### 基本設定
 
 後日談や制作秘話など、シナリオプレイ後に購入できるコンテンツを作成することができます。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **トップ画像**\
 デフォルト画像のままの販売はNGです。ご自身で作成した画像をアップロードしてください。
@@ -37,23 +71,23 @@
 
 有料で公開する際は「ウズ追加コンテンツ有償公開規約」をご一読ください。売り上げを受け取る人全員が規約に同意していなければ公開できません。
 
-<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 共作の場合の売り上げの分配設定は「メンバー」画面から行います。
 
 追加コンテンツの種類ごとに分配率を設定することはできず、全て一括での分配率設定になります。
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 ### アプリ内での表示
 
 追加コンテンツのアプリ側での見え方は以下のようになります。v3.50.0以上にアップデートしている端末で確認できます。
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 ## チケットコードの発行
 
@@ -71,33 +105,25 @@
 
 シナリオ詳細画面の「マーケティング」タブに遷移して、「新規コード発行」をタップします。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ボタンを押すと以下のような画面となり、コードが発行されます。このコード番号をシナリオをプレイしてもらいたい人に伝えます。コードは一つにつき一回しか使えないので注意してください。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-04-15 18.49.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-04-15 18.49.19.png" alt=""><figcaption></figcaption></figure>
 
 ### アプリでの適用の仕方
 
 サイドメニューから「クーポン・チケット」を押します。
 
-<div align="left" data-full-width="false">
-
-<figure><img src="../.gitbook/assets/IMG_2013.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src="../packages/ja/.gitbook/assets/IMG_2013.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 先ほど発行したクーポンコードを入力すると、「所持チケット一覧」に該当のシナリオの無料チケットが増えます。
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/IMG_2014.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../packages/ja/.gitbook/assets/IMG_2014.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 チケットが換券されると、ウズスタジオでは以下のような画面になり、換券したユーザーがわかります。
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2024-04-15 19.00.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-04-15 19.00.29.png" alt=""><figcaption></figcaption></figure>
 
 ### ユーザー向け　使用方法説明ページ
 

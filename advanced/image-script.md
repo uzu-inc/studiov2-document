@@ -2,9 +2,7 @@
 
 基本フェーズ内の共通画面や個別に配布するテキストと同じように、読み合わせフェーズでも画像を挿入することができます。
 
-<figure><img src="../.gitbook/assets/image (76).png" alt="" width="252"><figcaption></figcaption></figure>
-
-
+<figure><img src="../packages/ja/.gitbook/assets/image (76).png" alt="" width="252"><figcaption></figcaption></figure>
 
 ①読み合わせフェーズを作成します
 
@@ -16,4 +14,4 @@
 
 ⑤画像用のボックスに変わるので挿入したい画像を選択します
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>

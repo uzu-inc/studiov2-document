@@ -26,6 +26,6 @@
 
 時間ごとの行動を示す文章が長いようなキャラクターテキストにおいて時間ごとにブロック分けしたいとき等に便利です。
 
-層ごとやテキストごとに[表示条件](text-customize.md)も利用できます。
+層ごとやテキストごとに[表示条件](../../../advanced/text-customize.md)も利用できます。
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

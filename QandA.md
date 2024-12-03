@@ -118,7 +118,7 @@ NPCは理論上、無限です。
 
 画像のようなエラーの場合、何も書かれていないテキストボックスがあるのが原因です。ウズスタジオのエディター画面から該当のテキストボックスを削除すると、次の動作確認（テストプレイ）から直ります。
 
-<img src="images/QA1.png" alt="" data-size="original">
+<img src="packages/ja/images/QA1.png" alt="" data-size="original">
 
 </details>
 
@@ -138,7 +138,7 @@ NPCは理論上、無限です。
 
 <summary>一度配布した手がかりを特定のタイミングから非表示にしたい</summary>
 
-[手がかりの回収](basic-features/clue.md#hui-shou-tiao-jian-ren-yi)機能をご利用ください。
+[手がかりの回収](packages/ja/basic-features/clue.md#hui-shou-tiao-jian-ren-yi)機能をご利用ください。
 
 </details>
 
@@ -179,7 +179,7 @@ NPCは理論上、無限です。
 
 <summary>フェーズの途中でBGMを切り替えたい</summary>
 
-読み合わせフェーズであれば可能です。[演出](basic-features/effect/)で方法を説明していますので、ご参照ください。
+読み合わせフェーズであれば可能です。[演出](packages/ja/basic-features/effect/)で方法を説明していますので、ご参照ください。
 
 </details>
 
@@ -223,7 +223,7 @@ Audacityなどのアプリや音量調整のできるサイトを利用して音
 
 自作シナリオのはずであるのに、以下のような「シナリオが見つかりませんでした〜」となる場合の対処法です。
 
-![](<.gitbook/assets/スクリーンショット 2024-10-07 15.55.47.png>)
+![](<packages/ja/.gitbook/assets/スクリーンショット 2024-10-07 15.55.47.png>)
 
 以下の操作を行なってください。
 
@@ -231,11 +231,11 @@ Audacityなどのアプリや音量調整のできるサイトを利用して音
 
 左下の黒いはてなアイコンをタップして、ログアウトを行います。
 
-![](<.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<packages/ja/.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 **②ログイン画面に遷移するので、普段お使いのウズアカウントのログイン方法でログインする**
 
-![](<.gitbook/assets/スクリーンショット 2024-10-07 16.14.55.png>)
+![](<packages/ja/.gitbook/assets/スクリーンショット 2024-10-07 16.14.55.png>)
 
 この方法でログインし直しても同様の症状になる方は、運営にお問い合わせください。
 
@@ -284,9 +284,9 @@ Google Chromeでは、最初のフェーズから再生されるように設定�
 autoPlay ポリシーの設定変更の方法は以下の通りです。\\
 
 1. 動作確認画面の URL バーの鍵マークをクリック →「サイトの設定」をクリック\
-   ![](images/autoplay_1.png)\\
+   ![](packages/ja/images/autoplay_1.png)\\
 2. 「音声」の項目で「自動(デフォルト)」をクリック →「許可する」に変更\
-   ![](images/autoplay_2.png)\\
+   ![](packages/ja/images/autoplay_2.png)\\
 
 </details>
 
@@ -294,7 +294,7 @@ autoPlay ポリシーの設定変更の方法は以下の通りです。\\
 
 <summary>共同編集者の追加方法は？</summary>
 
-シナリオホーム画面の「[メンバー](scenariohome/author.md)」から行います。追加をクリックし、共同編集者の**ウズのユーザー ID**を入力してください。
+シナリオホーム画面の「[メンバー](packages/ja/scenariohome/author.md)」から行います。追加をクリックし、共同編集者の**ウズのユーザー ID**を入力してください。
 
 </details>
 
@@ -304,7 +304,7 @@ autoPlay ポリシーの設定変更の方法は以下の通りです。\\
 
 ウズスタジオにログイン後、１つ以上シナリオを作成すると表示されるようになります。
 
-詳しくは[こちら](top/profile.md#pjibotan)をご参照ください。
+詳しくは[こちら](packages/ja/top/profile.md#pjibotan)をご参照ください。
 
 </details>
 

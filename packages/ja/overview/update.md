@@ -25,13 +25,13 @@
 * ウズスタジオ内で音声・BGMファイルの音量を調整できるようになりました
 * 開閉ブロックが使用できるようになりました
 * [二周目+キャラクター](../basic-features/character/second-play-character.md)が設定できるようになりました
-* 山札内の手がかりを[ランダム配布](../basic-features/decks.md#worandamunisuru)できるようになりました
+* 山札内の手がかりを[ランダム配布](../../../basic-features/decks.md#worandamunisuru)できるようになりました
 
 ### 2024年4月
 
 * 投票フェーズで、任意の条件で複数票が投票できるようになりました
 * キャラクターのニックネームとアイコンをシナリオの途中で変更できるようになりました
-* [有料作品を無料で遊べるチケット](../scenariohome/marketing.md#chikettokdono)を発行できるようになりました
+* [有料作品を無料で遊べるチケット](../../../scenariohome/marketing.md#chikettokdono)を発行できるようになりました
 
 ### 2024年3月
 

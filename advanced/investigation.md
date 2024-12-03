@@ -4,7 +4,7 @@
 
 山札を使った調査については、[こちらのページ](../basic-features/decks.md)をご参照ください。
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -24,7 +24,7 @@
 
 ※現在、「この選択肢の重複投票を禁止する」を他の条件と「かつ」や「または」で繋ぐことはできません。
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 \\
 

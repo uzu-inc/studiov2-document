@@ -4,7 +4,7 @@
 
 エディター画面の右上の「再生ボタン」をクリックすると、動作確認ができるかどうかのチェックが自動でおこなわれます。
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -12,13 +12,13 @@
 
 「**該当箇所へ**」をクリックすると、エラーが出ている場所へ直接飛ぶことができます。
 
-![](../images/demo2.png)
+![](../packages/ja/images/demo2.png)
 
 \\
 
 全て設定できている場合は、画面が切り替わり「**動作確認を行う**」が表示されるので、クリックしてください。
 
-![](../images/demo4.png)
+![](../packages/ja/images/demo4.png)
 
 \\
 
@@ -26,4 +26,4 @@
 
 BGMやSEも流れます。
 
-![](../images/demo3.png)
+![](../packages/ja/images/demo3.png)
