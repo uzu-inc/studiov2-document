@@ -2,7 +2,7 @@
 
 テキストでは、プレイ中にテキストタブに配布するテキストを設定・編集できます。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 \\
 

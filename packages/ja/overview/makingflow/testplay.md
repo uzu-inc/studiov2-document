@@ -60,7 +60,7 @@
 
 **①リリース管理画面でURLまたは作品IDをコピー**
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **②URLの場合：スマートフォン等にURLを送る**\
 　**作品IDの場合：ウズアプリを開く**
@@ -71,7 +71,7 @@
 * 左上のアイコンをタップし、出てきたメニューバーから「ID検索」→「シナリオを検索」とタップしてください。
 * シナリオ検索画面が出てくるので、①でコピーしたシナリオIDをペーストします。
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ④**シナリオ詳細画面が出てくる**
 

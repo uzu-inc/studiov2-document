@@ -31,8 +31,16 @@
 
 <figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
+作成するときには管理名を入力してください。管理名はプレイヤーに表示されません。
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## 自由記述結果
 
 先ほどの自由記述を読み取ることに特化したブロックです。入力することはできません。
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+
+追加すると自由記述を選択することが出来ます。自由記述で決めた管理名を選択してください。
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

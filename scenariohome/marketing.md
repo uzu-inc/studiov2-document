@@ -105,7 +105,7 @@ description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布�
 
 シナリオ詳細画面の「マーケティング」タブに遷移して、「新規コード発行」をタップします。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ボタンを押すと以下のような画面となり、コードが発行されます。このコード番号をシナリオをプレイしてもらいたい人に伝えます。コードは一つにつき一回しか使えないので注意してください。
 
