@@ -8,7 +8,7 @@
 
 自由記述が未設定の場合は以下のような画面になるので、「自由記述ボックスを追加」をクリックしてください。
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 
 
