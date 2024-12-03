@@ -31,6 +31,6 @@
 
 ## 自由記述結果
 
-先ほどの自由記述を読み取ることに特化したウィジェットです。入力することはできません。
+先ほどの自由記述を読み取ることに特化したブロックです。入力することはできません。
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
