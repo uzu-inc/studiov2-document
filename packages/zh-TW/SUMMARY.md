@@ -57,6 +57,7 @@
 * [線索](basic-features/clue.md)
 * [卡堆](basic-features/decks.md)
 * [代幣](basic-features/tkun.md)
+* [自由記述](basic-features/zi-you-ji-shu.md)
 * [行動](basic-features/action.md)
 * [演出](basic-features/bgm.md)
   * [背景音樂](basic-features/bgm/bgm.md)
