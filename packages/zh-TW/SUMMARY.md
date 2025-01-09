@@ -42,8 +42,8 @@
 
 * [角色](basic-features/character.md)
   * [角色的基本項目](basic-features/character/basic.md)
-  * [任務](basic-features/character/mission.md)
-  * [周回遊玩角色](basic-features/character/second-play-character.md)
+  * [目標](basic-features/character/mission.md)
+  * [重玩專用角色](basic-features/character/second-play-character.md)
 * [階段](basic-features/phase.md)
   * [階段的創建・概述](basic-features/phase/basic.md)
     * [基本階段](basic-features/phase/discussion.md)
