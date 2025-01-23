@@ -1,8 +1,8 @@
+---
+description: 說明角色基本資訊的設定。
+---
+
 # 角色的基本項目
-
-## 角色的基本項目
-
-說明角色基本資訊的設定。
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2025-01-09 16.30.05.png" alt=""><figcaption></figcaption></figure>
 
