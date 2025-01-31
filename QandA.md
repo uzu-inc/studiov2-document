@@ -317,3 +317,64 @@ autoPlay ポリシーの設定変更の方法は以下の通りです。\\
 お急ぎの場合は、スマートフォンからのテザリングやスマートフォン4G/5Gであればアクセスできるはずです。
 
 </details>
+
+<details>
+
+<summary>アップロードできる画像・動画の種類が知りたい</summary>
+
+ウズスタジオでは以下の画像・動画のフォーマットをサポートしています。
+
+#### 画像&#x20;
+
+PNG(アニメーションPNGを除く), GIF, JPEG, WebP, SVG
+
+※アップロードできる最大ファイルサイズは4.5MBです。
+
+#### 音声
+
+MP3
+
+※アップロードできる最大ファイルサイズは再生時間1分あたり2MBです。
+
+#### 動画
+
+MP4
+
+※アップロードできる最大ファイルサイズは10MBです
+
+
+
+</details>
+
+<details>
+
+<summary>PC・スマートフォンの推奨環境が知りたい</summary>
+
+#### Windows
+
+OS: Windows11以降
+
+ブラウザ: Google Chrome最新版, Microsoft Edge最新版
+
+#### Mac
+
+OS: macOS Sonoma 14 以降
+
+ブラウザ: Google Chrome最新版、Safari最新版
+
+
+
+#### Android
+
+OS: Android 12以降
+
+ブラウザ: Google Chrome最新版
+
+#### IOS
+
+OS: IOS 18以降
+
+ブラウザ: Google Chrome最新版、Safari最新版
+
+</details>
+
