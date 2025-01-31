@@ -348,7 +348,7 @@ MP4
 
 <details>
 
-<summary>PC・スマートフォンの推奨環境が知りたい</summary>
+<summary>推奨環境が知りたい</summary>
 
 #### Windows
 
@@ -364,13 +364,15 @@ OS: macOS Sonoma 14 以降
 
 
 
-#### Android
+#### ## 推奨はしてないがサポートしている環境
+
+#### **Android**
 
 OS: Android 12以降
 
 ブラウザ: Google Chrome最新版
 
-#### IOS
+#### **IOS**
 
 OS: IOS 18以降
 
@@ -379,6 +381,8 @@ OS: IOS 18以降
 
 
 上記以外の環境でも動作はしますが、画面崩れや予期せぬ不具合が発生する場合がございます。
+
+また、スマートフォン環境ではシナリオの動作確認をWeb上で行うことはできません。
 
 </details>
 
