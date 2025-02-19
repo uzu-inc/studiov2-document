@@ -10,11 +10,7 @@
 
 タブの内容はそれぞれのタブの右上をクリックすると編集できます。
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (94).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (94).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 アプリ上の画面との対応は以下の通りです。
 
@@ -40,7 +36,13 @@
 
 投票機能は犯人投票だけでなく、調査や個別目標の達成判定など様々な場面で利用できますが、シナリオ内で設けた投票のうち、感想戦画面で結果を表示するものを選ぶことができます。
 
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/無題43_20250219060226.png" alt=""><figcaption></figcaption></figure>
+
+投票を追加したい真相タブを開き、追加をクリックします。
+
+<figure><img src="../.gitbook/assets/無題43_20250219060544.png" alt=""><figcaption></figcaption></figure>
+
+投票結果を選択することにより、投票結果をプレイヤーが閲覧できるようなります。
 
 
 

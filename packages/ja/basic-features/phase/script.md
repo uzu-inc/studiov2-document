@@ -51,3 +51,21 @@ v1では「地の文の読み手」を設定すると自動でプレイ中画面
 読み合わせフェーズでは基本的に前者の「同期したテキスト」にしておくのがよいでしょう。
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 条件によって読み合わせのスキップをしたい
+
+条件によって読み合わせをスキップするかどうかを選択できます。
+
+<figure><img src="../../.gitbook/assets/無題43_20250219061132.png" alt=""><figcaption></figcaption></figure>
+
+スキップ条件を付けたいセリフにカーソルを合わせるとスキップ条件を設定できるボタンが出現します。このボタンをクリックすると、条件設定が出来ます。
+
+<figure><img src="../../.gitbook/assets/無題43_20250219061656.png" alt=""><figcaption></figcaption></figure>
+
+希望するスキップ条件を設定出来たら保存して閉じることでスキップ条件を適用することが出来ます。
+
+<figure><img src="../../.gitbook/assets/無題43_20250219061846.png" alt=""><figcaption></figcaption></figure>
+
+このように設定することで投票結果に合わせてセリフを変更することが出来ます。
