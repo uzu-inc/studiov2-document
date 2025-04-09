@@ -16,7 +16,7 @@ GMあり版・なし版、プレイ人数の違うバージョン、難易度の
 
 **エディション名はアプリ内でも表示**されます。また、同じタイトルのシナリオが複数あると管理がややこしくなりますので、**タイトルでも区別がつく**ようにしてください。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **注意事項**
 

@@ -18,7 +18,7 @@
 
 以下の画像は山札を追加した場合を示しています。複数の調査箇所をまとめたいとき、ジャンル分けしたいときなどに便利です。実際のプレイ画面では矢印部分をタップすると右のようにブロックが開きます。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 層構造
 

@@ -17,7 +17,7 @@
 * 投票：真相の投票、行動の選択など
 * ゲームの流れ表示：「ゲームの流れ」で設定した全体の流れが表示される
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ②フェーズを繋ぐ操作をする
 

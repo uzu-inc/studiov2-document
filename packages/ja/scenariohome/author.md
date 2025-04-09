@@ -25,7 +25,7 @@
 ※作家名の確認方法\
 作品を制作し、一度でも最新バージョンの作成をしたことがあれば、アプリ内のサイドメニューに「作家ページ」というボタンが現れるようになっています（アプリとウズスタジオへ同じアカウントでログインしている前提）。作家ページボタンを押すと、自分の作家名が確認できます。
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="456"><figcaption></figcaption></figure>
 
 ## プレイ料金分配率
 
