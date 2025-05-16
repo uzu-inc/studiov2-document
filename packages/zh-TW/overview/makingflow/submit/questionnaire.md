@@ -14,7 +14,7 @@
 
 請點擊以下連結，創建測試遊玩後問卷的副本。
 
-{% embed url="https://docs.google.com/forms/u/2/d/19YPifhHjyq2hhFqquWp0wA-49kEEd_3hczTHnXy011g/copy" %}
+[https://docs.google.com/forms/d/15KYR5ZechliJZKhWdfYkN-yWkHjExY39Q9MoNrsxUtg/copy](https://docs.google.com/forms/d/15KYR5ZechliJZKhWdfYkN-yWkHjExY39Q9MoNrsxUtg/copy)
 
 <figure><img src="../../../.gitbook/assets/スクリーンショット 2024-11-07 17.22.55.png" alt="" width="563"><figcaption></figcaption></figure>
 
