@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # セールバッジ
 
 セール中であることを分かりやすく示すためのバッジです。ドライブからダウンロードし、キービジュアルに配置してご利用ください。
@@ -6,7 +10,7 @@
 
 
 
-[**配布ページへ（Googleドライブ）→**](https://drive.google.com/drive/folders/1j35k8yNtRkDh4mZPxp2LjHRbpiLqXjjQ?usp=drive\_link)
+[**配布ページへ（Googleドライブ）→**](https://drive.google.com/drive/folders/1j35k8yNtRkDh4mZPxp2LjHRbpiLqXjjQ?usp=drive_link)
 
 
 
