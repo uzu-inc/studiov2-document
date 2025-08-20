@@ -17,7 +17,7 @@
 ※スマートフォンで閲覧している場合、横持ちにしないと右半分が表示されません。\
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 \\
 

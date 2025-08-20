@@ -10,6 +10,6 @@
 
 ジャンルを選択し、タイトルとふりがなを入力したら「この内容で作成」をクリックします。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 テンプレートを使えば、**埋めるだけでマダミスを完成**させることができます。詳しくは[こちらのページ](../template/)をご覧ください。

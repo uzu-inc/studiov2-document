@@ -93,6 +93,7 @@
 
 * [v1 のシナリオを v2 に移行する](others/v1-noshinariowo-v2-nisuru.md)
 * [プレイ料金・セールの設定](others/pureisruno.md)
+* [各種画像サイズ](others/image-px.md)
 
 ## よくある質問 <a href="#qanda" id="qanda"></a>
 
