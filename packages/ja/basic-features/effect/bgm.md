@@ -1,32 +1,42 @@
 # BGM
 
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-02-20 19.48.50.png" alt=""><figcaption></figcaption></figure>
+BGMは、主に特定のフェーズでリピート再生するような音源に使われるものです。
 
-BGMは、主に特定のフェーズで繰り返し流すような音源に使われるものです。
+<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### BGMの再生条件
+### BGMの再生・停止条件
 
-BGMをアップロードしたら、再生条件を設定しましょう。
+BGMをアップロードしたら、再生・停止条件を設定しましょう。
 
-再生条件では始点と終点を設定します。
+1. 「再生条件を追加」を押します。
+2. ポップアップ画面が開くので、再生を開始したいフェーズを選択します。読み合わせ中の特定のセリフから再生したいときは「フェーズ進行」部分を「キュー」に変更して、キューを指定します。
+3. 「変更を保存」します。
 
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-02-20 19.52.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
+
+
+停止条件を設定するときは、再生条件のときと同様に「再生条件を追加」を押した後、「結果アクション」の画面で「BGM再生」を「BGM停止」に変更します。
+
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+
+
 
 実際の設定イメージを示します。
 
 ある BGM の「止まるタイミング」として設定したフェーズが、別の BGM の「始まるタイミング」として設定されているようにすれば、BGM が途切れずに再生されます。
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### あるフェーズからずっと同じ音声を再生したい
+### あるフェーズからずっと同じBGMを再生したい
 
-エンディングから感想戦まで同じ音声を再生したい、などとという場合は、停止条件を「常に無効」に設定します。
+エンディングから感想戦まで同じBGMを再生したいときは、再生条件のみ設定してください。停止条件のないBGMはプレイヤーがシナリオから退出するまで再生されます。
 
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-02-20 19.54.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 
 
