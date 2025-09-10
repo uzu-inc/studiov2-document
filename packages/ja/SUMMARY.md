@@ -42,6 +42,7 @@
 * [レポート](../../scenariohome/report.md)
 * [メンバー](scenariohome/author.md)
 * [エディション機能](scenariohome/edition.md)
+* [ジャンル](scenariohome/genre.md)
 
 ## 各機能詳細 <a href="#basic-features" id="basic-features"></a>
 
