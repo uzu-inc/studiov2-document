@@ -6,7 +6,7 @@
 
 ピクセル例→1280px：720px ・ 1920px：1080px
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -16,7 +16,7 @@
 
 ピクセル例→500px：500px（数が揃っていれば何でも可）
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="334"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="334"><figcaption></figcaption></figure>
 
 
 
@@ -27,7 +27,7 @@
 
 ピクセル例→1280px：720px ・ 1920px：1080px
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

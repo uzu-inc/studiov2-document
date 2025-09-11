@@ -10,13 +10,13 @@
 
 フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
 
-<figure><img src="../packages/ja/.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **②配布のタイミングを変更**
 
 テキスト一覧から、①で追加したエンディングテキストそれぞれの編集画面に行き、配布するフェーズを「感想戦」に変更します。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

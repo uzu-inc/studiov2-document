@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
-\\
+
 
 ## 基本項目
 
@@ -20,7 +20,7 @@
 | アイコン(必須)   | キャラクター画像                | 登場人物紹介や読み合わせのアイコン                |
 | ニックネーム(必須) | 姓のみ・名前のみなどプレイ中に呼んでほしいもの | プレイ中の画面上部キャラクターアイコンの下・読み合わせ中の表示名 |
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../images/character2.png)
 
@@ -31,14 +31,14 @@
 表示するキャラクターの例
 
 * 被害者
-* ストーリー上で重要なNPC\\
+* ストーリー上で重要なNPC
 
 表示しないキャラクターの例
 
 * 一部のキャラクターのみが存在を知っているNPC
 * 読み合わせでしか登場しない「刑事」のようなNPC
 
-\\
+
 
 ## キャラクターの削除
 
@@ -46,7 +46,7 @@
 
 「・・・」ボタンからは削除の他に「**NPCへの変更**」「**キャラクターの複製**」ができます。
 
-\\
+
 
 ## エンドカード
 
@@ -60,4 +60,4 @@
 
 例えば画像の例では、エンディング１が開始するとこのキャラクターは「怪盗ウズ」であったことが明かされるようになっています。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

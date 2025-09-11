@@ -102,10 +102,3 @@
 
 <figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-***
-
-### Q\&A
-
-よくあるご質問をこちらに掲載していきます。
-
-Q\&Aを読んでも疑問が解決しなかった場合は、Discordサーバー内の「質問・要望など」のテキストチャンネルで「@編集部」メンションをつけて質問してください。
