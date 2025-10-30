@@ -2,17 +2,11 @@
 
 テキストでは、プレイ中にテキストタブに配布するテキストを設定・編集できます。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-\\
+
 
 ## 新規テキストの追加
-
-新規テキストの追加方法は2種類あります。
-
-\\
-
-### ①テキスト一覧から追加
 
 テキスト一覧画面の右上「**テキストを追加**」をクリックすると、「新しいテキストタブ」が作成されます。
 
@@ -20,17 +14,28 @@
 
 <figure><img src="../packages/ja/.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-\\
 
-### ②配布したいフェーズ内から追加
 
-フェーズの編集画面右側の「配布物」というセクションから追加を行います。
+また、フェーズ画面右下の「フェーズ内容の記録」でテキストグループ名を選択すると、フェーズの内容と完全に同期したテキストが、該当のフェーズ終わりに配布されます。
 
-配布物下部の「追加」というボタンを押すと、どの種類の配布物を追加するのか選べるので「テキスト」を選択、テキスト名や詳細な条件を設定して「保存する」をクリックしてください。
+オープニングの文章を後から読み返せるようにフェーズ終わりにも配布したい、フェーズで表示した共通情報をテキストにも残したいといった場合にご利用ください。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
-また、画面右下の「テキストとして配布」をタップすると、フェーズの内容と完全に同期したテキストが、該当のフェーズ終わりに配布されます。例えばオープニングの文章を後から読み返せるようにフェーズ終わりにも配布したい、等の場合にお使いください。\\
+
+
+## テキストグループ
+
+テキストを種類ごとに分かりやすくまとめる機能です。
+
+画像左のようにウズスタジオで設定すると、アプリ上では画像右のように表示されます。グループ分けの例は以下の通りです。
+
+* 「共通」「個別」「読み合わせ」のように分ける
+* 「メイン」「概要（説明）」「読み合わせ」のように分ける
+
+<figure><img src="../packages/ja/.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## テキストタブの内容
 
@@ -44,7 +49,7 @@
 
 ![](../packages/ja/images/giron3.png)
 
-\\
+
 
 画像では、画像を画面の**どこに揃えるか**（左寄せ・中央揃え・右寄せ）、どのくらいの**大きさ**で表示するかを設定できます。
 
@@ -54,7 +59,11 @@
 
 ![](<../packages/ja/.gitbook/assets/スクリーンショット 2024-02-20 19.16.46.png>)
 
-キャラクターや条件によってテキストや画像の表示・非表示を制御する事も出来ます。詳しくは [text-customize.md](../advanced/text-customize.md "mention") をご覧ください。\\
+
+
+キャラクターや条件によってテキストや画像の表示・非表示を制御する事も出来ます。詳しくは [text-customize.md](../advanced/text-customize.md "mention") をご覧ください。
+
+
 
 ## アプリ上での表示順
 
