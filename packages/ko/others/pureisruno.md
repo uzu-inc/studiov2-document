@@ -22,7 +22,7 @@
 {% hint style="warning" %}
 【세일 규정】
 
-우즈에서는 부당한 저가 경쟁을 방지하기 위해 세일 규정을 마련하고 있습니다。
+우즈에서는 부당한 저가 경쟁을 방지하기 위해 세일 규정을 마련하고 있습니다. 
 
 * 세일 티켓 판매 가격: 해당 작품에서 설정 가능한 최저 요금－100엔(70코인)까지
   * 최저 요금은 심사 신청 폼, 공개 준비용 폼에 기재되어 있습니다. 불명확한 경우 운영팀에 문의해 주세요\
@@ -33,4 +33,4 @@
 
 
 
-세일 티켓의 상세→[https://www.uzu-app.com/ja/articles/update-sale-ticket](https://www.uzu-app.com/ja/articles/update-sale-ticket)
+세일 티켓의 상세→[https://www.uzu-app.com/ko/articles/update-sale-ticket](https://www.uzu-app.com/ko/articles/update-sale-ticket)

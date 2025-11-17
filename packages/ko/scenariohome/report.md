@@ -4,6 +4,6 @@
 
 시나리오 제작 중에는 사용하지 않습니다.
 
-플레이 시간은 「캐릭터 선택（대기실 제외）」부터 「감상전 화면 도달」까지를 측정한 것입니다. 작품 개요에서 설정한 플레이 시간보다 이 화면의 플레이 시간 예상이 15분 이상 길 경우는, 플레이 시간 변경을 부탁드립니다.
+플레이 시간은 「캐릭터 선택（대기실 제외）」부터 「감상 공유 화면 도달」까지를 측정한 것입니다. 작품 개요에서 설정한 플레이 시간보다 이 화면의 플레이 시간 예상이 15분 이상 길 경우는, 플레이 시간 변경을 부탁드립니다.
 
-<figure><img src="../packages/ja/.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ko/.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>

@@ -12,7 +12,7 @@
 
 
 
-페이즈 쪽에서 직접 생성할 수도 있습니다.
+단계 쪽에서 직접 생성할 수도 있습니다.
 
 <figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +49,7 @@
 
 ### **자유 기입으로 정답 판정을 포함할 수 있음**
 
-「범행 방법이라고 생각되는 것을 선택지에서 선택해주세요」가 아니라, 「범행 방법을 기입해주세요」→ 다음 페이즈나 복기 화면에서 정답과 비교해 볼 수 있습니다.
+「범행 방법이라고 생각되는 것을 선택지에서 선택해주세요」가 아니라, 「범행 방법을 기입해주세요」→ 다음 단계나 복기 화면에서 정답과 비교해 볼 수 있습니다.
 
 <figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
@@ -65,7 +65,7 @@
 
 ### **벽치기에 사용할 수 있다**
 
-토론 페이즈 중에 입력한 벽치기(심경 메모)를 복기 화면에서 서로 되돌아볼 수도 있습니다.
+토론 단계 중에 입력한 벽치기(심경 메모)를 복기 화면에서 서로 되돌아볼 수도 있습니다.
 
 <figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
