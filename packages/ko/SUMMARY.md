@@ -1,4 +1,4 @@
-# 목차
+# Table of contents
 
 * [우즈 스튜디오 공식 가이드](README.md)
 
@@ -50,18 +50,18 @@
   * [캐릭터의 기본 항목](basic-features/character/basic.md)
   * [미션](basic-features/character/mission.md)
   * [반복 플레이 캐릭터](basic-features/character/second-play-character.md)
-* [페이즈](../../basic-features/phase.md)  * [페이즈 생성·개요](basic-features/phase/basic.md)
-    * [기본 페이즈](basic-features/phase/discussion.md)
-    * [대본 읽기 페이즈](basic-features/phase/script.md)
-    * [게임의 흐름 표시 페이즈](basic-features/phase/timeline.md)
-    * [투표 페이즈 만드는 법](basic-features/phase/select.md)
+* [페이즈](../../basic-features/phase.md)
+  * [기본 페이즈](basic-features/phase/discussion.md)
+  * [대본 읽기 페이즈](basic-features/phase/script.md)
+  * [게임의 흐름 표시 페이즈](basic-features/phase/timeline.md)
+  * [투표 페이즈 만드는 법](basic-features/phase/select.md)
   * [페이즈 진행](basic-features/phase/flow.md)
 * [텍스트](../../basic-features/textTab.md)
 * [룸](../../basic-features/room.md)
 * [감상전 화면](basic-features/result.md)
 * [단서](basic-features/clue.md)
 * [덱](../../basic-features/decks.md)
-* [토큰](basic-features/tkun.md)
+* [토큰](basic-features/undefined.md)
 * [자유 입력](basic-features/text-fields.md)
 * [액션](basic-features/action.md)
 * [연출](basic-features/effect/README.md)
