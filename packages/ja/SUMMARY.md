@@ -71,6 +71,7 @@
   * [ムービー](basic-features/effect/movie.md)
   * [背景画像](basic-features/effect/background.md)
   * [カラーテーマ](basic-features/effect/colortheme.md)
+  * [画面デザイン](basic-features/effect/screen-design.md)
 * [全体共通：条件設定](basic-features/condition.md)
 * [右上ボタン：動作確認](../../basic-features/demo.md)
 * [右上ボタン：最新バージョンを作成](basic-features/new-version.md)
