@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-![](../images/clue1.png)
+![](../.gitbook/assets/clue1.png)
 
 ## 基本項目
 
@@ -72,7 +72,7 @@
 
 設置条件設定では、フェーズだけでなく、投票結果や手がかりの状況、ルームなどを条件に組み込むことができます。
 
-![](../images/clue8.png)
+![](../.gitbook/assets/clue8.png)
 
 ## アクション
 

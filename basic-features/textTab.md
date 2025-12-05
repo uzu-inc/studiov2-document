@@ -47,7 +47,7 @@
 
 テキストでは、以下のような文字装飾が使用できます。
 
-![](../packages/ja/images/giron3.png)
+![](../packages/ja/.gitbook/assets/giron3.png)
 
 
 

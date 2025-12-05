@@ -118,7 +118,7 @@ NPCは理論上、無限です。
 
 画像のようなエラーの場合、何も書かれていないテキストボックスがあるのが原因です。ウズスタジオのエディター画面から該当のテキストボックスを削除すると、次の動作確認（テストプレイ）から直ります。
 
-<img src="packages/ja/images/QA1.png" alt="" data-size="original">
+<img src="packages/ja/.gitbook/assets/QA1.png" alt="" data-size="original">
 
 </details>
 
@@ -282,9 +282,9 @@ Google Chromeでは、最初のフェーズから再生されるように設定�
 autoPlay ポリシーの設定変更の方法は以下の通りです。\\
 
 1. 動作確認画面の URL バーの鍵マークをクリック →「サイトの設定」をクリック\
-   ![](packages/ja/images/autoplay_1.png)\\
+   ![](packages/ja/.gitbook/assets/autoplay_1.png)\\
 2. 「音声」の項目で「自動(デフォルト)」をクリック →「許可する」に変更\
-   ![](packages/ja/images/autoplay_2.png)\\
+   ![](packages/ja/.gitbook/assets/autoplay_2.png)\\
 
 </details>
 

@@ -22,7 +22,7 @@
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../images/character2.png)
+![](../../.gitbook/assets/character2.png)
 
 ## PC・NPCの追加
 

@@ -24,7 +24,7 @@
 
 ある手がかりを取得したとき、ある選択肢に投票したときのように特殊な条件を満たした場合に配布されるトークンも設定できます。
 
-![](../packages/ja/images/decks4.png)
+![](../packages/ja/.gitbook/assets/decks4.png)
 
 \\
 
@@ -56,9 +56,9 @@
   * 手がかりそれぞれについて、山札から手がかりを引いた際に、手がかりを引いたキャラクターに所有権を持たせるのか、それとも全体公開になるのかなど、いくつかの設定が可能です。所有権を持っていると、その人の任意のタイミングで全体公開・共有・譲渡ができます。
   * 山札に含める手がかりでは、配布条件が自動的に「山札から引かれたとき」になるため、**手がかりごとの配布条件設定**が不要です。
 
-![](../packages/ja/images/decks6.png)
+![](../packages/ja/.gitbook/assets/decks6.png)
 
-![](../packages/ja/images/decks7.png)
+![](../packages/ja/.gitbook/assets/decks7.png)
 
 \\
 
@@ -66,7 +66,7 @@
 
 山札に含まれる**手がかりを残して山札構造のみ解除**する場合は「この山札を削除」、**山札もそこに含まれる手がかりも全て消す**場合は「この山札を手がかりごと消去」を選択してください。
 
-![](../packages/ja/images/decks9.png)
+![](../packages/ja/.gitbook/assets/decks9.png)
 
 \\
 
@@ -76,7 +76,7 @@
 
 フェーズ一覧から、山札を設置したいフェーズを選択します。
 
-![](../packages/ja/images/decks10.png)
+![](../packages/ja/.gitbook/assets/decks10.png)
 
 \\
 
@@ -84,7 +84,7 @@
 
 調査中にそれぞれのキャタクターの残りトークンを閲覧できるようにするため、**山札調査を行うフェーズでは「トークン」の表示も一緒に設置**することを推奨しています。
 
-![](../packages/ja/images/decks11.png)
+![](../packages/ja/.gitbook/assets/decks11.png)
 
 \\
 
@@ -92,7 +92,7 @@
 
 この例では、「役者の持ち物」を役者本人が調査できないようにしているため、一番左の役者の画面では「実行する」が押せないようになっています。
 
-![](../packages/ja/images/decks8.png)
+![](../packages/ja/.gitbook/assets/decks8.png)
 
 ### 山札をランダムに配布する
 

@@ -12,13 +12,13 @@
 
 「**該当箇所へ**」をクリックすると、エラーが出ている場所へ直接飛ぶことができます。
 
-![](../packages/ja/images/demo2.png)
+![](../packages/ja/.gitbook/assets/demo2.png)
 
 \\
 
 全て設定できている場合は、画面が切り替わり「**動作確認を行う**」が表示されるので、クリックしてください。
 
-![](../packages/ja/images/demo4.png)
+![](../packages/ja/.gitbook/assets/demo4.png)
 
 \\
 
@@ -26,4 +26,4 @@
 
 BGMやSEも流れます。
 
-![](../packages/ja/images/demo3.png)
+![](../packages/ja/.gitbook/assets/demo3.png)

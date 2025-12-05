@@ -1,10 +1,8 @@
----
-description: カラーテーマ
----
-
 # カラーテーマ
 
-カラーテーマページからカラーテーマの設定ができます。
+カラーテーマは2025年12月より「画面デザイン」モードに組み込まれ、以下は旧編集モードとなりました。旧編集モードは徐々にサポートが終了するため、画面デザインモードへの切り替えをお願いいたします。詳細は[こちら](screen-design.md)から。
+
+
 
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +14,7 @@ description: カラーテーマ
 
 文字色は自動で最適化されるので、モードに合わせて変える必要はありません。
 
-![](../../images/mode2.png)
+![](../../.gitbook/assets/mode2.png)
 
 
 

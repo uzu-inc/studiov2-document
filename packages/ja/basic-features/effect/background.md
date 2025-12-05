@@ -1,5 +1,9 @@
 # 背景画像
 
+背景画像は2025年12月より「画面デザイン」モードに組み込まれ、以下は旧編集モードとなりました。旧編集モードは徐々にサポートが終了するため、画面デザインモードへの切り替えをお願いいたします。詳細は[こちら](screen-design.md)から。
+
+
+
 プレイ画面の背景画像を設定できます。
 
 ### デフォルト背景
@@ -18,11 +22,7 @@
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.04.30.png" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.05.58.png" alt="" width="179"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.05.58.png" alt="" width="179"><figcaption></figcaption></figure></div>
 
 
 
@@ -40,15 +40,7 @@
 
 動作確認をすると、オープニングフェーズのみ画像が変わっていることがわかります。
 
-<div>
-
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.18.44.png" alt="" width="182"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.18.51.png" alt="" width="176"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.18.44.png" alt="" width="182"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/スクリーンショット 2024-01-31 15.18.51.png" alt="" width="176"><figcaption></figcaption></figure></div>
 
 条件付き背景は複数設定することができますが、**優先度は左から**になります。
 
