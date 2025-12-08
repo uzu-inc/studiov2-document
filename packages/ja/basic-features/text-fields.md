@@ -33,7 +33,7 @@
 
 作成するときには管理名を入力してください。管理名はプレイヤーに表示されません。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 自由記述結果
 
