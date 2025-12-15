@@ -14,7 +14,7 @@
 
 아래 링크를 클릭하여 테스트 플레이 설문지의 복사본을 만들어 주세요.
 
-[https://docs.google.com/forms/d/1Awi66TFFvyQS0jnXzhXwD7350BQtBfszge2eLK6ArOQ/edit](https://docs.google.com/forms/d/1Awi66TFFvyQS0jnXzhXwD7350BQtBfszge2eLK6ArOQ/edit)
+[https://docs.google.com/forms/d/1Awi66TFFvyQS0jnXzhXwD7350BQtBfszge2eLK6ArOQ/copy](https://docs.google.com/forms/d/1Awi66TFFvyQS0jnXzhXwD7350BQtBfszge2eLK6ArOQ/copy)
 
 <figure><img src="../../../.gitbook/assets/image%20(20).png" alt="" width="563"><figcaption></figcaption></figure>
 
