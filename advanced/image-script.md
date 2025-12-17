@@ -8,10 +8,15 @@
 
 ②追加ボタンでデフォルトの地の文を追加します
 
-③画像に変えたいボックスの左側にあるマークをクリックします
+③画像に変えたいボックスの右側にあるマークをクリックします
 
-④出てきたメニューで「画像に変換」を選択します
+④出てきたメニューで「画像」を選択します
 
 ⑤画像用のボックスに変わるので挿入したい画像を選択します
 
-<figure><img src="../packages/ja/.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+⑥画像をクリックすると、拡大率や配置など詳細な設定ができます
+
+<figure><img src="../packages/ja/.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+
+
+

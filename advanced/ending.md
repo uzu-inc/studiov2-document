@@ -8,9 +8,11 @@
 
 **①エンディングをテキストにも配布する**
 
-フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
+フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の配布先テキストグループを選びます（テキストグループとは？の説明は[こちら](../basic-features/textTab.md#tekisutogurpu)）。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+
+
 
 **②配布のタイミングを変更**
 
@@ -24,17 +26,15 @@
 
 **①エンディングをテキストにも配布する**
 
-フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の「テキストとして配布」にチェックを入れます。
+フェーズ一覧から、エンディングフェーズそれぞれの編集画面に行き、「フェーズ内容の記録」の配布先テキストグループを選びます（テキストグループとは？の説明は[こちら](../basic-features/textTab.md#tekisutogurpu)）。
 
-<figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-02-20 20.27.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **②配布のタイミングを追加する**
 
-条件を「〇〇が終了した時」に変え、他の全てのエンディングを配布のタイミングとして追加していきます。
-
-条件同士の関係は「または」にしておきましょう。
+テキスト一覧から、①で追加したエンディングテキストそれぞれの編集画面に行き、配布条件に「（他のエンディング）が終了した時」を「または」で追加します。
 
 <figure><img src="../packages/ja/.gitbook/assets/スクリーンショット 2024-02-20 20.37.13.png" alt=""><figcaption></figcaption></figure>
 
