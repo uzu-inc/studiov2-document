@@ -127,7 +127,7 @@ v2移行が完了し、v2版としてリリースされた作品をv1版に戻�
 
 <summary>そもそも移行の方法が分からない</summary>
 
-[こちらのページ](others/v1-noshinariowo-v2-nisuru.md)をご参照ください。
+[こちらのページ](others/v1-v2.md)をご参照ください。
 
 </details>
 
@@ -135,7 +135,7 @@ v2移行が完了し、v2版としてリリースされた作品をv1版に戻�
 
 <summary>v1ではできなかったことが、v2ではできるようになっていると思うが、例えば何があるのか分からない</summary>
 
-[こちらのページ](others/v1-noshinariowo-v2-nisuru.md)をご参照ください。
+[こちらのページ](others/v1-v2.md)をご参照ください。
 
 </details>
 
