@@ -20,7 +20,7 @@
 | アイコン(必須)   | キャラクター画像                | 登場人物紹介や読み合わせのアイコン                |
 | ニックネーム(必須) | 姓のみ・名前のみなどプレイ中に呼んでほしいもの | プレイ中の画面上部キャラクターアイコンの下・読み合わせ中の表示名 |
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/character2.png)
 
@@ -60,4 +60,4 @@
 
 例えば画像の例では、エンディング１が開始するとこのキャラクターは「怪盗ウズ」であったことが明かされるようになっています。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -1,14 +1,14 @@
 # 発展的な使い方
 
-## キャラクターを追加したい
+## キャラクターを追加したい <a href="#character" id="character"></a>
 
 プレイアブルキャラクターを追加する場合は「キャラクター」の画面から、NPCを追加する場合は「NPC」の画面から追加します。
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-## フェーズを追加したい
+## フェーズを追加したい <a href="#phase" id="phase"></a>
 
-#### ①「フェーズを追加」をクリックして種類を選択
+#### ①「フェーズを追加」をクリックして種類を選択 <a href="#phase01" id="phase01"></a>
 
 フェーズ一覧画面から「フェーズを追加」をクリックして、どんなフェーズを追加するのか選択します。
 
@@ -17,9 +17,9 @@
 * 投票：真相の投票、行動の選択など
 * ゲームの流れ表示：「ゲームの流れ」で設定した全体の流れが表示される
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### ②フェーズを繋ぐ操作をする
+#### ②フェーズを繋ぐ操作をする <a href="#phase02" id="phase02"></a>
 
 フェーズ一覧画面から「進行設定」に移動します。
 
@@ -30,7 +30,7 @@
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-#### ③ゲームの流れに追加する
+#### ③ゲームの流れに追加する <a href="#phase03" id="phase03"></a>
 
 フェーズ一覧から「ゲームの流れ」に移動します。ここでの操作は以下の通りです。
 
@@ -42,38 +42,38 @@
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-## フェーズを削除したい
+## フェーズを削除したい <a href="#delete" id="delete"></a>
 
-#### ①フェーズ詳細画面からフェーズを削除する
+#### ①フェーズ詳細画面からフェーズを削除する <a href="#delete01" id="delete01"></a>
 
 フェーズの詳細画面の右上にある「・・・」をクリックして、削除を選択します
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-#### ②フェーズ進行を繋ぎなおす
+#### ②フェーズ進行を繋ぎなおす <a href="#delete02" id="delete02"></a>
 
 フェーズ一覧画面から「進行設定」に移動します。削除した部分の繋がりが切れているので、繋ぎなおします。
 
-#### ③ゲームの流れから削除する
+#### ③ゲームの流れから削除する <a href="#delete03" id="delete03"></a>
 
 フェーズ一覧画面から「ゲームの流れ」に移動します。該当フェーズの説明をゲームの流れ一覧から削除します。
 
-## テキストを追加したい
+## テキストを追加したい <a href="#text" id="text"></a>
 
 [こちらのページ](../../../../basic-features/textTab.md)をご参照ください。
 
-## 手がかりを配布したい
+## 手がかりを配布したい <a href="#clue" id="clue"></a>
 
 [こちらのページ](../../basic-features/clue.md)をご参照ください。
 
-## 山札機能を使いたい
+## 山札機能を使いたい <a href="#deck" id="deck"></a>
 
 [こちらのページ](../../../../basic-features/decks.md)をご参照ください。
 
-## 密談ルームを作りたい
+## 密談ルームを作りたい <a href="#room" id="room"></a>
 
 [こちらのページ](../../../../basic-features/room.md)をご参照ください。
 
-## BGMを設定したい
+## BGMを設定したい <a href="#bgm" id="bgm"></a>
 
 [こちらのページ](../../basic-features/effect/)をご参照ください。

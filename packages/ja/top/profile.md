@@ -2,13 +2,13 @@
 
 ウズスタジオのトップ画面である制作シナリオ一覧画面から作家プロフィールの変更ができます。
 
-## 変更手順
+## 変更手順 <a href="#how-to" id="how-to"></a>
 
 **①右上のアイコンをクリック**
 
 **②作家プロフィール編集を選択**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **③作家プロフィールを変更して保存**
 
@@ -20,12 +20,12 @@
 * 紹介文
 * リンク
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 作家ページボタン
+## 作家ページボタン <a href="#page" id="page"></a>
 
 作家プロフィールを編集すると、ウズスタジオと連携しているアプリウズのアカウントに「作家ページ」ボタンが現れます。
 
 作家ページからはリリースしたシナリオの一覧、大好き数の合計が確認できます。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>

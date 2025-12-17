@@ -4,7 +4,7 @@ description: シナリオコレクション機能では、シリーズ作品や�
 
 # コレクション機能
 
-## 設定方法
+## 設定方法 <a href="#setting" id="setting"></a>
 
 コレクションの設定はウズスタジオのトップ画面（制作シナリオ一覧画面）から行います。
 
@@ -25,7 +25,7 @@ description: シナリオコレクション機能では、シリーズ作品や�
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
-## アプリでの見た目
+## アプリでの見た目 <a href="#display" id="display"></a>
 
 アプリでは、シナリオ詳細画面のキービジュアルの下にコレクション閲覧ボタンが表示されます。
 
@@ -35,7 +35,7 @@ description: シナリオコレクション機能では、シリーズ作品や�
 
 <figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-## 関連シナリオ機能との使い分け
+## 関連シナリオ機能との使い分け <a href="#rule" id="rule"></a>
 
 {% hint style="info" %}
 **コレクション機能の使用例**

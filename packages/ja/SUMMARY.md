@@ -4,7 +4,7 @@
 
 ## はじめに <a href="#overview" id="overview"></a>
 
-* [ウズスタジオとは](overview/uzusutajiotoha.md)
+* [ウズスタジオとは](overview/what-is-uzustudio.md)
 * [ログイン方法](overview/start-uzu-studio.md)
 * [作成からリリースまでの流れ](overview/makingflow/README.md)
   * [新規シナリオの作成](overview/makingflow/newscenario.md)

@@ -4,7 +4,7 @@
 
 まずフェーズ一覧画面の右上「フェーズを追加」を押します。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

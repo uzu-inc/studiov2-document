@@ -1,6 +1,6 @@
 # テストプレイアンケートの使い方
 
-## テストプレイ前の準備
+## テストプレイ前の準備 <a href="#prepare" id="prepare"></a>
 
 ### ◆事前準備：Googleアカウントの作成
 
@@ -42,7 +42,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (17) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## テストプレイでの配布
+## テストプレイでの配布 <a href="#send" id="send"></a>
 
 ### ◆アンケートを配布する
 
@@ -64,7 +64,7 @@
 
 
 
-## テストプレイ後・審査提出
+## テストプレイ後・審査提出 <a href="#submit" id="submit"></a>
 
 ### ◆アンケート結果を確認する
 
