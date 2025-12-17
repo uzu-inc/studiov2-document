@@ -6,7 +6,7 @@
 
 <figure><img src="../packages/ja/.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-\\
+
 
 設定漏れがある場合は、**未設定箇所が表示**されるので、適宜修正してください。
 
@@ -14,13 +14,13 @@
 
 ![](../packages/ja/.gitbook/assets/demo2.png)
 
-\\
+
 
 全て設定できている場合は、画面が切り替わり「**動作確認を行う**」が表示されるので、クリックしてください。
 
 ![](../packages/ja/.gitbook/assets/demo4.png)
 
-\\
+
 
 アプリとほぼ同じ画面を操作しながら動作確認を行います。
 

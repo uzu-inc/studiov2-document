@@ -1,72 +1,70 @@
 # 自由記述
 
-固定された選択肢ではない自由記述での回答、あるキャラクターから別のキャラクターへのメッセージ送信などに使用できる、自由記述ボックスです。
+プレイヤーが任意の文字列を入力できるボックスです。以下のような使い方ができます。
+
+<table><thead><tr><th width="197.99993896484375">使用例</th><th>説明</th></tr></thead><tbody><tr><td>メモ欄</td><td>推理や感情のメモ欄として設置する使い方です。マーダーミステリー・TRPG界隈では「壁打ち」とも呼ばれます。</td></tr><tr><td>記述回答欄</td><td>動機やトリックなどを記述で回答してもらう際の使い方です。</td></tr><tr><td>メッセージ送信</td><td>Aさんが入力した内容をBさんに見えるようにするような使い方です。</td></tr></tbody></table>
 
 
 
-## 自由記述の作成
+## 基本
 
-自由記述が未設定の場合は以下のような画面になるので、「自由記述ボックスを追加」をクリックしてください。
+### 新規作成
 
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+自由記述ボックスの新規作成は、「自由記述の編集画面」または「フェーズ編集画面」から可能です。
 
-
-
-フェーズ側から直接作成することもできます。
-
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 
 
-自由記述には以下の二種類が存在します。
+### 入力ボックスと結果表示ボックス
 
-* 自由記述（入力側）
-* 自由記述結果
+自由記述には、文字を入力・削除できる「入力ボックス」と、入力された結果を閲覧するだけの「結果表示ボックス」があります。
 
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
+| 入力ボックス                                                                 | 結果表示ボックス                                                                               |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <p>文字の入力・削除ができます。<br>同じボックスを複数のフェーズに設置した場合、前のフェーズで入力した内容が引き継がれます。</p> | <p>文字の入力・削除はできず、入力結果を閲覧するだけのものです。<br>入力ボックスでの編集内容がリアルタイムに反映されます。</p>                  |
+| <p>基本フェーズ*にしか設置できません。<br><br>*読み合わせ・ゲームの流れ・探索フェーズ以外の一般的なフェーズのこと</p>    | <p>・基本フェーズ／探索フェーズ<br>・テキスト<br>・手がかり<br>・感想戦画面<br>に設置できます。</p>                          |
+| <p>各プレイヤーには自身の入力内容しか見えません。<br>Aさん用・Bさん用に分ける必要はなく、基本的に表示条件も不要です。</p>    | <p>【どの自由記述】の【誰】の回答を表示するか、という指定が必要です。<br>他のキャラクターに見えてはいけない記述結果の場合は、表示条件をかける必要があります。</p> |
 
-## 自由記述
-
-プレイヤーが入力を自由に行うことができます。入力された文字は同じ自由記述の入力欄に即座に反映されます。
-
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
-
-作成するときには管理名を入力してください。管理名はプレイヤーに表示されません。
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## 自由記述結果
-
-先ほどの自由記述を読み取ることに特化したブロックです。入力することはできません。
-
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
-
-追加すると自由記述を選択することが出来ます。自由記述で決めた管理名を選択してください。
-
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
-## 応用
-
-### **自由記述での正解判定を組み込める**
-
-「犯行方法と思われるものを選択肢から選んでください」ではなく、「犯行方法を記入してください」→次のフェーズや感想戦画面で正解と見比べることができます。
-
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### **チャットのような使い方ができる**
+## 実際の使用例
 
-キャラAが入力した内容をアクションボタンでキャラBに送ることができるようになりました。
+### メモ欄
 
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+メモ欄としての自由記述ボックスを１つ新規作成し、テキスト読み込みフェーズや議論フェーズに共通の**入力ボックス**を設置します。
+
+<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### **壁打ちに使える**
+入力ボックスを設置していないフェーズや読み合わせフェーズでは見返せなくなるため、別途テキストに**結果表示ボックス**を設置するのがオススメです。
 
-議論フェーズ中に入力した壁打ち（心境メモ）を感想戦画面で互いに振り返ることもできます。
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+
+### 記述回答欄
+
+動機やトリックなどを、選択肢から選ぶ形式ではなく、記述式で回答してもらう際の使い方です。
+
+例えば「キャラ１：マダミ」が動機を記述式で回答し、その正誤判定を「キャラ２：ミスオ」が行う場合の設定例は以下のようになります。
+
+<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### **メッセージ送信**
+
+チャットやテレパシーを演出するような使い方です。**メッセージを送る側には入力ボックス**を、**受け取る側には結果表示ボックス**を設置します。
+
+入力内容の更新通知は自動では送られないため、[シンプルアクション](action.md#shinpuruakushonno)を利用して、通知を送信できる設定にするのがオススメです。以下の例では、メッセージが手がかりとして送られてくる形になっていますが、フェーズに結果を直接表示してもよいでしょう。
+
+<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+
+
+
