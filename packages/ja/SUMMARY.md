@@ -36,7 +36,7 @@
 * [作品概要](scenariohome/overview/README.md)
   * [サブ画像の設定](scenariohome/overview/sub.md)
 * [マーケティング](scenariohome/marketing/README.md)
-  * [追加コンテンツ](scenariohome/marketing/kontentsu.md)
+  * [追加コンテンツ](scenariohome/marketing/additional-contents.md)
   * [無料プレイチケット](scenariohome/marketing/ticket.md)
 * [リリース管理](../../scenariohome/release.md)
 * [レポート](../../scenariohome/report.md)

@@ -4,9 +4,9 @@ description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布�
 
 # 追加コンテンツ
 
-## 追加コンテンツ
+## 追加コンテンツ <a href="#additional-contents" id="additional-contents"></a>
 
-### 基本設定
+### 基本設定 <a href="#basic" id="basic"></a>
 
 後日談や制作秘話など、プレイヤーがシナリオプレイ後に購入するコンテンツを作成することができます。
 
@@ -37,7 +37,7 @@ description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布�
 
 
 
-### 規約への同意
+### 規約への同意 <a href="#agreement" id="agreement"></a>
 
 有料で公開する際は「ウズ追加コンテンツ有償公開規約」をご一読ください。売り上げを受け取る人全員が規約に同意していなければ公開できません。
 
@@ -49,7 +49,7 @@ description: プレイヤー向けにシナリオ外（遊ぶ前後）で配布�
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
-### アプリ内での表示
+### アプリ内での表示 <a href="#display" id="display"></a>
 
 追加コンテンツのアプリ側での見え方は以下のようになります。v3.50.0以上にアップデートしている端末で確認できます。
 

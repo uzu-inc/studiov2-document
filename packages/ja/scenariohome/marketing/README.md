@@ -4,7 +4,7 @@
 
 
 
-[追加コンテンツ](kontentsu.md)について
+[追加コンテンツ](additional-contents.md)について
 
 [無料プレイチケット](ticket.md)について
 
