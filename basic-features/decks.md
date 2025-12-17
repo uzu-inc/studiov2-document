@@ -84,7 +84,7 @@
 
 調査中にそれぞれのキャタクターの残りトークンを閲覧できるようにするため、**山札調査を行うフェーズでは「トークン」の表示も一緒に設置**することを推奨しています。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 
 
