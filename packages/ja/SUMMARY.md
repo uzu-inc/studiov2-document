@@ -62,7 +62,7 @@
 * [感想戦画面](basic-features/result.md)
 * [手がかり](basic-features/clue.md)
 * [山札](../../basic-features/decks.md)
-* [トークン](../../basic-features/tkun.md)
+* [トークン](basic-features/token.md)
 * [自由記述](basic-features/text-fields.md)
 * [アクション](basic-features/action.md)
 * [演出](basic-features/effect/README.md)
