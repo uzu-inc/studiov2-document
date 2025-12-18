@@ -69,3 +69,9 @@
 
 <figure><img src="../packages/ja/.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
+
+
+投票に重みをつけたいときも同様の設定が利用できます。以下は「探偵の投票のみ２票分として扱う」場合の例です。
+
+<figure><img src="../packages/ja/.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+
