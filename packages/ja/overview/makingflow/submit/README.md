@@ -8,7 +8,7 @@
 
 審査は、「**無料**公開予定の作品に対する**簡易審査**」と「**有料**公開予定の作品に対する[**詳細審査**](check.md)に分かれています。 申請ボタンを押した先の**フォーム**から、どちらの審査に提出するか選択し、必要事項を記入してください。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 無料公開作品に対する簡易審査は1～2営業日、有料公開作品に対する詳細審査は3営業日（土日祝除く）を目安に返却されます。
 

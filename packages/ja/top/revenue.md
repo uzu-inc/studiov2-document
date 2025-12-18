@@ -18,7 +18,7 @@
 
 （スマートフォンの場合は横持ちにすると「評価と収益」ボタンが表示されます）
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 「評価と収益」画面の「振り込み申請」に売上の合計が表示されます。
 

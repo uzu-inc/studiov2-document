@@ -25,7 +25,7 @@
 
 テキスト・画像・山札・アクションなどは「＋追加」ボタンから選択して追加します。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 テキストでは、以下のような文字装飾が使用できます。
 

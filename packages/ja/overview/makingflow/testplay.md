@@ -75,7 +75,7 @@
 * 左上のアイコンをタップし、出てきたメニューバーから「ID検索」→「シナリオを検索」とタップしてください。
 * シナリオ検索画面が出てくるので、①でコピーしたシナリオIDをペーストします。
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### ④**シナリオ詳細画面が出てくる** <a href="#event04" id="event04"></a>
 
