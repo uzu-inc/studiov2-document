@@ -31,3 +31,28 @@
 
 
 
+## アイコン・カラーテーマの変更
+
+アイコンやカラーテーマなど状態のON／OFFをトークンの個数に紐づける使い方です。
+
+例えば、以下のような変身スキルを組み込みたいとします。
+
+<div align="left"><figure><img src="../packages/ja/.gitbook/assets/image (223).png" alt="" width="315"><figcaption></figcaption></figure></div>
+
+1. 「変身トークン」を新規作成します
+2. 「変身するアクション」と「変身をとくアクション」を[シンプルアクション](../packages/ja/basic-features/action.md#shinpuruakushonno)で作成します
+3. それぞれの中身として、「変身トークンをリセットして＋１」 「変身トークンをリセットして０」を設定します
+4. キャラクター編集画面で「条件つきアイコン」を追加し、条件として「数値カウント：該当キャラの変身トークンが１と等しい」を設定します（２段階の変身がある場合は同様に「変身トークンが２」の場合も作成）
+
+<figure><img src="../packages/ja/.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+
+<div align="left"><figure><img src="../packages/ja/.gitbook/assets/image (225).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+
+
+上記はアイコン変更の例ですが、ニックネーム・カラーテーマ・背景画像でも同様の設定が可能です。
+
+<figure><img src="../packages/ja/.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+
+
+
