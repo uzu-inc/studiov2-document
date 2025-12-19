@@ -93,9 +93,9 @@
 
 ## その他 <a href="#others" id="others"></a>
 
-* [v1 のシナリオを v2 に移行する](others/v1-v2.md)
 * [プレイ料金・セールの設定](others/sale.md)
 * [各種画像サイズ](others/image-px.md)
+* [v1 のシナリオを v2 に移行する](others/v1-v2.md)
 
 ## よくある質問 <a href="#qanda" id="qanda"></a>
 
