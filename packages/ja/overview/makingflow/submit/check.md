@@ -63,7 +63,7 @@ description: ウズで作品を有料公開する場合に必ず受けていた�
 
 事前に確認したい場合は、リリース管理画面の「アプリ掲載申請」を押し、有料リリースを選んで先に進んでいただくと閲覧できます。
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 印税率
 

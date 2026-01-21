@@ -18,7 +18,7 @@
 
 テキスト一覧から、①で追加したエンディングテキストそれぞれの編集画面に行き、配布するフェーズを「感想戦」に変更します。
 
-<figure><img src="../packages/ja/.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../packages/ja/.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

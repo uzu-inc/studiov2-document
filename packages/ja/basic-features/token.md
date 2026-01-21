@@ -15,7 +15,7 @@
 3. 「配布条件を追加」を押します
 4. トークンを配りたいフェーズ、配る数を設定します
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 山札でのトークン消費設定 <a href="#deck" id="deck"></a>
 
@@ -23,11 +23,11 @@
 2. 消費トークン欄に先程作成したトークンを設定し、消費数を決めます
 3. 「消費数と所持数を表示」は、アプリで山札調査を実行する画面での表示のON／OFFを指します（基本ONでよい）
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 調査トークンと合わせて別のトークンも消費する設定にすることで、スキルが必要な山札や特殊調査にも対応できます。
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
