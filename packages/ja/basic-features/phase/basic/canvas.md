@@ -98,3 +98,6 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 
 <figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
+背景画像（2階）の表示条件を以下のようにすると、「全員一緒に移動」ではなく、「2階に行く を押した人だけが移動」という個別移動状態にすることができます。
+
+<div align="left"><figure><img src="../../../.gitbook/assets/image (243).png" alt="" width="563"><figcaption></figcaption></figure></div>
