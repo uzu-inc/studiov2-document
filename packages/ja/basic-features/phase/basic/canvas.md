@@ -101,3 +101,16 @@ ONにしてあっても、プレイ中に**黒地に白の矢印ボタン**を�
 背景画像（2階）の表示条件を以下のようにすると、「全員一緒に移動」ではなく、「2階に行く を押した人だけが移動」という個別移動状態にすることができます。
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (243).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+
+
+## 探索フェーズの使用例
+
+探索フェーズは使い方次第でさまざまな演出・ギミックを作り出すことができます。
+
+* 一般的なマーダーミステリーにおける間取り図を使った調査の例を知りたい方は[こちらのシナリオ](https://uzu-app.com/ja/scenario/14349?openExternalBrowser=1)
+* 画面全体を使ったタップでの移動・調査の例を知りたい方は[こちらのシナリオ](https://uzu-app.com/ja/scenario/12693?openExternalBrowser=1)
+* カードを表にしたり裏にしたりするミニゲームの例を知りたい方は[こちらのシナリオ](https://uzu-app.com/ja/scenario/14372?openExternalBrowser=1)
+
+を実際にプレイしてみると参考になるでしょう。
+
