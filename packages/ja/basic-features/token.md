@@ -23,11 +23,11 @@
 2. 消費トークン欄に先程作成したトークンを設定し、消費数を決めます
 3. 「消費数と所持数を表示」は、アプリで山札調査を実行する画面での表示のON／OFFを指します（基本ONでよい）
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 調査トークンと合わせて別のトークンも消費する設定にすることで、スキルが必要な山札や特殊調査にも対応できます。
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 

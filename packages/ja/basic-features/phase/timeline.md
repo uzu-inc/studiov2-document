@@ -10,7 +10,7 @@ v1（旧プレイ画面）では、全てのフェーズとフェーズの間で
 
 ゲームの流れフェーズは「フェーズ一覧」または「テキスト一覧」にある「ゲームの流れ」の詳細画面から設定することができます。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ v1（旧プレイ画面）では、全てのフェーズとフェーズの間で
 
 それぞれ以下のように表示されます。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,5 +42,5 @@ v1（旧プレイ画面）では、全てのフェーズとフェーズの間で
 
 オープニング・キャラクターテキスト読み込み・通常議論など、非表示にしておく必要のないフェーズでは設定しなくてよいでしょう。
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
