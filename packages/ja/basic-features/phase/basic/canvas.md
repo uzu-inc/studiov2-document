@@ -4,6 +4,8 @@ description: 画面全体をマップや盤面にし、画像タップによる�
 
 # 探索フェーズ
 
+<div align="left"><figure><img src="../../../.gitbook/assets/Adobe Express - ScreenRecording_10-07-2025 13-45-44_1.gif" alt=""><figcaption></figcaption></figure></div>
+
 
 
 ## 探索フェーズの新規作成 <a href="#create" id="create"></a>
