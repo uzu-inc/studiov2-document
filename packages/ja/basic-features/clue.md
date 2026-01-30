@@ -57,7 +57,7 @@
 
 結果アクションは**上から「所有権（閲覧権）」→「通知を送信」**&#x3068;しなければなりません。**上下が逆になっていると**、通知を送信するタイミングではまだ手がかりの所有権（閲覧権）が与えられておらず、**表示できる手がかりがなくなってしまう**ためです。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

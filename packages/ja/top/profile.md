@@ -1,6 +1,10 @@
 # 作家プロフィールの変更
 
-ウズスタジオのトップ画面である制作シナリオ一覧画面から作家プロフィールの変更ができます。
+ウズスタジオのトップ画面である「制作シナリオ一覧」画面から作家プロフィールの変更ができます。
+
+プレイヤーとしての「アイコン」「ニックネーム」とは別のものを設定でき、プレイ用のアカウントに変更の影響が出ることはありません。
+
+
 
 ## 変更手順 <a href="#how-to" id="how-to"></a>
 
@@ -8,7 +12,7 @@
 
 **②作家プロフィール編集を選択**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **③作家プロフィールを変更して保存**
 
@@ -20,7 +24,9 @@
 * 紹介文
 * リンク
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 作家ページボタン <a href="#page" id="page"></a>
 
@@ -28,4 +34,16 @@
 
 作家ページからはリリースしたシナリオの一覧、大好き数の合計が確認できます。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+
+
+
+## プレイ用のアカウントがバレることはあるか
+
+上記手順で変更をおこなえば、作者ページではプレイヤーとしての「アイコン」「ニックネーム」とは全く別のものを表示することができます。\
+作者ページに「ユーザーID」は表示されませんので、**プレイ用のアカウントがバレることはありません**。
+
+したがって、プレイ用のアカウントとは別でIDを取得して**作者用のダミーアカウントを作る必要はございません**。
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
