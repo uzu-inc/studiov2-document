@@ -38,12 +38,12 @@
 
 
 
-## プレイ用のアカウントがバレることはあるか
+## プレイ用のアカウントを知られたくない
 
 上記手順で変更をおこなえば、作者ページではプレイヤーとしての「アイコン」「ニックネーム」とは全く別のものを表示することができます。\
 作者ページに「ユーザーID」は表示されませんので、**プレイ用のアカウントがバレることはありません**。
 
 したがって、プレイ用のアカウントとは別でIDを取得して**作者用のダミーアカウントを作る必要はございません**。
 
-<figure><img src="../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
