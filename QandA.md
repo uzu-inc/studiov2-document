@@ -31,10 +31,11 @@ NPCは理論上、無限です。
 
 <details>
 
-<summary>2周目キャラクターにするにはどうすればいいか</summary>
+<summary>周回可能キャラクターにするにはどうすればいいか</summary>
 
-キャラクターをクリックした後に、プレイ条件:2周目+専用キャラクターにチェックを入れてください。\
-詳しくは[こちら](packages/ja/basic-features/character/second-play-character.md)から確認してください。
+「特殊キャラクター」にチェックを入れて、「GameMaster」または「何度でもOK」を選択してください。
+
+詳しくは[こちら](packages/ja/basic-features/character/second-play-character.md)をご覧ください。
 
 </details>
 

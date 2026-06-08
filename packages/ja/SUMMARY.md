@@ -49,7 +49,7 @@
 * [キャラクター](basic-features/character.md)
   * [キャラクターの基本項目](basic-features/character/basic.md)
   * [ミッション](basic-features/character/mission.md)
-  * [周回プレイキャラクター](basic-features/character/second-play-character.md)
+  * [特殊キャラクター種別](basic-features/character/second-play-character.md)
 * [フェーズ](../../basic-features/phase.md)
   * [フェーズの作成・概要](basic-features/phase/basic.md)
     * [基本フェーズ](basic-features/phase/discussion.md)
