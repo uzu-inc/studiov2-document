@@ -4,7 +4,7 @@
 
 ## 입금처 정보 설정
 
-입금처 정보의 설정은 우즈스튜디오의 제작 시나리오 목록 화면 오른쪽 상단에 있는 아이콘에서 진행합니다.
+입금처 정보의 설정은 우즈스튜디오의 제작 시나리오 목록 화면 오른쪽 위에 있는 아이콘에서 진행합니다.
 
 <figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
