@@ -57,7 +57,7 @@
 
 ### **채팅처럼 사용할 수 있다**
 
-캐릭터 A가 입력한 내용을 행동 버튼으로 캐릭터 B에게 보낼 수 있게 되었습니다.
+캐릭터 A가 입력한 내용을 액션 버튼으로 캐릭터 B에게 보낼 수 있게 되었습니다.
 
 <figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 

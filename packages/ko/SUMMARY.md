@@ -62,7 +62,7 @@
 * [감상 공유 화면](basic-features/result.md)
 * [단서](basic-features/clue.md)
 * [더미](basic-features/decks.md)
-* [행동](basic-features/action.md)
+* [액션](basic-features/action.md)
 * [토큰](basic-features/undefined.md)
 * [자유 기재](basic-features/text-fields.md)
 * [연출](basic-features/effect/README.md)
@@ -83,7 +83,7 @@
 * [리딩 중 이미지를 삽입하고 싶다](advanced/image-script.md)
 * [모두의 조사가 끝나기 전에 다음으로 넘어간 경우를 위한 구제 단계를 두고 싶다](advanced/chosakyusai.md)
 * [음성 파일 자체의 음량 조정하기](advanced/adjust-audio-file.md)
-* [접기/펼치기 블록 설치하기](advanced/expansionwidget.md)
+* [열림/닫힘 블록 설치하기](advanced/expansionwidget.md)
 
 ## 공식 리소스 <a href="#resource" id="resource"></a>
 

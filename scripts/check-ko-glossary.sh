@@ -23,7 +23,8 @@ check_term() {
 
 check_term '우즈스튜디오' '우즈 스튜디오'
 check_term '마더 미스터리' '머더 미스터리'
-check_term '액션' '행동'
+check_term '행동 실행' '액션 실행'
+check_term '결과 행동' '결과 액션'
 check_term '페이즈' '단계'
 check_term '덱' '더미'
 check_term '레포트' '리포트'
