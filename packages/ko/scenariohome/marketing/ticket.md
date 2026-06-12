@@ -33,7 +33,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/IMG_2014.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-티켓이 교환되면, 우즈스튜디오에서는 아래와 같은 화면이 표시되어, 교환한 사용자를 확인할 수 있습니다.
+티켓이 교환되면, 우즈 스튜디오에서는 아래와 같은 화면이 표시되어, 교환한 사용자를 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2024-04-15 19.00.29.png" alt=""><figcaption></figcaption></figure>
 

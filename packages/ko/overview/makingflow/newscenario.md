@@ -1,6 +1,6 @@
 # 신규 시나리오 만들기
 
-신규 시나리오 만들기는 우즈스튜디오의 **시나리오 목록 화면**에서 진행합니다.
+신규 시나리오 만들기는 우즈 스튜디오의 **시나리오 목록 화면**에서 진행합니다.
 
 <figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 

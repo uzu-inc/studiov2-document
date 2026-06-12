@@ -1,10 +1,10 @@
 # Table of contents
 
-* [우즈스튜디오 공식 가이드](README.md)
+* [우즈 스튜디오 공식 가이드](README.md)
 
 ## 소개 <a href="#overview" id="overview"></a>
 
-* [우즈스튜디오란](overview/uzusutajiotoha.md)
+* [우즈 스튜디오란](overview/uzusutajiotoha.md)
 * [로그인 방법](overview/start-uzu-studio.md)
 * [제작부터 릴리스까지의 흐름](overview/makingflow/README.md)
   * [신규 시나리오 만들기](overview/makingflow/newscenario.md)
@@ -20,7 +20,7 @@
 * [키 비주얼 제작 규정](overview/visual-regulation.md)
 * [기능 업데이트 목록](overview/update.md)
 * [영업일·영업시간](overview/working-day.md)
-* [우즈스튜디오 v2에서 할 수 있는 것·할 수 없는 것](overview/available.md)
+* [우즈 스튜디오 v2에서 할 수 있는 것·할 수 없는 것](overview/available.md)
 
 ## 홈(제작 시나리오 목록 화면) <a href="#top" id="top"></a>
 
@@ -50,21 +50,21 @@
   * [캐릭터의 기본 항목](basic-features/character/basic.md)
   * [미션](basic-features/character/mission.md)
   * [특수 캐릭터 유형](basic-features/character/second-play-character.md)
-* [페이즈](basic-features/phase.md)
-  * [페이즈 생성·개요](basic-features/phase/basic.md)
-    * [기본 페이즈](basic-features/phase/discussion.md)
-    * [리딩 페이즈](basic-features/phase/script.md)
-    * [게임 흐름 표시 페이즈](basic-features/phase/timeline.md)
-    * [투표 페이즈 만들기](basic-features/phase/select.md)
-  * [페이즈 진행](basic-features/phase/flow.md)
+* [단계](basic-features/phase.md)
+  * [단계 생성·개요](basic-features/phase/basic.md)
+    * [기본 단계](basic-features/phase/discussion.md)
+    * [함께 읽기 단계](basic-features/phase/script.md)
+    * [게임의 흐름 단계](basic-features/phase/timeline.md)
+    * [투표 단계 만들기](basic-features/phase/select.md)
+  * [단계 진행](basic-features/phase/flow.md)
 * [텍스트](basic-features/textTab.md)
 * [룸](basic-features/room.md)
-* [감상전 화면](basic-features/result.md)
+* [감상 공유 화면](basic-features/result.md)
 * [단서](basic-features/clue.md)
-* [덱](basic-features/decks.md)
-* [액션](basic-features/action.md)
+* [더미](basic-features/decks.md)
+* [행동](basic-features/action.md)
 * [토큰](basic-features/undefined.md)
-* [자유 서술](basic-features/text-fields.md)
+* [자유 기재](basic-features/text-fields.md)
 * [연출](basic-features/effect/README.md)
   * [BGM](basic-features/effect/bgm.md)
   * [SE·내레이션](basic-features/effect/se.md)
@@ -77,11 +77,11 @@
 
 ## 응용 <a href="#advanced" id="advanced"></a>
 
-* [조사 페이즈를 넣고 싶다](advanced/investigation.md)
+* [조사 단계를 넣고 싶다](advanced/investigation.md)
 * [모든 엔딩을 배포하고 싶다](advanced/ending.md)
 * [캐릭터에 따라 표시할 내용을 바꾸고 싶다](advanced/text-customize.md)
 * [리딩 중 이미지를 삽입하고 싶다](advanced/image-script.md)
-* [모두의 조사가 끝나기 전에 다음으로 넘어간 경우를 위한 구제 페이즈를 두고 싶다](advanced/chosakyusai.md)
+* [모두의 조사가 끝나기 전에 다음으로 넘어간 경우를 위한 구제 단계를 두고 싶다](advanced/chosakyusai.md)
 * [음성 파일 자체의 음량 조정하기](advanced/adjust-audio-file.md)
 * [접기/펼치기 블록 설치하기](advanced/expansionwidget.md)
 
