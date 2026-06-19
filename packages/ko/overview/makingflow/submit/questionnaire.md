@@ -14,7 +14,7 @@
 
 아래 링크를 클릭해 테스트 플레이 설문 복사본을 만들어 주세요.
 
-{% embed url="https://docs.google.com/forms/d/1n-zpeO81ovftLRx133F38ygJpzKMn0K_CznkdPxbGL0/copy" %}
+{% embed url="https://docs.google.com/forms/d/1Awi66TFFvyQS0jnXzhXwD7350BQtBfszge2eLK6ArOQ/copy" %}
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -34,8 +34,6 @@
 
 설명문 안의 『(시나리오명)』도 본인 시나리오의 제목으로 바꿔 두면 좋습니다.
 
-<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
-
 #### 커스터마이즈 2: 캐릭터명·캐릭터 수 변경
 
 (캐릭터명)을 각각 입력하고, 시나리오의 플레이어블 캐릭터 수에 맞춰 PC를 적절히 늘리거나 줄여 주세요.
@@ -52,17 +50,11 @@
 
 전송 방법에서 가운데의 「링크 아이콘」을 선택하고, 오른쪽 아래의 「복사」를 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
 설문에 답변하기 위한 링크가 복사되므로, Discord나 DM 등 테스트 플레이 참가자와 연락하는 곳에 붙여 넣어 주세요.
-
-
 
 ※새 버전의 Google 폼에서는 오른쪽 위 버튼이 「보내기」가 아니라 「공개」로 표시됩니다. 또한 응답자 항목을 「링크를 알고 있는 모든 사용자」로 변경해야 합니다.
 
 <figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## 테스트 플레이 후·심사 제출 <a href="#submit" id="submit"></a>
 
@@ -74,23 +66,15 @@
 * 질문: 질문 항목별로 응답을 확인할 수 있습니다.
 * 개별: 응답자별로 응답을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
 ### ◆스프레드시트 만들기
 
 심사 시에는 설문 결과를 스프레드시트 형식으로 제출해야 합니다.
 
 「응답」 탭에서 「스프레드시트에 링크」를 누르면 Google 드라이브 안에 스프레드시트가 만들어집니다.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
 ### ◆스프레드시트 제출용 링크 가져오기
 
 스프레드시트를 열고 화면 오른쪽 위의 「공유」를 클릭합니다.
-
-<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 아래와 같은 팝업이 표시됩니다.
 
