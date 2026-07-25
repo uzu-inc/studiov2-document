@@ -45,21 +45,17 @@
 
 ## ③ 크기를 축소해도 제목(주제)을 읽을 수 있을 것
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-
 ### 개선 방법
 
 ▷ 폰트 두께를 굵게 한다
 
-▷ 폰트 크기를 키운다(기준: 가로쓰기에서 10~15글자를 나열했을 때의 크기 이상)
+▷ 폰트 크기를 키운다(기준: 가로쓰기에서 10\~15글자를 나열했을 때의 크기 이상)
 
 {% hint style="success" %}
 우즈 앱의 시나리오 목록 화면에서는 「160px ✕ 90px」으로 표시됩니다. 릴리스 관리 화면에 작게 표시되는 키 비주얼에서, 읽을 수 있는지 확인하면 이해하기 쉽습니다↓
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## ④ 시나리오 상세에 표시되는 제목은 이미지 안에 전문을 모두 넣을 것
 

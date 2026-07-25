@@ -8,4 +8,4 @@
 
 ### 자주 묻는 질문
 
-연출에 관한 자주 묻는 질문은[여기](../../../../QandA.md#bgm-se)
+연출에 관한 자주 묻는 질문은[여기](https://github.com/uzu-inc/studiov2-document/blob/main/QandA.md#bgm-se)

@@ -17,8 +17,6 @@
 * 투표: 진상 투표, 행동 선택 등
 * 게임 흐름 표시: 「게임 흐름」에서 설정한 전체 흐름이 표시됩니다
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 #### ② 단계를 연결하는 작업하기 <a href="#phase02" id="phase02"></a>
 
 단계 목록 화면에서 「진행 설정」으로 이동합니다.
@@ -48,8 +46,6 @@
 
 단계 상세 화면 오른쪽 위의 「···」를 클릭하고 삭제를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
-
 #### ② 단계 진행 다시 연결하기 <a href="#delete02" id="delete02"></a>
 
 단계 목록 화면에서 「진행 설정」으로 이동합니다. 삭제한 부분의 연결이 끊어져 있으므로 다시 연결합니다.
@@ -60,7 +56,7 @@
 
 ## 텍스트를 추가하고 싶다 <a href="#text" id="text"></a>
 
-[이 페이지](../../../../basic-features/textTab.md)를 참고해 주세요.
+[이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/textTab.md)를 참고해 주세요.
 
 ## 단서를 배포하고 싶다 <a href="#clue" id="clue"></a>
 
@@ -68,11 +64,11 @@
 
 ## 더미 기능을 사용하고 싶다 <a href="#deck" id="deck"></a>
 
-[이 페이지](../../../../basic-features/decks.md)를 참고해 주세요.
+[이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/decks.md)를 참고해 주세요.
 
 ## 밀담 룸을 만들고 싶다 <a href="#room" id="room"></a>
 
-[이 페이지](../../../../basic-features/room.md)를 참고해 주세요.
+[이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/room.md)를 참고해 주세요.
 
 ## BGM을 설정하고 싶다 <a href="#bgm" id="bgm"></a>
 

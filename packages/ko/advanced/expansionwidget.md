@@ -1,12 +1,10 @@
-# 개폐 블록을 설치하기
+# 열림/닫힘 블록 설치하기
 
 열림/닫힘 블록이란 탭으로 열거나 닫을 수 있는 접이식 블록을 말합니다. 여러 텍스트와 더미를 묶고 싶을 때 유용합니다.
 
 ## 열림/닫힘 블록 추가
 
 단계나 텍스트의 추가 버튼, 또는 「:::」 마크에서 「앞에/뒤에 삽입」을 클릭해 열림/닫힘 블록을 선택합니다.
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 열림/닫힘 블록 내용 추가
 
@@ -26,6 +24,4 @@
 
 시간대별 행동을 나타내는 문장이 길어진 캐릭터 텍스트에서 시간대별로 블록을 나누고 싶을 때 등에 유용합니다.
 
-층별이나 텍스트별로 [표시 조건](../../../advanced/text-customize.md)도 사용할 수 있습니다.
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+층별이나 텍스트별로 [표시 조건](https://github.com/uzu-inc/studiov2-document/blob/main/advanced/text-customize.md)도 사용할 수 있습니다.

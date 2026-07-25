@@ -8,8 +8,6 @@
 
 **② 작가 프로필 편집을 선택**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 **③ 작가 프로필을 수정하여 저장**
 
 설정 항목
@@ -20,12 +18,8 @@
 * 소개문
 * 링크
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 ## 작가 페이지 버튼
 
 작가 프로필을 편집하면, 우즈 스튜디오와 연동된 앱 우즈의 계정에 「작가 페이지」 버튼이 나타납니다.
 
 작가 페이지에서는 릴리스한 시나리오의 목록과 좋아요 수의 합계를 확인할 수 있습니다.
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>

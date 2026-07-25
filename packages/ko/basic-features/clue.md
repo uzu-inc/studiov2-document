@@ -2,7 +2,7 @@
 
 단서에서는 게임 중에 주고받는 단서의 설정 및 편집을 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image%20(130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/clue1.png)
 
@@ -12,11 +12,11 @@
 
 대응은 다음과 같습니다.
 
-<figure><img src="../.gitbook/assets/image%20(127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 **태그**는 플레이 중에 실행할 수 있는 필터 검색과도 관련되어 있습니다.
 
-<figure><img src="../.gitbook/assets/image%20(128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -24,7 +24,7 @@
 
 소유자 외의 화면에 표시되는 것은 「비공개 시 제목」과 「태그」뿐이며, 단서의 상세는 공개되지 않습니다.
 
-<figure><img src="../.gitbook/assets/image%20(129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 \\
 
@@ -78,4 +78,4 @@
 
 ## 응용
 
-투표 단계또한, 더미 검색에 대해서는 [이 페이지](../../../basic-features/decks.md)에서 설명하고 있습니다.
+투표 단계또한, 더미 검색에 대해서는 [이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/decks.md)에서 설명하고 있습니다.

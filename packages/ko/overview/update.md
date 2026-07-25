@@ -4,8 +4,6 @@
 
 * 준비 중
 
-
-
 ### 2026년 3월
 
 * 복합 단계를 사용할 수 있게 되었습니다
@@ -23,14 +21,14 @@
 
 ### 2025년 12월
 
-* 컬러 테마와 배경 이미지가 통합되고, 폰트와 아이콘 변경 기능이 추가된 「[화면 디자인](../basic-features/effect/screen-design.md)」을 사용할 수 있게 되었습니다
+* 컬러 테마와 배경 이미지가 통합되고, 폰트와 아이콘 변경 기능이 추가된 「[화면 디자인](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/basic-features/effect/screen-design.md)」을 사용할 수 있게 되었습니다
 * [우즈 스튜디오 구현 의뢰 서버](https://discord.gg/v76QmZAXHA)가 개설되었습니다
 
 ### 2025년 10월
 
-* [텍스트 그룹](../../../basic-features/textTab.md)을 사용할 수 있게 되었습니다
+* [텍스트 그룹](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/textTab.md)을 사용할 수 있게 되었습니다
 * 지문·대사의 자동 넘김과 읽는 사람의 중간 교대를 할 수 있게 되었습니다
-* [탐색 단계](../basic-features/phase/basic/canvas.md)를 사용할 수 있게 되었습니다
+* [탐색 단계](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/basic-features/phase/basic/canvas.md)를 사용할 수 있게 되었습니다
 
 ### 2025년 9월
 
@@ -103,7 +101,7 @@
 * 우즈 스튜디오 내에서 음성·BGM 파일의 음량을 조정할 수 있게 되었습니다
 * 열림/닫힘 블록을 사용할 수 있게 되었습니다
 * [2회차+캐릭터](../basic-features/character/second-play-character.md)를 설정할 수 있게 되었습니다
-* 더미 안의 단서를 [무작위 배포](../../../basic-features/decks.md#worandamunisuru)할 수 있게 되었습니다
+* 더미 안의 단서를 [무작위 배포](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/decks.md#worandamunisuru)할 수 있게 되었습니다
 
 ### 2024년 4월
 

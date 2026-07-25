@@ -12,8 +12,6 @@
 
 <table><thead><tr><th width="180.33333333333331">명칭</th><th>내용</th></tr></thead><tbody><tr><td>앱 게재 중</td><td>앱에서 "이 시나리오로 플레이"를 누르면 누구나 즐길 수 있는 버전<br>업데이트 버튼을 누르면 반영됨</td></tr><tr><td>테스트 플레이 중</td><td>UZU STUDIO 작가 계정과 연동된 UZU 계정에서만 이벤트를 만들 수 있는 버전<br>이 버전이 있을 때는 작가 계정으로 로그인했을 때만 UZU 앱의 시나리오 상세 화면에 이벤트 생성 버튼이 두 개 표시됨</td></tr></tbody></table>
 
-<figure><img src="../packages/ko/.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 ### 수정 내용(버전) 반영에 대하여
 
 업데이트 버튼을 누른 이후에 생성되는 이벤트: 수정 내용이 반영된 버전으로 플레이됩니다
@@ -38,13 +36,11 @@ v2에서는 v1에 비해 자유도가 높아진 만큼 설정해야 할 부분�
 
 링크 한정 공개의 사용 예로는, 작가의 관전 없이 테스트 플레이를 맡기고 싶을 때나, 공개하지 않고 지인 몇 명만 플레이하게 하는 내부용 시나리오 등이 있습니다.
 
-<figure><img src="../packages/ko/.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
-
 ## 심사 제출
 
 "**앱 게재 신청**" 버튼을 누르면 작품을 심사에 제출할 수 있습니다.
 
-심사는 **무료** 공개 예정 작품을 위한 **간이 심사**와 **유료** 공개 예정 작품을 위한 [**상세 심사**](../packages/ko/overview/makingflow/submit/check.md)로 나뉩니다. 신청 버튼을 누른 뒤 표시되는 **폼**에서 어느 심사에 제출할지 선택하고 필요한 사항을 입력해 주세요.
+심사는 **무료** 공개 예정 작품을 위한 **간이 심사**와 **유료** 공개 예정 작품을 위한 [**상세 심사**](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/overview/makingflow/submit/check.md)로 나뉩니다. 신청 버튼을 누른 뒤 표시되는 **폼**에서 어느 심사에 제출할지 선택하고 필요한 사항을 입력해 주세요.
 
 ※ 심사 제출 후에도 시나리오 내용 수정은 가능하지만, 심사는 심사 담당자가 확인한 시점에 UZU STUDIO에 반영된 내용으로 진행됩니다.
 
@@ -52,6 +48,4 @@ v2에서는 v1에 비해 자유도가 높아진 만큼 설정해야 할 부분�
 
 UZU에서 일반 공개되지 않은 테스트 공개 중인 작품을 앱에서 보려면 작품 ID(영숫자 문자열)가 필요합니다. 아래와 같은 화면에서 복사해 사용해 주세요.
 
-테스트 플레이에 대해서는 [이 페이지](../packages/ko/overview/makingflow/testplay.md)에서 설명하고 있습니다.
-
-<figure><img src="../packages/ko/.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+테스트 플레이에 대해서는 [이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/overview/makingflow/testplay.md)에서 설명하고 있습니다.

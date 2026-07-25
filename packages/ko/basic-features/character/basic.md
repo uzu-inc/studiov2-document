@@ -2,7 +2,7 @@
 
 캐릭터 기본 정보 설정에 대해 설명합니다.
 
-<figure><img src="../../.gitbook/assets/image%20(169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ## 기본 항목
 
@@ -17,8 +17,6 @@
 | 설명문(필수)    | 캐릭터 소개문                  | 시나리오 상세 화면·플레이 중 화면의 등장인물 소개       |
 | 아이콘(필수)    | 캐릭터 이미지                  | 등장인물 소개나 대본 읽기의 아이콘                |
 | 닉네임(필수)    | 성만·이름만 등 플레이 중에 불리고 싶은 것 | 플레이 중 화면 상단 캐릭터 아이콘 아래·대본 읽기 중 표시명 |
-
-<figure><img src="../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(2)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/character2.png)
 
@@ -53,5 +51,3 @@
 플레이 중 화면 상단과 대본 읽기 중에 표시되는 아이콘·닉네임은 조건에 따라 변경할 수 있습니다.
 
 예를 들어 이미지의 사례에서는, 엔딩 1이 시작되면 이 캐릭터가 「괴도 우즈」였다는 것이 밝혀지도록 되어 있습니다.
-
-<figure><img src="../../.gitbook/assets/image%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(2)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>

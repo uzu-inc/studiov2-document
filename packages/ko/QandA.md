@@ -32,7 +32,7 @@ NPC는 이론적으로 무한입니다.
 <summary>2회차 캐릭터로 만들려면 어떻게 해야 하나</summary>
 
 캐릭터를 클릭한 후에, 플레이 조건: 2회차+전용 캐릭터에 체크를 넣어 주세요.\
-자세한 내용은 [여기](packages/ko/basic-features/character/second-play-character.md)에서 확인해 주세요.
+자세한 내용은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/basic-features/character/second-play-character.md)에서 확인해 주세요.
 
 </details>
 
@@ -118,7 +118,7 @@ NPC는 이론적으로 무한입니다.
 
 이미지와 같은 오류인 경우, 아무 것도 적혀 있지 않은 텍스트 박스가 있는 것이 원인입니다. 우즈 스튜디오의 에디터 화면에서 해당 텍스트 박스를 삭제하면, 다음 동작 확인(테스트 플레이)부터 정상으로 돌아옵니다.
 
-<img src="packages/ko/images/QA1.png" alt="" data-size="original">
+
 
 </details>
 
@@ -136,7 +136,7 @@ NPC는 이론적으로 무한입니다.
 
 <summary>한 번 배포한 단서를 특정 타이밍부터 숨기고 싶다</summary>
 
-[단서 회수](packages/ko/basic-features/clue.md#hui-shou-tiao-jian-ren-yi) 기능을 이용해 주세요.
+[단서 회수](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/basic-features/clue.md#hui-shou-tiao-jian-ren-yi) 기능을 이용해 주세요.
 
 </details>
 
@@ -171,7 +171,7 @@ NPC는 이론적으로 무한입니다.
 
 <summary>단계 도중에 BGM을 바꾸고 싶다</summary>
 
-함께 읽기 단계라면 가능합니다. [연출](packages/ko/basic-features/effect/)에서 방법을 설명하고 있으니, 참고해 주세요.
+함께 읽기 단계라면 가능합니다. [연출](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/basic-features/effect/README.md)에서 방법을 설명하고 있으니, 참고해 주세요.
 
 </details>
 
@@ -209,19 +209,13 @@ Audacity 등의 앱이나 음량 조정이 가능한 사이트를 이용해 음�
 
 자작 시나리오인데도 아래와 같이 「시나리오를 찾을 수 없었습니다」가 표시되는 경우의 대처 방법입니다.
 
-![](packages/ko/.gitbook/assets/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-07%2015.55.47.png)
-
 아래의 작업을 수행해 주세요.
 
 **① 「권한이 부족합니다. 」 화면에서 로그아웃하기**
 
 왼쪽 아래의 검은색 물음표 아이콘을 탭하여, 로그아웃을 진행합니다.
 
-![](packages/ko/.gitbook/assets/image%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\).png)
-
 **② 로그인 화면으로 이동하므로, 평소 사용하시는 우즈 계정의 로그인 방법으로 로그인하기**
-
-![](packages/ko/.gitbook/assets/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-10-07%2016.14.55.png)
 
 이 방법으로 다시 로그인해도 동일한 증상이 있는 분은, 운영에 문의해 주세요.
 
@@ -268,9 +262,9 @@ Google Chrome에서는, 처음 단계부터 재생되도록 설정한 음성은 
 autoPlay 정책 설정 변경 방법은 다음과 같습니다. \\
 
 1. 동작 확인 화면의 URL 바의 자물쇠 표시를 클릭 → 「사이트 설정」을 클릭\
-   ![](packages/ko/images/autoplay_1.png)\\
+   \\
 2. 「음성」 항목에서 「자동(기본값)」을 클릭 → 「허용」으로 변경\
-   ![](packages/ko/images/autoplay_2.png)\\
+   \\
 
 </details>
 
@@ -278,7 +272,7 @@ autoPlay 정책 설정 변경 방법은 다음과 같습니다. \\
 
 <summary>공동 편집자 추가 방법은?</summary>
 
-시나리오 홈 화면의 「[멤버](packages/ko/scenariohome/author.md)」에서 진행합니다. 추가를 클릭하고, 공동 편집자의 **우즈 사용자 ID**를 입력해 주세요.
+시나리오 홈 화면의 「[멤버](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/scenariohome/author.md)」에서 진행합니다. 추가를 클릭하고, 공동 편집자의 **우즈 사용자 ID**를 입력해 주세요.
 
 </details>
 
@@ -288,7 +282,7 @@ autoPlay 정책 설정 변경 방법은 다음과 같습니다. \\
 
 우즈 스튜디오에 로그인한 후, 1개 이상 시나리오를 생성하면 표시되도록 됩니다.
 
-자세한 내용은 [여기](packages/ko/top/profile.md#pjibotan)를 참고하세요.
+자세한 내용은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/top/profile.md#pjibotan)를 참고하세요.
 
 </details>
 
@@ -380,7 +374,7 @@ OS: iOS 18 이상
 
 릴리스 세일은 심사 후 폼에 응답란이 마련되어 있습니다.
 
-또한 임의의 시점에 진행하는 기념 세일도 받고 있습니다. 주말·공휴일이나 영업시간 외에는 즉시 대응이 어려우므로 여유를 두고 문의해 주세요. 자세한 내용은 [여기](packages/ko/others/pureisruno.md)입니다.
+또한 임의의 시점에 진행하는 기념 세일도 받고 있습니다. 주말·공휴일이나 영업시간 외에는 즉시 대응이 어려우므로 여유를 두고 문의해 주세요. 자세한 내용은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/others/pureisruno.md)입니다.
 
 </details>
 
@@ -388,7 +382,7 @@ OS: iOS 18 이상
 
 <summary>무료로 릴리스한 작품을 나중에 유료로 전환할 수 있나요</summary>
 
-유료 공개 시스템 시작 이전에 무료로 릴리스되어 있던 작품, 무료로 릴리스했지만 어떤 기념으로 유료로 변경하고 싶은 작품이 있으시면, 우즈 스튜디오 공식 서버의 개별 채널에서 작품명을 알려 주세요. 유료화 심사 폼을 전달해 드립니다. 심사 내용은[여기](packages/ko/overview/makingflow/submit/check.md)입니다.
+유료 공개 시스템 시작 이전에 무료로 릴리스되어 있던 작품, 무료로 릴리스했지만 어떤 기념으로 유료로 변경하고 싶은 작품이 있으시면, 우즈 스튜디오 공식 서버의 개별 채널에서 작품명을 알려 주세요. 유료화 심사 폼을 전달해 드립니다. 심사 내용은[여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/overview/makingflow/submit/check.md)입니다.
 
 애초부터 유료화를 예정하고 있는 작품은 무료 작품용 심사가 아니라, 유료 작품용 심사로 제출해 주시도록 부탁드립니다.
 

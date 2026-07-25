@@ -6,7 +6,7 @@
 
 **오른쪽 위 버튼**을 누르면 새 버전을 생성할 수 있는지에 대한 오류 검사가 자동으로 수행됩니다.
 
-<figure><img src="../.gitbook/assets/image%20(11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ## 오류 검사와 수정
 
@@ -14,7 +14,7 @@
 
 「**해당 위치로**」를 클릭하면, 오류가 발생한 위치로 바로 이동할 수 있습니다.
 
-![](<../.gitbook/assets/demo2 (1).png>)
+![](../.gitbook/assets/demo2.png)
 
 \\
 
@@ -32,4 +32,4 @@ v2에서는 v1에 비해 자유도가 높아진 만큼 설정 항목과 고려�
 
 릴리스 관리 화면에서 「**최신판을 릴리스**」를 누르면, 일반 사용자도 즐길 수 있는 버전으로 앱에 릴리스됩니다. v1→v2 이관 작품에서는 **이관 신청이 승인될 때까지 「최신판을 릴리스」를 누를 수 없도록** 되어 있습니다.
 
-버전을 관리하는 「릴리스 관리」 화면에 대해서는, [여기](../../../scenariohome/release.md)에서 설명하고 있습니다.
+버전을 관리하는 「릴리스 관리」 화면에 대해서는, [여기](https://github.com/uzu-inc/studiov2-document/blob/main/scenariohome/release.md)에서 설명하고 있습니다.

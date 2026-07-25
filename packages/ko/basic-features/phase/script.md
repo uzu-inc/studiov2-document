@@ -14,8 +14,6 @@ v1에서는 「지문 낭독자」를 설정하면 플레이 중 화면에 「�
 
 지문과 대사에 관해, 우즈 스튜디오의 편집 화면과 실제 플레이 화면의 대응은 아래와 같습니다. v2에서는 자신이 담당하는 캐릭터의 대사에 색이 입혀지도록 변경되었습니다.
 
-<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
-
 * **캐릭터**의 대사
   * 플레이어 캐릭터의 대사로 설정하면, 해당 캐릭터가 말하는 것처럼 말풍선이 붙습니다.
   * 「진행」을 누르는 사람은 대사가 설정되어 있는 캐릭터가 됩니다.
@@ -28,7 +26,7 @@ v1에서는 「지문 낭독자」를 설정하면 플레이 중 화면에 「�
 
 ## 대사에 이미지를 추가하기
 
-대사 부분에는 텍스트 외에 이미지도 추가할 수 있습니다. 자세한 내용은 [image-script.md](../../../../advanced/image-script.md "mention")를 참고하세요.
+대사 부분에는 텍스트 외에 이미지도 추가할 수 있습니다. 자세한 내용은 [https://github.com/uzu-inc/studiov2-document/blob/main/advanced/image-script.md](https://github.com/uzu-inc/studiov2-document/blob/main/advanced/image-script.md "mention")를 참고하세요.
 
 ## 「연출 추가」란?
 
@@ -49,10 +47,6 @@ v1에서는 「지문 낭독자」를 설정하면 플레이 중 화면에 「�
 4. 「이 단계의 복사본」을 선택한다
 
 함께 읽기 단계에서는 기본적으로 전자의 「동기화된 텍스트」로 설정해 두는 것이 좋습니다.
-
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## 조건에 따라 리딩을 건너뛰고 싶다
 
