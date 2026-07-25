@@ -8,8 +8,6 @@
 
 난이도: 낮음
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
 ① 조사 설명과 더미 등을 배치한 조사 단계를 생성합니다.
 
 ② 그 조사 단계를 복사해 구제용 단계로 만듭니다. 「앞선 단계에서 조사가 모두 끝나지 않았다면, 지금 여기에서 단서를 획득하세요」와 같은 문장을 추가하면 좋습니다(표현 방식은 자유입니다).
@@ -18,9 +16,7 @@
 
 ## 패턴 2: 조사가 불완전할 때만 구제 단계로 가도록 하기
 
-난이도: 중~높음
-
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+난이도: 중\~높음
 
 ① 조사 설명과 더미 등을 배치한 조사 단계를 생성합니다.
 
