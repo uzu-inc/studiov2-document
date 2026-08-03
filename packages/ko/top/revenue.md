@@ -1,6 +1,6 @@
-# 매출 수령
+# 매출 정산 받기
 
-매출을 수령하려면 「입금처 정보」의 설정, 「입금 신청」이 필요합니다.
+매출을 수령하려면 「입금처 정보」설정과 「입금 신청」이 필요합니다.
 
 ## 입금처 정보 설정
 
@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
-본인 확인을 위해 성명·이메일 주소·생년월일·계좌 정보가 필요합니다. 입금 방법은 Amazon 기프트 카드, 은행 송금에서 선택할 수 있습니다.
+본인 확인을 위해 성명·이메일 주소·생년월일·계좌 정보가 필요합니다. 입금 방법은 Amazon 기프트 카드, 은행 송금 중에서 선택할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/image (136).png" alt="" width="563"><figcaption></figcaption></figure>
 
