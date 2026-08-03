@@ -26,7 +26,7 @@
 
 * [작가 프로필 변경](top/profile.md)
 * [각종 약관 동의](top/term-agreement.md)
-* [매출 받기](top/revenue.md)
+* [매출 정산받기](top/revenue.md)
 * [평가·배지 확인하기](top/heart-badge.md)
 * [컬렉션 기능](top/collection.md)
 
