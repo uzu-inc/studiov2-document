@@ -58,7 +58,7 @@
 
 왼쪽 메뉴에서 「**텍스트**」로 이동하여, 인원수만큼의 캐릭터 텍스트를 편집합니다.
 
-자세한 조작 방법과 앱에서의 표시 방식은 [이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/textTab.md)를 참고하세요.
+자세한 조작 방법과 앱에서의 표시 방식은 [이 페이지](../../basic-features/textTab.md)를 참고하세요.
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
@@ -114,7 +114,7 @@
 
 오른쪽 위의 재생 마크를 클릭하면, 실제 앱과 같은 화면을 보면서 동작 확인을 할 수 있습니다.
 
-자세한 내용은 [이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/demo.md)를 참고하세요.
+자세한 내용은 [이 페이지](../../basic-features/demo.md)를 참고하세요.
 
 ### ② 최신 버전 만들기
 

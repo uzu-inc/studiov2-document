@@ -114,4 +114,4 @@ A. 그렇지 않습니다. 이전과 조정이 끝나면 신청 폼에 응답해
 
 A. v1판을 앱에서 공개한 상태로, 작가만이 생성할 수 있는 이벤트로 비공개로 v2판의 테스트 플레이를 진행할 수 있습니다. 작가는 관전자로서 참여하는 형태가 됩니다.
 
-기타 Q\&A는 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/QandA-v1-v2.md)를 참고해 주세요.
+기타 Q\&A는 [여기](https://docs.studio.uzu-app.com/qanda/qanda-v1-v2)를 참고해 주세요.

@@ -26,7 +26,7 @@ v1에서는 「지문 낭독자」를 설정하면 플레이 중 화면에 「�
 
 ## 대사에 이미지를 추가하기
 
-대사 부분에는 텍스트 외에 이미지도 추가할 수 있습니다. 자세한 내용은 [https://github.com/uzu-inc/studiov2-document/blob/main/advanced/image-script.md](https://github.com/uzu-inc/studiov2-document/blob/main/advanced/image-script.md "mention")를 참고하세요.
+대사 부분에는 텍스트 외에 이미지도 추가할 수 있습니다. 자세한 내용은 [image-script.md](../../advanced/image-script.md "mention")를 참고하세요.
 
 ## 「연출 추가」란?
 

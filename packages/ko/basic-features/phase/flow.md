@@ -39,4 +39,4 @@
 
 ## 자주 묻는 질문
 
-단계 진행에 관한 자주 묻는 질문은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/QandA.md#phases)
+단계 진행에 관한 자주 묻는 질문은 [여기](../../QandA.md#phases)

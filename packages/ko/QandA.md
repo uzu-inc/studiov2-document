@@ -32,7 +32,7 @@ NPC는 이론적으로 무한입니다.
 <summary>2회차 캐릭터로 만들려면 어떻게 해야 하나</summary>
 
 캐릭터를 클릭한 후에, 플레이 조건: 2회차+전용 캐릭터에 체크를 넣어 주세요.\
-자세한 내용은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/basic-features/character/second-play-character.md)에서 확인해 주세요.
+자세한 내용은 [여기](basic-features/character/second-play-character.md)에서 확인해 주세요.
 
 </details>
 
@@ -136,7 +136,7 @@ NPC는 이론적으로 무한입니다.
 
 <summary>한 번 배포한 단서를 특정 타이밍부터 숨기고 싶다</summary>
 
-[단서 회수](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/basic-features/clue.md#hui-shou-tiao-jian-ren-yi) 기능을 이용해 주세요.
+[단서 회수](basic-features/clue.md#hui-shou-tiao-jian-ren-yi) 기능을 이용해 주세요.
 
 </details>
 
@@ -171,7 +171,7 @@ NPC는 이론적으로 무한입니다.
 
 <summary>단계 도중에 BGM을 바꾸고 싶다</summary>
 
-함께 읽기 단계라면 가능합니다. [연출](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/basic-features/effect/README.md)에서 방법을 설명하고 있으니, 참고해 주세요.
+함께 읽기 단계라면 가능합니다. [연출](basic-features/effect/README.md)에서 방법을 설명하고 있으니, 참고해 주세요.
 
 </details>
 
@@ -193,7 +193,7 @@ Audacity 등의 앱이나 음량 조정이 가능한 사이트를 이용해 음�
 
 </details>
 
-## 게임 흐름에 관하여
+## 게임 흐름에 관하여 <a href="#gmunorenitsuite" id="gmunorenitsuite"></a>
 
 <details>
 
@@ -272,7 +272,7 @@ autoPlay 정책 설정 변경 방법은 다음과 같습니다. \\
 
 <summary>공동 편집자 추가 방법은?</summary>
 
-시나리오 홈 화면의 「[멤버](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/scenariohome/author.md)」에서 진행합니다. 추가를 클릭하고, 공동 편집자의 **우즈 사용자 ID**를 입력해 주세요.
+시나리오 홈 화면의 「[멤버](scenariohome/author.md)」에서 진행합니다. 추가를 클릭하고, 공동 편집자의 **우즈 사용자 ID**를 입력해 주세요.
 
 </details>
 
@@ -282,7 +282,7 @@ autoPlay 정책 설정 변경 방법은 다음과 같습니다. \\
 
 우즈 스튜디오에 로그인한 후, 1개 이상 시나리오를 생성하면 표시되도록 됩니다.
 
-자세한 내용은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/top/profile.md#pjibotan)를 참고하세요.
+자세한 내용은 [여기](top/profile.md#pjibotan)를 참고하세요.
 
 </details>
 
@@ -374,7 +374,7 @@ OS: iOS 18 이상
 
 릴리스 세일은 심사 후 폼에 응답란이 마련되어 있습니다.
 
-또한 임의의 시점에 진행하는 기념 세일도 받고 있습니다. 주말·공휴일이나 영업시간 외에는 즉시 대응이 어려우므로 여유를 두고 문의해 주세요. 자세한 내용은 [여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/others/pureisruno.md)입니다.
+또한 임의의 시점에 진행하는 기념 세일도 받고 있습니다. 주말·공휴일이나 영업시간 외에는 즉시 대응이 어려우므로 여유를 두고 문의해 주세요. 자세한 내용은 [여기](others/pureisruno.md)입니다.
 
 </details>
 
@@ -382,7 +382,7 @@ OS: iOS 18 이상
 
 <summary>무료로 릴리스한 작품을 나중에 유료로 전환할 수 있나요</summary>
 
-유료 공개 시스템 시작 이전에 무료로 릴리스되어 있던 작품, 무료로 릴리스했지만 어떤 기념으로 유료로 변경하고 싶은 작품이 있으시면, 우즈 스튜디오 공식 서버의 개별 채널에서 작품명을 알려 주세요. 유료화 심사 폼을 전달해 드립니다. 심사 내용은[여기](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/overview/makingflow/submit/check.md)입니다.
+유료 공개 시스템 시작 이전에 무료로 릴리스되어 있던 작품, 무료로 릴리스했지만 어떤 기념으로 유료로 변경하고 싶은 작품이 있으시면, 우즈 스튜디오 공식 서버의 개별 채널에서 작품명을 알려 주세요. 유료화 심사 폼을 전달해 드립니다. 심사 내용은[여기](overview/makingflow/submit/check.md)입니다.
 
 애초부터 유료화를 예정하고 있는 작품은 무료 작품용 심사가 아니라, 유료 작품용 심사로 제출해 주시도록 부탁드립니다.
 

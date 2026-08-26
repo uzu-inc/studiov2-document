@@ -40,7 +40,7 @@ v2에서는 v1에 비해 자유도가 높아진 만큼 설정해야 할 부분�
 
 "**앱 게재 신청**" 버튼을 누르면 작품을 심사에 제출할 수 있습니다.
 
-심사는 **무료** 공개 예정 작품을 위한 **간이 심사**와 **유료** 공개 예정 작품을 위한 [**상세 심사**](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/overview/makingflow/submit/check.md)로 나뉩니다. 신청 버튼을 누른 뒤 표시되는 **폼**에서 어느 심사에 제출할지 선택하고 필요한 사항을 입력해 주세요.
+심사는 **무료** 공개 예정 작품을 위한 **간이 심사**와 **유료** 공개 예정 작품을 위한 [**상세 심사**](../overview/makingflow/submit/check.md)로 나뉩니다. 신청 버튼을 누른 뒤 표시되는 **폼**에서 어느 심사에 제출할지 선택하고 필요한 사항을 입력해 주세요.
 
 ※ 심사 제출 후에도 시나리오 내용 수정은 가능하지만, 심사는 심사 담당자가 확인한 시점에 UZU STUDIO에 반영된 내용으로 진행됩니다.
 
@@ -48,4 +48,4 @@ v2에서는 v1에 비해 자유도가 높아진 만큼 설정해야 할 부분�
 
 UZU에서 일반 공개되지 않은 테스트 공개 중인 작품을 앱에서 보려면 작품 ID(영숫자 문자열)가 필요합니다. 아래와 같은 화면에서 복사해 사용해 주세요.
 
-테스트 플레이에 대해서는 [이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/packages/ko/packages/ko/overview/makingflow/testplay.md)에서 설명하고 있습니다.
+테스트 플레이에 대해서는 [이 페이지](../overview/makingflow/testplay.md)에서 설명하고 있습니다.

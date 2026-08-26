@@ -22,4 +22,4 @@
 
 시간대별 행동을 나타내는 문장이 길어진 캐릭터 텍스트에서 시간대별로 블록을 나누고 싶을 때 등에 유용합니다.
 
-층별이나 텍스트별로 [표시 조건](https://github.com/uzu-inc/studiov2-document/blob/main/advanced/text-customize.md)도 사용할 수 있습니다.
+층별이나 텍스트별로 [표시 조건](text-customize.md)도 사용할 수 있습니다.
