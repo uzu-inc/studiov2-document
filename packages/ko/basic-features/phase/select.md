@@ -75,7 +75,7 @@
 
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-같은 선택지에 2명 이상이 투표하지 못하도록 설정할 수도 있습니다. 주로, 투표와 단서를 조합해 조사 단계를 만들고 싶어 하는 분들을 위한 기능입니다. 조사 단계의 작성에 대해 더 자세히 알고 싶다면, [이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/advanced/investigation.md)를 참고해 주세요.
+같은 선택지에 2명 이상이 투표하지 못하도록 설정할 수도 있습니다. 주로, 투표와 단서를 조합해 조사 단계를 만들고 싶어 하는 분들을 위한 기능입니다. 조사 단계의 작성에 대해 더 자세히 알고 싶다면, [이 페이지](../../advanced/investigation.md)를 참고해 주세요.
 
 <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 

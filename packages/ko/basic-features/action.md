@@ -24,7 +24,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 <table><thead><tr><th width="226">항목</th><th>내용</th></tr></thead><tbody><tr><td>알림 보내기</td><td>액션 실행 시 화면 상단에 텍스트로 알림을 보냅니다.</td></tr><tr><td>효과음 재생</td><td>액션 실행 시 효과음을 재생합니다.</td></tr><tr><td>무비 재생</td><td>액션 실행 시 무비를 재생합니다.</td></tr><tr><td>단서 공개</td><td>특정 단서를 전체 공개합니다. 소유권은 이전되지 않습니다.</td></tr><tr><td>단계 전환</td><td>강제적으로 특정 단계로 이동합니다.<br>예를 들어, 추리 발표 단계 등 한 명의 플레이어 판단으로 다음 단계로 전환해도 되는 상황에서 사용하는 것을 추천합니다.</td></tr><tr><td>단서 소유권</td><td>특정 단서의 소유권을 캐릭터에게 부여합니다.</td></tr><tr><td>단서 열람 권한</td><td>특정 단서의 열람 권한을 캐릭터에게 부여합니다.</td></tr><tr><td>단서 회수</td><td>특정 단서를 회수합니다.</td></tr><tr><td>토큰 증감</td><td>특정 사람의 특정 토큰을 증감시킵니다.</td></tr><tr><td>통화 룸 이동</td><td>강제적으로 특정 통화 룸으로 이동시킵니다.</td></tr></tbody></table>
 
-## 심플 액션 설정
+## 심플 액션 설정 <a href="#shinpuruakushonno" id="shinpuruakushonno"></a>
 
 ### 액션 편집 화면에서의 설정
 
@@ -41,7 +41,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 <figure><img src="../.gitbook/assets/image (59).png" alt="" width="515"><figcaption></figcaption></figure>
 
-### 액션 배치(단서/단계에서의 설정)
+### 액션 배치(단서/단계에서의 설정) <a href="#akushonnogakarifzudeno" id="akushonnogakarifzudeno"></a>
 
 액션은 액션 편집 화면에서 설정만 해서는 게임 중에 등장하지 않습니다. 생성한 액션을 어디에 배치할지 설정할 필요가 있습니다.
 
@@ -65,7 +65,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 <figure><img src="../.gitbook/assets/image (58).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 비밀번호 액션 설정
+## 비밀번호 액션 설정 <a href="#pasuwdoakushonno" id="pasuwdoakushonno"></a>
 
 ### 액션 편집 화면에서의 설정
 
@@ -79,7 +79,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 이미지 예시에서, 결과 액션의 내용은 각각 아래와 같습니다.
 
-### 액션 배치(단서/단계에서의 설정)
+### 액션 배치(단서/단계에서의 설정) <a href="#akushonnofzugakarideno-1" id="akushonnofzugakarideno-1"></a>
 
 액션은 액션 편집 화면에서 설정만 해서는 게임 중에 등장하지 않습니다. 생성한 액션을 어디에 배치할지 설정할 필요가 있습니다. 배치할 수 있는 곳은 「단서 내」와 「기본 단계 내」의 2곳입니다. 여기서는 「기본 단계 내」에 배치하는 경우를 설명합니다. 「단서 내」에 놓는 경우의 조작은 [여기](action.md#akushonnogakarifzudeno)를 참고해 주세요.
 
@@ -103,7 +103,7 @@ description: 단순한 단서 획득이나 더미 조사를 넘어 다양한 액
 
 <figure><img src="../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 확장편:실행 조건의 고급 설정
+## 확장편:실행 조건의 고급 설정 <a href="#na" id="na"></a>
 
 심플 액션과 패스워드 액션 모두에서 사용할 수 있는 고급 조건 설정에 대해 설명합니다.
 

@@ -56,7 +56,7 @@
 
 ## 텍스트를 추가하고 싶다 <a href="#text" id="text"></a>
 
-[이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/textTab.md)를 참고해 주세요.
+[이 페이지](../../basic-features/textTab.md)를 참고해 주세요.
 
 ## 단서를 배포하고 싶다 <a href="#clue" id="clue"></a>
 
@@ -64,11 +64,11 @@
 
 ## 더미 기능을 사용하고 싶다 <a href="#deck" id="deck"></a>
 
-[이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/decks.md)를 참고해 주세요.
+[이 페이지](../../basic-features/decks.md)를 참고해 주세요.
 
 ## 밀담 룸을 만들고 싶다 <a href="#room" id="room"></a>
 
-[이 페이지](https://github.com/uzu-inc/studiov2-document/blob/main/basic-features/room.md)를 참고해 주세요.
+[이 페이지](../../basic-features/room.md)를 참고해 주세요.
 
 ## BGM을 설정하고 싶다 <a href="#bgm" id="bgm"></a>
 
