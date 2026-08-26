@@ -94,7 +94,6 @@
 
 * [플레이 요금·세일 설정](others/pureisruno.md)
 * [각종 이미지 크기](others/image-px.md)
-* [v1 시나리오를 v2로 이전하기](others/v1-noshinariowo-v2-nisuru.md)
 
 ## 자주 묻는 질문 <a href="#qanda" id="qanda"></a>
 
