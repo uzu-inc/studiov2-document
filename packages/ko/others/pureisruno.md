@@ -28,5 +28,3 @@
 * 세일 간격: 이전 세일 종료 후 최소 1개월은 간격을 두어야 합니다.\
   ※ 운영팀주도의 일제 세일과 겹치는 경우에는 예외입니다.
 {% endhint %}
-
-세일 티켓의 상세→[https://www.uzu-app.com/ko/articles/update-sale-ticket](https://www.uzu-app.com/ko/articles/update-sale-ticket)
